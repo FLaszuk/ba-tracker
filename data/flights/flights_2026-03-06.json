@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a24bf8",
+    "callsign": "N247WD",
+    "firstSeen": 1772830026,
+    "lastSeen": 1772833924,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "62NM",
+    "flight_hours": 1.0828,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1772829163,
+    "lastSeen": 1772831618,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.6819,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1772827408,
+    "lastSeen": 1772832130,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.3117,
+    "landing": 1
+  },
+  {
+    "icao24": "a665ff",
+    "callsign": "N511JS",
+    "firstSeen": 1772827146,
+    "lastSeen": 1772833537,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 1.7753,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c44",
+    "callsign": "N888HH",
+    "firstSeen": 1772825275,
+    "lastSeen": 1772834322,
+    "estDepartureAirport": "TIST",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5131,
+    "landing": 1
+  },
+  {
+    "icao24": "e07457",
+    "callsign": "LVGQW",
+    "firstSeen": 1772831343,
+    "lastSeen": 1772832441,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUAA",
+    "flight_hours": 0.305,
+    "landing": 1
+  }
+]
