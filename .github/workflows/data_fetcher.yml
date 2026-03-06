@@ -30,11 +30,13 @@ jobs:
           OPENSKY_PASS: ${{ secrets.OPENSKY_PASS }}
         run: python scripts/fetch_flights.py
 
+      # (Opcjonalnie) Jeśli chcemy, aby GitHub Action zapisywało pobrane dane lotów i bazę do repozytorium:
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/flights/ data/ba_tracker.db
+          mkdir -p data/flights/
+          git add data/flights/
           # Używamy || exit 0 aby workflow nie zgasł, jeśli w dany dzień nie było nowych plików
           git commit -m "Automated data fetch [skip ci]" || exit 0
           git push
