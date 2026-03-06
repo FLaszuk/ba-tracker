@@ -8,7 +8,6 @@ env/
 
 # Baza danych i pliki JSON z lotami (nie wersjonujemy danych lokalnych i testowych)
 data/ba_tracker.db
-data/flights/*.json
 
 # Ale uwaga: lookup_table.csv musi zostać zaciągnięty na repo!
 !data/lookup_table.csv
