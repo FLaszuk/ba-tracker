@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BA-Tracker — Business Aviation Analytics</title>
+  <meta name="description" content="Track business jet flight hours and landings worldwide. Market share by aircraft and engine manufacturer." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════ NAVBAR -->
+<nav class="navbar">
+  <div class="nav-brand">
+    <span class="nav-logo">✈</span>
+    <span class="nav-title">BA-Tracker</span>
+  </div>
+
+  <div class="nav-tabs">
+    <button class="nav-tab active" id="tab-aircraft" onclick="switchTab('aircraft')">
+      ✈️ Aircraft
+    </button>
+    <button class="nav-tab" id="tab-engines" onclick="switchTab('engines')">
+      🔧 Engines
+    </button>
+    <button class="nav-tab" id="tab-report" onclick="switchTab('report')">
+      📊 Report
+    </button>
+  </div>
+
+  <div class="nav-controls">
+    <select id="month-selector" class="month-select" onchange="loadData()">
+      <option value="">Loading...</option>
+    </select>
+    <button class="theme-toggle" id="theme-btn" onclick="toggleTheme()" title="Toggle theme">
+      🌙
+    </button>
+    <button class="btn-export" onclick="exportCSV()">⬇ Export CSV</button>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════════ MAIN -->
+<main class="main">
+
+  <!-- ─── KPI CARDS ──────────────────────────────────────────────── -->
+  <section class="kpi-grid" id="kpi-section">
+    <div class="kpi-card" id="kpi-hours">
+      <div class="kpi-icon">⏱️</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-hours-val">—</div>
+        <div class="kpi-label">Total Flight Hours</div>
+      </div>
+    </div>
+    <div class="kpi-card" id="kpi-landings">
+      <div class="kpi-icon">🛬</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-landings-val">—</div>
+        <div class="kpi-label">Total Landings</div>
+      </div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">✈️</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-aircraft-val">—</div>
+        <div class="kpi-label">Aircraft Tracked</div>
+      </div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">🏭</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-manufacturers-val">—</div>
+        <div class="kpi-label" id="kpi-mfr-label">Manufacturers</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── AIRCRAFT TAB ───────────────────────────────────────────── -->
+  <div id="view-aircraft">
+
+    <div class="chart-row">
+      <!-- Donut: Aircraft Market Share -->
+      <div class="card chart-card large">
+        <h2 class="card-title">Market Share by Aircraft Manufacturer</h2>
+        <div class="chart-wrap chart-donut">
+          <canvas id="chart-aircraft-pie"></canvas>
+        </div>
+      </div>
+
+      <!-- Ranking -->
+      <div class="card ranking-card">
+        <h2 class="card-title">Top Manufacturers</h2>
+        <ol class="ranking-list" id="aircraft-ranking"></ol>
+      </div>
+    </div>
+
+    <div class="chart-row">
+      <!-- Bar: Top models by landings -->
+      <div class="card chart-card">
+        <h2 class="card-title">Top 10 Models by Landings</h2>
+        <div class="chart-wrap">
+          <canvas id="chart-top-models"></canvas>
+        </div>
+      </div>
+
+      <!-- Line: Trends -->
+      <div class="card chart-card">
+        <h2 class="card-title">Aircraft Manufacturer Trends</h2>
+        <div class="chart-wrap">
+          <canvas id="chart-aircraft-trend"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Table -->
+    <div class="card table-card">
+      <div class="table-header">
+        <h2 class="card-title">Data Table</h2>
+        <div class="table-filters">
+          <input type="text" id="filter-acft-mfr" class="filter-input" placeholder="Filter by manufacturer..." oninput="filterTable()" />
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table" id="aircraft-table">
+          <thead>
+            <tr>
+              <th>Manufacturer</th>
+              <th>Model</th>
+              <th>Engine</th>
+              <th>Flight Hours</th>
+              <th>Landings</th>
+              <th>Share %</th>
+            </tr>
+          </thead>
+          <tbody id="aircraft-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div><!-- /view-aircraft -->
+
+  <!-- ─── ENGINES TAB ────────────────────────────────────────────── -->
+  <div id="view-engines" class="hidden">
+
+    <div class="chart-row">
+      <div class="card chart-card large">
+        <h2 class="card-title">Market Share by Engine Manufacturer</h2>
+        <div class="chart-wrap chart-donut">
+          <canvas id="chart-engine-pie"></canvas>
+        </div>
+      </div>
+
+      <div class="card ranking-card">
+        <h2 class="card-title">Top Engine Manufacturers</h2>
+        <ol class="ranking-list" id="engine-ranking"></ol>
+      </div>
+    </div>
+
+    <div class="chart-row">
+      <div class="card chart-card">
+        <h2 class="card-title">Top 10 Engine Models by Hours</h2>
+        <div class="chart-wrap">
+          <canvas id="chart-top-engines"></canvas>
+        </div>
+      </div>
+
+      <div class="card chart-card">
+        <h2 class="card-title">Engine Manufacturer Trends</h2>
+        <div class="chart-wrap">
+          <canvas id="chart-engine-trend"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="card table-card">
+      <h2 class="card-title">Engine Data Table</h2>
+      <div class="table-wrap">
+        <table class="data-table" id="engine-table">
+          <thead>
+            <tr>
+              <th>Engine Manufacturer</th>
+              <th>Engine Model</th>
+              <th>Paired Aircraft</th>
+              <th>Flight Hours</th>
+              <th>Landings</th>
+              <th>Engine Share %</th>
+            </tr>
+          </thead>
+          <tbody id="engine-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div><!-- /view-engines -->
+
+  <!-- ─── REPORT TAB ─────────────────────────────────────────────── -->
+  <div id="view-report" class="hidden">
+
+    <div class="kpi-grid" id="report-kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-icon">⏱️</div>
+        <div class="kpi-body">
+          <div class="kpi-value" id="rep-hours-curr">—</div>
+          <div class="kpi-label">Flight Hours</div>
+          <div class="kpi-change" id="rep-hours-chg"></div>
+        </div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-icon">🛬</div>
+        <div class="kpi-body">
+          <div class="kpi-value" id="rep-land-curr">—</div>
+          <div class="kpi-label">Landings</div>
+          <div class="kpi-change" id="rep-land-chg"></div>
+        </div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-icon">✈️</div>
+        <div class="kpi-body">
+          <div class="kpi-value" id="rep-acft-curr">—</div>
+          <div class="kpi-label">Active Aircraft</div>
+          <div class="kpi-change" id="rep-acft-chg"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="chart-row">
+      <div class="card chart-card">
+        <h2 class="card-title">Aircraft Manufacturer Market Share — This Month</h2>
+        <div class="chart-wrap chart-donut">
+          <canvas id="chart-rep-aircraft-pie"></canvas>
+        </div>
+      </div>
+      <div class="card chart-card">
+        <h2 class="card-title">Engine Manufacturer Breakdown</h2>
+        <div class="chart-wrap chart-donut">
+          <canvas id="chart-rep-engine-pie"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="report-footer" id="report-footer"></p>
+    </div>
+
+  </div><!-- /view-report -->
+
+</main>
+
+<!-- ═══════════════════════════════════════════════════════════ ERROR -->
+<div id="error-banner" class="error-banner hidden">
+  ⚠️ <span id="error-msg">Could not connect to API. Run: <code>python run_server.py</code></span>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
