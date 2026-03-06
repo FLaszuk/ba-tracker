@@ -2,8 +2,8 @@ name: BA-Tracker Nightly Data Fetcher
 
 on:
   schedule:
-    # Uruchom codziennie o 2:00 UTC
-    - cron: '0 2 * * *'
+    # Uruchom co 2 godziny (darmowy limit API OpenSky obejmuje tylko ostatnie 2h)
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     # Pozwala na ręczne uruchomienie skryptu z poziomu GitHuba
 
