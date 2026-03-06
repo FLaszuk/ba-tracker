@@ -1,7 +1,7 @@
 // app.js — BA-Tracker Frontend Logic
 // Odpowiada za: pobieranie danych z API, renderowanie wykresów, tabeli, motyw
 
-const API = "http://127.0.0.1:8000/api";
+const API = "https://ba-tracker-api-ruy0.onrender.com/api";
 
 // ══════════════════════════════════════════════════════════
 // STAN APLIKACJI
