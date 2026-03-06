@@ -36,8 +36,8 @@ def get_db():
         try:
             import sys
             sys.path.append(BASE_DIR)
-            from scripts.generate_demo_data import generate_demo_stats
-            generate_demo_stats(db_path=DB_FILE)
+            from scripts.generate_demo_data import main as generate_demo_stats
+            generate_demo_stats()
             print("Dane wygenerowane pomyślnie!")
         except Exception as e:
             raise HTTPException(
