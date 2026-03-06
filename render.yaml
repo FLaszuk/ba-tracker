@@ -1,22 +1,14 @@
 services:
-  # 1. API backend aplikacji
+  # 1. API backend aplikacji (Wersja Darmowa)
   - type: web
     name: ba-tracker-api
     env: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "uvicorn app.api:app --host 0.0.0.0 --port $PORT"
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
-
-  # 2. Automatyczny CRON: skrypt pobierający nowe dane na wczorajszy dzień
-  - type: cron
-    name: ba-tracker-data-fetcher
-    env: python
-    schedule: "0 2 * * *" # Codziennie o 2:00 w nocy (UTC)
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python scripts/fetch_flights.py"
-    envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
       - key: OPENSKY_USER
