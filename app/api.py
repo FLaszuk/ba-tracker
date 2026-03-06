@@ -28,12 +28,23 @@ app.add_middleware(
 
 
 def get_db():
-    """Zwraca połączenie z bazą danych."""
+    """Zwraca połączenie z bazą danych, generując ją w locie jeśli trzeba."""
     if not os.path.exists(DB_FILE):
-        raise HTTPException(
-            status_code=503,
-            detail="Baza danych nie istnieje. Uruchom: python scripts/generate_demo_data.py"
-        )
+        # Na produkcji (np. Render) baza mogła nie wejść z GitHuba przez .gitignore
+        # Generujemy ją w locie z dema
+        print("Baza danych nie istnieje. Generowanie danych początkowych...")
+        try:
+            import sys
+            sys.path.append(BASE_DIR)
+            from scripts.generate_demo_data import generate_demo_stats
+            generate_demo_stats(db_path=DB_FILE)
+            print("Dane wygenerowane pomyślnie!")
+        except Exception as e:
+            raise HTTPException(
+                status_code=503,
+                detail=f"Baza danych nie istnieje i próba jej wygenerowania się nie powiodła: {str(e)}"
+            )
+    
     conn = sqlite3.connect(DB_FILE)
     conn.row_factory = sqlite3.Row
     return conn
