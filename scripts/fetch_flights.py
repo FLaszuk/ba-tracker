@@ -132,93 +132,95 @@ def calculate_flight_stats(flight):
     }
 
 
-def fetch_day(target_date, tracked_icao24s):
+def fetch_recent_flights(tracked_icao24s):
     """
-    Pobiera wszystkie loty business jetów z danego dnia.
-    Dzieli dzień na 12 okien po 2h (limit API).
+    Pobiera loty z ostatnich 2 godzin (wspierane przez darmowe API OpenSky).
+    Zwraca listę lotów biz-jetów i datę do zapisu.
     """
-    day_start = datetime(target_date.year, target_date.month, target_date.day,
-                         tzinfo=timezone.utc)
+    now = datetime.now(timezone.utc)
+    end = now
+    begin = end - timedelta(hours=2)
+    begin_ts = int(begin.timestamp())
+    end_ts = int(end.timestamp())
+
     all_biz_flights = []
+    flights = fetch_flights_all(begin_ts, end_ts)
+    if flights:
+        matched = filter_business_jets(flights, tracked_icao24s)
+        for f in matched:
+            stats = calculate_flight_stats(f)
+            all_biz_flights.append(stats)
 
-    for hour_offset in range(0, 24, 2):
-        begin = day_start + timedelta(hours=hour_offset)
-        end = begin + timedelta(hours=2)
-        begin_ts = int(begin.timestamp())
-        end_ts = int(end.timestamp())
-
-        flights = fetch_flights_all(begin_ts, end_ts)
-        if flights:
-            matched = filter_business_jets(flights, tracked_icao24s)
-            for f in matched:
-                stats = calculate_flight_stats(f)
-                all_biz_flights.append(stats)
-
-        # Szanuj rate limit
-        time.sleep(1)
-
-    return all_biz_flights
+    return all_biz_flights, begin.date()
 
 
-def save_flights(flights, target_date):
-    """Zapisuje loty do pliku JSON (jeden plik na dzień)."""
+def save_flights_append(flights, target_date):
+    """
+    Zapisuje loty do pliku JSON (jeden plik na dzień).
+    Jeśli plik istnieje, dodaje nowe loty unikając duplikatów.
+    """
     filename = f"flights_{target_date.strftime('%Y-%m-%d')}.json"
     filepath = os.path.join(FLIGHTS_DIR, filename)
+    
+    existing_flights = []
+    if os.path.exists(filepath):
+        with open(filepath, "r", encoding="utf-8") as f:
+            try:
+                existing_flights = json.load(f)
+            except json.JSONDecodeError:
+                existing_flights = []
+
+    # Unikalny lot = icao24 + firstSeen
+    seen = {(str(f.get("icao24")), str(f.get("firstSeen"))) for f in existing_flights}
+    
+    added = 0
+    for f in flights:
+        key = (str(f.get("icao24")), str(f.get("firstSeen")))
+        if key not in seen:
+            existing_flights.append(f)
+            seen.add(key)
+            added += 1
+
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(flights, f, indent=2, ensure_ascii=False)
-    print(f"[SAVE] Zapisano {len(flights)} lotów → {filepath}")
+        json.dump(existing_flights, f, indent=2, ensure_ascii=False)
+        
+    print(f"[SAVE] Zapisano {added} nowych lotów (łączna pula: {len(existing_flights)}) -> {filepath}")
     return filepath
 
 
 def main():
     """
-    Główna funkcja — pobiera loty z wczoraj (T-1).
-    OpenSky aktualizuje dane nocą, więc najświeższe dane = wczoraj.
+    Główna funkcja — pobiera loty z ostatnich 2 godzin (bieżące okno na żywo).
     """
     print("=" * 60)
     print("BA-TRACKER — Fetch Flights from OpenSky Network")
     print("=" * 60)
 
-    # Sprawdź credentials
     if not get_auth():
         print("\n⚠️  Brak credentials OpenSky!")
-        print("   Ustaw zmienne środowiskowe:")
-        print("   set OPENSKY_USER=twoj_login")
-        print("   set OPENSKY_PASS=twoje_haslo")
-        print("   Rejestracja: https://opensky-network.org/")
-        print("\n   Kontynuuję bez uwierzytelnienia (ograniczony dostęp)...\n")
+        print("   Ustaw zmienne środowiskowe OPENSKY_USER i OPENSKY_PASS.")
 
-    # Załaduj lookup table
     lookup_df, tracked_icao24s = load_lookup_table()
 
-    # Pobierz loty z wczoraj
-    yesterday = datetime.now(timezone.utc).date() - timedelta(days=1)
-    print(f"\n[TARGET] Pobieram loty z: {yesterday}")
-
-    flights = fetch_day(yesterday, tracked_icao24s)
+    print(f"\n[TARGET] Pobieram loty z ostatnich 2 godzin (Live Window)")
+    flights, target_date = fetch_recent_flights(tracked_icao24s)
 
     if flights:
-        save_flights(flights, yesterday)
-
-        # Podsumowanie
+        save_flights_append(flights, target_date)
+        
         df = pd.DataFrame(flights)
         total_hours = df["flight_hours"].sum()
         total_landings = df["landing"].sum()
         unique_aircraft = df["icao24"].nunique()
 
         print(f"\n{'='*60}")
-        print(f"PODSUMOWANIE — {yesterday}")
+        print(f"PODSUMOWANIE 2H OKNA — {target_date}")
         print(f"{'='*60}")
-        print(f"  Loty:           {len(flights)}")
-        print(f"  Godziny nalotu: {total_hours:.1f}h")
-        print(f"  Lądowania:      {total_landings}")
-        print(f"  Samoloty:       {unique_aircraft}")
+        print(f"  Nowe Loty Tych Samolotów: {len(flights)}")
+        print(f"  Godziny nalotu:           {total_hours:.1f}h")
+        print(f"  Samoloty online:          {unique_aircraft}")
     else:
-        print("\n❌ Nie znaleziono lotów business jetów w tym dniu.")
-        print("   Możliwe przyczyny:")
-        print("   - Żaden ze śledzonych ICAO24 nie latał tego dnia")
-        print("   - Brak danych w OpenSky (dane sprzed >30 dni)")
-        print("   - Rate limit API")
+        print("\n❌ Brak wylądowanych business jetów ze śledzonej listy w ciągu ostatnich 2h.")
 
     print("\n✅ Zakończono.")
 
