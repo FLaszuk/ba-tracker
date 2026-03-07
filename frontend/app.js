@@ -148,6 +148,16 @@ async function loadKPI(month) {
             data.unique_aircraft_manufacturers;
         document.getElementById("kpi-mfr-label").textContent = "Aircraft Manufacturers";
     }
+
+    // Obsługa zakresu dat (Data Range Banner)
+    const rangeEl = document.getElementById("data-range-text");
+    if (data.min_timestamp && data.max_timestamp) {
+        const dMin = new Date(data.min_timestamp * 1000).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' });
+        const dMax = new Date(data.max_timestamp * 1000).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' });
+        rangeEl.innerHTML = `<span style="color:var(--text);font-weight:600;">${dMin}</span> &nbsp;&mdash;&nbsp; <span style="color:var(--text);font-weight:600;">${dMax}</span>`;
+    } else {
+        rangeEl.textContent = "No data points yet";
+    }
 }
 
 // ══════════════════════════════════════════════════════════
