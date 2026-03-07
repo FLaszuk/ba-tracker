@@ -34,6 +34,7 @@ def create_database(db_path):
         CREATE TABLE IF NOT EXISTS flights (
             id                  INTEGER PRIMARY KEY AUTOINCREMENT,
             icao24              TEXT NOT NULL,
+            callsign            TEXT,
             flight_date         TEXT NOT NULL,
             flight_month        TEXT NOT NULL,
             departure_airport   TEXT,
@@ -123,13 +124,13 @@ def import_all_json_flights(db_path):
         df_flights["flight_date"] = datetime.today().strftime('%Y-%m-%d')
         df_flights["flight_month"] = datetime.today().strftime('%Y-%m')
 
-    # Sprawdzenie jakie kolumny ew. brakuje i wypełnienie domyślnie
+    if "callsign" not in df_flights.columns: df_flights["callsign"] = ""
     if "departure_airport" not in df_flights.columns: df_flights["departure_airport"] = df_flights.get("estDepartureAirport", "")
     if "arrival_airport" not in df_flights.columns: df_flights["arrival_airport"] = df_flights.get("estArrivalAirport", "")
     if "landing" not in df_flights.columns: df_flights["landing"] = 1
 
     df_db = df_flights[[
-        "icao24", "flight_date", "flight_month",
+        "icao24", "callsign", "flight_date", "flight_month",
         "departure_airport", "arrival_airport",
         "flight_hours", "landing"
     ]].copy()
