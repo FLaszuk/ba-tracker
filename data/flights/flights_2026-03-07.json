@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE994",
+    "firstSeen": 1772844692,
+    "lastSeen": 1772845429,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2047,
+    "landing": 1
+  },
+  {
+    "icao24": "a76cb8",
+    "callsign": "N578GA",
+    "firstSeen": 1772841180,
+    "lastSeen": 1772843990,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.7806,
+    "landing": 1
+  },
+  {
+    "icao24": "a76cb8",
+    "callsign": "N578GA",
+    "firstSeen": 1772845284,
+    "lastSeen": 1772848437,
+    "estDepartureAirport": "48AZ",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.8758,
+    "landing": 1
+  },
+  {
+    "icao24": "c8224d",
+    "callsign": "SKL3",
+    "firstSeen": 1772842021,
+    "lastSeen": 1772845700,
+    "estDepartureAirport": "NZAR",
+    "estArrivalAirport": "NZWN",
+    "flight_hours": 1.0219,
+    "landing": 1
+  }
+]
