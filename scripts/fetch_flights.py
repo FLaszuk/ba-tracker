@@ -151,40 +151,21 @@ def fetch_recent_flights(tracked_icao24s):
             stats = calculate_flight_stats(f)
             all_biz_flights.append(stats)
 
-    return all_biz_flights, begin.date()
+    return all_biz_flights, begin
 
 
-def save_flights_append(flights, target_date):
+def save_flights_hourly(flights, target_time):
     """
-    Zapisuje loty do pliku JSON (jeden plik na dzień).
-    Jeśli plik istnieje, dodaje nowe loty unikając duplikatów.
+    Zapisuje loty do unikalnego pliku JSON dla każdego okna dwugodzinnego.
+    Osobny plik ułatwia analizę i zapobiega nadpisywaniu strumienia z GitHuba.
     """
-    filename = f"flights_{target_date.strftime('%Y-%m-%d')}.json"
+    filename = f"flights_{target_time.strftime('%Y-%m-%d_%H%M')}.json"
     filepath = os.path.join(FLIGHTS_DIR, filename)
     
-    existing_flights = []
-    if os.path.exists(filepath):
-        with open(filepath, "r", encoding="utf-8") as f:
-            try:
-                existing_flights = json.load(f)
-            except json.JSONDecodeError:
-                existing_flights = []
-
-    # Unikalny lot = icao24 + firstSeen
-    seen = {(str(f.get("icao24")), str(f.get("firstSeen"))) for f in existing_flights}
-    
-    added = 0
-    for f in flights:
-        key = (str(f.get("icao24")), str(f.get("firstSeen")))
-        if key not in seen:
-            existing_flights.append(f)
-            seen.add(key)
-            added += 1
-
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(existing_flights, f, indent=2, ensure_ascii=False)
+        json.dump(flights, f, indent=2, ensure_ascii=False)
         
-    print(f"[SAVE] Zapisano {added} nowych lotów (łączna pula: {len(existing_flights)}) -> {filepath}")
+    print(f"[SAVE] Zapisano {len(flights)} lotów z okna -> {filepath}")
     return filepath
 
 
@@ -203,10 +184,10 @@ def main():
     lookup_df, tracked_icao24s = load_lookup_table()
 
     print(f"\n[TARGET] Pobieram loty z ostatnich 2 godzin (Live Window)")
-    flights, target_date = fetch_recent_flights(tracked_icao24s)
+    flights, target_time = fetch_recent_flights(tracked_icao24s)
 
     if flights:
-        save_flights_append(flights, target_date)
+        save_flights_hourly(flights, target_time)
         
         df = pd.DataFrame(flights)
         total_hours = df["flight_hours"].sum()
@@ -214,7 +195,7 @@ def main():
         unique_aircraft = df["icao24"].nunique()
 
         print(f"\n{'='*60}")
-        print(f"PODSUMOWANIE 2H OKNA — {target_date}")
+        print(f"PODSUMOWANIE 2H OKNA — {target_time.strftime('%Y-%m-%d %H:%M')} UTC")
         print(f"{'='*60}")
         print(f"  Nowe Loty Tych Samolotów: {len(flights)}")
         print(f"  Godziny nalotu:           {total_hours:.1f}h")
