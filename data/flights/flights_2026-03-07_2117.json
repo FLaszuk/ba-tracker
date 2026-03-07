@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a69068",
+    "callsign": "N522AM",
+    "firstSeen": 1772919024,
+    "lastSeen": 1772920499,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "K16D",
+    "flight_hours": 0.4097,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1772918662,
+    "lastSeen": 1772919687,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.2847,
+    "landing": 1
+  }
+]
