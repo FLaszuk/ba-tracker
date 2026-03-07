@@ -3,14 +3,14 @@ name: BA-Tracker ADSB Historical Backfill
 on:
   workflow_dispatch:
     inputs:
-      target_date:
-        description: 'Data do pobrania (np. 2024-12-01)'
+      start_date:
+        description: 'Data początkowa (np. 2024-12-01)'
         required: true
         default: '2024-12-01'
-      year_repo:
-        description: 'Rok repozytorium na Githubie adsb.lol (np. 2024)'
+      end_date:
+        description: 'Data końcowa (np. 2024-12-05)'
         required: true
-        default: '2024'
+        default: '2024-12-05'
 
 jobs:
   backfill:
@@ -19,6 +19,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Używamy personal access token (jeśli jest potrzebny z prawami zapisu)
+          # albo polegamy na defaultowym tokenie GH, wymuszając by fetch-depth było ok (zeby łatwiej robić push)
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,47 +33,66 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests
 
-      - name: Download historical tarballs from ADSB.lol
+      - name: Process Date Range (Day by Day)
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          mkdir -p adsb_downloads
-          cd adsb_downloads
-          
-          # GitHub release names generally follow: vYYYY.MM.DD-planes-readsb-prod-0
-          # We translate 2024-12-01 -> 2024.12.01
-          RELEASE_TAG="v${{ github.event.inputs.target_date }}-planes-readsb-prod-0"
-          RELEASE_TAG=$(echo "$RELEASE_TAG" | sed 's/-/\./g') # zastępujemy - na .
-          RELEASE_TAG=$(echo "$RELEASE_TAG" | sed 's/v202/v202/g') # przywracamy prefix 'v' z powrotem do małej poprawnej formy
-          
-          # Ponieważ 'sed' zmienia wszystkie myślniki, poprawmy tagowanie by pasowało do: "v2024.12.01-planes-readsb-prod-0"
-          DATE_DOTS=$(echo "${{ github.event.inputs.target_date }}" | tr '-' '.')
-          CORRECT_TAG="v${DATE_DOTS}-planes-readsb-prod-0"
-          
-          echo "Pobieranie archiwów dla tagu: $CORRECT_TAG z repo adsblol/globe_history_${{ github.event.inputs.year_repo }}"
-          
-          # Pobierz wszystkie pliki załączone do releasa bez rozpakowywania
-          gh release download $CORRECT_TAG --repo adsblol/globe_history_${{ github.event.inputs.year_repo }} || {
-            echo "::warning::Nie znaleziono tagu prod-0. Próba z pobraniem staging-0..."
-            CORRECT_TAG="v${DATE_DOTS}-planes-readsb-staging-0"
-            gh release download $CORRECT_TAG --repo adsblol/globe_history_${{ github.event.inputs.year_repo }}
-          }
-          
-      - name: Execute Extractor Script
-        run: |
-          echo "Rozpoczynam ekstrakcję historyczną lotów. To zajmie od 5 do 20 minut zależnie od wielkości pliku .tar..."
-          python scripts/fetch_history_adsblol.py --tar_dir adsb_downloads --date "${{ github.event.inputs.target_date }}"
-          
-      - name: Commit Extracted Historical JSON
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Usuwamy pobrane ogromne 10GB pliki przed commitem, na wypadek gdyby GH chciał je przetworzyć
-          rm -rf adsb_downloads/
-
-          # Upewniamy się, że w commitie idzie tylko nasz wynik
-          git status
-          git add data/flights/
-          git commit -m "Historical backfill data for ${{ github.event.inputs.target_date }} [skip ci]" || echo "Brak zmian (0 biznesowych lotow)!"
-          git push
+          START_DATE="${{ github.event.inputs.start_date }}"
+          END_DATE="${{ github.event.inputs.end_date }}"
+          
+          echo "Rozpoczynam pobieranie od $START_DATE do $END_DATE w dętli dzień po dniu..."
+          
+          current_date="$START_DATE"
+          # ustalamy datę graniczą dla pętli (o dzień +1 żeby była rozpatrywana na wyłączność)
+          end_date_limit=$(date -I -d "$END_DATE + 1 day")
+          
+          while [ "$current_date" != "$end_date_limit" ]; do
+            echo "======================================================"
+            echo "🚀 PRZETWARZANIE DATY: $current_date"
+            echo "======================================================"
+            
+            YEAR_REPO=$(echo "$current_date" | cut -d'-' -f1)
+            
+            mkdir -p adsb_downloads
+            cd adsb_downloads
+            
+            DATE_DOTS=$(echo "$current_date" | tr '-' '.')
+            CORRECT_TAG="v${DATE_DOTS}-planes-readsb-prod-0"
+            
+            echo "Pobieranie archiwów dla tagu: $CORRECT_TAG z repo adsblol/globe_history_${YEAR_REPO}"
+            
+            # Spróbuj pobrać
+            gh release download $CORRECT_TAG --repo adsblol/globe_history_${YEAR_REPO} || {
+              echo "::warning::Nie znaleziono tagu prod-0. Proba z pobraniem staging-0..."
+              CORRECT_TAG="v${DATE_DOTS}-planes-readsb-staging-0"
+              gh release download $CORRECT_TAG --repo adsblol/globe_history_${YEAR_REPO} || {
+                  echo "::error::Brak plikow dla tej daty. Pomijam pętlę."
+              }
+            }
+            
+            cd ..
+            
+            # Jeśli faktycznie coś się pobrało (katalog nie jest pusty)
+            if [ -n "$(find adsb_downloads -maxdepth 1 -name '*.tar*' -print -quit)" ]; then
+              echo "Rozpoczynam ekstrakcję historyczną lotów..."
+              python scripts/fetch_history_adsblol.py --tar_dir adsb_downloads --date "$current_date"
+              
+              # GWARANCJA ZWALNIANIA MIEJSCA DLA GitHub Actions:
+              rm -rf adsb_downloads/
+              
+              git pull --rebase || true # zabezpieczenie jakby repo się zmieniło w miedzyczasie
+              git add data/flights/
+              git commit -m "Historical backfill data for $current_date [skip ci]" || echo "Brak zmian (pewnie 0 biznesowych lotow)!"
+              git push || echo "Nie udalo sie wypchnac z powodu bledu polaczenia lub braku zmian."
+            else
+              echo "Nie znaleziono plików tar, usuwam pusty folder pobierania."
+              rm -rf adsb_downloads/
+            fi
+            
+            current_date=$(date -I -d "$current_date + 1 day")
+            echo "Mala pauza przed kolejnym dniem w ramach zdrowej sieci..."
+            sleep 5
+          done
