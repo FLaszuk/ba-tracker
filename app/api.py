@@ -31,18 +31,18 @@ def get_db():
     """Zwraca połączenie z bazą danych, generując ją w locie jeśli trzeba."""
     if not os.path.exists(DB_FILE):
         # Na produkcji (np. Render) baza mogła nie wejść z GitHuba przez .gitignore
-        # Generujemy ją w locie z dema
-        print("Baza danych nie istnieje. Generowanie danych początkowych...")
+        # Generujemy bazę kompilując pliki JSON z lotami z repozytorium GitHub
+        print("Baza danych nie istnieje. Budowanie bazy z plików JSON z lotami...")
         try:
             import sys
             sys.path.append(BASE_DIR)
-            from scripts.generate_demo_data import main as generate_demo_stats
-            generate_demo_stats()
-            print("Dane wygenerowane pomyślnie!")
+            from scripts.build_real_db import main as build_real_db
+            build_real_db()
+            print("Baza zbudowana pomyślnie!")
         except Exception as e:
             raise HTTPException(
                 status_code=503,
-                detail=f"Baza danych nie istnieje i próba jej wygenerowania się nie powiodła: {str(e)}"
+                detail=f"Baza danych nie istnieje i próba jej zbudowania z plików JSON nie powiodła się: {str(e)}"
             )
     
     conn = sqlite3.connect(DB_FILE)
