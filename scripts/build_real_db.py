@@ -35,6 +35,8 @@ def create_database(db_path):
             id                  INTEGER PRIMARY KEY AUTOINCREMENT,
             icao24              TEXT NOT NULL,
             callsign            TEXT,
+            firstSeen           INTEGER,
+            lastSeen            INTEGER,
             flight_date         TEXT NOT NULL,
             flight_month        TEXT NOT NULL,
             departure_airport   TEXT,
@@ -129,8 +131,12 @@ def import_all_json_flights(db_path):
     if "arrival_airport" not in df_flights.columns: df_flights["arrival_airport"] = df_flights.get("estArrivalAirport", "")
     if "landing" not in df_flights.columns: df_flights["landing"] = 1
 
+    if "firstSeen" not in df_flights.columns: df_flights["firstSeen"] = 0
+    if "lastSeen" not in df_flights.columns: df_flights["lastSeen"] = 0
+
     df_db = df_flights[[
-        "icao24", "callsign", "flight_date", "flight_month",
+        "icao24", "callsign", "firstSeen", "lastSeen", 
+        "flight_date", "flight_month",
         "departure_airport", "arrival_airport",
         "flight_hours", "landing"
     ]].copy()
