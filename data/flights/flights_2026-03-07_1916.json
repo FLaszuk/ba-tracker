@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a03fd0",
+    "callsign": "NEW115",
+    "firstSeen": 1772904897,
+    "lastSeen": 1772911895,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9439,
+    "landing": 1
+  },
+  {
+    "icao24": "a34498",
+    "callsign": "N31BG",
+    "firstSeen": 1772909975,
+    "lastSeen": 1772910739,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2122,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1772904018,
+    "lastSeen": 1772910431,
+    "estDepartureAirport": "35TX",
+    "estArrivalAirport": "KGJT",
+    "flight_hours": 1.7814,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c44",
+    "callsign": "N888HH",
+    "firstSeen": 1772903205,
+    "lastSeen": 1772911009,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.1678,
+    "landing": 1
+  }
+]
