@@ -1,0 +1,75 @@
+name: BA-Tracker ADSB Historical Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Data do pobrania (np. 2024-12-01)'
+        required: true
+        default: '2024-12-01'
+      year_repo:
+        description: 'Rok repozytorium na Githubie adsb.lol (np. 2024)'
+        required: true
+        default: '2024'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Download historical tarballs from ADSB.lol
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p adsb_downloads
+          cd adsb_downloads
+          
+          # GitHub release names generally follow: vYYYY.MM.DD-planes-readsb-prod-0
+          # We translate 2024-12-01 -> 2024.12.01
+          RELEASE_TAG="v${{ github.event.inputs.target_date }}-planes-readsb-prod-0"
+          RELEASE_TAG=$(echo "$RELEASE_TAG" | sed 's/-/\./g') # zastępujemy - na .
+          RELEASE_TAG=$(echo "$RELEASE_TAG" | sed 's/v202/v202/g') # przywracamy prefix 'v' z powrotem do małej poprawnej formy
+          
+          # Ponieważ 'sed' zmienia wszystkie myślniki, poprawmy tagowanie by pasowało do: "v2024.12.01-planes-readsb-prod-0"
+          DATE_DOTS=$(echo "${{ github.event.inputs.target_date }}" | tr '-' '.')
+          CORRECT_TAG="v${DATE_DOTS}-planes-readsb-prod-0"
+          
+          echo "Pobieranie archiwów dla tagu: $CORRECT_TAG z repo adsblol/globe_history_${{ github.event.inputs.year_repo }}"
+          
+          # Pobierz wszystkie pliki załączone do releasa bez rozpakowywania
+          gh release download $CORRECT_TAG --repo adsblol/globe_history_${{ github.event.inputs.year_repo }} || {
+            echo "::warning::Nie znaleziono tagu prod-0. Próba z pobraniem staging-0..."
+            CORRECT_TAG="v${DATE_DOTS}-planes-readsb-staging-0"
+            gh release download $CORRECT_TAG --repo adsblol/globe_history_${{ github.event.inputs.year_repo }}
+          }
+          
+      - name: Execute Extractor Script
+        run: |
+          echo "Rozpoczynam ekstrakcję historyczną lotów. To zajmie od 5 do 20 minut zależnie od wielkości pliku .tar..."
+          python scripts/fetch_history_adsblol.py --tar_dir adsb_downloads --date "${{ github.event.inputs.target_date }}"
+          
+      - name: Commit Extracted Historical JSON
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Usuwamy pobrane ogromne 10GB pliki przed commitem, na wypadek gdyby GH chciał je przetworzyć
+          rm -rf adsb_downloads/
+
+          # Upewniamy się, że w commitie idzie tylko nasz wynik
+          git status
+          git add data/flights/
+          git commit -m "Historical backfill data for ${{ github.event.inputs.target_date }} [skip ci]" || echo "Brak zmian (0 biznesowych lotow)!"
+          git push
