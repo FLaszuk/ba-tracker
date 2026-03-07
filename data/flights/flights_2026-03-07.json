@@ -38,5 +38,15 @@
     "estArrivalAirport": "NZWN",
     "flight_hours": 1.0219,
     "landing": 1
+  },
+  {
+    "icao24": "885930",
+    "callsign": "HSVIP",
+    "firstSeen": 1772849738,
+    "lastSeen": 1772853636,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0828,
+    "landing": 1
   }
 ]
