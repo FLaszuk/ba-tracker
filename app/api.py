@@ -400,7 +400,20 @@ def export_csv(month: str):
     from fastapi.responses import PlainTextResponse
     conn = get_db()
     rows = conn.execute("""
-        SELECT * FROM monthly_stats WHERE flight_month = ?
+        SELECT 
+            f.flight_month,
+            a.aircraft_manufacturer,
+            a.aircraft_model,
+            a.registration,
+            f.callsign,
+            a.engine_manufacturer,
+            a.engine_model,
+            ROUND(SUM(f.flight_hours), 2) AS total_flight_hours,
+            SUM(f.landing) AS total_landings
+        FROM flights f
+        JOIN aircraft a ON f.icao24 = a.icao24
+        WHERE f.flight_month = ?
+        GROUP BY f.flight_month, a.aircraft_manufacturer, a.aircraft_model, a.registration, f.callsign, a.engine_manufacturer, a.engine_model
         ORDER BY total_flight_hours DESC
     """, (month,)).fetchall()
     conn.close()
@@ -409,9 +422,9 @@ def export_csv(month: str):
         raise HTTPException(404, f"Brak danych dla miesiąca: {month}")
 
     headers = ["flight_month", "aircraft_manufacturer", "aircraft_model",
+               "registration", "callsign",
                "engine_manufacturer", "engine_model",
-               "total_flight_hours", "total_landings", "unique_aircraft",
-               "aircraft_market_share", "engine_market_share"]
+               "total_flight_hours", "total_landings"]
 
     lines = [",".join(headers)]
     for r in rows:
