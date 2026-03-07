@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7e18b",
+    "callsign": "N607D",
+    "firstSeen": 1772881513,
+    "lastSeen": 1772896318,
+    "estDepartureAirport": "KRIC",
+    "estArrivalAirport": null,
+    "flight_hours": 4.1125,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1772892906,
+    "lastSeen": 1772895959,
+    "estDepartureAirport": "17XS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8481,
+    "landing": 1
+  }
+]
