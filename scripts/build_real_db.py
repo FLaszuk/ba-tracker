@@ -107,6 +107,13 @@ def import_all_json_flights(db_path):
 
     df_flights = pd.DataFrame(all_flights)
     
+    # KRYTYCZNE: Usuwanie duplikatów!
+    # Długi lot (np. 10 godzin) pojawi się w pięciu osobnych plikach 2-godzinnych json.
+    # Musimy zachować tylko jego najnowszą/najpełniejszą wersję bazując na id lotu (icao24 + firstSeen)
+    if "firstSeen" in df_flights.columns:
+        # Sortujemy po lastSeen malejąco by zachować najbardziej aktualny czas lotu przy usuwaniu duplikatów
+        df_flights = df_flights.sort_values("lastSeen", ascending=False).drop_duplicates(subset=["icao24", "firstSeen"]).copy()
+    
     # Skrypt OpenSky tworzy timestamp pierwszego i ostatniego zobaczenia na radarze.
     # Musimy dodać kolumnę daty i miesiąca do celów analitycznych bazy
     if "firstSeen" in df_flights.columns:
