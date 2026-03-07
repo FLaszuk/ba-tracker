@@ -72,6 +72,8 @@ def get_kpi(month: str):
     - unique_aircraft
     - unique_aircraft_manufacturers
     - unique_engine_manufacturers
+    - min_timestamp
+    - max_timestamp
     """
     conn = get_db()
     row = conn.execute("""
@@ -84,12 +86,18 @@ def get_kpi(month: str):
         FROM monthly_stats
         WHERE flight_month = ?
     """, (month,)).fetchone()
+    
+    ts_row = conn.execute("SELECT MIN(firstSeen) as min_ts, MAX(lastSeen) as max_ts FROM flights WHERE flight_month = ?", (month,)).fetchone()
     conn.close()
 
     if not row or row["total_flight_hours"] is None:
         raise HTTPException(status_code=404, detail=f"Brak danych dla miesiąca: {month}")
+        
+    result = dict(row)
+    result["min_timestamp"] = ts_row["min_ts"] if ts_row and ts_row["min_ts"] else None
+    result["max_timestamp"] = ts_row["max_ts"] if ts_row and ts_row["max_ts"] else None
 
-    return dict(row)
+    return result
 
 
 # ── ENDPOINT 3: Market share producentów samolotów ───────────────────────────
