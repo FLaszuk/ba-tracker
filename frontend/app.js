@@ -1,7 +1,7 @@
 // app.js — BA-Tracker Frontend Logic
 // Odpowiada za: pobieranie danych z API, renderowanie wykresów, tabeli, motyw
 
-const API = "https://ba-tracker-api-ruy0.onrender.com/api";
+const API = "api"; // Wskazujemy na lokalny folder ze statycznymi plikami JSON
 
 // ══════════════════════════════════════════════════════════
 // STAN APLIKACJI
@@ -22,16 +22,21 @@ const PALETTE = [
 ];
 
 // ══════════════════════════════════════════════════════════
-// API HELPERS
+// API HELPERS (Zmienione na wczytywanie plików *.json)
 // ══════════════════════════════════════════════════════════
 async function api(path) {
     try {
-        const res = await fetch(API + path);
+        // Usuń parametry zapytania GET np. '?limit=10' bo nie obsługują ich pliki statyczne
+        const cleanPath = path.split('?')[0];
+        // Doklej wymuszone rozszerzenie pliku
+        const finalUrl = `${API}${cleanPath}.json`;
+
+        const res = await fetch(finalUrl);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return await res.json();
     } catch (err) {
         console.error("API error:", path, err);
-        showError(`API error: ${err.message}. Run: python run_server.py`);
+        showError(`API error: ${err.message}. (Czy przebudowales statyczne API za pomocą skryptu?)`);
         return null;
     }
 }
