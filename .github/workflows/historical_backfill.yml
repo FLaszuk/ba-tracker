@@ -83,10 +83,38 @@ jobs:
               # GWARANCJA ZWALNIANIA MIEJSCA DLA GitHub Actions:
               rm -rf adsb_downloads/
               
-              git pull --rebase || true # zabezpieczenie jakby repo się zmieniło w miedzyczasie
+              # MECHANIZM DLA BIEGÓW RÓWNOLEGŁYCH (Parallel runs collision avoidance)
               git add data/flights/
-              git commit -m "Historical backfill data for $current_date [skip ci]" || echo "Brak zmian (pewnie 0 biznesowych lotow)!"
-              git push || echo "Nie udalo sie wypchnac z powodu bledu polaczenia lub braku zmian."
+              
+              if git diff --cached --quiet; then
+                echo "Brak nowych lub zmienionych lotów biznesowych. Pomijam commit."
+              else
+                git commit -m "Historical backfill data for $current_date [skip ci]"
+                
+                # Pętla prób dla git push z "random backoff", by 4 procesy na raz się nie blokowały
+                MAX_RETRIES=5
+                RETRY_COUNT=0
+                PUSH_SUCCESS=false
+                
+                while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+                  git pull --rebase || true # zaciągnij najnowszą historię od innych workerów
+                  
+                  if git push; then
+                    PUSH_SUCCESS=true
+                    echo "Zapis sukces!"
+                    break
+                  else
+                    WAIT_TIME=$((5 + $RANDOM % 15))
+                    echo "Kolizja z innym równoległym procesem GitHuba! Czekam $WAIT_TIME sekund i próbuję ponownie ($((RETRY_COUNT+1))/$MAX_RETRIES)..."
+                    sleep $WAIT_TIME
+                    RETRY_COUNT=$((RETRY_COUNT+1))
+                  fi
+                done
+                
+                if [ "$PUSH_SUCCESS" = false ]; then
+                  echo "::error::Nie udało się wypchnąć zmian dla $current_date po 5 próbach. Prawdopodobnie gęsty tłok na repozytorium."
+                fi
+              fi
             else
               echo "Nie znaleziono plików tar, usuwam pusty folder pobierania."
               rm -rf adsb_downloads/
