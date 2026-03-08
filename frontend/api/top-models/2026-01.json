@@ -4,62 +4,62 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GV-SP (G550)",
-      "total_hours": 4365.9,
-      "total_landings": 2315
+      "total_hours": 4487.7,
+      "total_landings": 2387
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GIV-X (G450)",
-      "total_hours": 3956.3,
-      "total_landings": 2077
+      "total_hours": 4058.7,
+      "total_landings": 2132
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "FALCON 2000EX",
-      "total_hours": 3284.7,
-      "total_landings": 1614
+      "total_hours": 3386.7,
+      "total_landings": 1662
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GVI (G650ER)",
-      "total_hours": 2922.6,
-      "total_landings": 1596
+      "total_hours": 3035.6,
+      "total_landings": 1642
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 1830.3,
-      "total_landings": 1357
+      "total_hours": 1888.5,
+      "total_landings": 1404
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Bombardier Global 6000",
-      "total_hours": 2002.1,
-      "total_landings": 1200
+      "total_hours": 2106.0,
+      "total_landings": 1253
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 1785.9,
-      "total_landings": 1068
+      "total_hours": 1822.2,
+      "total_landings": 1087
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "FALCON 2000",
-      "total_hours": 1730.4,
-      "total_landings": 916
-    },
-    {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "EA500",
-      "total_hours": 1165.6,
-      "total_landings": 835
+      "total_hours": 1782.8,
+      "total_landings": 938
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "FALCON 7X",
-      "total_hours": 1497.5,
-      "total_landings": 823
+      "total_hours": 1565.1,
+      "total_landings": 864
+    },
+    {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "EA500",
+      "total_hours": 1179.8,
+      "total_landings": 845
     }
   ]
 }
