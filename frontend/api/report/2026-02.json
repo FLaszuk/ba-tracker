@@ -1,0 +1,21 @@
+{
+  "report": {
+    "current_month": "2026-02",
+    "previous_month": "2026-01",
+    "flight_hours": {
+      "current": 63715.0,
+      "previous": 43157.5,
+      "change_pct": 47.6
+    },
+    "landings": {
+      "current": 37440,
+      "previous": 25865,
+      "change_pct": 44.8
+    },
+    "aircraft": {
+      "current": 3009,
+      "previous": 2875,
+      "change_pct": 4.7
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "report": {
+    "current_month": "2025-08",
+    "previous_month": "2025-07",
+    "flight_hours": {
+      "current": 69996.3,
+      "previous": 6697.4,
+      "change_pct": 945.1
+    },
+    "landings": {
+      "current": 43071,
+      "previous": 4385,
+      "change_pct": 882.2
+    },
+    "aircraft": {
+      "current": 3091,
+      "previous": 1505,
+      "change_pct": 105.4
+    }
+  }
+}

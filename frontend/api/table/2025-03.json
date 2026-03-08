@@ -1,0 +1,1578 @@
+{
+  "month": "2025-03",
+  "total": 157,
+  "offset": 0,
+  "limit": 157,
+  "data": [
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GV-SP (G550)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 6385.5,
+      "total_landings": 3516,
+      "aircraft_market_share": 9.19,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GIV-X (G450)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 5569.1,
+      "total_landings": 2969,
+      "aircraft_market_share": 8.01,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 5101.1,
+      "total_landings": 2581,
+      "aircraft_market_share": 7.34,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650ER)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 4114.1,
+      "total_landings": 2311,
+      "aircraft_market_share": 5.92,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 2523.3,
+      "total_landings": 1359,
+      "aircraft_market_share": 3.63,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-4A",
+      "total_hours": 2432.7,
+      "total_landings": 1556,
+      "aircraft_market_share": 3.5,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535E1",
+      "total_hours": 2377.9,
+      "total_landings": 2003,
+      "aircraft_market_share": 3.42,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 2285.8,
+      "total_landings": 1461,
+      "aircraft_market_share": 3.29,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900EX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 1981.8,
+      "total_landings": 1056,
+      "aircraft_market_share": 2.85,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 7X",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 1952.1,
+      "total_landings": 1098,
+      "aircraft_market_share": 2.81,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "MYSTERE FALCON 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 1578.3,
+      "total_landings": 808,
+      "aircraft_market_share": 2.27,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "EA500",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW610F",
+      "total_hours": 1570.6,
+      "total_landings": 1174,
+      "aircraft_market_share": 2.26,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVII-G600",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW815GA",
+      "total_hours": 1556.9,
+      "total_landings": 905,
+      "aircraft_market_share": 2.24,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900 EX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 1511.9,
+      "total_landings": 860,
+      "aircraft_market_share": 2.18,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVII-G500",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW814GA",
+      "total_hours": 1481.3,
+      "total_landings": 849,
+      "aircraft_market_share": 2.13,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 1381.0,
+      "total_landings": 835,
+      "aircraft_market_share": 1.99,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 350",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 1208.3,
+      "total_landings": 858,
+      "aircraft_market_share": 1.74,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 1139.7,
+      "total_landings": 864,
+      "aircraft_market_share": 1.64,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 1104.5,
+      "total_landings": 955,
+      "aircraft_market_share": 1.59,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 972.9,
+      "total_landings": 548,
+      "aircraft_market_share": 1.4,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 871.0,
+      "total_landings": 553,
+      "aircraft_market_share": 1.25,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS+",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 813.1,
+      "total_landings": 591,
+      "aircraft_market_share": 1.17,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 300",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7000",
+      "total_hours": 807.5,
+      "total_landings": 534,
+      "aircraft_market_share": 1.16,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 764.2,
+      "total_landings": 519,
+      "aircraft_market_share": 1.1,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007A2",
+      "total_hours": 706.6,
+      "total_landings": 543,
+      "aircraft_market_share": 1.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Challenger 605",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 657.9,
+      "total_landings": 501,
+      "aircraft_market_share": 0.95,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 634.9,
+      "total_landings": 381,
+      "aircraft_market_share": 0.91,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 60",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 613.3,
+      "total_landings": 563,
+      "aircraft_market_share": 0.88,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 45 XR",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 601.3,
+      "total_landings": 427,
+      "aircraft_market_share": 0.87,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation CJ3",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-3A",
+      "total_hours": 578.0,
+      "total_landings": 442,
+      "aircraft_market_share": 0.83,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 100",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW617F1-E",
+      "total_hours": 522.3,
+      "total_landings": 464,
+      "aircraft_market_share": 0.75,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 5000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 500.7,
+      "total_landings": 320,
+      "aircraft_market_share": 0.72,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000EX EASy",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 500.3,
+      "total_landings": 336,
+      "aircraft_market_share": 0.72,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 60 XR",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 462.1,
+      "total_landings": 214,
+      "aircraft_market_share": 0.66,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G550",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 455.9,
+      "total_landings": 333,
+      "aircraft_market_share": 0.66,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Excel",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545A",
+      "total_hours": 440.8,
+      "total_landings": 326,
+      "aircraft_market_share": 0.63,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560XLS",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545C",
+      "total_hours": 436.2,
+      "total_landings": 268,
+      "aircraft_market_share": 0.63,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 900LX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 429.5,
+      "total_landings": 236,
+      "aircraft_market_share": 0.62,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 45",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 429.1,
+      "total_landings": 377,
+      "aircraft_market_share": 0.62,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 605",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 419.4,
+      "total_landings": 225,
+      "aircraft_market_share": 0.6,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 600",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007A1E",
+      "total_hours": 378.3,
+      "total_landings": 367,
+      "aircraft_market_share": 0.54,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Sovereign",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 365.2,
+      "total_landings": 313,
+      "aircraft_market_share": 0.53,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation CJ4",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-4A",
+      "total_hours": 357.4,
+      "total_landings": 266,
+      "aircraft_market_share": 0.51,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 291.5,
+      "total_landings": 167,
+      "aircraft_market_share": 0.42,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX (Dassault)",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 282.1,
+      "total_landings": 162,
+      "aircraft_market_share": 0.41,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 278.7,
+      "total_landings": 162,
+      "aircraft_market_share": 0.4,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-505 Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535E1",
+      "total_hours": 276.2,
+      "total_landings": 199,
+      "aircraft_market_share": 0.4,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "BD-700-2A12 Global 7500",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "Passport 20",
+      "total_hours": 273.8,
+      "total_landings": 162,
+      "aircraft_market_share": 0.39,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000LX",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 253.4,
+      "total_landings": 167,
+      "aircraft_market_share": 0.36,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Global 5000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 234.4,
+      "total_landings": 170,
+      "aircraft_market_share": 0.34,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 228.8,
+      "total_landings": 120,
+      "aircraft_market_share": 0.33,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000LX S",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 226.1,
+      "total_landings": 141,
+      "aircraft_market_share": 0.33,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 31 A",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 217.3,
+      "total_landings": 141,
+      "aircraft_market_share": 0.31,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G450",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 206.6,
+      "total_landings": 153,
+      "aircraft_market_share": 0.3,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 75",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 193.3,
+      "total_landings": 156,
+      "aircraft_market_share": 0.28,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 500",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 190.4,
+      "total_landings": 131,
+      "aircraft_market_share": 0.27,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "680A Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 181.8,
+      "total_landings": 121,
+      "aircraft_market_share": 0.26,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900B",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 176.8,
+      "total_landings": 91,
+      "aircraft_market_share": 0.25,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900 B",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 168.8,
+      "total_landings": 92,
+      "aircraft_market_share": 0.24,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900EX (Dassault)",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 165.8,
+      "total_landings": 87,
+      "aircraft_market_share": 0.24,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G650 ER",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 162.4,
+      "total_landings": 133,
+      "aircraft_market_share": 0.23,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 900EX EASy",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 157.8,
+      "total_landings": 132,
+      "aircraft_market_share": 0.23,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 151.1,
+      "total_landings": 100,
+      "aircraft_market_share": 0.22,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 8X",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307D",
+      "total_hours": 148.9,
+      "total_landings": 112,
+      "aircraft_market_share": 0.21,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "510 Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 148.2,
+      "total_landings": 115,
+      "aircraft_market_share": 0.21,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G200",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306A",
+      "total_hours": 134.5,
+      "total_landings": 84,
+      "aircraft_market_share": 0.19,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 123.3,
+      "total_landings": 75,
+      "aircraft_market_share": 0.18,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000EX EASy",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 118.6,
+      "total_landings": 55,
+      "aircraft_market_share": 0.17,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "680 Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 114.6,
+      "total_landings": 69,
+      "aircraft_market_share": 0.16,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 110.3,
+      "total_landings": 62,
+      "aircraft_market_share": 0.16,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 104.2,
+      "total_landings": 89,
+      "aircraft_market_share": 0.15,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GV-SP (G500)",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW814GA",
+      "total_hours": 97.8,
+      "total_landings": 48,
+      "aircraft_market_share": 0.14,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000LX",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 97.4,
+      "total_landings": 76,
+      "aircraft_market_share": 0.14,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "680a Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 93.9,
+      "total_landings": 59,
+      "aircraft_market_share": 0.14,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Sovereign+",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 92.3,
+      "total_landings": 64,
+      "aircraft_market_share": 0.13,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300E",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535E1",
+      "total_hours": 87.9,
+      "total_landings": 46,
+      "aircraft_market_share": 0.13,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G280",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7250G",
+      "total_hours": 86.4,
+      "total_landings": 53,
+      "aircraft_market_share": 0.12,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-135BJ Legacy 650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007A2",
+      "total_hours": 85.3,
+      "total_landings": 64,
+      "aircraft_market_share": 0.12,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVIII-G700",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Pearl 700",
+      "total_hours": 84.2,
+      "total_landings": 48,
+      "aircraft_market_share": 0.12,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-500 Phenom 100",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW617F1-E",
+      "total_hours": 82.6,
+      "total_landings": 73,
+      "aircraft_market_share": 0.12,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 900EX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 82.3,
+      "total_landings": 62,
+      "aircraft_market_share": 0.12,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000S",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 73.1,
+      "total_landings": 48,
+      "aircraft_market_share": 0.11,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560XLS Citation Excel",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545C",
+      "total_hours": 72.9,
+      "total_landings": 55,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Learjet 60",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 72.3,
+      "total_landings": 36,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 7X",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 71.9,
+      "total_landings": 49,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Embraer Legacy 600",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007A1E",
+      "total_hours": 71.5,
+      "total_landings": 55,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "BD-700-1A10 Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 71.3,
+      "total_landings": 56,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna 510 Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 68.5,
+      "total_landings": 54,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "BD-100-1A10 Challenger 350",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 67.0,
+      "total_landings": 42,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Embraer Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535E1",
+      "total_hours": 66.7,
+      "total_landings": 54,
+      "aircraft_market_share": 0.1,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560XLS (Cessna)",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545C",
+      "total_hours": 62.5,
+      "total_landings": 33,
+      "aircraft_market_share": 0.09,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "MYSTERE FALCON 900 (Dassault)",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 61.5,
+      "total_landings": 33,
+      "aircraft_market_share": 0.09,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna Citation CJ4",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-4A",
+      "total_hours": 53.9,
+      "total_landings": 42,
+      "aircraft_market_share": 0.08,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CESSNA 680A Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 53.8,
+      "total_landings": 32,
+      "aircraft_market_share": 0.08,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "MYSTERE FALCON 900B",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 53.7,
+      "total_landings": 31,
+      "aircraft_market_share": 0.08,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900EX EASY",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 48.8,
+      "total_landings": 22,
+      "aircraft_market_share": 0.07,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560 Citation XLS+",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 48.1,
+      "total_landings": 33,
+      "aircraft_market_share": 0.07,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "680 Citation Sovereign",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 48.0,
+      "total_landings": 53,
+      "aircraft_market_share": 0.07,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 7X 7x",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 46.5,
+      "total_landings": 28,
+      "aircraft_market_share": 0.07,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 7X (Dassault)",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 44.1,
+      "total_landings": 29,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G280",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7250G",
+      "total_hours": 41.2,
+      "total_landings": 20,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 40",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 40.4,
+      "total_landings": 44,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Sovereign+",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 40.1,
+      "total_landings": 28,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GULFSTREAM GV-SP Gulfstream G550",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 40.0,
+      "total_landings": 26,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 500 IU-50",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 39.2,
+      "total_landings": 35,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G550 TP-102D",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 39.0,
+      "total_landings": 23,
+      "aircraft_market_share": 0.06,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 900DX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 36.5,
+      "total_landings": 21,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Textron Aviation Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 35.6,
+      "total_landings": 27,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "LEARJET 45 Learjet",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 35.1,
+      "total_landings": 22,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Embraer Legacy 650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007A2",
+      "total_hours": 34.6,
+      "total_landings": 19,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-550 Legacy 500",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 34.2,
+      "total_landings": 19,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560XL Citation XLS",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 33.6,
+      "total_landings": 26,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna Citation XLS+",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 32.1,
+      "total_landings": 16,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G280 (Gulfstream)",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7250G",
+      "total_hours": 32.0,
+      "total_landings": 17,
+      "aircraft_market_share": 0.05,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Learjet 60 XR",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 29.2,
+      "total_landings": 17,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000LX S",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 29.2,
+      "total_landings": 35,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 29.1,
+      "total_landings": 13,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "560XLS+",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545C",
+      "total_hours": 27.9,
+      "total_landings": 18,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna 680 Citation Sovereign",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 26.5,
+      "total_landings": 19,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CESSNA 560XL Citation Xls+",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 26.2,
+      "total_landings": 20,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900EX EASy",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 25.2,
+      "total_landings": 17,
+      "aircraft_market_share": 0.04,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX Falcon 2000",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 23.9,
+      "total_landings": 15,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650ER",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 23.0,
+      "total_landings": 18,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Challenger 650",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 22.8,
+      "total_landings": 10,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000 (Dassault)",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 22.6,
+      "total_landings": 11,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Dassault Falcon 2000EX",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 21.8,
+      "total_landings": 17,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Challenger 350",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 20.9,
+      "total_landings": 23,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "MYSTERE - FALCON 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 19.8,
+      "total_landings": 16,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 450",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 18.1,
+      "total_landings": 10,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "525C Citation CJ4",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-4A",
+      "total_hours": 17.9,
+      "total_landings": 16,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna 525C CitationJet CJ4",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44-4A",
+      "total_hours": 17.9,
+      "total_landings": 20,
+      "aircraft_market_share": 0.03,
+      "engine_market_share": 4.98
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GULFSTREAM GIV-X (G450) Gulfstream G450",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 17.2,
+      "total_landings": 9,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CESSNA 560XL Citation Excel",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545A",
+      "total_hours": 16.4,
+      "total_landings": 19,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "CL-600 Challenger 650",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 16.3,
+      "total_landings": 6,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet 40 XR",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 15.7,
+      "total_landings": 22,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-550 Praetor 600",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 15.3,
+      "total_landings": 16,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna Citation Sovereign",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 15.0,
+      "total_landings": 13,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650ER) (Gulfstream)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 14.9,
+      "total_landings": 8,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900LX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 14.3,
+      "total_landings": 9,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650 ER",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 13.9,
+      "total_landings": 5,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 650",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 12.7,
+      "total_landings": 12,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 2.02
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI(G650ER)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 12.5,
+      "total_landings": 11,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GULFSTREAM G650 (Gulfstream)",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 12.2,
+      "total_landings": 7,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CESSNA 510 Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 11.6,
+      "total_landings": 11,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CITATION SOVEREIGN +",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306C",
+      "total_hours": 11.2,
+      "total_landings": 8,
+      "aircraft_market_share": 0.02,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "Gulfstream Aerospace G500",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW814GA",
+      "total_hours": 8.9,
+      "total_landings": 6,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000EX",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 6.6,
+      "total_landings": 9,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Longitude",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7700L",
+      "total_hours": 5.4,
+      "total_landings": 4,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 100 EV",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW617F1-E",
+      "total_hours": 4.7,
+      "total_landings": 4,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Bd-700-1A11 Global 5000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710A2-20",
+      "total_hours": 4.3,
+      "total_landings": 5,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "CESSNA 560XL Citation Xls",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 3.8,
+      "total_landings": 5,
+      "aircraft_market_share": 0.01,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Cessna Citation X",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007C2",
+      "total_hours": 3.4,
+      "total_landings": 2,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 38.74
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-505 Phenom 300E",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535E1",
+      "total_hours": 3.2,
+      "total_landings": 2,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 36.96
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900EX",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731-60",
+      "total_hours": 2.1,
+      "total_landings": 4,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "EMB-545 Praetor 500",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7500E",
+      "total_hours": 2.1,
+      "total_landings": 1,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Learjet 45",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 1.4,
+      "total_landings": 1,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 17.3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier BD-700-2A12 Global 7500",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "Passport 20",
+      "total_hours": 0.5,
+      "total_landings": 1,
+      "aircraft_market_share": 0.0,
+      "engine_market_share": 2.02
+    }
+  ]
+}
