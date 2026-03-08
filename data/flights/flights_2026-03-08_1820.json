@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d0a53",
+    "callsign": "ACW1721",
+    "firstSeen": 1772993008,
+    "lastSeen": 1772995033,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMMY",
+    "flight_hours": 0.5625,
+    "landing": 1
+  },
+  {
+    "icao24": "a05269",
+    "callsign": "N12LX",
+    "firstSeen": 1772984404,
+    "lastSeen": 1772997378,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": "KHDN",
+    "flight_hours": 3.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1772986695,
+    "lastSeen": 1772994545,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.1806,
+    "landing": 1
+  },
+  {
+    "icao24": "acb854",
+    "callsign": "COL919",
+    "firstSeen": 1772981045,
+    "lastSeen": 1772995150,
+    "estDepartureAirport": "MBPV",
+    "estArrivalAirport": "KMKE",
+    "flight_hours": 3.9181,
+    "landing": 1
+  }
+]
