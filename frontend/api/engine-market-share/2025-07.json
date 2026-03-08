@@ -3,32 +3,32 @@
   "data": [
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
-      "total_hours": 23943.0,
-      "total_landings": 15356,
-      "market_share_pct": 37.5
+      "total_hours": 24686.9,
+      "total_landings": 15844,
+      "market_share_pct": 37.4
     },
     {
       "engine_manufacturer": "Rolls-Royce",
-      "total_hours": 23571.8,
-      "total_landings": 14365,
+      "total_hours": 24361.8,
+      "total_landings": 14840,
       "market_share_pct": 36.9
     },
     {
       "engine_manufacturer": "Honeywell",
-      "total_hours": 10944.1,
-      "total_landings": 6778,
-      "market_share_pct": 17.1
+      "total_hours": 11332.8,
+      "total_landings": 7021,
+      "market_share_pct": 17.2
     },
     {
       "engine_manufacturer": "Williams International",
-      "total_hours": 3756.9,
-      "total_landings": 2545,
+      "total_hours": 3877.6,
+      "total_landings": 2639,
       "market_share_pct": 5.9
     },
     {
       "engine_manufacturer": "GE Aviation",
-      "total_hours": 1651.8,
-      "total_landings": 1089,
+      "total_hours": 1706.3,
+      "total_landings": 1123,
       "market_share_pct": 2.6
     }
   ]
