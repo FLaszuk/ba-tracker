@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT468",
+    "firstSeen": 1772978218,
+    "lastSeen": 1772987036,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4494,
+    "landing": 1
+  },
+  {
+    "icao24": "a6587e",
+    "callsign": "N508JP",
+    "firstSeen": 1772983881,
+    "lastSeen": 1772988124,
+    "estDepartureAirport": "KTVI",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1786,
+    "landing": 1
+  },
+  {
+    "icao24": "ac702f",
+    "callsign": "N900LJ",
+    "firstSeen": 1772980739,
+    "lastSeen": 1772989243,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.3622,
+    "landing": 1
+  },
+  {
+    "icao24": "e48fd3",
+    "callsign": "00000000",
+    "firstSeen": 1772978612,
+    "lastSeen": 1772986837,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SNEJ",
+    "flight_hours": 2.2847,
+    "landing": 1
+  }
+]
