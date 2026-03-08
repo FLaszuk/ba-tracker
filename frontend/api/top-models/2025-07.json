@@ -4,62 +4,62 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GV-SP (G550)",
-      "total_hours": 1607.6,
-      "total_landings": 849
+      "total_hours": 1795.3,
+      "total_landings": 955
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GIV-X (G450)",
-      "total_hours": 1327.0,
-      "total_landings": 717
+      "total_hours": 1477.3,
+      "total_landings": 804
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 865.4,
-      "total_landings": 686
+      "total_hours": 956.0,
+      "total_landings": 753
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "FALCON 2000EX",
-      "total_hours": 1167.0,
-      "total_landings": 623
+      "total_hours": 1342.9,
+      "total_landings": 714
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "GVI (G650ER)",
-      "total_hours": 871.4,
-      "total_landings": 533
+      "total_hours": 989.5,
+      "total_landings": 602
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 804.2,
-      "total_landings": 510
+      "total_hours": 886.6,
+      "total_landings": 558
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Bombardier Global 6000",
-      "total_hours": 761.7,
-      "total_landings": 459
+      "total_hours": 868.2,
+      "total_landings": 520
     },
     {
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "EA500",
-      "total_hours": 582.2,
+      "total_hours": 655.6,
+      "total_landings": 477
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "total_hours": 538.6,
       "total_landings": 428
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation XLS",
-      "total_hours": 512.2,
-      "total_landings": 379
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation Mustang",
-      "total_hours": 470.0,
-      "total_landings": 374
+      "total_hours": 556.3,
+      "total_landings": 410
     }
   ]
 }
