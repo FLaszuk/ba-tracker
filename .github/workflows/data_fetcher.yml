@@ -30,13 +30,18 @@ jobs:
           OPENSKY_PASS: ${{ secrets.OPENSKY_PASS }}
         run: python scripts/fetch_flights.py
 
-      # (Opcjonalnie) Jeśli chcemy, aby GitHub Action zapisywało pobrane dane lotów i bazę do repozytorium:
+      - name: Run build_real_db.py and build_static_api.py
+        run: |
+          python scripts/build_real_db.py
+          python scripts/build_static_api.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           mkdir -p data/flights/
           git add data/flights/
+          git add frontend/api/
           # Używamy || exit 0 aby workflow nie zgasł, jeśli w dany dzień nie było nowych plików
-          git commit -m "Automated data fetch [skip ci]" || exit 0
+          git commit -m "Automated data fetch and static API build [skip ci]" || exit 0
           git push

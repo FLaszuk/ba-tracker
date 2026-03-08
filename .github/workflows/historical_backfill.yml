@@ -82,14 +82,21 @@ jobs:
               
               # GWARANCJA ZWALNIANIA MIEJSCA DLA GitHub Actions:
               rm -rf adsb_downloads/
+
+              echo "Przebudowa lokalnej bazy SQLite ze wszystkich dotychczasowych lotów..."
+              python scripts/build_real_db.py
+              
+              echo "Re-generowanie statycznego folderu JSON API..."
+              python scripts/build_static_api.py
               
               # MECHANIZM DLA BIEGÓW RÓWNOLEGŁYCH (Parallel runs collision avoidance)
               git add data/flights/
+              git add frontend/api/
               
               if git diff --cached --quiet; then
                 echo "Brak nowych lub zmienionych lotów biznesowych. Pomijam commit."
               else
-                git commit -m "Historical backfill data for $current_date [skip ci]"
+                git commit -m "Historical backfill data & static API build for $current_date [skip ci]"
                 
                 # Pętla prób dla git push z "random backoff", by 4 procesy na raz się nie blokowały
                 MAX_RETRIES=5
