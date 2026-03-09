@@ -1,0 +1,5 @@
+# To konfiguracja dla silnika GitHub Pages (Jekyll)
+# Domyślnie Jekyll próbuje przetworzyć absolutnie każdy plik w repozytorium.
+# Mamy tu gigabajty archiwalnych lotów w data/, co powodowało wybuch pamięci "Timeout reached".
+
+# Wyłączamy całkowicie silnik Jekyll. My serwujemy czysty HTML/JS/JSON bez kompilacji szablonów!

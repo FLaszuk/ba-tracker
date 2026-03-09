@@ -1,0 +1,47 @@
+name: Deploy Frontend to GitHub Pages
+
+on:
+  # Opcja uruchamiania po udanym zakonczeniu workflow data_fetcher lub backfill
+  workflow_run:
+    workflows: ["BA-Tracker Nightly Data Fetcher", "BA-Tracker ADSB Historical Backfill"]
+    types:
+      - completed
+  
+  # Pozwala wymusić deploy ręcznie z brancha main, jeśli coś zmieniamy w HTML
+  workflow_dispatch:
+
+# Nadajemy uprawnienia do pushowania na wbudowane GH Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      # Wyciągamy sam folder `frontend/` wraz z prekompilowanym `frontend/api/`
+      # i mówimy GitHubowi, by spakował tylko to i omijał dziesiątki tysięcy plików /data/.
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Skupiamy się TYLKO na folderze frontend 
+          # gdzie znajdują się index.html, stlyle.css, app.js i statyczne api/*.json
+          path: './frontend'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

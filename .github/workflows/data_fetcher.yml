@@ -1,0 +1,47 @@
+name: BA-Tracker Nightly Data Fetcher
+
+on:
+  schedule:
+    # Uruchom co 1 godzinę, na wypadek gdyby GitHub Actions opóźniło uruchomienie z racji kolejkowania
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Pozwala na ręczne uruchomienie skryptu z poziomu GitHuba
+
+jobs:
+  fetch-flights:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch_flights.py
+        env:
+          OPENSKY_USER: ${{ secrets.OPENSKY_USER }}
+          OPENSKY_PASS: ${{ secrets.OPENSKY_PASS }}
+        run: python scripts/fetch_flights.py
+
+      - name: Run build_real_db.py and build_static_api.py
+        run: |
+          python scripts/build_real_db.py
+          python scripts/build_static_api.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          mkdir -p data/flights/
+          git add data/flights/
+          git add frontend/api/
+          # Używamy || exit 0 aby workflow nie zgasł, jeśli w dany dzień nie było nowych plików
+          git commit -m "Automated data fetch and static API build [skip ci]" || exit 0
+          git push
