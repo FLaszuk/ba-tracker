@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1773072498,
+    "lastSeen": 1773073558,
+    "estDepartureAirport": "3IS4",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 0.2944,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1773061393,
+    "lastSeen": 1773069490,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "FL86",
+    "flight_hours": 2.2492,
+    "landing": 1
+  }
+]
