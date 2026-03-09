@@ -462,17 +462,42 @@ function filterTable() {
 async function loadEngineTable(month) {
     const data = await api(`/table/${month}?limit=100`);
     if (!data) return;
+
+    // Grupowanie silników z różnych samolotów w jeden model
+    const engineGroups = {};
+    let totalHoursAll = 0;
+
+    data.data.forEach(r => {
+        totalHoursAll += r.total_hours;
+        const key = `${r.engine_manufacturer}|${r.engine_model}`;
+        if (!engineGroups[key]) {
+            engineGroups[key] = {
+                engine_manufacturer: r.engine_manufacturer,
+                engine_model: r.engine_model,
+                total_hours: 0,
+                total_landings: 0,
+            };
+        }
+        engineGroups[key].total_hours += r.total_hours;
+        engineGroups[key].total_landings += r.total_landings;
+    });
+
+    const rows = Object.values(engineGroups);
+    // Sortujemy posortowaną i zagregowaną listę po nalocie
+    rows.sort((a, b) => b.total_hours - a.total_hours);
+
     const tbody = document.getElementById("engine-table-body");
     tbody.innerHTML = "";
-    data.data.forEach(r => {
+
+    rows.forEach(r => {
+        const share = totalHoursAll > 0 ? ((r.total_hours / totalHoursAll) * 100).toFixed(1) : "0.0";
         const tr = document.createElement("tr");
         tr.innerHTML = `
       <td>${r.engine_manufacturer}</td>
       <td style="color:var(--text-muted);font-size:0.82rem">${r.engine_model}</td>
-      <td style="color:var(--text-muted);font-size:0.82rem">${r.aircraft_model}</td>
-      <td>${Number(r.total_hours).toLocaleString()}h</td>
+      <td>${Number(r.total_hours.toFixed(1)).toLocaleString()}h</td>
       <td>${Number(r.total_landings).toLocaleString()}</td>
-      <td><span class="share-badge">${r.engine_market_share}%</span></td>
+      <td><span class="share-badge">${share}%</span></td>
     `;
         tbody.appendChild(tr);
     });
