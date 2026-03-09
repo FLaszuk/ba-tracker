@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a180d5",
+    "callsign": "N1960H",
+    "firstSeen": 1773080784,
+    "lastSeen": 1773087635,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MS06",
+    "flight_hours": 1.9031,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f30c",
+    "callsign": "GLF17",
+    "firstSeen": 1773087938,
+    "lastSeen": 1773088949,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2808,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1773080960,
+    "lastSeen": 1773085572,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.2811,
+    "landing": 1
+  }
+]
