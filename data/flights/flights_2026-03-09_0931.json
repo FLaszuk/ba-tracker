@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1773044747,
+    "lastSeen": 1773050145,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.4994,
+    "landing": 1
+  },
+  {
+    "icao24": "71c299",
+    "callsign": "HL8299",
+    "firstSeen": 1773051220,
+    "lastSeen": 1773052385,
+    "estDepartureAirport": "RKSS",
+    "estArrivalAirport": "RKSS",
+    "flight_hours": 0.3236,
+    "landing": 1
+  }
+]
