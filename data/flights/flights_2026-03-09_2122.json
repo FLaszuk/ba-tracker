@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a96483",
+    "callsign": "N704MF",
+    "firstSeen": 1773088552,
+    "lastSeen": 1773091272,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.7556,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1b0a",
+    "callsign": "N750LG",
+    "firstSeen": 1773086255,
+    "lastSeen": 1773091651,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4989,
+    "landing": 1
+  },
+  {
+    "icao24": "acf83f",
+    "callsign": "N935AC",
+    "firstSeen": 1773093565,
+    "lastSeen": 1773094192,
+    "estDepartureAirport": "4FL9",
+    "estArrivalAirport": "72FL",
+    "flight_hours": 0.1742,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1773089774,
+    "lastSeen": 1773094091,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.1992,
+    "landing": 1
+  }
+]
