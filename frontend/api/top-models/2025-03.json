@@ -1,0 +1,65 @@
+{
+  "month": "2025-03",
+  "data": [
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GV-SP (G550)",
+      "total_hours": 6385.5,
+      "total_landings": 3516
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GIV-X (G450)",
+      "total_hours": 5569.1,
+      "total_landings": 2969
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX",
+      "total_hours": 5101.1,
+      "total_landings": 2581
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650ER)",
+      "total_hours": 4114.1,
+      "total_landings": 2311
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 2377.9,
+      "total_landings": 2003
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2432.7,
+      "total_landings": 1556
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Global 6000",
+      "total_hours": 2285.8,
+      "total_landings": 1461
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000",
+      "total_hours": 2523.3,
+      "total_landings": 1359
+    },
+    {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "EA500",
+      "total_hours": 1570.6,
+      "total_landings": 1174
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 7X",
+      "total_hours": 1952.1,
+      "total_landings": 1098
+    }
+  ]
+}

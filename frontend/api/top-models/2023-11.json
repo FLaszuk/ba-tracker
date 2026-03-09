@@ -1,0 +1,65 @@
+{
+  "month": "2023-11",
+  "data": [
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GV-SP (G550)",
+      "total_hours": 6222.6,
+      "total_landings": 3700
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX",
+      "total_hours": 5579.7,
+      "total_landings": 3110
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GIV-X (G450)",
+      "total_hours": 4775.6,
+      "total_landings": 2876
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650ER)",
+      "total_hours": 3962.4,
+      "total_landings": 2415
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2551.1,
+      "total_landings": 1802
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 1660.7,
+      "total_landings": 1555
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000",
+      "total_hours": 2455.6,
+      "total_landings": 1540
+    },
+    {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "EA500",
+      "total_hours": 1694.3,
+      "total_landings": 1430
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 7X",
+      "total_hours": 2291.9,
+      "total_landings": 1398
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 900EX",
+      "total_hours": 1899.8,
+      "total_landings": 1168
+    }
+  ]
+}

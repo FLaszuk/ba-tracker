@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1773057436,
+    "lastSeen": 1773060733,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9158,
+    "landing": 1
+  },
+  {
+    "icao24": "a94d16",
+    "callsign": "KFB699",
+    "firstSeen": 1773044596,
+    "lastSeen": 1773061586,
+    "estDepartureAirport": "PHNL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.7194,
+    "landing": 1
+  }
+]

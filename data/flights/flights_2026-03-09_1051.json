@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU94CL",
+    "firstSeen": 1773048222,
+    "lastSeen": 1773054398,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.7156,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1773051141,
+    "lastSeen": 1773053848,
+    "estDepartureAirport": "LFMR",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.7519,
+    "landing": 1
+  },
+  {
+    "icao24": "a009ae",
+    "callsign": "N101NY",
+    "firstSeen": 1773051655,
+    "lastSeen": 1773053062,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 0.3908,
+    "landing": 1
+  }
+]

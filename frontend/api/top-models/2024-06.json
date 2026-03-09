@@ -1,0 +1,65 @@
+{
+  "month": "2024-06",
+  "data": [
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GV-SP (G550)",
+      "total_hours": 5558.9,
+      "total_landings": 3266
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GIV-X (G450)",
+      "total_hours": 4419.2,
+      "total_landings": 2614
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000EX",
+      "total_hours": 4493.1,
+      "total_landings": 2566
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "GVI (G650ER)",
+      "total_hours": 3931.8,
+      "total_landings": 2323
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 2414.3,
+      "total_landings": 2112
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2374.2,
+      "total_landings": 1660
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "total_hours": 1706.5,
+      "total_landings": 1439
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Bombardier Global 6000",
+      "total_hours": 2074.8,
+      "total_landings": 1370
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "total_hours": 1706.9,
+      "total_landings": 1328
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "FALCON 2000",
+      "total_hours": 2110.4,
+      "total_landings": 1288
+    }
+  ]
+}

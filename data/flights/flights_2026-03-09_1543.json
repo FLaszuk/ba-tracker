@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1773072498,
+    "lastSeen": 1773073558,
+    "estDepartureAirport": "3IS4",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 0.2944,
+    "landing": 1
+  },
+  {
+    "icao24": "a572b9",
+    "callsign": "N450GG",
+    "firstSeen": 1773062927,
+    "lastSeen": 1773074314,
+    "estDepartureAirport": "62TX",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 3.1631,
+    "landing": 1
+  },
+  {
+    "icao24": "ab9e5a",
+    "callsign": "EJM848",
+    "firstSeen": 1773059037,
+    "lastSeen": 1773072319,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.6894,
+    "landing": 1
+  }
+]

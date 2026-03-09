@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1772907408,
+    "lastSeen": 1772915478,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.2417,
+    "landing": 1
+  },
+  {
+    "icao24": "a54a2d",
+    "callsign": "N44VP",
+    "firstSeen": 1772904142,
+    "lastSeen": 1772915857,
+    "estDepartureAirport": "KNEW",
+    "estArrivalAirport": "TUPW",
+    "flight_hours": 3.2542,
+    "landing": 1
+  },
+  {
+    "icao24": "a69068",
+    "callsign": "N522AM",
+    "firstSeen": 1772919024,
+    "lastSeen": 1772920499,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "K16D",
+    "flight_hours": 0.4097,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8a8e",
+    "callsign": "N779AZ",
+    "firstSeen": 1772907896,
+    "lastSeen": 1772914418,
+    "estDepartureAirport": "KMEM",
+    "estArrivalAirport": "MYA0",
+    "flight_hours": 1.8117,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8eb3",
+    "callsign": "N78FJ",
+    "firstSeen": 1772898160,
+    "lastSeen": 1772915414,
+    "estDepartureAirport": "KJAX",
+    "estArrivalAirport": null,
+    "flight_hours": 4.7928,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6b9f",
+    "callsign": "N835HC",
+    "firstSeen": 1772904072,
+    "lastSeen": 1772914735,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.9619,
+    "landing": 1
+  },
+  {
+    "icao24": "ac836e",
+    "callsign": "N905TF",
+    "firstSeen": 1772910783,
+    "lastSeen": 1772917634,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.9031,
+    "landing": 1
+  },
+  {
+    "icao24": "c8224d",
+    "callsign": "SKL3",
+    "firstSeen": 1772911852,
+    "lastSeen": 1772916926,
+    "estDepartureAirport": "NZWN",
+    "estArrivalAirport": "NZQN",
+    "flight_hours": 1.4094,
+    "landing": 1
+  }
+]

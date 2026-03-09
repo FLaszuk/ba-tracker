@@ -1,0 +1,47 @@
+{
+  "month": "2026-02",
+  "data": [
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "total_hours": 19950.3,
+      "total_landings": 10635,
+      "market_share_pct": 31.3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "total_hours": 17772.5,
+      "total_landings": 9326,
+      "market_share_pct": 27.9
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "total_hours": 9267.0,
+      "total_landings": 5934,
+      "market_share_pct": 14.5
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "total_hours": 8242.3,
+      "total_landings": 5612,
+      "market_share_pct": 12.9
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "total_hours": 4853.7,
+      "total_landings": 3611,
+      "market_share_pct": 7.6
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "total_hours": 2139.9,
+      "total_landings": 1238,
+      "market_share_pct": 3.4
+    },
+    {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "total_hours": 1489.3,
+      "total_landings": 1084,
+      "market_share_pct": 2.3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4068f0",
+    "callsign": "LNX23JG",
+    "firstSeen": 1772983504,
+    "lastSeen": 1772984687,
+    "estDepartureAirport": "LEJR",
+    "estArrivalAirport": "LEGR",
+    "flight_hours": 0.3286,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU43QD",
+    "firstSeen": 1772980125,
+    "lastSeen": 1772984512,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2186,
+    "landing": 1
+  },
+  {
+    "icao24": "493282",
+    "callsign": "NJE788M",
+    "firstSeen": 1772983539,
+    "lastSeen": 1772985033,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LESE",
+    "flight_hours": 0.415,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2102",
+    "callsign": "VJT492",
+    "firstSeen": 1772979085,
+    "lastSeen": 1772984220,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.4264,
+    "landing": 1
+  },
+  {
+    "icao24": "a02b94",
+    "callsign": "N11TS",
+    "firstSeen": 1772981706,
+    "lastSeen": 1772984457,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.7642,
+    "landing": 1
+  },
+  {
+    "icao24": "a032bb",
+    "callsign": "TWY33",
+    "firstSeen": 1772974865,
+    "lastSeen": 1772984873,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": null,
+    "flight_hours": 2.78,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1772982002,
+    "lastSeen": 1772982838,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "CYQM",
+    "flight_hours": 0.2322,
+    "landing": 1
+  }
+]

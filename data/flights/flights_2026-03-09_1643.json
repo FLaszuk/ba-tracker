@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0723d",
+    "callsign": "N128JL",
+    "firstSeen": 1773076466,
+    "lastSeen": 1773077383,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2547,
+    "landing": 1
+  },
+  {
+    "icao24": "a572b9",
+    "callsign": "N450GG",
+    "firstSeen": 1773062927,
+    "lastSeen": 1773074314,
+    "estDepartureAirport": "62TX",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 3.1631,
+    "landing": 1
+  }
+]

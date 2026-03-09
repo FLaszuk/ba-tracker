@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0a3e1",
+    "callsign": "N140NE",
+    "firstSeen": 1772892799,
+    "lastSeen": 1772903076,
+    "estDepartureAirport": "KDTS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8547,
+    "landing": 1
+  },
+  {
+    "icao24": "a57253",
+    "callsign": "N450CE",
+    "firstSeen": 1772892362,
+    "lastSeen": 1772902670,
+    "estDepartureAirport": "KDAY",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.8633,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2e82",
+    "callsign": "N82A",
+    "firstSeen": 1772897869,
+    "lastSeen": 1772903451,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KSSI",
+    "flight_hours": 1.5506,
+    "landing": 1
+  }
+]

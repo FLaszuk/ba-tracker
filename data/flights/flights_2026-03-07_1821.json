@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0bf4c",
+    "callsign": "EJM14",
+    "firstSeen": 1772897292,
+    "lastSeen": 1772907391,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8053,
+    "landing": 1
+  },
+  {
+    "icao24": "a24039",
+    "callsign": "N244Q",
+    "firstSeen": 1772903891,
+    "lastSeen": 1772908069,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CA90",
+    "flight_hours": 1.1606,
+    "landing": 1
+  }
+]

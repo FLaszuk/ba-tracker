@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440866",
+    "callsign": "GAC401V",
+    "firstSeen": 1772977693,
+    "lastSeen": 1772979285,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 0.4422,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029f",
+    "callsign": "JFA52K",
+    "firstSeen": 1772976223,
+    "lastSeen": 1772980349,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 1.1461,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2102",
+    "callsign": "VJT492",
+    "firstSeen": 1772979085,
+    "lastSeen": 1772984220,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.4264,
+    "landing": 1
+  },
+  {
+    "icao24": "a02faf",
+    "callsign": "N1108M",
+    "firstSeen": 1772980768,
+    "lastSeen": 1772981660,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.2478,
+    "landing": 1
+  }
+]
