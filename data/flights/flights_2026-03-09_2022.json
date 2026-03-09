@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a180d5",
+    "callsign": "N1960H",
+    "firstSeen": 1773080784,
+    "lastSeen": 1773087635,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MS06",
+    "flight_hours": 1.9031,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f30c",
+    "callsign": "GLF17",
+    "firstSeen": 1773087938,
+    "lastSeen": 1773088949,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2808,
+    "landing": 1
+  },
+  {
+    "icao24": "a96483",
+    "callsign": "N704MF",
+    "firstSeen": 1773088552,
+    "lastSeen": 1773091272,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.7556,
+    "landing": 1
+  },
+  {
+    "icao24": "acf83f",
+    "callsign": "N935AC",
+    "firstSeen": 1773093565,
+    "lastSeen": 1773094192,
+    "estDepartureAirport": "4FL9",
+    "estArrivalAirport": "72FL",
+    "flight_hours": 0.1742,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1773086984,
+    "lastSeen": 1773087852,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2411,
+    "landing": 1
+  }
+]
