@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT1L",
+    "firstSeen": 1773075083,
+    "lastSeen": 1773079970,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3575,
+    "landing": 1
+  },
+  {
+    "icao24": "a0723d",
+    "callsign": "N128JL",
+    "firstSeen": 1773076466,
+    "lastSeen": 1773077383,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2547,
+    "landing": 1
+  },
+  {
+    "icao24": "a5818b",
+    "callsign": "LXJ454",
+    "firstSeen": 1773075941,
+    "lastSeen": 1773083515,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 2.1039,
+    "landing": 1
+  }
+]
