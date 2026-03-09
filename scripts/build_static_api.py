@@ -68,7 +68,7 @@ def build_api():
 
     # --- Per Month Endpoints ---
     for i, month in enumerate(months):
-        print(f"Generowanie endpointów dla miesiąca: {month}...")
+        print(f"Generowanie endpointow dla miesiaca: {month}...")
         
         # /api/kpi/{month}
         row = conn.execute("""
@@ -148,7 +148,7 @@ def build_api():
         write_json(f"{OUTPUT_DIR}/report/{month}.json", {"report": report_data})
 
     conn.close()
-    print("Zakończono generowanie statycznego API gotowego dla GitHub Pages!")
+    print("Zakonczono generowanie statycznego API gotowego dla GitHub Pages!")
 
 if __name__ == "__main__":
     build_api()

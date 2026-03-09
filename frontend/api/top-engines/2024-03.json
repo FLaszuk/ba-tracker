@@ -10,20 +10,20 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 6561.2,
-      "total_landings": 4023
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "TFE731-60",
-      "total_hours": 6073.2,
-      "total_landings": 3654
+      "total_hours": 8650.6,
+      "total_landings": 5555
     },
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 5318.1,
-      "total_landings": 3256
+      "total_hours": 8300.5,
+      "total_landings": 5034
+    },
+    {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 8046.7,
+      "total_landings": 5333
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -32,34 +32,34 @@
       "total_landings": 2947
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 3612.9,
+      "total_landings": 2892
+    },
+    {
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44",
+      "total_hours": 3245.5,
+      "total_landings": 2371
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW307A",
       "total_hours": 2868.3,
       "total_landings": 1833
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "AE 3007C2",
-      "total_hours": 2735.3,
-      "total_landings": 2127
-    },
-    {
-      "engine_manufacturer": "Williams International",
-      "engine_model": "FJ44-4A",
-      "total_hours": 2639.1,
-      "total_landings": 1911
-    },
-    {
       "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW535E1",
+      "engine_model": "PW535",
       "total_hours": 2224.0,
       "total_landings": 1871
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710A2-20",
-      "total_hours": 2049.8,
-      "total_landings": 1511
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW610F",
+      "total_hours": 1537.3,
+      "total_landings": 1217
     }
   ]
 }

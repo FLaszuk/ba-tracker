@@ -10,14 +10,20 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 6432.9,
-      "total_landings": 3745
+      "total_hours": 9120.6,
+      "total_landings": 5689
     },
     {
       "engine_manufacturer": "Honeywell",
-      "engine_model": "TFE731-60",
-      "total_hours": 6254.6,
-      "total_landings": 3602
+      "engine_model": "TFE731",
+      "total_hours": 8568.5,
+      "total_landings": 5700
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 7708.1,
+      "total_landings": 4584
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -27,15 +33,15 @@
     },
     {
       "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR725",
-      "total_hours": 4809.9,
-      "total_landings": 2927
+      "engine_model": "AE 3007",
+      "total_hours": 4241.0,
+      "total_landings": 3293
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "AE 3007C2",
-      "total_hours": 3263.5,
-      "total_landings": 2393
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44",
+      "total_hours": 3248.0,
+      "total_landings": 2280
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -45,21 +51,15 @@
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW535E1",
+      "engine_model": "PW535",
       "total_hours": 2628.2,
       "total_landings": 2167
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710A2-20",
-      "total_hours": 2580.1,
-      "total_landings": 1886
-    },
-    {
-      "engine_manufacturer": "Williams International",
-      "engine_model": "FJ44-4A",
-      "total_hours": 2525.0,
-      "total_landings": 1715
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW610F",
+      "total_hours": 1512.7,
+      "total_landings": 1156
     }
   ]
 }

@@ -2,64 +2,64 @@
   "month": "2025-12",
   "data": [
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GV-SP (G550)",
-      "total_hours": 5933.4,
-      "total_landings": 3136
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 9588.6,
+      "total_landings": 5013
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GIV-X (G450)",
-      "total_hours": 5277.6,
-      "total_landings": 2726
+      "aircraft_model": "G650",
+      "total_hours": 7787.3,
+      "total_landings": 4282
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 6740.3,
+      "total_landings": 3674
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 2000EX",
-      "total_hours": 4617.6,
-      "total_landings": 2236
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 2605.1,
-      "total_landings": 1924
+      "aircraft_model": "Falcon 900",
+      "total_hours": 6579.4,
+      "total_landings": 3407
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GVI (G650ER)",
-      "total_hours": 3416.2,
-      "total_landings": 1866
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Bombardier Global 6000",
-      "total_hours": 2651.7,
-      "total_landings": 1613
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 2628.9,
-      "total_landings": 1516
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 2000",
-      "total_hours": 2472.6,
-      "total_landings": 1213
+      "aircraft_model": "G450",
+      "total_hours": 5638.3,
+      "total_landings": 2988
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
-      "total_hours": 1945.7,
-      "total_landings": 1052
+      "total_hours": 4082.6,
+      "total_landings": 2536
     },
     {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "EA500",
-      "total_hours": 1470.4,
-      "total_landings": 1030
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 3022.9,
+      "total_landings": 2186
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 2204.0,
+      "total_landings": 1876
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 2954.7,
+      "total_landings": 1851
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 2780.3,
+      "total_landings": 1567
     }
   ]
 }

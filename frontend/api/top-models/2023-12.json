@@ -2,28 +2,52 @@
   "month": "2023-12",
   "data": [
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 8499.4,
+      "total_landings": 5332
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GV-SP (G550)",
-      "total_hours": 5358.0,
-      "total_landings": 3180
+      "aircraft_model": "G650",
+      "total_hours": 7103.3,
+      "total_landings": 4493
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 6027.4,
+      "total_landings": 3731
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 2000EX",
-      "total_hours": 4564.9,
-      "total_landings": 2655
+      "aircraft_model": "Falcon 900",
+      "total_hours": 6056.0,
+      "total_landings": 3721
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GIV-X (G450)",
-      "total_hours": 4098.0,
-      "total_landings": 2499
+      "aircraft_model": "G450",
+      "total_hours": 4331.8,
+      "total_landings": 2701
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "GVI (G650ER)",
-      "total_hours": 3177.2,
-      "total_landings": 2020
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 2225.9,
+      "total_landings": 1813
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 2086.8,
+      "total_landings": 1795
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 2496.9,
+      "total_landings": 1620
     },
     {
       "aircraft_manufacturer": "Pilatus",
@@ -32,34 +56,10 @@
       "total_landings": 1501
     },
     {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 1640.8,
-      "total_landings": 1479
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 2000",
-      "total_hours": 2198.2,
-      "total_landings": 1335
-    },
-    {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "EA500",
-      "total_hours": 1503.9,
-      "total_landings": 1217
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 900EX",
-      "total_hours": 1846.3,
-      "total_landings": 1101
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "FALCON 7X",
-      "total_hours": 1861.2,
-      "total_landings": 1100
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "total_hours": 1345.6,
+      "total_landings": 1245
     }
   ]
 }

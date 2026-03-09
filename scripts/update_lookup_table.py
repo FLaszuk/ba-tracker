@@ -19,61 +19,61 @@ ssl._create_default_https_context = ssl._create_unverified_context
 # i jakie domyślne silniki mu przypiszemy (dla statystyk rynkowych producentów silników)
 BIZJET_MAPPING = [
     # Gulfstream
-    {"m_like": "gulfstream", "model_like": "g700", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 700", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g650", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR725", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g600", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW815GA", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g550", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g500", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW814GA", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g450", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Tay 611-8C", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g280", "cat": "Small", "e_mfg": "Honeywell", "e_model": "HTF7250G", "e_cnt": 2},
-    {"m_like": "gulfstream", "model_like": "g200", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306A", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g700"], "a_model": "G700", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 700", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g650", "gvi"], "a_model": "G650", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR725", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g600"], "a_model": "G600", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW815GA", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g550", "gv-sp"], "a_model": "G550", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g500"], "a_model": "G500", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW814GA", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g450", "giv-x"], "a_model": "G450", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Tay 611-8C", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g280"], "a_model": "G280", "cat": "Small", "e_mfg": "Honeywell", "e_model": "HTF7250G", "e_cnt": 2},
+    {"m_like": "gulfstream", "model_like": ["g200"], "a_model": "G200", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306A", "e_cnt": 2},
     
     # Bombardier
-    {"m_like": "bombardier", "model_like": "global 7500", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "Passport 20", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "global 6500", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 15", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "global 6000", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710A2-20", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "global 5500", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 15", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "global 5000", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710A2-20", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "challenger 650", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "CF34-3B", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "challenger 605", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "CF34-3B", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "challenger 350", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7350", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "challenger 300", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7000", "e_cnt": 2},
-    {"m_like": "bombardier", "model_like": "learjet", "cat": "Small", "e_mfg": "Honeywell", "e_model": "TFE731", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["global 7500", "bd-700-2a12"], "a_model": "Global 7500", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "Passport 20", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["global 6500", "bd-700-1b10"], "a_model": "Global 6500", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 15", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["global 6000", "bd-700-1a10"], "a_model": "Global 6000", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["global 5500", "bd-700-1b11"], "a_model": "Global 5500", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "Pearl 15", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["global 5000"], "a_model": "Global 5000", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "BR710", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["challenger 650"], "a_model": "Challenger 650", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "CF34-3B", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["challenger 605"], "a_model": "Challenger 605", "cat": "Large", "e_mfg": "GE Aviation", "e_model": "CF34-3B", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["challenger 350"], "a_model": "Challenger 350", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7350", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["challenger 300"], "a_model": "Challenger 300", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7000", "e_cnt": 2},
+    {"m_like": "bombardier", "model_like": ["learjet"], "a_model": "Learjet", "cat": "Small", "e_mfg": "Honeywell", "e_model": "TFE731", "e_cnt": 2},
     
     # Dassault
-    {"m_like": "dassault", "model_like": "falcon 8x", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW307D", "e_cnt": 3},
-    {"m_like": "dassault", "model_like": "falcon 7x", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW307A", "e_cnt": 3},
-    {"m_like": "dassault", "model_like": "falcon 6x", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW812D", "e_cnt": 2},
-    {"m_like": "dassault", "model_like": "falcon 900", "cat": "Large", "e_mfg": "Honeywell", "e_model": "TFE731-60", "e_cnt": 3},
-    {"m_like": "dassault", "model_like": "falcon 2000", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW308C", "e_cnt": 2},
+    {"m_like": "dassault", "model_like": ["falcon 8x"], "a_model": "Falcon 8X", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW307D", "e_cnt": 3},
+    {"m_like": "dassault", "model_like": ["falcon 7x"], "a_model": "Falcon 7X", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW307A", "e_cnt": 3},
+    {"m_like": "dassault", "model_like": ["falcon 6x"], "a_model": "Falcon 6X", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW812D", "e_cnt": 2},
+    {"m_like": "dassault", "model_like": ["falcon 900"], "a_model": "Falcon 900", "cat": "Large", "e_mfg": "Honeywell", "e_model": "TFE731", "e_cnt": 3},
+    {"m_like": "dassault", "model_like": ["falcon 2000"], "a_model": "Falcon 2000", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW308C", "e_cnt": 2},
     
     # Embraer
-    {"m_like": "embraer", "model_like": "praetor 600", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "praetor 500", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "legacy 500", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "legacy 450", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "legacy 650", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007A2", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "legacy 600", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007A1E", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "phenom 300", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW535E1", "e_cnt": 2},
-    {"m_like": "embraer", "model_like": "phenom 100", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW617F1-E", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["praetor 600"], "a_model": "Praetor 600", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["praetor 500"], "a_model": "Praetor 500", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["legacy 500"], "a_model": "Legacy 500", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["legacy 450"], "a_model": "Legacy 450", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7500E", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["legacy 650"], "a_model": "Legacy 650", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["legacy 600"], "a_model": "Legacy 600", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["phenom 300"], "a_model": "Phenom 300", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW535", "e_cnt": 2},
+    {"m_like": "embraer", "model_like": ["phenom 100"], "a_model": "Phenom 100", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW617", "e_cnt": 2},
     
     # Textron / Cessna
-    {"m_like": "cessna", "model_like": "longitude", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7700L", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "latitude", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306D1", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "sovereign", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306C", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "citation x", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007C2", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "xls", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW545C", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "excel", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW545A", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "cj4", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44-4A", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "cj3", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44-3A", "e_cnt": 2},
-    {"m_like": "cessna", "model_like": "mustang", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW615F", "e_cnt": 2},
-    {"m_like": "textron", "model_like": "longitude", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7700L", "e_cnt": 2},
-    {"m_like": "textron", "model_like": "latitude", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306D1", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["longitude"], "a_model": "Citation Longitude", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7700L", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["latitude"], "a_model": "Citation Latitude", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306D1", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["sovereign"], "a_model": "Citation Sovereign", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306C", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["citation x"], "a_model": "Citation X", "cat": "Large", "e_mfg": "Rolls-Royce", "e_model": "AE 3007", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["xls"], "a_model": "Citation XLS", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW545", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["excel"], "a_model": "Citation Excel", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW545", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["cj4"], "a_model": "Citation CJ4", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["cj3"], "a_model": "Citation CJ3", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44", "e_cnt": 2},
+    {"m_like": "cessna", "model_like": ["mustang"], "a_model": "Citation Mustang", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW615F", "e_cnt": 2},
+    {"m_like": "textron", "model_like": ["longitude"], "a_model": "Citation Longitude", "cat": "Large", "e_mfg": "Honeywell", "e_model": "HTF7700L", "e_cnt": 2},
+    {"m_like": "textron", "model_like": ["latitude"], "a_model": "Citation Latitude", "cat": "Large", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW306D1", "e_cnt": 2},
 
     # Pozostałe
-    {"m_like": "pilatus", "model_like": "pc-24", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44-4A", "e_cnt": 2},
-    {"m_like": "honda", "model_like": "hondajet", "cat": "Small", "e_mfg": "GE Aviation", "e_model": "HF120", "e_cnt": 2},
-    {"m_like": "eclipse", "model_like": "500", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW610F", "e_cnt": 2},
+    {"m_like": "pilatus", "model_like": ["pc-24"], "a_model": "PC-24", "cat": "Small", "e_mfg": "Williams International", "e_model": "FJ44", "e_cnt": 2},
+    {"m_like": "honda", "model_like": ["hondajet"], "a_model": "HondaJet", "cat": "Small", "e_mfg": "GE Aviation", "e_model": "HF120", "e_cnt": 2},
+    {"m_like": "eclipse", "model_like": ["500", "550"], "a_model": "Eclipse 500", "cat": "Small", "e_mfg": "Pratt & Whitney Canada", "e_model": "PW610F", "e_cnt": 2},
 ]
 
 
@@ -96,10 +96,10 @@ def map_aircraft_details(manufacturer: str, model: str):
     mod_low = model.lower() if isinstance(model, str) else ""
 
     for rule in BIZJET_MAPPING:
-        if rule["m_like"] in man_low and rule["model_like"] in mod_low:
+        if rule["m_like"] in man_low and any(ml in mod_low for ml in rule["model_like"]):
             return {
                 "aircraft_manufacturer": normalize_manufacturer(manufacturer),
-                "aircraft_model": model.strip(),
+                "aircraft_model": rule.get("a_model", model.strip()),
                 "aircraft_category": rule["cat"],
                 "engine_manufacturer": rule["e_mfg"],
                 "engine_model": rule["e_model"],
