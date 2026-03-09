@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1773061966,
+    "lastSeen": 1773064036,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": "YDRA",
+    "flight_hours": 0.575,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1773061289,
+    "lastSeen": 1773067160,
+    "estDepartureAirport": "KPIE",
+    "estArrivalAirport": "60IS",
+    "flight_hours": 1.6308,
+    "landing": 1
+  },
+  {
+    "icao24": "e4885e",
+    "callsign": "PRBCO",
+    "firstSeen": 1773063220,
+    "lastSeen": 1773064626,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDOD",
+    "flight_hours": 0.3906,
+    "landing": 1
+  }
+]
