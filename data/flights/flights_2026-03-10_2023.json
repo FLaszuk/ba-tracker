@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d08d4",
+    "callsign": "LFT7584",
+    "firstSeen": 1773174460,
+    "lastSeen": 1773176005,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4292,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1773170494,
+    "lastSeen": 1773173617,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KGTR",
+    "flight_hours": 0.8675,
+    "landing": 1
+  }
+]
