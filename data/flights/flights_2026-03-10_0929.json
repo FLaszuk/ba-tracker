@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "8002ce",
+    "callsign": "IFC1",
+    "firstSeen": 1773132740,
+    "lastSeen": 1773134454,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VISM",
+    "flight_hours": 0.4761,
+    "landing": 1
+  },
+  {
+    "icao24": "a0f179",
+    "callsign": "N16XY",
+    "firstSeen": 1773090267,
+    "lastSeen": 1773136126,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 12.7386,
+    "landing": 1
+  }
+]
