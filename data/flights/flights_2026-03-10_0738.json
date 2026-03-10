@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "39a04c",
+    "callsign": "OYO10",
+    "firstSeen": 1773126964,
+    "lastSeen": 1773128847,
+    "estDepartureAirport": "LFLS",
+    "estArrivalAirport": "LFMF",
+    "flight_hours": 0.5231,
+    "landing": 1
+  },
+  {
+    "icao24": "43ead2",
+    "callsign": "MLLIN",
+    "firstSeen": 1773116987,
+    "lastSeen": 1773128025,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "WMBT",
+    "flight_hours": 3.0661,
+    "landing": 1
+  },
+  {
+    "icao24": "484615",
+    "callsign": "PHANO",
+    "firstSeen": 1773124202,
+    "lastSeen": 1773128688,
+    "estDepartureAirport": "ETHN",
+    "estArrivalAirport": "LHDC",
+    "flight_hours": 1.2461,
+    "landing": 1
+  }
+]
