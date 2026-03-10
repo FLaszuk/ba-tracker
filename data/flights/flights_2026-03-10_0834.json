@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1773130164,
+    "lastSeen": 1773132102,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": "YDRA",
+    "flight_hours": 0.5383,
+    "landing": 1
+  },
+  {
+    "icao24": "885930",
+    "callsign": "HSVIP",
+    "firstSeen": 1773130193,
+    "lastSeen": 1773132417,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6178,
+    "landing": 1
+  }
+]
