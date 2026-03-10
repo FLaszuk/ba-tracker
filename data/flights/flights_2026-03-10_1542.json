@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d055c",
+    "callsign": "LET7748",
+    "firstSeen": 1773157795,
+    "lastSeen": 1773159809,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM56",
+    "flight_hours": 0.5594,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1773153394,
+    "lastSeen": 1773159873,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7997,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773153669,
+    "lastSeen": 1773160229,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8222,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1773154203,
+    "lastSeen": 1773157389,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 0.885,
+    "landing": 1
+  }
+]
