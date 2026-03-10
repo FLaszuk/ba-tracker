@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1773106056,
+    "lastSeen": 1773107798,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YTLG",
+    "flight_hours": 0.4839,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1773109748,
+    "lastSeen": 1773110733,
+    "estDepartureAirport": "YSCB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2736,
+    "landing": 1
+  }
+]
