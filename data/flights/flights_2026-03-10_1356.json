@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49d0e0",
+    "callsign": "ABP752",
+    "firstSeen": 1773146195,
+    "lastSeen": 1773150454,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.1831,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT3079",
+    "firstSeen": 1773147014,
+    "lastSeen": 1773150875,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 1.0725,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c8fe",
+    "callsign": "N600TX",
+    "firstSeen": 1773150713,
+    "lastSeen": 1773151920,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "MYAN",
+    "flight_hours": 0.3353,
+    "landing": 1
+  }
+]
