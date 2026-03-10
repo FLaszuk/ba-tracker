@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "490d01",
+    "callsign": "NJE5KZ",
+    "firstSeen": 1773136858,
+    "lastSeen": 1773138968,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.5861,
+    "landing": 1
+  },
+  {
+    "icao24": "800140",
+    "callsign": "VTTBT",
+    "firstSeen": 1773139932,
+    "lastSeen": 1773141977,
+    "estDepartureAirport": "VECC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5681,
+    "landing": 1
+  }
+]
