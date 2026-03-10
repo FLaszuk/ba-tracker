@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cf774",
+    "callsign": "BTX3C",
+    "firstSeen": 1773153188,
+    "lastSeen": 1773156564,
+    "estDepartureAirport": "EDVE",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.9378,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1773149585,
+    "lastSeen": 1773156280,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 1.8597,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ad37",
+    "callsign": "GLF93",
+    "firstSeen": 1773151584,
+    "lastSeen": 1773154162,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7161,
+    "landing": 1
+  },
+  {
+    "icao24": "aa5d7f",
+    "callsign": "N767WB",
+    "firstSeen": 1773153598,
+    "lastSeen": 1773155064,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "1CA4",
+    "flight_hours": 0.4072,
+    "landing": 1
+  }
+]
