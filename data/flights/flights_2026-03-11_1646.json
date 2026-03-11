@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS176",
+    "firstSeen": 1773245806,
+    "lastSeen": 1773249583,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.0492,
+    "landing": 1
+  },
+  {
+    "icao24": "a19d2e",
+    "callsign": "N203AF",
+    "firstSeen": 1773242285,
+    "lastSeen": 1773248401,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.6989,
+    "landing": 1
+  },
+  {
+    "icao24": "acdd17",
+    "callsign": "KFB928",
+    "firstSeen": 1773244915,
+    "lastSeen": 1773251931,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.9489,
+    "landing": 1
+  },
+  {
+    "icao24": "adc8e6",
+    "callsign": "N988AK",
+    "firstSeen": 1773246272,
+    "lastSeen": 1773248220,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KE34",
+    "flight_hours": 0.5411,
+    "landing": 1
+  }
+]
