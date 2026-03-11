@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1773245330,
+    "lastSeen": 1773256267,
+    "estDepartureAirport": "IG02",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 3.0381,
+    "landing": 1
+  },
+  {
+    "icao24": "acdd17",
+    "callsign": "KFB928",
+    "firstSeen": 1773244915,
+    "lastSeen": 1773251931,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.9489,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1773244663,
+    "lastSeen": 1773250302,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 1.5664,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1773237455,
+    "lastSeen": 1773252001,
+    "estDepartureAirport": "KBHM",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 4.0406,
+    "landing": 1
+  }
+]
