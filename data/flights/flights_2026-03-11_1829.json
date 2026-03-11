@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1773245330,
+    "lastSeen": 1773256267,
+    "estDepartureAirport": "IG02",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 3.0381,
+    "landing": 1
+  },
+  {
+    "icao24": "a88ebf",
+    "callsign": "N650WS",
+    "firstSeen": 1773251552,
+    "lastSeen": 1773256557,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3903,
+    "landing": 1
+  }
+]
