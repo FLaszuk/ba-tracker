@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1773259039,
+    "lastSeen": 1773265063,
+    "estDepartureAirport": "KISM",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 1.6733,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1773266429,
+    "lastSeen": 1773267861,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "K2E7",
+    "flight_hours": 0.3978,
+    "landing": 1
+  },
+  {
+    "icao24": "a71948",
+    "callsign": "N5569",
+    "firstSeen": 1773250032,
+    "lastSeen": 1773263529,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 3.7492,
+    "landing": 1
+  },
+  {
+    "icao24": "ace64a",
+    "callsign": "N930GL",
+    "firstSeen": 1773262720,
+    "lastSeen": 1773263935,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KICT",
+    "flight_hours": 0.3375,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1773258595,
+    "lastSeen": 1773264035,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CA90",
+    "flight_hours": 1.5111,
+    "landing": 1
+  }
+]
