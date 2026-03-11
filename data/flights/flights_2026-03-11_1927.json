@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a058f1",
+    "callsign": "TWY42",
+    "firstSeen": 1773252175,
+    "lastSeen": 1773258978,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8897,
+    "landing": 1
+  },
+  {
+    "icao24": "a117ad",
+    "callsign": "N17JS",
+    "firstSeen": 1773255812,
+    "lastSeen": 1773257401,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 0.4414,
+    "landing": 1
+  },
+  {
+    "icao24": "a19245",
+    "callsign": "N200CR",
+    "firstSeen": 1773256125,
+    "lastSeen": 1773262315,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FA44",
+    "flight_hours": 1.7194,
+    "landing": 1
+  }
+]
