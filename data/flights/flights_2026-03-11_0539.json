@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1773205417,
+    "lastSeen": 1773208548,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8697,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE962",
+    "firstSeen": 1773207309,
+    "lastSeen": 1773210022,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7536,
+    "landing": 1
+  },
+  {
+    "icao24": "ac426d",
+    "callsign": "N88959",
+    "firstSeen": 1773209836,
+    "lastSeen": 1773210768,
+    "estDepartureAirport": "RCSS",
+    "estArrivalAirport": "RCSS",
+    "flight_hours": 0.2589,
+    "landing": 1
+  }
+]
