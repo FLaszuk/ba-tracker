@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1773230313,
+    "lastSeen": 1773231421,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.3078,
+    "landing": 1
+  },
+  {
+    "icao24": "4b90ee",
+    "callsign": "TCDGN",
+    "firstSeen": 1773230730,
+    "lastSeen": 1773234011,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": "LTAF",
+    "flight_hours": 0.9114,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d30c",
+    "callsign": "N152QS",
+    "firstSeen": 1773229348,
+    "lastSeen": 1773231141,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.4981,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4a6",
+    "callsign": "GLF68",
+    "firstSeen": 1773233980,
+    "lastSeen": 1773234745,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2125,
+    "landing": 1
+  }
+]
