@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "39a04c",
+    "callsign": "OYO10",
+    "firstSeen": 1773216445,
+    "lastSeen": 1773217659,
+    "estDepartureAirport": "LFLS",
+    "estArrivalAirport": "LFLY",
+    "flight_hours": 0.3372,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE962",
+    "firstSeen": 1773216494,
+    "lastSeen": 1773219395,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YWEL",
+    "flight_hours": 0.8058,
+    "landing": 1
+  }
+]
