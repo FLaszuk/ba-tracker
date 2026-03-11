@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d055c",
+    "callsign": "LET7221",
+    "firstSeen": 1773183481,
+    "lastSeen": 1773185233,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMDM",
+    "flight_hours": 0.4867,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1773180453,
+    "lastSeen": 1773186721,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7411,
+    "landing": 1
+  },
+  {
+    "icao24": "a24a8d",
+    "callsign": "TWY247",
+    "firstSeen": 1773179967,
+    "lastSeen": 1773187378,
+    "estDepartureAirport": "MMMY",
+    "estArrivalAirport": "KATL",
+    "flight_hours": 2.0586,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1773182130,
+    "lastSeen": 1773186079,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "CA90",
+    "flight_hours": 1.0969,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1773184735,
+    "lastSeen": 1773185736,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2781,
+    "landing": 1
+  }
+]
