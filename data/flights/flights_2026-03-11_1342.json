@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "494106",
+    "callsign": "NJE673N",
+    "firstSeen": 1773226821,
+    "lastSeen": 1773236843,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "EDQN",
+    "flight_hours": 2.7839,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS794",
+    "firstSeen": 1773231375,
+    "lastSeen": 1773235982,
+    "estDepartureAirport": "KCAE",
+    "estArrivalAirport": "K2R0",
+    "flight_hours": 1.2797,
+    "landing": 1
+  },
+  {
+    "icao24": "a80275",
+    "callsign": "N615MS",
+    "firstSeen": 1773235384,
+    "lastSeen": 1773240157,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 1.3258,
+    "landing": 1
+  },
+  {
+    "icao24": "a8a397",
+    "callsign": "LXJ656",
+    "firstSeen": 1773228696,
+    "lastSeen": 1773236307,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1142,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1773237948,
+    "lastSeen": 1773239898,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.5417,
+    "landing": 1
+  }
+]
