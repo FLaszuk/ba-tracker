@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1773238019,
+    "lastSeen": 1773246557,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "1TN2",
+    "flight_hours": 2.3717,
+    "landing": 1
+  },
+  {
+    "icao24": "e488c9",
+    "callsign": "PPOGX",
+    "firstSeen": 1773244127,
+    "lastSeen": 1773245922,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.4986,
+    "landing": 1
+  }
+]
