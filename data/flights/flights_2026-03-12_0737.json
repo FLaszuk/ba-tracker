@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1773299472,
+    "lastSeen": 1773302946,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.965,
+    "landing": 1
+  },
+  {
+    "icao24": "4a5251",
+    "callsign": "YRTRQ",
+    "firstSeen": 1773301868,
+    "lastSeen": 1773303558,
+    "estDepartureAirport": "LRBS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4694,
+    "landing": 1
+  },
+  {
+    "icao24": "4d207e",
+    "callsign": "VJT720",
+    "firstSeen": 1773300690,
+    "lastSeen": 1773303853,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 0.8786,
+    "landing": 1
+  }
+]
