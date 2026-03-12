@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1773281078,
+    "lastSeen": 1773282073,
+    "estDepartureAirport": "YMOR",
+    "estArrivalAirport": "YCBR",
+    "flight_hours": 0.2764,
+    "landing": 1
+  },
+  {
+    "icao24": "a1828d",
+    "callsign": "LBQ197",
+    "firstSeen": 1773269619,
+    "lastSeen": 1773282601,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 3.6061,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1773279846,
+    "lastSeen": 1773282920,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8539,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1773275615,
+    "lastSeen": 1773281824,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.7247,
+    "landing": 1
+  }
+]
