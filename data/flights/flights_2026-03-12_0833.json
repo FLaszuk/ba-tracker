@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b90ee",
+    "callsign": "TCDGN",
+    "firstSeen": 1773295139,
+    "lastSeen": 1773304943,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 2.7233,
+    "landing": 1
+  },
+  {
+    "icao24": "4d207e",
+    "callsign": "VJT720",
+    "firstSeen": 1773300690,
+    "lastSeen": 1773303853,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 0.8786,
+    "landing": 1
+  }
+]
