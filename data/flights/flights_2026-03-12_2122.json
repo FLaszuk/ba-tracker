@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1773344420,
+    "lastSeen": 1773350574,
+    "estDepartureAirport": "41CO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7094,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa488",
+    "callsign": "N785QS",
+    "firstSeen": 1773346321,
+    "lastSeen": 1773350279,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "33AZ",
+    "flight_hours": 1.0994,
+    "landing": 1
+  },
+  {
+    "icao24": "ad326b",
+    "callsign": "N95BD",
+    "firstSeen": 1773342472,
+    "lastSeen": 1773350931,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KTVR",
+    "flight_hours": 2.3497,
+    "landing": 1
+  }
+]
