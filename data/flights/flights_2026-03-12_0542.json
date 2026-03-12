@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1773296072,
+    "lastSeen": 1773299240,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.88,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT878",
+    "firstSeen": 1773289730,
+    "lastSeen": 1773295891,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7114,
+    "landing": 1
+  }
+]
