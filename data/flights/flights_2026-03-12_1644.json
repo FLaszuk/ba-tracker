@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619",
+    "firstSeen": 1773332704,
+    "lastSeen": 1773335039,
+    "estDepartureAirport": "LIPR",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.6486,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA55H",
+    "firstSeen": 1773331304,
+    "lastSeen": 1773333812,
+    "estDepartureAirport": "LSZC",
+    "estArrivalAirport": "LFMF",
+    "flight_hours": 0.6967,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fe42",
+    "callsign": "EJA163",
+    "firstSeen": 1773326504,
+    "lastSeen": 1773334524,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 2.2278,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773326866,
+    "lastSeen": 1773337191,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 2.8681,
+    "landing": 1
+  },
+  {
+    "icao24": "a26b80",
+    "callsign": "EJA255",
+    "firstSeen": 1773332648,
+    "lastSeen": 1773335073,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "MS43",
+    "flight_hours": 0.6736,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1773333156,
+    "lastSeen": 1773336904,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 1.0411,
+    "landing": 1
+  }
+]
