@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU42ML",
+    "firstSeen": 1773325721,
+    "lastSeen": 1773330669,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.3744,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1773325588,
+    "lastSeen": 1773330531,
+    "estDepartureAirport": "KPVD",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 1.3731,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a0f",
+    "callsign": "N500BF",
+    "firstSeen": 1773329590,
+    "lastSeen": 1773331327,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "KPWA",
+    "flight_hours": 0.4825,
+    "landing": 1
+  }
+]
