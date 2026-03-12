@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "aa8e2b",
+    "callsign": "N77999",
+    "firstSeen": 1773279998,
+    "lastSeen": 1773318373,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": null,
+    "flight_hours": 10.6597,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1773315886,
+    "lastSeen": 1773317568,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4672,
+    "landing": 1
+  }
+]
