@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1773340896,
+    "lastSeen": 1773344255,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KAGC",
+    "flight_hours": 0.9331,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1773336892,
+    "lastSeen": 1773339915,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "OR53",
+    "flight_hours": 0.8397,
+    "landing": 1
+  },
+  {
+    "icao24": "a82d60",
+    "callsign": "N626JS",
+    "firstSeen": 1773332780,
+    "lastSeen": 1773339955,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.9931,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9c39",
+    "callsign": "N783FS",
+    "firstSeen": 1773339707,
+    "lastSeen": 1773341835,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KA20",
+    "flight_hours": 0.5911,
+    "landing": 1
+  },
+  {
+    "icao24": "e4859a",
+    "callsign": "PPOAC",
+    "firstSeen": 1773339500,
+    "lastSeen": 1773340454,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.265,
+    "landing": 1
+  }
+]
