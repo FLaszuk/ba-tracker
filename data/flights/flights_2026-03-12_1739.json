@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773326866,
+    "lastSeen": 1773337191,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 2.8681,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1773336892,
+    "lastSeen": 1773339915,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "OR53",
+    "flight_hours": 0.8397,
+    "landing": 1
+  },
+  {
+    "icao24": "a82d60",
+    "callsign": "N626JS",
+    "firstSeen": 1773332780,
+    "lastSeen": 1773339955,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.9931,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1773333156,
+    "lastSeen": 1773336904,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 1.0411,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1773336570,
+    "lastSeen": 1773339360,
+    "estDepartureAirport": "KPVD",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.775,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1773336343,
+    "lastSeen": 1773338142,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.4997,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1773338265,
+    "lastSeen": 1773339027,
+    "estDepartureAirport": "KUDD",
+    "estArrivalAirport": "KAPV",
+    "flight_hours": 0.2117,
+    "landing": 1
+  }
+]
