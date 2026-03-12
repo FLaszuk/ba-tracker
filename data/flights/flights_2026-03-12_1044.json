@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "493283",
+    "callsign": "NJE6BG",
+    "firstSeen": 1773309511,
+    "lastSeen": 1773313496,
+    "estDepartureAirport": "EHRD",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.1069,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3453",
+    "firstSeen": 1773296210,
+    "lastSeen": 1773312509,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": "HESC",
+    "flight_hours": 4.5275,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1773310397,
+    "lastSeen": 1773312495,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SIHW",
+    "flight_hours": 0.5828,
+    "landing": 1
+  }
+]
