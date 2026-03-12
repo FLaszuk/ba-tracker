@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d073a",
+    "callsign": "XABLZ",
+    "firstSeen": 1773268222,
+    "lastSeen": 1773271233,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.8364,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1773262571,
+    "lastSeen": 1773272801,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KGEG",
+    "flight_hours": 2.8417,
+    "landing": 1
+  },
+  {
+    "icao24": "a072b8",
+    "callsign": "N128PJ",
+    "firstSeen": 1773274427,
+    "lastSeen": 1773275056,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 0.1747,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1773270308,
+    "lastSeen": 1773273484,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "3MS8",
+    "flight_hours": 0.8822,
+    "landing": 1
+  }
+]
