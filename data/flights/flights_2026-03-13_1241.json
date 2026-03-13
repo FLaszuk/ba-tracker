@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d002a",
+    "callsign": "XBBBZ",
+    "firstSeen": 1773404895,
+    "lastSeen": 1773406144,
+    "estDepartureAirport": "MMVR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3469,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA41R",
+    "firstSeen": 1773406314,
+    "lastSeen": 1773410150,
+    "estDepartureAirport": "LSZC",
+    "estArrivalAirport": "LSZC",
+    "flight_hours": 1.0656,
+    "landing": 1
+  }
+]
