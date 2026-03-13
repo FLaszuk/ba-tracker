@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1773378054,
+    "lastSeen": 1773380073,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5608,
+    "landing": 1
+  },
+  {
+    "icao24": "880401",
+    "callsign": "MTL1124",
+    "firstSeen": 1773382233,
+    "lastSeen": 1773383491,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": "VTPN",
+    "flight_hours": 0.3494,
+    "landing": 1
+  }
+]
