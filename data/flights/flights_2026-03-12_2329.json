@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0fe42",
+    "callsign": "EJA163",
+    "firstSeen": 1773357807,
+    "lastSeen": 1773358727,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2556,
+    "landing": 1
+  },
+  {
+    "icao24": "a105b0",
+    "callsign": "EJA165",
+    "firstSeen": 1773357382,
+    "lastSeen": 1773360669,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KLGB",
+    "flight_hours": 0.9131,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773351202,
+    "lastSeen": 1773359869,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KO81",
+    "flight_hours": 2.4075,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1773355937,
+    "lastSeen": 1773359319,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "AZ86",
+    "flight_hours": 0.9394,
+    "landing": 1
+  },
+  {
+    "icao24": "a9811d",
+    "callsign": "N711PV",
+    "firstSeen": 1773353994,
+    "lastSeen": 1773361167,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 1.9925,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5022",
+    "callsign": "N957RC",
+    "firstSeen": 1773354185,
+    "lastSeen": 1773361656,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 2.0753,
+    "landing": 1
+  }
+]
