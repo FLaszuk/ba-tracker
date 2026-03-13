@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1773430423,
+    "lastSeen": 1773431379,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "SC89",
+    "flight_hours": 0.2656,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fe42",
+    "callsign": "EJA163",
+    "firstSeen": 1773425135,
+    "lastSeen": 1773429742,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.2797,
+    "landing": 1
+  },
+  {
+    "icao24": "a110d5",
+    "callsign": "EJA168",
+    "firstSeen": 1773429657,
+    "lastSeen": 1773431495,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "KOKC",
+    "flight_hours": 0.5106,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f808",
+    "callsign": "LXJ484",
+    "firstSeen": 1773416533,
+    "lastSeen": 1773430470,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.8714,
+    "landing": 1
+  },
+  {
+    "icao24": "a91664",
+    "callsign": "N685GD",
+    "firstSeen": 1773427281,
+    "lastSeen": 1773433909,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KPHK",
+    "flight_hours": 1.8411,
+    "landing": 1
+  },
+  {
+    "icao24": "e0340c",
+    "callsign": "LVCPL",
+    "firstSeen": 1773430870,
+    "lastSeen": 1773431997,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUAA",
+    "flight_hours": 0.3131,
+    "landing": 1
+  }
+]
