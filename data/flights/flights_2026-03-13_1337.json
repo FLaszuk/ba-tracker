@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU16EV",
+    "firstSeen": 1773405565,
+    "lastSeen": 1773408606,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8447,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA41R",
+    "firstSeen": 1773406314,
+    "lastSeen": 1773410150,
+    "estDepartureAirport": "LSZC",
+    "estArrivalAirport": "LSZC",
+    "flight_hours": 1.0656,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773409623,
+    "lastSeen": 1773411965,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "5XS2",
+    "flight_hours": 0.6506,
+    "landing": 1
+  },
+  {
+    "icao24": "aa4089",
+    "callsign": "N76PW",
+    "firstSeen": 1773411288,
+    "lastSeen": 1773412104,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2267,
+    "landing": 1
+  }
+]
