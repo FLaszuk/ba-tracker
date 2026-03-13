@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1773365642,
+    "lastSeen": 1773367261,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4497,
+    "landing": 1
+  },
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1773362228,
+    "lastSeen": 1773368535,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 1.7519,
+    "landing": 1
+  },
+  {
+    "icao24": "a63db5",
+    "callsign": "N501AP",
+    "firstSeen": 1773367105,
+    "lastSeen": 1773368934,
+    "estDepartureAirport": "KUDD",
+    "estArrivalAirport": "KBUR",
+    "flight_hours": 0.5081,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1773351848,
+    "lastSeen": 1773367581,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "1CA4",
+    "flight_hours": 4.3703,
+    "landing": 1
+  }
+]
