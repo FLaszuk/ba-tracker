@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1773425160,
+    "lastSeen": 1773428001,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": "EDLW",
+    "flight_hours": 0.7892,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU62WU",
+    "firstSeen": 1773421856,
+    "lastSeen": 1773426175,
+    "estDepartureAirport": "LFST",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1997,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d9e0",
+    "callsign": "N540W",
+    "firstSeen": 1773416022,
+    "lastSeen": 1773427835,
+    "estDepartureAirport": "KBKL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 3.2814,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1773420138,
+    "lastSeen": 1773427063,
+    "estDepartureAirport": "FD08",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 1.9236,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1773421277,
+    "lastSeen": 1773428864,
+    "estDepartureAirport": "KISM",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 2.1075,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1773424818,
+    "lastSeen": 1773426358,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4278,
+    "landing": 1
+  },
+  {
+    "icao24": "e48eb7",
+    "callsign": "PSGMJ",
+    "firstSeen": 1773427247,
+    "lastSeen": 1773428867,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.45,
+    "landing": 1
+  }
+]
