@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1773396505,
+    "lastSeen": 1773398422,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 0.5325,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f063",
+    "callsign": "N610SW",
+    "firstSeen": 1773397031,
+    "lastSeen": 1773398461,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.3972,
+    "landing": 1
+  }
+]
