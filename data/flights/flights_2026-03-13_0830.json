@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1773390886,
+    "lastSeen": 1773395183,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 1.1936,
+    "landing": 1
+  },
+  {
+    "icao24": "885930",
+    "callsign": "HSVIP",
+    "firstSeen": 1773388642,
+    "lastSeen": 1773391302,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7389,
+    "landing": 1
+  },
+  {
+    "icao24": "a36594",
+    "callsign": "TBJ90",
+    "firstSeen": 1773392989,
+    "lastSeen": 1773393675,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1906,
+    "landing": 1
+  }
+]
