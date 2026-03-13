@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1773425160,
+    "lastSeen": 1773428001,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": "EDLW",
+    "flight_hours": 0.7892,
+    "landing": 1
+  },
+  {
+    "icao24": "a02faf",
+    "callsign": "N1108M",
+    "firstSeen": 1773414087,
+    "lastSeen": 1773423705,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.6717,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1773419613,
+    "lastSeen": 1773425879,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.7406,
+    "landing": 1
+  },
+  {
+    "icao24": "a7b13f",
+    "callsign": "N595P",
+    "firstSeen": 1773419122,
+    "lastSeen": 1773423749,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.2853,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1773420138,
+    "lastSeen": 1773427063,
+    "estDepartureAirport": "FD08",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 1.9236,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cefa",
+    "callsign": "N667HS",
+    "firstSeen": 1773419228,
+    "lastSeen": 1773424060,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.3422,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1773421277,
+    "lastSeen": 1773428864,
+    "estDepartureAirport": "KISM",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 2.1075,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1773415453,
+    "lastSeen": 1773422765,
+    "estDepartureAirport": "KCID",
+    "estArrivalAirport": "KPUB",
+    "flight_hours": 2.0311,
+    "landing": 1
+  },
+  {
+    "icao24": "aba69b",
+    "callsign": "N85SM",
+    "firstSeen": 1773422246,
+    "lastSeen": 1773423274,
+    "estDepartureAirport": "KBTF",
+    "estArrivalAirport": "K41U",
+    "flight_hours": 0.2856,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1773424818,
+    "lastSeen": 1773426358,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4278,
+    "landing": 1
+  }
+]
