@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1773373625,
+    "lastSeen": 1773374963,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3717,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1773373356,
+    "lastSeen": 1773375870,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.6983,
+    "landing": 1
+  },
+  {
+    "icao24": "a954c8",
+    "callsign": "N700CH",
+    "firstSeen": 1773370552,
+    "lastSeen": 1773374548,
+    "estDepartureAirport": "KSGF",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 1.11,
+    "landing": 1
+  }
+]
