@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "",
+    "firstSeen": 1773393205,
+    "lastSeen": 1773394491,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3572,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1773390886,
+    "lastSeen": 1773395183,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 1.1936,
+    "landing": 1
+  },
+  {
+    "icao24": "491187",
+    "callsign": "NJE896N",
+    "firstSeen": 1773392472,
+    "lastSeen": 1773394507,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 0.5653,
+    "landing": 1
+  },
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1773396505,
+    "lastSeen": 1773398422,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 0.5325,
+    "landing": 1
+  },
+  {
+    "icao24": "a36594",
+    "callsign": "TBJ90",
+    "firstSeen": 1773392989,
+    "lastSeen": 1773393675,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1906,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e742",
+    "callsign": "N415FT",
+    "firstSeen": 1773366055,
+    "lastSeen": 1773395594,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 8.2053,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f063",
+    "callsign": "N610SW",
+    "firstSeen": 1773397031,
+    "lastSeen": 1773398461,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.3972,
+    "landing": 1
+  }
+]
