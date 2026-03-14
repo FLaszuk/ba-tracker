@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "009ee0",
+    "callsign": "EXD020",
+    "firstSeen": 1773473472,
+    "lastSeen": 1773480173,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": "FALL",
+    "flight_hours": 1.8614,
+    "landing": 1
+  },
+  {
+    "icao24": "4406cb",
+    "callsign": "OEHEY",
+    "firstSeen": 1773480358,
+    "lastSeen": 1773483311,
+    "estDepartureAirport": "LOWG",
+    "estArrivalAirport": "LSZR",
+    "flight_hours": 0.8203,
+    "landing": 1
+  }
+]
