@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "491d84",
+    "callsign": "NJE162W",
+    "firstSeen": 1773480015,
+    "lastSeen": 1773487388,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMF",
+    "flight_hours": 2.0481,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ef",
+    "callsign": "CHZ771P",
+    "firstSeen": 1773486152,
+    "lastSeen": 1773488717,
+    "estDepartureAirport": "EBLG",
+    "estArrivalAirport": "EDDV",
+    "flight_hours": 0.7125,
+    "landing": 1
+  }
+]
