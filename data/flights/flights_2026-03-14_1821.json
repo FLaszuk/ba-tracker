@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU53FE",
+    "firstSeen": 1773502981,
+    "lastSeen": 1773512540,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 2.6553,
+    "landing": 1
+  },
+  {
+    "icao24": "a26b80",
+    "callsign": "EJA255",
+    "firstSeen": 1773506188,
+    "lastSeen": 1773512114,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "1GE6",
+    "flight_hours": 1.6461,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1773504329,
+    "lastSeen": 1773515085,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KD17",
+    "flight_hours": 2.9878,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1773510691,
+    "lastSeen": 1773516237,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 1.5406,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1773512279,
+    "lastSeen": 1773516608,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "97TN",
+    "flight_hours": 1.2025,
+    "landing": 1
+  }
+]
