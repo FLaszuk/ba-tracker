@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773438331,
+    "lastSeen": 1773447494,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KRVN",
+    "flight_hours": 2.5453,
+    "landing": 1
+  },
+  {
+    "icao24": "acb17a",
+    "callsign": "N917JF",
+    "firstSeen": 1773438968,
+    "lastSeen": 1773444656,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.58,
+    "landing": 1
+  }
+]
