@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "491d83",
+    "callsign": "NJE653Q",
+    "firstSeen": 1773512313,
+    "lastSeen": 1773516523,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LFMC",
+    "flight_hours": 1.1694,
+    "landing": 1
+  },
+  {
+    "icao24": "a53720",
+    "callsign": "EJM435",
+    "firstSeen": 1773507373,
+    "lastSeen": 1773515920,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "UT42",
+    "flight_hours": 2.3742,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1773510691,
+    "lastSeen": 1773516237,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 1.5406,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1773512279,
+    "lastSeen": 1773516608,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "97TN",
+    "flight_hours": 1.2025,
+    "landing": 1
+  },
+  {
+    "icao24": "ad617b",
+    "callsign": "N961SP",
+    "firstSeen": 1773508665,
+    "lastSeen": 1773519150,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.9125,
+    "landing": 1
+  }
+]
