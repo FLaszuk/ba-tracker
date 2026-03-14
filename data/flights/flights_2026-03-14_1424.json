@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a00d65",
+    "callsign": "N102NY",
+    "firstSeen": 1773495377,
+    "lastSeen": 1773498476,
+    "estDepartureAirport": "KHSG",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.8608,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ab8d",
+    "callsign": "EJA142",
+    "firstSeen": 1773497640,
+    "lastSeen": 1773499505,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 0.5181,
+    "landing": 1
+  },
+  {
+    "icao24": "a17e83",
+    "callsign": "EJM96",
+    "firstSeen": 1773487668,
+    "lastSeen": 1773500942,
+    "estDepartureAirport": "FD08",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.6872,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1773498891,
+    "lastSeen": 1773499793,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.2506,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a8a2",
+    "callsign": "N4HD",
+    "firstSeen": 1773493914,
+    "lastSeen": 1773500557,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 1.8453,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1773495235,
+    "lastSeen": 1773500877,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "CO11",
+    "flight_hours": 1.5672,
+    "landing": 1
+  }
+]
