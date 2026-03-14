@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1773487365,
+    "lastSeen": 1773495733,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 2.3244,
+    "landing": 1
+  },
+  {
+    "icao24": "a0cf55",
+    "callsign": "EJA151",
+    "firstSeen": 1773493450,
+    "lastSeen": 1773494391,
+    "estDepartureAirport": "KLGA",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.2614,
+    "landing": 1
+  }
+]
