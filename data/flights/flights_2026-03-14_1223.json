@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1773485758,
+    "lastSeen": 1773493752,
+    "estDepartureAirport": "KLFT",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.2206,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1773489860,
+    "lastSeen": 1773491321,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBTA",
+    "flight_hours": 0.4058,
+    "landing": 1
+  }
+]
