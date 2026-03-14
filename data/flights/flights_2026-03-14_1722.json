@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1773502385,
+    "lastSeen": 1773508883,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K45R",
+    "flight_hours": 1.805,
+    "landing": 1
+  },
+  {
+    "icao24": "a88c60",
+    "callsign": "N65WL",
+    "firstSeen": 1773506915,
+    "lastSeen": 1773510854,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0942,
+    "landing": 1
+  }
+]
