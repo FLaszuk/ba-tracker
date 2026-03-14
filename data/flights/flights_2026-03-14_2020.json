@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ad617b",
+    "callsign": "N961SP",
+    "firstSeen": 1773508665,
+    "lastSeen": 1773519150,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.9125,
+    "landing": 1
+  },
+  {
+    "icao24": "e08054",
+    "callsign": "LVHAT",
+    "firstSeen": 1773519492,
+    "lastSeen": 1773520753,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3503,
+    "landing": 1
+  }
+]
