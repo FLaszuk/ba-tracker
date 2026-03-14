@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT326",
+    "firstSeen": 1773494214,
+    "lastSeen": 1773506777,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "HESC",
+    "flight_hours": 3.4897,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1773502385,
+    "lastSeen": 1773508883,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K45R",
+    "flight_hours": 1.805,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1773493997,
+    "lastSeen": 1773506287,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 3.4139,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8eb3",
+    "callsign": "N78FJ",
+    "firstSeen": 1773498284,
+    "lastSeen": 1773505809,
+    "estDepartureAirport": "KCNO",
+    "estArrivalAirport": "MT88",
+    "flight_hours": 2.0903,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1773499523,
+    "lastSeen": 1773507641,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "CO43",
+    "flight_hours": 2.255,
+    "landing": 1
+  },
+  {
+    "icao24": "ac710e",
+    "callsign": "N900VG",
+    "firstSeen": 1773492865,
+    "lastSeen": 1773506459,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.7761,
+    "landing": 1
+  }
+]
