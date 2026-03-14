@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a05269",
+    "callsign": "N12LX",
+    "firstSeen": 1773503391,
+    "lastSeen": 1773504855,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "K33V",
+    "flight_hours": 0.4067,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "EJA268",
+    "firstSeen": 1773498188,
+    "lastSeen": 1773501237,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 0.8469,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1773493997,
+    "lastSeen": 1773506287,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 3.4139,
+    "landing": 1
+  }
+]
