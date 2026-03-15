@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4068f0",
+    "callsign": "LNX23JG",
+    "firstSeen": 1773590759,
+    "lastSeen": 1773594850,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "EBMB",
+    "flight_hours": 1.1364,
+    "landing": 1
+  },
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1773591744,
+    "lastSeen": 1773595992,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 1.18,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1773584641,
+    "lastSeen": 1773595347,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "28MT",
+    "flight_hours": 2.9739,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f30c",
+    "callsign": "GLF18",
+    "firstSeen": 1773587103,
+    "lastSeen": 1773594517,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0594,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f30c",
+    "callsign": "GLF18",
+    "firstSeen": 1773595248,
+    "lastSeen": 1773596362,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3094,
+    "landing": 1
+  },
+  {
+    "icao24": "a814f2",
+    "callsign": "N62LV",
+    "firstSeen": 1773589014,
+    "lastSeen": 1773595811,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.8881,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1773585462,
+    "lastSeen": 1773592833,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KMPJ",
+    "flight_hours": 2.0475,
+    "landing": 1
+  }
+]
