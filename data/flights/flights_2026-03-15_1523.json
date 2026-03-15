@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a22318",
+    "callsign": "N237GA",
+    "firstSeen": 1773588960,
+    "lastSeen": 1773589872,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2533,
+    "landing": 1
+  },
+  {
+    "icao24": "a745e9",
+    "callsign": "N568PB",
+    "firstSeen": 1773586935,
+    "lastSeen": 1773589043,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "44KY",
+    "flight_hours": 0.5856,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f30c",
+    "callsign": "GLF18",
+    "firstSeen": 1773587103,
+    "lastSeen": 1773594517,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0594,
+    "landing": 1
+  },
+  {
+    "icao24": "a9cb70",
+    "callsign": "N730EA",
+    "firstSeen": 1773576760,
+    "lastSeen": 1773588340,
+    "estDepartureAirport": "LTCG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 3.2167,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3078",
+    "callsign": "EJM885",
+    "firstSeen": 1773584468,
+    "lastSeen": 1773589795,
+    "estDepartureAirport": "KBWI",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4797,
+    "landing": 1
+  }
+]
