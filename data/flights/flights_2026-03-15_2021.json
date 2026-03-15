@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS176",
+    "firstSeen": 1773598988,
+    "lastSeen": 1773607335,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "MT52",
+    "flight_hours": 2.3186,
+    "landing": 1
+  },
+  {
+    "icao24": "a63b6e",
+    "callsign": "N500RG",
+    "firstSeen": 1773607848,
+    "lastSeen": 1773610678,
+    "estDepartureAirport": "92TA",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.7861,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1773607878,
+    "lastSeen": 1773608718,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2333,
+    "landing": 1
+  }
+]
