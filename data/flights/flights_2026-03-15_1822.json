@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU34KW",
+    "firstSeen": 1773595508,
+    "lastSeen": 1773598532,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": "LFTP",
+    "flight_hours": 0.84,
+    "landing": 1
+  },
+  {
+    "icao24": "a0664b",
+    "callsign": "N125AF",
+    "firstSeen": 1773601122,
+    "lastSeen": 1773603907,
+    "estDepartureAirport": "KBLI",
+    "estArrivalAirport": "KCLM",
+    "flight_hours": 0.7736,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1773585670,
+    "lastSeen": 1773599245,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "TUPW",
+    "flight_hours": 3.7708,
+    "landing": 1
+  }
+]
