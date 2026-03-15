@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "020106",
+    "callsign": "CNCTA",
+    "firstSeen": 1773610901,
+    "lastSeen": 1773611634,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2036,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214c",
+    "callsign": "ARU900",
+    "firstSeen": 1773603818,
+    "lastSeen": 1773609344,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.535,
+    "landing": 1
+  },
+  {
+    "icao24": "a072b8",
+    "callsign": "N128PJ",
+    "firstSeen": 1773613960,
+    "lastSeen": 1773614222,
+    "estDepartureAirport": "KMEV",
+    "estArrivalAirport": "KA34",
+    "flight_hours": 0.0728,
+    "landing": 1
+  },
+  {
+    "icao24": "a242af",
+    "callsign": "N245BD",
+    "firstSeen": 1773603739,
+    "lastSeen": 1773610872,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9814,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1773608297,
+    "lastSeen": 1773611272,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "NM61",
+    "flight_hours": 0.8264,
+    "landing": 1
+  },
+  {
+    "icao24": "a63b6e",
+    "callsign": "N500RG",
+    "firstSeen": 1773607848,
+    "lastSeen": 1773610678,
+    "estDepartureAirport": "92TA",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.7861,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9c39",
+    "callsign": "N783FS",
+    "firstSeen": 1773610890,
+    "lastSeen": 1773613102,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KA20",
+    "flight_hours": 0.6144,
+    "landing": 1
+  }
+]
