@@ -11,7 +11,7 @@
       "engine_model": "PW308C",
       "total_hours": 2289.3,
       "total_landings": 1242,
-      "aircraft_market_share": 14.19,
+      "aircraft_market_share": 14.18,
       "engine_market_share": 31.03
     },
     {
@@ -21,7 +21,7 @@
       "engine_model": "BR725",
       "total_hours": 2020.0,
       "total_landings": 1078,
-      "aircraft_market_share": 12.52,
+      "aircraft_market_share": 12.51,
       "engine_market_share": 44.8
     },
     {
@@ -31,7 +31,7 @@
       "engine_model": "BR710",
       "total_hours": 1781.3,
       "total_landings": 986,
-      "aircraft_market_share": 11.04,
+      "aircraft_market_share": 11.03,
       "engine_market_share": 44.8
     },
     {
@@ -51,7 +51,7 @@
       "engine_model": "Tay 611-8C",
       "total_hours": 1341.8,
       "total_landings": 721,
-      "aircraft_market_share": 8.32,
+      "aircraft_market_share": 8.31,
       "engine_market_share": 44.8
     },
     {
@@ -59,8 +59,8 @@
       "aircraft_model": "Citation X",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 824.1,
-      "total_landings": 540,
+      "total_hours": 825.1,
+      "total_landings": 541,
       "aircraft_market_share": 5.11,
       "engine_market_share": 44.8
     },
@@ -79,8 +79,8 @@
       "aircraft_model": "Phenom 300",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW535",
-      "total_hours": 633.7,
-      "total_landings": 480,
+      "total_hours": 634.4,
+      "total_landings": 481,
       "aircraft_market_share": 3.93,
       "engine_market_share": 31.03
     },
@@ -109,8 +109,8 @@
       "aircraft_model": "Learjet",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 472.2,
-      "total_landings": 374,
+      "total_hours": 473.3,
+      "total_landings": 375,
       "aircraft_market_share": 2.93,
       "engine_market_share": 17.27
     },
@@ -119,9 +119,9 @@
       "aircraft_model": "Challenger 350",
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
-      "total_hours": 390.9,
-      "total_landings": 256,
-      "aircraft_market_share": 2.42,
+      "total_hours": 391.9,
+      "total_landings": 257,
+      "aircraft_market_share": 2.43,
       "engine_market_share": 17.27
     },
     {
@@ -169,9 +169,9 @@
       "aircraft_model": "Legacy 600",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 212.3,
-      "total_landings": 163,
-      "aircraft_market_share": 1.32,
+      "total_hours": 213.9,
+      "total_landings": 164,
+      "aircraft_market_share": 1.33,
       "engine_market_share": 44.8
     },
     {

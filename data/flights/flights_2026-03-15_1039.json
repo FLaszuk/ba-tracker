@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3cfdec",
+    "callsign": "VJH334",
+    "firstSeen": 1773569771,
+    "lastSeen": 1773573159,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.9411,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU45RX",
+    "firstSeen": 1773564848,
+    "lastSeen": 1773570745,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.6381,
+    "landing": 1
+  },
+  {
+    "icao24": "494105",
+    "callsign": "NJE617B",
+    "firstSeen": 1773568807,
+    "lastSeen": 1773571343,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 0.7044,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1773567958,
+    "lastSeen": 1773571513,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.9875,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1773568767,
+    "lastSeen": 1773571160,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "EGKB",
+    "flight_hours": 0.6647,
+    "landing": 1
+  },
+  {
+    "icao24": "516001",
+    "callsign": "4OMNE",
+    "firstSeen": 1773568039,
+    "lastSeen": 1773571972,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 1.0925,
+    "landing": 1
+  }
+]
