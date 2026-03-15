@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4403ff",
+    "callsign": "LOD51V",
+    "firstSeen": 1773576845,
+    "lastSeen": 1773581369,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.2567,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE552U",
+    "firstSeen": 1773575397,
+    "lastSeen": 1773581825,
+    "estDepartureAirport": "EGNX",
+    "estArrivalAirport": "LILB",
+    "flight_hours": 1.7856,
+    "landing": 1
+  },
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1773578545,
+    "lastSeen": 1773581026,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 0.6892,
+    "landing": 1
+  },
+  {
+    "icao24": "aa4089",
+    "callsign": "N76PW",
+    "firstSeen": 1773582919,
+    "lastSeen": 1773583808,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2469,
+    "landing": 1
+  }
+]
