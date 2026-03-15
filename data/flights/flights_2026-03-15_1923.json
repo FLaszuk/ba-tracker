@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1773598115,
+    "lastSeen": 1773602281,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1572,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT3939",
+    "firstSeen": 1773593788,
+    "lastSeen": 1773602028,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2889,
+    "landing": 1
+  },
+  {
+    "icao24": "a0664b",
+    "callsign": "N125AF",
+    "firstSeen": 1773601122,
+    "lastSeen": 1773603907,
+    "estDepartureAirport": "KBLI",
+    "estArrivalAirport": "KCLM",
+    "flight_hours": 0.7736,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "N251AF",
+    "firstSeen": 1773602738,
+    "lastSeen": 1773603484,
+    "estDepartureAirport": "82FL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2072,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1773602098,
+    "lastSeen": 1773605220,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "32OR",
+    "flight_hours": 0.8672,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e6b1",
+    "callsign": "TWY60",
+    "firstSeen": 1773574635,
+    "lastSeen": 1773602808,
+    "estDepartureAirport": "LFLB",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 7.8258,
+    "landing": 1
+  },
+  {
+    "icao24": "e48624",
+    "callsign": "PRALU",
+    "firstSeen": 1773600354,
+    "lastSeen": 1773602406,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDZA",
+    "flight_hours": 0.57,
+    "landing": 1
+  }
+]
