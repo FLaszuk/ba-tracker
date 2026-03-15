@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1773582174,
+    "lastSeen": 1773585426,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9033,
+    "landing": 1
+  },
+  {
+    "icao24": "49130d",
+    "callsign": "NJE542C",
+    "firstSeen": 1773580029,
+    "lastSeen": 1773584249,
+    "estDepartureAirport": "EHRD",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.1722,
+    "landing": 1
+  },
+  {
+    "icao24": "49d0e0",
+    "callsign": "ABP752",
+    "firstSeen": 1773579990,
+    "lastSeen": 1773585558,
+    "estDepartureAirport": "LZTT",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 1.5467,
+    "landing": 1
+  },
+  {
+    "icao24": "4a5243",
+    "callsign": "TOY230",
+    "firstSeen": 1773573082,
+    "lastSeen": 1773585219,
+    "estDepartureAirport": "LFNY",
+    "estArrivalAirport": "LTCF",
+    "flight_hours": 3.3714,
+    "landing": 1
+  }
+]
