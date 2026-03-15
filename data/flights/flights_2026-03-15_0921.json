@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1773563484,
+    "lastSeen": 1773566745,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9058,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1773568767,
+    "lastSeen": 1773571160,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "EGKB",
+    "flight_hours": 0.6647,
+    "landing": 1
+  }
+]
