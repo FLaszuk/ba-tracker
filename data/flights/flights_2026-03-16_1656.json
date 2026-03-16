@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4b18e7",
+    "callsign": "HBJLF",
+    "firstSeen": 1773679501,
+    "lastSeen": 1773681478,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5492,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS25",
+    "firstSeen": 1773676764,
+    "lastSeen": 1773683839,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.9653,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e59f",
+    "callsign": "N157QS",
+    "firstSeen": 1773650020,
+    "lastSeen": 1773681189,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "KBFW",
+    "flight_hours": 8.6581,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1773681228,
+    "lastSeen": 1773682480,
+    "estDepartureAirport": "KMMH",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3478,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1773680315,
+    "lastSeen": 1773682836,
+    "estDepartureAirport": "KTEX",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.7003,
+    "landing": 1
+  }
+]
