@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20f6",
+    "callsign": "VJT773G",
+    "firstSeen": 1773664390,
+    "lastSeen": 1773697092,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "UD21",
+    "flight_hours": 9.0839,
+    "landing": 1
+  },
+  {
+    "icao24": "a1fb98",
+    "callsign": "N227G",
+    "firstSeen": 1773688419,
+    "lastSeen": 1773696519,
+    "estDepartureAirport": "KUZA",
+    "estArrivalAirport": "73AR",
+    "flight_hours": 2.25,
+    "landing": 1
+  },
+  {
+    "icao24": "a76cb8",
+    "callsign": "N578GA",
+    "firstSeen": 1773695162,
+    "lastSeen": 1773701100,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLGB",
+    "flight_hours": 1.6494,
+    "landing": 1
+  },
+  {
+    "icao24": "adca6c",
+    "callsign": "N988S",
+    "firstSeen": 1773696215,
+    "lastSeen": 1773698297,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K36K",
+    "flight_hours": 0.5783,
+    "landing": 1
+  }
+]
