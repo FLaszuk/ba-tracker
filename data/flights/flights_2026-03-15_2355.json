@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1773613803,
+    "lastSeen": 1773619186,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.4953,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1773613891,
+    "lastSeen": 1773621535,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "K01M",
+    "flight_hours": 2.1233,
+    "landing": 1
+  },
+  {
+    "icao24": "a6286f",
+    "callsign": "N496X",
+    "firstSeen": 1773614160,
+    "lastSeen": 1773619888,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 1.5911,
+    "landing": 1
+  }
+]
