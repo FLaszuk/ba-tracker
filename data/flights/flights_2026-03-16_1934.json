@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1773685545,
+    "lastSeen": 1773691604,
+    "estDepartureAirport": "MY13",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6831,
+    "landing": 1
+  },
+  {
+    "icao24": "a89621",
+    "callsign": "N652WE",
+    "firstSeen": 1773685496,
+    "lastSeen": 1773691056,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KIDA",
+    "flight_hours": 1.5444,
+    "landing": 1
+  },
+  {
+    "icao24": "adca6c",
+    "callsign": "N988S",
+    "firstSeen": 1773688278,
+    "lastSeen": 1773691357,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8553,
+    "landing": 1
+  }
+]
