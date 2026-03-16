@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "43e9d7",
+    "callsign": "MABGS",
+    "firstSeen": 1773674144,
+    "lastSeen": 1773676883,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.7608,
+    "landing": 1
+  },
+  {
+    "icao24": "4b18e7",
+    "callsign": "HBJLF",
+    "firstSeen": 1773679501,
+    "lastSeen": 1773681478,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5492,
+    "landing": 1
+  },
+  {
+    "icao24": "a54a2d",
+    "callsign": "N44VP",
+    "firstSeen": 1773669129,
+    "lastSeen": 1773678794,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.6847,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1773667811,
+    "lastSeen": 1773677583,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.7144,
+    "landing": 1
+  }
+]
