@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a43430",
+    "callsign": "N370EA",
+    "firstSeen": 1773657132,
+    "lastSeen": 1773666734,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "LA32",
+    "flight_hours": 2.6672,
+    "landing": 1
+  },
+  {
+    "icao24": "adc192",
+    "callsign": "N986BL",
+    "firstSeen": 1773661576,
+    "lastSeen": 1773663452,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MGGT",
+    "flight_hours": 0.5211,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1773664247,
+    "lastSeen": 1773665035,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2189,
+    "landing": 1
+  },
+  {
+    "icao24": "e48780",
+    "callsign": "PRSHC",
+    "firstSeen": 1773664221,
+    "lastSeen": 1773665334,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3092,
+    "landing": 1
+  }
+]
