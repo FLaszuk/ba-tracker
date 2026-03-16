@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a03f9f",
+    "callsign": "N115JS",
+    "firstSeen": 1773670114,
+    "lastSeen": 1773683195,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.6336,
+    "landing": 1
+  },
+  {
+    "icao24": "a058f1",
+    "callsign": "TWY42",
+    "firstSeen": 1773670799,
+    "lastSeen": 1773683932,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KCAG",
+    "flight_hours": 3.6481,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS25",
+    "firstSeen": 1773676764,
+    "lastSeen": 1773683839,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.9653,
+    "landing": 1
+  },
+  {
+    "icao24": "a44432",
+    "callsign": "N374RV",
+    "firstSeen": 1773680801,
+    "lastSeen": 1773683860,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "UT75",
+    "flight_hours": 0.8497,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1773685155,
+    "lastSeen": 1773686049,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2483,
+    "landing": 1
+  },
+  {
+    "icao24": "adca6c",
+    "callsign": "N988S",
+    "firstSeen": 1773673724,
+    "lastSeen": 1773684560,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "SN63",
+    "flight_hours": 3.01,
+    "landing": 1
+  }
+]
