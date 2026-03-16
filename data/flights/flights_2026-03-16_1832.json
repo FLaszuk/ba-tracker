@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a3b849",
+    "callsign": "N339LS",
+    "firstSeen": 1773683622,
+    "lastSeen": 1773687319,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.0269,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1773685155,
+    "lastSeen": 1773686049,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2483,
+    "landing": 1
+  },
+  {
+    "icao24": "acd854",
+    "callsign": "N927BR",
+    "firstSeen": 1773681666,
+    "lastSeen": 1773688226,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 1.8222,
+    "landing": 1
+  }
+]
