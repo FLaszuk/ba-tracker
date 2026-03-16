@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4408d8",
+    "callsign": "GCK40",
+    "firstSeen": 1773657549,
+    "lastSeen": 1773659788,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 0.6219,
+    "landing": 1
+  },
+  {
+    "icao24": "494105",
+    "callsign": "NJE4EB",
+    "firstSeen": 1773657371,
+    "lastSeen": 1773658909,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.4272,
+    "landing": 1
+  },
+  {
+    "icao24": "a07214",
+    "callsign": "EJM128",
+    "firstSeen": 1773636905,
+    "lastSeen": 1773658207,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 5.9172,
+    "landing": 1
+  }
+]
