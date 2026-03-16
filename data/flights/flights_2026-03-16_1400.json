@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b9922",
+    "callsign": "TCFIB",
+    "firstSeen": 1773671741,
+    "lastSeen": 1773672809,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2967,
+    "landing": 1
+  },
+  {
+    "icao24": "e48418",
+    "callsign": "PRBBP",
+    "firstSeen": 1773668698,
+    "lastSeen": 1773670992,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDSH",
+    "flight_hours": 0.6372,
+    "landing": 1
+  }
+]
