@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH97A",
+    "firstSeen": 1773734500,
+    "lastSeen": 1773737721,
+    "estDepartureAirport": "EGTE",
+    "estArrivalAirport": "EGPF",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cd",
+    "callsign": "IFC1",
+    "firstSeen": 1773730825,
+    "lastSeen": 1773739643,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4494,
+    "landing": 1
+  }
+]
