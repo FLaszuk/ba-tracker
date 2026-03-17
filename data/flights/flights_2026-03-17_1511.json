@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "42475d",
+    "callsign": "TBJ78",
+    "firstSeen": 1773765444,
+    "lastSeen": 1773766159,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1986,
+    "landing": 1
+  },
+  {
+    "icao24": "a40da9",
+    "callsign": "COL360",
+    "firstSeen": 1773758853,
+    "lastSeen": 1773759845,
+    "estDepartureAirport": "KJVL",
+    "estArrivalAirport": "KMKE",
+    "flight_hours": 0.2756,
+    "landing": 1
+  },
+  {
+    "icao24": "a58598",
+    "callsign": "XEN55",
+    "firstSeen": 1773755212,
+    "lastSeen": 1773761270,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 1.6828,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1773755752,
+    "lastSeen": 1773761347,
+    "estDepartureAirport": "19TE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5542,
+    "landing": 1
+  },
+  {
+    "icao24": "e8065e",
+    "callsign": "EMONARCA",
+    "firstSeen": 1773759726,
+    "lastSeen": 1773760185,
+    "estDepartureAirport": "SCVT",
+    "estArrivalAirport": "SCHC",
+    "flight_hours": 0.1275,
+    "landing": 1
+  }
+]
