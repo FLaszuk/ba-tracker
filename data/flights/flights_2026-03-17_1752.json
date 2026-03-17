@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1773768633,
+    "lastSeen": 1773772009,
+    "estDepartureAirport": "LFMI",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.9378,
+    "landing": 1
+  },
+  {
+    "icao24": "a82215",
+    "callsign": "N623HD",
+    "firstSeen": 1773768809,
+    "lastSeen": 1773770275,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.4072,
+    "landing": 1
+  },
+  {
+    "icao24": "a88a96",
+    "callsign": "N65CC",
+    "firstSeen": 1773763602,
+    "lastSeen": 1773770657,
+    "estDepartureAirport": "KAXV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9597,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c86",
+    "callsign": "EJM30",
+    "firstSeen": 1773759288,
+    "lastSeen": 1773772071,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.5508,
+    "landing": 1
+  },
+  {
+    "icao24": "e47e16",
+    "callsign": "PPJFM",
+    "firstSeen": 1773766783,
+    "lastSeen": 1773769514,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJIR",
+    "flight_hours": 0.7586,
+    "landing": 1
+  }
+]
