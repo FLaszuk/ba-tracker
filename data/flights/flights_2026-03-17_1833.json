@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1773768633,
+    "lastSeen": 1773772009,
+    "estDepartureAirport": "LFMI",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.9378,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c86",
+    "callsign": "EJM30",
+    "firstSeen": 1773759288,
+    "lastSeen": 1773772071,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.5508,
+    "landing": 1
+  }
+]
