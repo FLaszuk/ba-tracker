@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1773768633,
+    "lastSeen": 1773772009,
+    "estDepartureAirport": "LFMI",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.9378,
+    "landing": 1
+  },
+  {
+    "icao24": "42475d",
+    "callsign": "TBJ78",
+    "firstSeen": 1773765444,
+    "lastSeen": 1773766159,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1986,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1773756095,
+    "lastSeen": 1773766591,
+    "estDepartureAirport": "KOSU",
+    "estArrivalAirport": "KCAG",
+    "flight_hours": 2.9156,
+    "landing": 1
+  },
+  {
+    "icao24": "a34b61",
+    "callsign": "N311JS",
+    "firstSeen": 1773766548,
+    "lastSeen": 1773768709,
+    "estDepartureAirport": "KPAO",
+    "estArrivalAirport": "KTCY",
+    "flight_hours": 0.6003,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a6e",
+    "callsign": "N504ST",
+    "firstSeen": 1773767500,
+    "lastSeen": 1773768489,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2747,
+    "landing": 1
+  },
+  {
+    "icao24": "a6587e",
+    "callsign": "N508JP",
+    "firstSeen": 1773762323,
+    "lastSeen": 1773766387,
+    "estDepartureAirport": "KTVI",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.1289,
+    "landing": 1
+  },
+  {
+    "icao24": "a7126b",
+    "callsign": "N555EJ",
+    "firstSeen": 1773764233,
+    "lastSeen": 1773766580,
+    "estDepartureAirport": "KOWD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6519,
+    "landing": 1
+  },
+  {
+    "icao24": "a82215",
+    "callsign": "N623HD",
+    "firstSeen": 1773768809,
+    "lastSeen": 1773770275,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.4072,
+    "landing": 1
+  },
+  {
+    "icao24": "aa17e5",
+    "callsign": "N75CC",
+    "firstSeen": 1773762833,
+    "lastSeen": 1773769206,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "1LL7",
+    "flight_hours": 1.7703,
+    "landing": 1
+  },
+  {
+    "icao24": "adf45a",
+    "callsign": "EJM999",
+    "firstSeen": 1773767160,
+    "lastSeen": 1773769049,
+    "estDepartureAirport": "KCMH",
+    "estArrivalAirport": "KLNP",
+    "flight_hours": 0.5247,
+    "landing": 1
+  }
+]
