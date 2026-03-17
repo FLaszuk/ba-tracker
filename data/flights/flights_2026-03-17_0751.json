@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH97A",
+    "firstSeen": 1773734500,
+    "lastSeen": 1773737721,
+    "estDepartureAirport": "EGTE",
+    "estArrivalAirport": "EGPF",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "460c16",
+    "callsign": "OHEPA",
+    "firstSeen": 1773734984,
+    "lastSeen": 1773736051,
+    "estDepartureAirport": "EFPO",
+    "estArrivalAirport": "EFVA",
+    "flight_hours": 0.2964,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1773730369,
+    "lastSeen": 1773733492,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YNHS",
+    "flight_hours": 0.8675,
+    "landing": 1
+  }
+]
