@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1e50a",
+    "callsign": "N221DG",
+    "firstSeen": 1773748752,
+    "lastSeen": 1773749501,
+    "estDepartureAirport": "TJSJ",
+    "estArrivalAirport": "TUPJ",
+    "flight_hours": 0.2081,
+    "landing": 1
+  },
+  {
+    "icao24": "a3ec41",
+    "callsign": "N352AF",
+    "firstSeen": 1773745528,
+    "lastSeen": 1773750053,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 1.2569,
+    "landing": 1
+  }
+]
