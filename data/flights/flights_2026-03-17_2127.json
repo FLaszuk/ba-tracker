@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1773777154,
+    "lastSeen": 1773783016,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 1.6283,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ab89",
+    "callsign": "N40NW",
+    "firstSeen": 1773779256,
+    "lastSeen": 1773783745,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2469,
+    "landing": 1
+  },
+  {
+    "icao24": "a5611c",
+    "callsign": "TWY007",
+    "firstSeen": 1773783286,
+    "lastSeen": 1773787244,
+    "estDepartureAirport": "KEFD",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 1.0994,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1773782900,
+    "lastSeen": 1773784470,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KMMH",
+    "flight_hours": 0.4361,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1773778453,
+    "lastSeen": 1773784237,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.6067,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b0b",
+    "callsign": "N621MD",
+    "firstSeen": 1773782767,
+    "lastSeen": 1773786406,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 1.0108,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1ad6",
+    "callsign": "N750JE",
+    "firstSeen": 1773777525,
+    "lastSeen": 1773786429,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.4733,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6449",
+    "callsign": "N833JB",
+    "firstSeen": 1773777710,
+    "lastSeen": 1773783484,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "e49072",
+    "callsign": "PRBCC",
+    "firstSeen": 1773780650,
+    "lastSeen": 1773783451,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNDW",
+    "flight_hours": 0.7781,
+    "landing": 1
+  }
+]
