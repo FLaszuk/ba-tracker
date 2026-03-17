@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bccef",
+    "callsign": "TCSGO",
+    "firstSeen": 1773745560,
+    "lastSeen": 1773747967,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LTXE",
+    "flight_hours": 0.6686,
+    "landing": 1
+  },
+  {
+    "icao24": "4d212d",
+    "callsign": "VJT938",
+    "firstSeen": 1773727273,
+    "lastSeen": 1773744910,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.8992,
+    "landing": 1
+  }
+]
