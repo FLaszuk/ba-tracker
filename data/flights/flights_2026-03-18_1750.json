@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "440432",
+    "callsign": "JFL297",
+    "firstSeen": 1773850809,
+    "lastSeen": 1773856401,
+    "estDepartureAirport": "EGTK",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.5533,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1773849985,
+    "lastSeen": 1773857398,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 2.0592,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f068",
+    "callsign": "N224FP",
+    "firstSeen": 1773857995,
+    "lastSeen": 1773859625,
+    "estDepartureAirport": "KGUC",
+    "estArrivalAirport": "KDEN",
+    "flight_hours": 0.4528,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1773855093,
+    "lastSeen": 1773859659,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "a606e9",
+    "callsign": "N488GB",
+    "firstSeen": 1773859596,
+    "lastSeen": 1773861381,
+    "estDepartureAirport": "KRSW",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "adc563",
+    "callsign": "N987CM",
+    "firstSeen": 1773855345,
+    "lastSeen": 1773859095,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTOR",
+    "flight_hours": 1.0417,
+    "landing": 1
+  }
+]
