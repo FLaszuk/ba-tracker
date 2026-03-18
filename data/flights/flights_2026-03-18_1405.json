@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "406d59",
+    "callsign": "GMA510",
+    "firstSeen": 1773840694,
+    "lastSeen": 1773844924,
+    "estDepartureAirport": "LPBJ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.175,
+    "landing": 1
+  },
+  {
+    "icao24": "49328a",
+    "callsign": "NJE923A",
+    "firstSeen": 1773837301,
+    "lastSeen": 1773844130,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 1.8969,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA29X",
+    "firstSeen": 1773839780,
+    "lastSeen": 1773845108,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.48,
+    "landing": 1
+  },
+  {
+    "icao24": "a19245",
+    "callsign": "N200CR",
+    "firstSeen": 1773842762,
+    "lastSeen": 1773843887,
+    "estDepartureAirport": "TJMZ",
+    "estArrivalAirport": "TUPW",
+    "flight_hours": 0.3125,
+    "landing": 1
+  },
+  {
+    "icao24": "a25849",
+    "callsign": "TWY20",
+    "firstSeen": 1773841633,
+    "lastSeen": 1773845298,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 1.0181,
+    "landing": 1
+  }
+]
