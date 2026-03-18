@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494105",
+    "callsign": "NJE623Q",
+    "firstSeen": 1773825595,
+    "lastSeen": 1773827831,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 0.6211,
+    "landing": 1
+  },
+  {
+    "icao24": "800b79",
+    "callsign": "VTCLF",
+    "firstSeen": 1773827066,
+    "lastSeen": 1773828093,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VISP",
+    "flight_hours": 0.2853,
+    "landing": 1
+  },
+  {
+    "icao24": "a9cb70",
+    "callsign": "N730EA",
+    "firstSeen": 1773827170,
+    "lastSeen": 1773828262,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.3033,
+    "landing": 1
+  }
+]
