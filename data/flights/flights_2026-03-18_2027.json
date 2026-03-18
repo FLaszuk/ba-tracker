@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "",
+    "firstSeen": 1773864220,
+    "lastSeen": 1773867433,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8925,
+    "landing": 1
+  },
+  {
+    "icao24": "aa463e",
+    "callsign": "N761LE",
+    "firstSeen": 1773844981,
+    "lastSeen": 1773865848,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 5.7964,
+    "landing": 1
+  },
+  {
+    "icao24": "ac836e",
+    "callsign": "N905TF",
+    "firstSeen": 1773865002,
+    "lastSeen": 1773865279,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KXNA",
+    "flight_hours": 0.0769,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5afb",
+    "callsign": "N96NB",
+    "firstSeen": 1773861657,
+    "lastSeen": 1773865543,
+    "estDepartureAirport": "MN04",
+    "estArrivalAirport": "SN29",
+    "flight_hours": 1.0794,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1773864546,
+    "lastSeen": 1773866092,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4294,
+    "landing": 1
+  }
+]
