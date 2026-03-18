@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU34KW",
+    "firstSeen": 1773857829,
+    "lastSeen": 1773860869,
+    "estDepartureAirport": "LIRN",
+    "estArrivalAirport": "LFTP",
+    "flight_hours": 0.8444,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f068",
+    "callsign": "N224FP",
+    "firstSeen": 1773857995,
+    "lastSeen": 1773859625,
+    "estDepartureAirport": "KGUC",
+    "estArrivalAirport": "KDEN",
+    "flight_hours": 0.4528,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1773855093,
+    "lastSeen": 1773859659,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "a606e9",
+    "callsign": "N488GB",
+    "firstSeen": 1773859596,
+    "lastSeen": 1773861381,
+    "estDepartureAirport": "KRSW",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "ac803c",
+    "callsign": "N904YP",
+    "firstSeen": 1773855429,
+    "lastSeen": 1773861144,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5875,
+    "landing": 1
+  },
+  {
+    "icao24": "ac91ec",
+    "callsign": "N909PM",
+    "firstSeen": 1773856953,
+    "lastSeen": 1773862457,
+    "estDepartureAirport": "03XS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5289,
+    "landing": 1
+  },
+  {
+    "icao24": "adc563",
+    "callsign": "N987CM",
+    "firstSeen": 1773855345,
+    "lastSeen": 1773859095,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTOR",
+    "flight_hours": 1.0417,
+    "landing": 1
+  }
+]
