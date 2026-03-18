@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3c5c41",
+    "callsign": "BTX1A",
+    "firstSeen": 1773846837,
+    "lastSeen": 1773849536,
+    "estDepartureAirport": "ETSI",
+    "estArrivalAirport": "EDQK",
+    "flight_hours": 0.7497,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1773841675,
+    "lastSeen": 1773850458,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "MT49",
+    "flight_hours": 2.4397,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c1f0",
+    "callsign": "EJM3",
+    "firstSeen": 1773847686,
+    "lastSeen": 1773848948,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3506,
+    "landing": 1
+  },
+  {
+    "icao24": "a63b72",
+    "callsign": "N500RL",
+    "firstSeen": 1773840602,
+    "lastSeen": 1773849755,
+    "estDepartureAirport": "KGGG",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 2.5425,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1773842191,
+    "lastSeen": 1773849133,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9283,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7849",
+    "callsign": "N902TF",
+    "firstSeen": 1773843259,
+    "lastSeen": 1773850001,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.8728,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1773847320,
+    "lastSeen": 1773848998,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4661,
+    "landing": 1
+  }
+]
