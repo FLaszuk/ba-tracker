@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1773858745,
+    "lastSeen": 1773862237,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.97,
+    "landing": 1
+  },
+  {
+    "icao24": "ac836e",
+    "callsign": "N905TF",
+    "firstSeen": 1773865002,
+    "lastSeen": 1773865279,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KXNA",
+    "flight_hours": 0.0769,
+    "landing": 1
+  },
+  {
+    "icao24": "ac91ec",
+    "callsign": "N909PM",
+    "firstSeen": 1773856953,
+    "lastSeen": 1773862457,
+    "estDepartureAirport": "03XS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5289,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5afb",
+    "callsign": "N96NB",
+    "firstSeen": 1773861657,
+    "lastSeen": 1773865543,
+    "estDepartureAirport": "MN04",
+    "estArrivalAirport": "SN29",
+    "flight_hours": 1.0794,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1773860706,
+    "lastSeen": 1773863217,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SJDJ",
+    "flight_hours": 0.6975,
+    "landing": 1
+  }
+]
