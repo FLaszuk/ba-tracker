@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a13f7a",
+    "callsign": "N18MV",
+    "firstSeen": 1773869682,
+    "lastSeen": 1773870689,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2797,
+    "landing": 1
+  },
+  {
+    "icao24": "acae14",
+    "callsign": "N916MM",
+    "firstSeen": 1773840451,
+    "lastSeen": 1773871768,
+    "estDepartureAirport": "RJBB",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 8.6992,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1773866323,
+    "lastSeen": 1773870826,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KTWF",
+    "flight_hours": 1.2508,
+    "landing": 1
+  }
+]
