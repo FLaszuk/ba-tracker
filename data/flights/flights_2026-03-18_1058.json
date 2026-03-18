@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "459544",
+    "callsign": "MMD662",
+    "firstSeen": 1773829085,
+    "lastSeen": 1773833474,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LSMP",
+    "flight_hours": 1.2192,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5afb",
+    "callsign": "N96NB",
+    "firstSeen": 1773833558,
+    "lastSeen": 1773835741,
+    "estDepartureAirport": "KMCI",
+    "estArrivalAirport": "K33K",
+    "flight_hours": 0.6064,
+    "landing": 1
+  }
+]
