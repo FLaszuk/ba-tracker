@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440432",
+    "callsign": "JFL297",
+    "firstSeen": 1773850809,
+    "lastSeen": 1773856401,
+    "estDepartureAirport": "EGTK",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.5533,
+    "landing": 1
+  },
+  {
+    "icao24": "a24ba1",
+    "callsign": "N247SS",
+    "firstSeen": 1773851012,
+    "lastSeen": 1773852685,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4647,
+    "landing": 1
+  },
+  {
+    "icao24": "a77da1",
+    "callsign": "N582D",
+    "firstSeen": 1773843295,
+    "lastSeen": 1773852697,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6117,
+    "landing": 1
+  },
+  {
+    "icao24": "ac91ec",
+    "callsign": "N909PM",
+    "firstSeen": 1773843960,
+    "lastSeen": 1773853460,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "7XS5",
+    "flight_hours": 2.6389,
+    "landing": 1
+  },
+  {
+    "icao24": "add4a7",
+    "callsign": "N990WR",
+    "firstSeen": 1773851877,
+    "lastSeen": 1773852864,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2742,
+    "landing": 1
+  }
+]
