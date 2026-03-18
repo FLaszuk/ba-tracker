@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "30061c",
+    "callsign": "VND03D",
+    "firstSeen": 1773824481,
+    "lastSeen": 1773826079,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "LICG",
+    "flight_hours": 0.4439,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ4388",
+    "firstSeen": 1773815182,
+    "lastSeen": 1773825238,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7933,
+    "landing": 1
+  }
+]
