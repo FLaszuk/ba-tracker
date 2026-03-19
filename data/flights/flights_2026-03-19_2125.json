@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "78089d",
+    "callsign": "B8136",
+    "firstSeen": 1773897335,
+    "lastSeen": 1773956482,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 16.4297,
+    "landing": 1
+  },
+  {
+    "icao24": "a2717f",
+    "callsign": "N257A",
+    "firstSeen": 1773947627,
+    "lastSeen": 1773955130,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0842,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a8a2",
+    "callsign": "N4HD",
+    "firstSeen": 1773953665,
+    "lastSeen": 1773958826,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "4CO0",
+    "flight_hours": 1.4336,
+    "landing": 1
+  }
+]
