@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1773943860,
+    "lastSeen": 1773945343,
+    "estDepartureAirport": "EDDG",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.4119,
+    "landing": 1
+  },
+  {
+    "icao24": "a10967",
+    "callsign": "EJA166",
+    "firstSeen": 1773940770,
+    "lastSeen": 1773941679,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.2525,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1773941575,
+    "lastSeen": 1773946579,
+    "estDepartureAirport": "KCGF",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 1.39,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4dc",
+    "callsign": "VJA402",
+    "firstSeen": 1773926966,
+    "lastSeen": 1773943878,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 4.6978,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1773944596,
+    "lastSeen": 1773946132,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KPUB",
+    "flight_hours": 0.4267,
+    "landing": 1
+  }
+]
