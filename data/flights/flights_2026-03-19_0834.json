@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bd2c8",
+    "callsign": "TCTVH",
+    "firstSeen": 1773905767,
+    "lastSeen": 1773908901,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8706,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1773905390,
+    "lastSeen": 1773909481,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": "HECA",
+    "flight_hours": 1.1364,
+    "landing": 1
+  }
+]
