@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2091",
+    "callsign": "9HFOM",
+    "firstSeen": 1773913525,
+    "lastSeen": 1773916153,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.73,
+    "landing": 1
+  },
+  {
+    "icao24": "a12fb0",
+    "callsign": "XEN76",
+    "firstSeen": 1773913079,
+    "lastSeen": 1773913942,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.2397,
+    "landing": 1
+  }
+]
