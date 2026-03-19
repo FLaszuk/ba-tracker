@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1773950525,
+    "lastSeen": 1773952570,
+    "estDepartureAirport": "EDTY",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5681,
+    "landing": 1
+  },
+  {
+    "icao24": "a06abb",
+    "callsign": "N126HR",
+    "firstSeen": 1773947678,
+    "lastSeen": 1773949544,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KRSW",
+    "flight_hours": 0.5183,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773943285,
+    "lastSeen": 1773950588,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KE51",
+    "flight_hours": 2.0286,
+    "landing": 1
+  },
+  {
+    "icao24": "a8ab24",
+    "callsign": "GHA22",
+    "firstSeen": 1773937147,
+    "lastSeen": 1773949554,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 3.4464,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cefa",
+    "callsign": "N667HS",
+    "firstSeen": 1773944535,
+    "lastSeen": 1773949186,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.2919,
+    "landing": 1
+  }
+]
