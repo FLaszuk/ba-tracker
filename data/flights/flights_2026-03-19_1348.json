@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "30047d",
+    "callsign": "SIO618",
+    "firstSeen": 1773929133,
+    "lastSeen": 1773930165,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.2867,
+    "landing": 1
+  },
+  {
+    "icao24": "440592",
+    "callsign": "GAC217G",
+    "firstSeen": 1773926855,
+    "lastSeen": 1773928899,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.5678,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT3079",
+    "firstSeen": 1773924317,
+    "lastSeen": 1773928126,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0581,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1773918543,
+    "lastSeen": 1773928143,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6667,
+    "landing": 1
+  },
+  {
+    "icao24": "a92481",
+    "callsign": "TWY312",
+    "firstSeen": 1773906156,
+    "lastSeen": 1773929395,
+    "estDepartureAirport": "KCPS",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.4553,
+    "landing": 1
+  }
+]
