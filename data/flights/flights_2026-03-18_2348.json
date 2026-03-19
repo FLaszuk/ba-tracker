@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a020a1",
+    "callsign": "N107VS",
+    "firstSeen": 1773873209,
+    "lastSeen": 1773880030,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 1.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1773876049,
+    "lastSeen": 1773880760,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KAPV",
+    "flight_hours": 1.3086,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa00",
+    "callsign": "PGN613",
+    "firstSeen": 1773876761,
+    "lastSeen": 1773877552,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.2197,
+    "landing": 1
+  }
+]
