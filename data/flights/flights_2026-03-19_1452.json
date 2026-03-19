@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "3c61f3",
+    "callsign": "VJH784",
+    "firstSeen": 1773929324,
+    "lastSeen": 1773933111,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.0519,
+    "landing": 1
+  },
+  {
+    "icao24": "406c60",
+    "callsign": "GLSCW",
+    "firstSeen": 1773930679,
+    "lastSeen": 1773936015,
+    "estDepartureAirport": "EGNX",
+    "estArrivalAirport": "LFMF",
+    "flight_hours": 1.4822,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT9G",
+    "firstSeen": 1773930208,
+    "lastSeen": 1773933236,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": "LQVI",
+    "flight_hours": 0.8411,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ba24",
+    "callsign": "N275MB",
+    "firstSeen": 1773925931,
+    "lastSeen": 1773932416,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "K1V2",
+    "flight_hours": 1.8014,
+    "landing": 1
+  },
+  {
+    "icao24": "a3ec41",
+    "callsign": "N352AF",
+    "firstSeen": 1773930804,
+    "lastSeen": 1773931896,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.3033,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a60",
+    "callsign": "N500EM",
+    "firstSeen": 1773931525,
+    "lastSeen": 1773935100,
+    "estDepartureAirport": "KJQF",
+    "estArrivalAirport": "KEXX",
+    "flight_hours": 0.9931,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b14",
+    "callsign": "N621MN",
+    "firstSeen": 1773935382,
+    "lastSeen": 1773937051,
+    "estDepartureAirport": "KLBB",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.4636,
+    "landing": 1
+  },
+  {
+    "icao24": "e0340c",
+    "callsign": "LVCPL",
+    "firstSeen": 1773934576,
+    "lastSeen": 1773935757,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3281,
+    "landing": 1
+  },
+  {
+    "icao24": "e47fb9",
+    "callsign": "PSFCF",
+    "firstSeen": 1773932099,
+    "lastSeen": 1773935745,
+    "estDepartureAirport": "SBJD",
+    "estArrivalAirport": "SIZC",
+    "flight_hours": 1.0128,
+    "landing": 1
+  }
+]
