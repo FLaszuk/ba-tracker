@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1773943860,
+    "lastSeen": 1773945343,
+    "estDepartureAirport": "EDDG",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.4119,
+    "landing": 1
+  },
+  {
+    "icao24": "78095b",
+    "callsign": "B8256",
+    "firstSeen": 1773929376,
+    "lastSeen": 1773938890,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 2.6428,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c86",
+    "callsign": "EJM30",
+    "firstSeen": 1773925705,
+    "lastSeen": 1773938432,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.5353,
+    "landing": 1
+  },
+  {
+    "icao24": "e40172",
+    "callsign": "ENSAIO31",
+    "firstSeen": 1773939038,
+    "lastSeen": 1773940921,
+    "estDepartureAirport": "SBGW",
+    "estArrivalAirport": "SIYS",
+    "flight_hours": 0.5231,
+    "landing": 1
+  }
+]
