@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1773950525,
+    "lastSeen": 1773952570,
+    "estDepartureAirport": "EDTY",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5681,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1773951117,
+    "lastSeen": 1773954535,
+    "estDepartureAirport": "ESGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9494,
+    "landing": 1
+  },
+  {
+    "icao24": "78089d",
+    "callsign": "B8136",
+    "firstSeen": 1773897335,
+    "lastSeen": 1773956482,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 16.4297,
+    "landing": 1
+  }
+]
