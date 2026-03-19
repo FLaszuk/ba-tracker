@@ -21,7 +21,7 @@
       "engine_model": "BR725",
       "total_hours": 2034.0,
       "total_landings": 1089,
-      "aircraft_market_share": 12.4,
+      "aircraft_market_share": 12.39,
       "engine_market_share": 44.89
     },
     {
@@ -49,8 +49,8 @@
       "aircraft_model": "G450",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "Tay 611-8C",
-      "total_hours": 1346.7,
-      "total_landings": 725,
+      "total_hours": 1347.7,
+      "total_landings": 726,
       "aircraft_market_share": 8.21,
       "engine_market_share": 44.89
     },
@@ -109,8 +109,8 @@
       "aircraft_model": "Learjet",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 479.6,
-      "total_landings": 386,
+      "total_hours": 479.9,
+      "total_landings": 387,
       "aircraft_market_share": 2.92,
       "engine_market_share": 17.28
     },
@@ -169,9 +169,9 @@
       "aircraft_model": "Legacy 600",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 220.4,
-      "total_landings": 169,
-      "aircraft_market_share": 1.34,
+      "total_hours": 221.0,
+      "total_landings": 170,
+      "aircraft_market_share": 1.35,
       "engine_market_share": 44.89
     },
     {
@@ -189,8 +189,8 @@
       "aircraft_model": "Citation CJ3",
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
-      "total_hours": 199.6,
-      "total_landings": 166,
+      "total_hours": 199.9,
+      "total_landings": 167,
       "aircraft_market_share": 1.22,
       "engine_market_share": 5.0
     },
