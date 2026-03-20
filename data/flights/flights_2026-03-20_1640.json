@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0723d",
+    "callsign": "N128JL",
+    "firstSeen": 1774023345,
+    "lastSeen": 1774024481,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "MYAN",
+    "flight_hours": 0.3156,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b492",
+    "callsign": "N338LS",
+    "firstSeen": 1774021413,
+    "lastSeen": 1774024788,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.9375,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1774025172,
+    "lastSeen": 1774026386,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3372,
+    "landing": 1
+  }
+]
