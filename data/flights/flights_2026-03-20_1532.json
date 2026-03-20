@@ -1,0 +1,112 @@
+[
+  {
+    "icao24": "0d08d4",
+    "callsign": "LET7584",
+    "firstSeen": 1774016346,
+    "lastSeen": 1774021115,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3247,
+    "landing": 1
+  },
+  {
+    "icao24": "43e9d1",
+    "callsign": "MOBIL",
+    "firstSeen": 1774019645,
+    "lastSeen": 1774023541,
+    "estDepartureAirport": "EDWI",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.0822,
+    "landing": 1
+  },
+  {
+    "icao24": "43eacd",
+    "callsign": "MRRRR",
+    "firstSeen": 1774001028,
+    "lastSeen": 1774023930,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "OMDW",
+    "flight_hours": 6.3617,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02a1",
+    "callsign": "JFA99X",
+    "firstSeen": 1774015357,
+    "lastSeen": 1774021403,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1774018955,
+    "lastSeen": 1774023179,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.1733,
+    "landing": 1
+  },
+  {
+    "icao24": "a06072",
+    "callsign": "N123SL",
+    "firstSeen": 1774019593,
+    "lastSeen": 1774022834,
+    "estDepartureAirport": "GE23",
+    "estArrivalAirport": "K60J",
+    "flight_hours": 0.9003,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS112",
+    "firstSeen": 1774021511,
+    "lastSeen": 1774021939,
+    "estDepartureAirport": "KLCI",
+    "estArrivalAirport": "KCON",
+    "flight_hours": 0.1189,
+    "landing": 1
+  },
+  {
+    "icao24": "a745e9",
+    "callsign": "N568PB",
+    "firstSeen": 1774019764,
+    "lastSeen": 1774022633,
+    "estDepartureAirport": "KFFC",
+    "estArrivalAirport": "K0VG",
+    "flight_hours": 0.7969,
+    "landing": 1
+  },
+  {
+    "icao24": "aba69b",
+    "callsign": "N85SM",
+    "firstSeen": 1774022730,
+    "lastSeen": 1774023172,
+    "estDepartureAirport": "KBTF",
+    "estArrivalAirport": "K42U",
+    "flight_hours": 0.1228,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1774018353,
+    "lastSeen": 1774020280,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5353,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1774020752,
+    "lastSeen": 1774022335,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "MUVR",
+    "flight_hours": 0.4397,
+    "landing": 1
+  }
+]
