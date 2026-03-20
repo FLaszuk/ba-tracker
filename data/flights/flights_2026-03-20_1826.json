@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a047ca",
+    "callsign": "N117SF",
+    "firstSeen": 1774017868,
+    "lastSeen": 1774031450,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.7728,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1774029832,
+    "lastSeen": 1774031258,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3961,
+    "landing": 1
+  },
+  {
+    "icao24": "aa852c",
+    "callsign": "N777XY",
+    "firstSeen": 1774017672,
+    "lastSeen": 1774031564,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.8589,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1774019713,
+    "lastSeen": 1774032892,
+    "estDepartureAirport": "KMSY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 3.6608,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1774033245,
+    "lastSeen": 1774034476,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3419,
+    "landing": 1
+  }
+]
