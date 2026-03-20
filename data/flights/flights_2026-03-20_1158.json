@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a326ca",
+    "callsign": "N302AK",
+    "firstSeen": 1773983763,
+    "lastSeen": 1774008631,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.9078,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1774008894,
+    "lastSeen": 1774010626,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSIS",
+    "flight_hours": 0.4811,
+    "landing": 1
+  }
+]
