@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1774029832,
+    "lastSeen": 1774031258,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3961,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b200",
+    "callsign": "SCA53",
+    "firstSeen": 1774027746,
+    "lastSeen": 1774029992,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "19AZ",
+    "flight_hours": 0.6239,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1774019713,
+    "lastSeen": 1774032892,
+    "estDepartureAirport": "KMSY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 3.6608,
+    "landing": 1
+  },
+  {
+    "icao24": "e484ad",
+    "callsign": "PRSPJ",
+    "firstSeen": 1774028464,
+    "lastSeen": 1774030517,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SDJO",
+    "flight_hours": 0.5703,
+    "landing": 1
+  }
+]
