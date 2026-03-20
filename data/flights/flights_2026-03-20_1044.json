@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "407d90",
+    "callsign": "RRR1928",
+    "firstSeen": 1774001907,
+    "lastSeen": 1774005274,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9353,
+    "landing": 1
+  },
+  {
+    "icao24": "43ea97",
+    "callsign": "MMSVI",
+    "firstSeen": 1773999243,
+    "lastSeen": 1774004395,
+    "estDepartureAirport": "EGLK",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.4311,
+    "landing": 1
+  },
+  {
+    "icao24": "4c0639",
+    "callsign": "YUBRZ",
+    "firstSeen": 1774004334,
+    "lastSeen": 1774006611,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": "LYBE",
+    "flight_hours": 0.6325,
+    "landing": 1
+  }
+]
