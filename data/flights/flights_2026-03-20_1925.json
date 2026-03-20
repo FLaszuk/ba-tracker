@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0a7d6",
+    "callsign": "EJA141",
+    "firstSeen": 1774032788,
+    "lastSeen": 1774035436,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7356,
+    "landing": 1
+  },
+  {
+    "icao24": "a2edf2",
+    "callsign": "N288Z",
+    "firstSeen": 1774028924,
+    "lastSeen": 1774035445,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8114,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1774033245,
+    "lastSeen": 1774034476,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3419,
+    "landing": 1
+  }
+]
