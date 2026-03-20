@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1773960923,
+    "lastSeen": 1773963825,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8061,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9224",
+    "callsign": "N780SP",
+    "firstSeen": 1773953298,
+    "lastSeen": 1773963712,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.8928,
+    "landing": 1
+  },
+  {
+    "icao24": "c8224d",
+    "callsign": "SKL3",
+    "firstSeen": 1773965464,
+    "lastSeen": 1773966542,
+    "estDepartureAirport": "NZNR",
+    "estArrivalAirport": "NZGS",
+    "flight_hours": 0.2994,
+    "landing": 1
+  }
+]
