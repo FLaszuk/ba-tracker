@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "30061c",
+    "callsign": "VND03D",
+    "firstSeen": 1773989104,
+    "lastSeen": 1773991116,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5589,
+    "landing": 1
+  },
+  {
+    "icao24": "44cf18",
+    "callsign": "OOSXX",
+    "firstSeen": 1773988667,
+    "lastSeen": 1773992016,
+    "estDepartureAirport": "EBAW",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.9303,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1773987749,
+    "lastSeen": 1773989477,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YWEL",
+    "flight_hours": 0.48,
+    "landing": 1
+  }
+]
