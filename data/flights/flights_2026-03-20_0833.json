@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49130f",
+    "callsign": "NJE7JD",
+    "firstSeen": 1773990581,
+    "lastSeen": 1773995379,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3328,
+    "landing": 1
+  },
+  {
+    "icao24": "4d207f",
+    "callsign": "VJT732",
+    "firstSeen": 1773999468,
+    "lastSeen": 1773999877,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1136,
+    "landing": 1
+  },
+  {
+    "icao24": "880401",
+    "callsign": "MTL124",
+    "firstSeen": 1773994763,
+    "lastSeen": 1773996674,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5308,
+    "landing": 1
+  }
+]
