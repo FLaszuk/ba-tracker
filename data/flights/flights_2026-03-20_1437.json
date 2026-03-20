@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP472",
+    "firstSeen": 1774015109,
+    "lastSeen": 1774017560,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6808,
+    "landing": 1
+  },
+  {
+    "icao24": "491221",
+    "callsign": "NJE6JH",
+    "firstSeen": 1774015550,
+    "lastSeen": 1774017251,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.4725,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS112",
+    "firstSeen": 1774021511,
+    "lastSeen": 1774021939,
+    "estDepartureAirport": "KLCI",
+    "estArrivalAirport": "KCON",
+    "flight_hours": 0.1189,
+    "landing": 1
+  },
+  {
+    "icao24": "a38185",
+    "callsign": "N325GM",
+    "firstSeen": 1774012243,
+    "lastSeen": 1774017840,
+    "estDepartureAirport": "KMAF",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 1.5547,
+    "landing": 1
+  },
+  {
+    "icao24": "a4eea1",
+    "callsign": "N417FC",
+    "firstSeen": 1774015291,
+    "lastSeen": 1774017503,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "MYGD",
+    "flight_hours": 0.6144,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1774018353,
+    "lastSeen": 1774020280,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5353,
+    "landing": 1
+  }
+]
