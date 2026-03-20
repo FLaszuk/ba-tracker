@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "30047d",
+    "callsign": "SIO618",
+    "firstSeen": 1773999672,
+    "lastSeen": 1774001508,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIAL",
+    "flight_hours": 0.51,
+    "landing": 1
+  },
+  {
+    "icao24": "490d04",
+    "callsign": "NJE440B",
+    "firstSeen": 1773994958,
+    "lastSeen": 1773999537,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.2719,
+    "landing": 1
+  },
+  {
+    "icao24": "49328a",
+    "callsign": "NJE002P",
+    "firstSeen": 1773993255,
+    "lastSeen": 1773999337,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "EGCB",
+    "flight_hours": 1.6894,
+    "landing": 1
+  },
+  {
+    "icao24": "4d207f",
+    "callsign": "VJT732",
+    "firstSeen": 1773999468,
+    "lastSeen": 1773999877,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1136,
+    "landing": 1
+  }
+]
