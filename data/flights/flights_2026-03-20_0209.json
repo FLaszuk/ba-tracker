@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a40ccc",
+    "callsign": "EJM360",
+    "firstSeen": 1773975169,
+    "lastSeen": 1773977373,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6122,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1773971030,
+    "lastSeen": 1773972521,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KHDN",
+    "flight_hours": 0.4142,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1773969441,
+    "lastSeen": 1773972157,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7544,
+    "landing": 1
+  }
+]
