@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d0283",
+    "callsign": "JFA75F",
+    "firstSeen": 1774088635,
+    "lastSeen": 1774096568,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 2.2036,
+    "landing": 1
+  },
+  {
+    "icao24": "a6895e",
+    "callsign": "N520EM",
+    "firstSeen": 1774092345,
+    "lastSeen": 1774096700,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "LEBG",
+    "flight_hours": 1.2097,
+    "landing": 1
+  }
+]
