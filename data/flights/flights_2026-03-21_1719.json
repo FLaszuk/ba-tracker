@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a13f7e",
+    "callsign": "N18MZ",
+    "firstSeen": 1774111546,
+    "lastSeen": 1774116863,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 1.4769,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f1d2",
+    "callsign": "N224WA",
+    "firstSeen": 1774107313,
+    "lastSeen": 1774116977,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 2.6844,
+    "landing": 1
+  },
+  {
+    "icao24": "a2e48d",
+    "callsign": "N286CX",
+    "firstSeen": 1774104564,
+    "lastSeen": 1774116304,
+    "estDepartureAirport": "KDAY",
+    "estArrivalAirport": "KTUS",
+    "flight_hours": 3.2611,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1774111241,
+    "lastSeen": 1774114980,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.0386,
+    "landing": 1
+  }
+]
