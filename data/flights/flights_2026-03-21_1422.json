@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2134",
+    "callsign": "VJT437",
+    "firstSeen": 1774103453,
+    "lastSeen": 1774105302,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LSGL",
+    "flight_hours": 0.5136,
+    "landing": 1
+  },
+  {
+    "icao24": "a57334",
+    "callsign": "N450ME",
+    "firstSeen": 1774096301,
+    "lastSeen": 1774103247,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 1.9294,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b0b",
+    "callsign": "N621MD",
+    "firstSeen": 1774086748,
+    "lastSeen": 1774102444,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 4.36,
+    "landing": 1
+  },
+  {
+    "icao24": "a95335",
+    "callsign": "N70LF",
+    "firstSeen": 1774098922,
+    "lastSeen": 1774102670,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 1.0411,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1774103422,
+    "lastSeen": 1774104550,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3133,
+    "landing": 1
+  }
+]
