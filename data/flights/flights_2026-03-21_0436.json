@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "42474f",
+    "callsign": "TBJ82",
+    "firstSeen": 1774067739,
+    "lastSeen": 1774070450,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "RJAF",
+    "flight_hours": 0.7531,
+    "landing": 1
+  },
+  {
+    "icao24": "a00067",
+    "callsign": "N1EA",
+    "firstSeen": 1774067640,
+    "lastSeen": 1774068674,
+    "estDepartureAirport": "KFYV",
+    "estArrivalAirport": "AR43",
+    "flight_hours": 0.2872,
+    "landing": 1
+  },
+  {
+    "icao24": "c8224d",
+    "callsign": "SKL3",
+    "firstSeen": 1774065985,
+    "lastSeen": 1774069128,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8731,
+    "landing": 1
+  }
+]
