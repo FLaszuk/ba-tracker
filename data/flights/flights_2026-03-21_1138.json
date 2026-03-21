@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "491306",
+    "callsign": "NJE155P",
+    "firstSeen": 1774091111,
+    "lastSeen": 1774092877,
+    "estDepartureAirport": "LDZA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4906,
+    "landing": 1
+  },
+  {
+    "icao24": "899069",
+    "callsign": "B68888",
+    "firstSeen": 1774080209,
+    "lastSeen": 1774094504,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 3.9708,
+    "landing": 1
+  },
+  {
+    "icao24": "a6895e",
+    "callsign": "N520EM",
+    "firstSeen": 1774092345,
+    "lastSeen": 1774096700,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "LEBG",
+    "flight_hours": 1.2097,
+    "landing": 1
+  }
+]
