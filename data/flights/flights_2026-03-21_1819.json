@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1774114182,
+    "lastSeen": 1774116931,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.7636,
+    "landing": 1
+  },
+  {
+    "icao24": "a13f7e",
+    "callsign": "N18MZ",
+    "firstSeen": 1774111546,
+    "lastSeen": 1774116863,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 1.4769,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f1d2",
+    "callsign": "N224WA",
+    "firstSeen": 1774107313,
+    "lastSeen": 1774116977,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 2.6844,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1774102489,
+    "lastSeen": 1774119298,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 4.6692,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1774113148,
+    "lastSeen": 1774118696,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.5411,
+    "landing": 1
+  }
+]
