@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4405a6",
+    "callsign": "GAC029S",
+    "firstSeen": 1774071790,
+    "lastSeen": 1774074899,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 0.8636,
+    "landing": 1
+  },
+  {
+    "icao24": "4bccef",
+    "callsign": "TCSGO",
+    "firstSeen": 1774068056,
+    "lastSeen": 1774075301,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0125,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT878",
+    "firstSeen": 1774068277,
+    "lastSeen": 1774074386,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6969,
+    "landing": 1
+  }
+]
