@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a039b2",
+    "callsign": "N1130B",
+    "firstSeen": 1774113209,
+    "lastSeen": 1774121869,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KHDN",
+    "flight_hours": 2.4056,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1774119514,
+    "lastSeen": 1774121475,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "K4SD",
+    "flight_hours": 0.5447,
+    "landing": 1
+  }
+]
