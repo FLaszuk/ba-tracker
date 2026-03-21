@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0e7ed",
+    "callsign": "N158AF",
+    "firstSeen": 1774109352,
+    "lastSeen": 1774110089,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "MYBO",
+    "flight_hours": 0.2047,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1774102301,
+    "lastSeen": 1774107426,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4236,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c44",
+    "callsign": "N888HH",
+    "firstSeen": 1774094289,
+    "lastSeen": 1774106675,
+    "estDepartureAirport": "KBIV",
+    "estArrivalAirport": "TJCP",
+    "flight_hours": 3.4406,
+    "landing": 1
+  }
+]
