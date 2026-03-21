@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "490d04",
+    "callsign": "NJE774G",
+    "firstSeen": 1774094134,
+    "lastSeen": 1774099357,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.4508,
+    "landing": 1
+  },
+  {
+    "icao24": "a13f7e",
+    "callsign": "N18MZ",
+    "firstSeen": 1774096772,
+    "lastSeen": 1774101663,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KPSO",
+    "flight_hours": 1.3586,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b0b",
+    "callsign": "N621MD",
+    "firstSeen": 1774086748,
+    "lastSeen": 1774102444,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 4.36,
+    "landing": 1
+  },
+  {
+    "icao24": "a95335",
+    "callsign": "N70LF",
+    "firstSeen": 1774098922,
+    "lastSeen": 1774102670,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 1.0411,
+    "landing": 1
+  }
+]
