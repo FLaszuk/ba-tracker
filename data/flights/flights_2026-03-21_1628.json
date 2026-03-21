@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1774104271,
+    "lastSeen": 1774110866,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "EGNH",
+    "flight_hours": 1.8319,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "N158AF",
+    "firstSeen": 1774109352,
+    "lastSeen": 1774110089,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "MYBO",
+    "flight_hours": 0.2047,
+    "landing": 1
+  },
+  {
+    "icao24": "a70789",
+    "callsign": "HALO52",
+    "firstSeen": 1774107392,
+    "lastSeen": 1774110000,
+    "estDepartureAirport": "KMLB",
+    "estArrivalAirport": "MYAT",
+    "flight_hours": 0.7244,
+    "landing": 1
+  },
+  {
+    "icao24": "aca5a4",
+    "callsign": "N914BD",
+    "firstSeen": 1774103604,
+    "lastSeen": 1774110724,
+    "estDepartureAirport": "02AR",
+    "estArrivalAirport": "41CO",
+    "flight_hours": 1.9778,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1774101793,
+    "lastSeen": 1774109981,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "1CA4",
+    "flight_hours": 2.2744,
+    "landing": 1
+  }
+]
