@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "491312",
+    "callsign": "NJE494H",
+    "firstSeen": 1774199011,
+    "lastSeen": 1774200963,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5422,
+    "landing": 1
+  },
+  {
+    "icao24": "a3ad24",
+    "callsign": "N336LS",
+    "firstSeen": 1774199318,
+    "lastSeen": 1774199631,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.0869,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1774183495,
+    "lastSeen": 1774202967,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 5.4089,
+    "landing": 1
+  },
+  {
+    "icao24": "a89442",
+    "callsign": "EJM652",
+    "firstSeen": 1774197543,
+    "lastSeen": 1774201815,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1867,
+    "landing": 1
+  }
+]
