@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c5c46",
+    "callsign": "BTX6F",
+    "firstSeen": 1774172651,
+    "lastSeen": 1774176067,
+    "estDepartureAirport": "EDVE",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.9489,
+    "landing": 1
+  },
+  {
+    "icao24": "494104",
+    "callsign": "NJE792N",
+    "firstSeen": 1774172870,
+    "lastSeen": 1774176675,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.0569,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1774175323,
+    "lastSeen": 1774177150,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5075,
+    "landing": 1
+  }
+]
