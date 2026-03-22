@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d08d4",
+    "callsign": "XAMBT",
+    "firstSeen": 1774205754,
+    "lastSeen": 1774215777,
+    "estDepartureAirport": "MGGT",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 2.7842,
+    "landing": 1
+  },
+  {
+    "icao24": "a02fe9",
+    "callsign": "N111",
+    "firstSeen": 1774214090,
+    "lastSeen": 1774215391,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.3614,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1774212230,
+    "lastSeen": 1774215691,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "2AZ1",
+    "flight_hours": 0.9614,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7849",
+    "callsign": "N902TF",
+    "firstSeen": 1774205225,
+    "lastSeen": 1774215602,
+    "estDepartureAirport": "KENW",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.8825,
+    "landing": 1
+  },
+  {
+    "icao24": "acc302",
+    "callsign": "N921MP",
+    "firstSeen": 1774212163,
+    "lastSeen": 1774215519,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "K06U",
+    "flight_hours": 0.9322,
+    "landing": 1
+  }
+]
