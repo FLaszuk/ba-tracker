@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0c4144",
+    "callsign": "HI955",
+    "firstSeen": 1774186125,
+    "lastSeen": 1774205226,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 5.3058,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1774202415,
+    "lastSeen": 1774203259,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2344,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU34KW",
+    "firstSeen": 1774202483,
+    "lastSeen": 1774205450,
+    "estDepartureAirport": "LIRN",
+    "estArrivalAirport": "LFMR",
+    "flight_hours": 0.8242,
+    "landing": 1
+  },
+  {
+    "icao24": "a4cea8",
+    "callsign": "N409GB",
+    "firstSeen": 1774195447,
+    "lastSeen": 1774204753,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": null,
+    "flight_hours": 2.585,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e6b1",
+    "callsign": "TWY60",
+    "firstSeen": 1774175868,
+    "lastSeen": 1774206272,
+    "estDepartureAirport": "LFLB",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 8.4456,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1774202876,
+    "lastSeen": 1774204261,
+    "estDepartureAirport": "49CL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3847,
+    "landing": 1
+  },
+  {
+    "icao24": "a7b13f",
+    "callsign": "N595P",
+    "firstSeen": 1774197713,
+    "lastSeen": 1774203102,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.4969,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1774202729,
+    "lastSeen": 1774203732,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "UT00",
+    "flight_hours": 0.2786,
+    "landing": 1
+  }
+]
