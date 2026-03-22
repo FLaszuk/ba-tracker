@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "490d04",
+    "callsign": "NJE621N",
+    "firstSeen": 1774185120,
+    "lastSeen": 1774192387,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0186,
+    "landing": 1
+  },
+  {
+    "icao24": "49130d",
+    "callsign": "NJE286W",
+    "firstSeen": 1774191336,
+    "lastSeen": 1774192699,
+    "estDepartureAirport": "LIMP",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "a0036e",
+    "callsign": "N10M",
+    "firstSeen": 1774190473,
+    "lastSeen": 1774192490,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5603,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1774188862,
+    "lastSeen": 1774194982,
+    "estDepartureAirport": "TS14",
+    "estArrivalAirport": "KGJT",
+    "flight_hours": 1.7,
+    "landing": 1
+  }
+]
