@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c74cc",
+    "callsign": "XCU",
+    "firstSeen": 1774151369,
+    "lastSeen": 1774153036,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4631,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ef3",
+    "callsign": "N501PG",
+    "firstSeen": 1774141039,
+    "lastSeen": 1774151839,
+    "estDepartureAirport": "KEGE",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 3.0,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8668",
+    "callsign": "N7777U",
+    "firstSeen": 1774136673,
+    "lastSeen": 1774151506,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.1203,
+    "landing": 1
+  }
+]
