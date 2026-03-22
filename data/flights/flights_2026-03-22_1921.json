@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "",
+    "firstSeen": 1774206176,
+    "lastSeen": 1774210230,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DTMB",
+    "flight_hours": 1.1261,
+    "landing": 1
+  },
+  {
+    "icao24": "a2561e",
+    "callsign": "N25KZ",
+    "firstSeen": 1774186202,
+    "lastSeen": 1774208143,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 6.0947,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "N294AF",
+    "firstSeen": 1774206910,
+    "lastSeen": 1774209294,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6622,
+    "landing": 1
+  },
+  {
+    "icao24": "a57247",
+    "callsign": "N450BT",
+    "firstSeen": 1774195720,
+    "lastSeen": 1774207044,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "MNDM",
+    "flight_hours": 3.1456,
+    "landing": 1
+  },
+  {
+    "icao24": "ac583e",
+    "callsign": "N895DM",
+    "firstSeen": 1774207677,
+    "lastSeen": 1774208607,
+    "estDepartureAirport": "MS66",
+    "estArrivalAirport": "K23M",
+    "flight_hours": 0.2583,
+    "landing": 1
+  }
+]
