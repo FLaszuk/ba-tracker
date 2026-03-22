@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "",
+    "firstSeen": 1774206176,
+    "lastSeen": 1774210230,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DTMB",
+    "flight_hours": 1.1261,
+    "landing": 1
+  },
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1774208355,
+    "lastSeen": 1774211810,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "CO03",
+    "flight_hours": 0.9597,
+    "landing": 1
+  },
+  {
+    "icao24": "a02fe9",
+    "callsign": "N111",
+    "firstSeen": 1774214090,
+    "lastSeen": 1774215391,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.3614,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b42f",
+    "callsign": "LXJ467",
+    "firstSeen": 1774197030,
+    "lastSeen": 1774210867,
+    "estDepartureAirport": "FD08",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.8436,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1774212230,
+    "lastSeen": 1774215691,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "2AZ1",
+    "flight_hours": 0.9614,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cefa",
+    "callsign": "N667HS",
+    "firstSeen": 1774211882,
+    "lastSeen": 1774213438,
+    "estDepartureAirport": "KTEX",
+    "estArrivalAirport": "K44U",
+    "flight_hours": 0.4322,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1774201063,
+    "lastSeen": 1774211940,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SKBQ",
+    "flight_hours": 3.0214,
+    "landing": 1
+  }
+]

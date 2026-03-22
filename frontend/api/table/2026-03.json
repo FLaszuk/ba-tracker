@@ -9,8 +9,8 @@
       "aircraft_model": "Falcon 2000",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW308C",
-      "total_hours": 3997.0,
-      "total_landings": 2159,
+      "total_hours": 4000.0,
+      "total_landings": 2160,
       "aircraft_market_share": 13.33,
       "engine_market_share": 29.83
     },
@@ -19,8 +19,8 @@
       "aircraft_model": "G650",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 3691.4,
-      "total_landings": 2014,
+      "total_hours": 3691.9,
+      "total_landings": 2015,
       "aircraft_market_share": 12.31,
       "engine_market_share": 45.95
     },
@@ -29,8 +29,8 @@
       "aircraft_model": "G550",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 2923.4,
-      "total_landings": 1613,
+      "total_hours": 2923.8,
+      "total_landings": 1614,
       "aircraft_market_share": 9.75,
       "engine_market_share": 45.95
     },
@@ -39,8 +39,8 @@
       "aircraft_model": "Falcon 900",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 2794.5,
-      "total_landings": 1502,
+      "total_hours": 2795.4,
+      "total_landings": 1503,
       "aircraft_market_share": 9.32,
       "engine_market_share": 17.03
     },
@@ -49,9 +49,9 @@
       "aircraft_model": "G450",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "Tay 611-8C",
-      "total_hours": 2342.1,
-      "total_landings": 1233,
-      "aircraft_market_share": 7.81,
+      "total_hours": 2345.9,
+      "total_landings": 1234,
+      "aircraft_market_share": 7.82,
       "engine_market_share": 45.95
     },
     {
@@ -99,8 +99,8 @@
       "aircraft_model": "Learjet",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 956.8,
-      "total_landings": 735,
+      "total_hours": 957.8,
+      "total_landings": 736,
       "aircraft_market_share": 3.19,
       "engine_market_share": 17.03
     },
@@ -201,7 +201,7 @@
       "engine_model": "Passport 20",
       "total_hours": 361.4,
       "total_landings": 196,
-      "aircraft_market_share": 1.21,
+      "aircraft_market_share": 1.2,
       "engine_market_share": 2.51
     },
     {
