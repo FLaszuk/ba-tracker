@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "49130d",
+    "callsign": "NJE286W",
+    "firstSeen": 1774191336,
+    "lastSeen": 1774192699,
+    "estDepartureAirport": "LIMP",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c1f0",
+    "callsign": "EJM3",
+    "firstSeen": 1774187632,
+    "lastSeen": 1774188837,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3347,
+    "landing": 1
+  },
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1774185057,
+    "lastSeen": 1774190693,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 1.5656,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b14",
+    "callsign": "N621MN",
+    "firstSeen": 1774188566,
+    "lastSeen": 1774190222,
+    "estDepartureAirport": "KMAF",
+    "estArrivalAirport": "82NM",
+    "flight_hours": 0.46,
+    "landing": 1
+  }
+]
