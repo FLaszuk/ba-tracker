@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "493033",
+    "callsign": "NJE796D",
+    "firstSeen": 1774170996,
+    "lastSeen": 1774179947,
+    "estDepartureAirport": "LFLY",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4864,
+    "landing": 1
+  },
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1774174108,
+    "lastSeen": 1774181032,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.9233,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1774180769,
+    "lastSeen": 1774183920,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8753,
+    "landing": 1
+  }
+]
