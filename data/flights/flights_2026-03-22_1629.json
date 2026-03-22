@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1774196291,
+    "lastSeen": 1774197952,
+    "estDepartureAirport": "LFLB",
+    "estArrivalAirport": "LFMD",
+    "flight_hours": 0.4614,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1774194246,
+    "lastSeen": 1774196361,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5875,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT2551",
+    "firstSeen": 1774189554,
+    "lastSeen": 1774197576,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 2.2283,
+    "landing": 1
+  },
+  {
+    "icao24": "a29d25",
+    "callsign": "FDJ268",
+    "firstSeen": 1774194488,
+    "lastSeen": 1774197056,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 0.7133,
+    "landing": 1
+  },
+  {
+    "icao24": "a3ad24",
+    "callsign": "N336LS",
+    "firstSeen": 1774199318,
+    "lastSeen": 1774199631,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.0869,
+    "landing": 1
+  },
+  {
+    "icao24": "ac803c",
+    "callsign": "N904YP",
+    "firstSeen": 1774194026,
+    "lastSeen": 1774197894,
+    "estDepartureAirport": "KBYG",
+    "estArrivalAirport": "CO03",
+    "flight_hours": 1.0744,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9746",
+    "callsign": "CYO975",
+    "firstSeen": 1774185207,
+    "lastSeen": 1774197338,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KCAG",
+    "flight_hours": 3.3697,
+    "landing": 1
+  }
+]
