@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU58FE",
+    "firstSeen": 1774181638,
+    "lastSeen": 1774183284,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4572,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1774180769,
+    "lastSeen": 1774183920,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8753,
+    "landing": 1
+  }
+]
