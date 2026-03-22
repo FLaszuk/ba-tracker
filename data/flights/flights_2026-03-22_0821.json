@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "440591",
+    "callsign": "GAC254H",
+    "firstSeen": 1774166613,
+    "lastSeen": 1774167986,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3814,
+    "landing": 1
+  },
+  {
+    "icao24": "4d208a",
+    "callsign": "VJT754",
+    "firstSeen": 1774144887,
+    "lastSeen": 1774169070,
+    "estDepartureAirport": "NY09",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 6.7175,
+    "landing": 1
+  },
+  {
+    "icao24": "882c73",
+    "callsign": "MJJ721",
+    "firstSeen": 1774155905,
+    "lastSeen": 1774167215,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1417,
+    "landing": 1
+  }
+]
