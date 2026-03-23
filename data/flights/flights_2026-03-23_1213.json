@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1774266177,
+    "lastSeen": 1774269061,
+    "estDepartureAirport": "EDDN",
+    "estArrivalAirport": "EDDN",
+    "flight_hours": 0.8011,
+    "landing": 1
+  },
+  {
+    "icao24": "a0014e",
+    "callsign": "N1PG",
+    "firstSeen": 1774266212,
+    "lastSeen": 1774270950,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "9LA1",
+    "flight_hours": 1.3161,
+    "landing": 1
+  },
+  {
+    "icao24": "ac803c",
+    "callsign": "N904YP",
+    "firstSeen": 1774268429,
+    "lastSeen": 1774270655,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6183,
+    "landing": 1
+  }
+]
