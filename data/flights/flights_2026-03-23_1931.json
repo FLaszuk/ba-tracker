@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a8b82a",
+    "callsign": "N661CH",
+    "firstSeen": 1774272490,
+    "lastSeen": 1774295277,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.3297,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1774287933,
+    "lastSeen": 1774295711,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 2.1606,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1774297124,
+    "lastSeen": 1774299330,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KROC",
+    "flight_hours": 0.6128,
+    "landing": 1
+  },
+  {
+    "icao24": "ac35ab",
+    "callsign": "N886RW",
+    "firstSeen": 1774289226,
+    "lastSeen": 1774294912,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KROA",
+    "flight_hours": 1.5794,
+    "landing": 1
+  }
+]
