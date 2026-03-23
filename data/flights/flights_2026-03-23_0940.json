@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU16EV",
+    "firstSeen": 1774257998,
+    "lastSeen": 1774261329,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.9253,
+    "landing": 1
+  },
+  {
+    "icao24": "491188",
+    "callsign": "NJE3ND",
+    "firstSeen": 1774257587,
+    "lastSeen": 1774259127,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.4278,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1774255876,
+    "lastSeen": 1774259218,
+    "estDepartureAirport": "EBAW",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 0.9283,
+    "landing": 1
+  }
+]
