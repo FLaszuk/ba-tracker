@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a37274",
+    "callsign": "TFF821",
+    "firstSeen": 1774287116,
+    "lastSeen": 1774289787,
+    "estDepartureAirport": "KDCA",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.7419,
+    "landing": 1
+  },
+  {
+    "icao24": "a89442",
+    "callsign": "EJM652",
+    "firstSeen": 1774275359,
+    "lastSeen": 1774288646,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "K6S3",
+    "flight_hours": 3.6908,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1774286744,
+    "lastSeen": 1774287691,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KTRM",
+    "flight_hours": 0.2631,
+    "landing": 1
+  }
+]
