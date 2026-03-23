@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "494108",
+    "callsign": "NJE593H",
+    "firstSeen": 1774271528,
+    "lastSeen": 1774274580,
+    "estDepartureAirport": "EDDL",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.8478,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS13",
+    "firstSeen": 1774272836,
+    "lastSeen": 1774278726,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KOAJ",
+    "flight_hours": 1.6361,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d2a3",
+    "callsign": "N603CN",
+    "firstSeen": 1774275325,
+    "lastSeen": 1774278338,
+    "estDepartureAirport": "KADM",
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 0.8369,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d6df",
+    "callsign": "N733H",
+    "firstSeen": 1774269563,
+    "lastSeen": 1774276822,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 2.0164,
+    "landing": 1
+  }
+]
