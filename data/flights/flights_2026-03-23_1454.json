@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "491306",
+    "callsign": "NJE873H",
+    "firstSeen": 1774275175,
+    "lastSeen": 1774279324,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.1525,
+    "landing": 1
+  },
+  {
+    "icao24": "4d210b",
+    "callsign": "VJT904",
+    "firstSeen": 1774267224,
+    "lastSeen": 1774277853,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9525,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1774275974,
+    "lastSeen": 1774277458,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.4122,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS13",
+    "firstSeen": 1774272836,
+    "lastSeen": 1774278726,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KOAJ",
+    "flight_hours": 1.6361,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d2a3",
+    "callsign": "N603CN",
+    "firstSeen": 1774275325,
+    "lastSeen": 1774278338,
+    "estDepartureAirport": "KADM",
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 0.8369,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8695",
+    "callsign": "TIV906",
+    "firstSeen": 1774277945,
+    "lastSeen": 1774278879,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KA09",
+    "flight_hours": 0.2594,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1774273871,
+    "lastSeen": 1774277386,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9764,
+    "landing": 1
+  },
+  {
+    "icao24": "ad97a7",
+    "callsign": "EJA975",
+    "firstSeen": 1774274713,
+    "lastSeen": 1774277484,
+    "estDepartureAirport": "KFNL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.7697,
+    "landing": 1
+  }
+]
