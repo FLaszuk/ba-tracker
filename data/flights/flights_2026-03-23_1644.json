@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1774280858,
+    "lastSeen": 1774284353,
+    "estDepartureAirport": "03NC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9708,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1774286744,
+    "lastSeen": 1774287691,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KTRM",
+    "flight_hours": 0.2631,
+    "landing": 1
+  },
+  {
+    "icao24": "ac70c2",
+    "callsign": "N900SF",
+    "firstSeen": 1774280407,
+    "lastSeen": 1774287186,
+    "estDepartureAirport": "KTIX",
+    "estArrivalAirport": "KIDI",
+    "flight_hours": 1.8831,
+    "landing": 1
+  },
+  {
+    "icao24": "acd854",
+    "callsign": "N927BR",
+    "firstSeen": 1774278537,
+    "lastSeen": 1774284985,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.7911,
+    "landing": 1
+  }
+]
