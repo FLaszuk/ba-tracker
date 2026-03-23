@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1774279852,
+    "lastSeen": 1774280964,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "AZ77",
+    "flight_hours": 0.3089,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1774280214,
+    "lastSeen": 1774283238,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.84,
+    "landing": 1
+  }
+]
