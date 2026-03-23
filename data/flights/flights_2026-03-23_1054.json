@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1774266177,
+    "lastSeen": 1774269061,
+    "estDepartureAirport": "EDDN",
+    "estArrivalAirport": "EDDN",
+    "flight_hours": 0.8011,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2066",
+    "callsign": "VJT110",
+    "firstSeen": 1774243178,
+    "lastSeen": 1774264448,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 5.9083,
+    "landing": 1
+  }
+]
