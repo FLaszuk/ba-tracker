@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "020114",
+    "callsign": "CNTRS",
+    "firstSeen": 1774341214,
+    "lastSeen": 1774346326,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LESO",
+    "flight_hours": 1.42,
+    "landing": 1
+  },
+  {
+    "icao24": "4d208a",
+    "callsign": "VJT754",
+    "firstSeen": 1774348107,
+    "lastSeen": 1774348300,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "LMML",
+    "flight_hours": 0.0536,
+    "landing": 1
+  }
+]
