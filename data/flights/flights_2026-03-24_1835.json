@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a05b20",
+    "callsign": "N122A",
+    "firstSeen": 1774371379,
+    "lastSeen": 1774381538,
+    "estDepartureAirport": "KCEF",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.8219,
+    "landing": 1
+  },
+  {
+    "icao24": "a40a65",
+    "callsign": "N36EP",
+    "firstSeen": 1774361584,
+    "lastSeen": 1774378390,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KCRQ",
+    "flight_hours": 4.6683,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1774374707,
+    "lastSeen": 1774377960,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "0CO6",
+    "flight_hours": 0.9036,
+    "landing": 1
+  }
+]
