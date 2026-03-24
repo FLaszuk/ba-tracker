@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT2MD",
+    "firstSeen": 1774375896,
+    "lastSeen": 1774382013,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6992,
+    "landing": 1
+  },
+  {
+    "icao24": "a05b20",
+    "callsign": "N122A",
+    "firstSeen": 1774371379,
+    "lastSeen": 1774381538,
+    "estDepartureAirport": "KCEF",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.8219,
+    "landing": 1
+  }
+]
