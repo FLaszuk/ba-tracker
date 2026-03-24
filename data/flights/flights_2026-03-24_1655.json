@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP402",
+    "firstSeen": 1774370551,
+    "lastSeen": 1774372244,
+    "estDepartureAirport": "LFJI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4703,
+    "landing": 1
+  },
+  {
+    "icao24": "3cefbc",
+    "callsign": "SCR378",
+    "firstSeen": 1774371172,
+    "lastSeen": 1774375247,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.1319,
+    "landing": 1
+  },
+  {
+    "icao24": "a00084",
+    "callsign": "N1FE",
+    "firstSeen": 1774346840,
+    "lastSeen": 1774372479,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "PANC",
+    "flight_hours": 7.1219,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1774368611,
+    "lastSeen": 1774374856,
+    "estDepartureAirport": "KHWD",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.7347,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1774367861,
+    "lastSeen": 1774371209,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 0.93,
+    "landing": 1
+  }
+]
