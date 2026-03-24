@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "30061c",
+    "callsign": "VND03D",
+    "firstSeen": 1774338631,
+    "lastSeen": 1774341389,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 0.7661,
+    "landing": 1
+  },
+  {
+    "icao24": "39ae37",
+    "callsign": "FHLRX",
+    "firstSeen": 1774337949,
+    "lastSeen": 1774340189,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6222,
+    "landing": 1
+  }
+]
