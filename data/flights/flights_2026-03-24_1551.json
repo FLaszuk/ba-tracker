@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d029e",
+    "callsign": "LXJPA",
+    "firstSeen": 1774366093,
+    "lastSeen": 1774367426,
+    "estDepartureAirport": "ELLX",
+    "estArrivalAirport": "EDRP",
+    "flight_hours": 0.3703,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1774356934,
+    "lastSeen": 1774367821,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.0242,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d6df",
+    "callsign": "N733H",
+    "firstSeen": 1774368115,
+    "lastSeen": 1774370109,
+    "estDepartureAirport": "KSDF",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 0.5539,
+    "landing": 1
+  }
+]
