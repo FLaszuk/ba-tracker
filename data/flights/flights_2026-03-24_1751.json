@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cefbc",
+    "callsign": "SCR378",
+    "firstSeen": 1774371172,
+    "lastSeen": 1774375247,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.1319,
+    "landing": 1
+  },
+  {
+    "icao24": "49130f",
+    "callsign": "NJE939Q",
+    "firstSeen": 1774366713,
+    "lastSeen": 1774374821,
+    "estDepartureAirport": "UKOO",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 2.2522,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1774368611,
+    "lastSeen": 1774374856,
+    "estDepartureAirport": "KHWD",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.7347,
+    "landing": 1
+  },
+  {
+    "icao24": "a40a65",
+    "callsign": "N36EP",
+    "firstSeen": 1774361584,
+    "lastSeen": 1774378390,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KCRQ",
+    "flight_hours": 4.6683,
+    "landing": 1
+  }
+]
