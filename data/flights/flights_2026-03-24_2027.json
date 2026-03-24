@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a2f444",
+    "callsign": "N29MR",
+    "firstSeen": 1774378731,
+    "lastSeen": 1774385203,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "1TX3",
+    "flight_hours": 1.7978,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2491",
+    "callsign": "N946MM",
+    "firstSeen": 1774386438,
+    "lastSeen": 1774388938,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.6944,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1774386816,
+    "lastSeen": 1774389238,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.6728,
+    "landing": 1
+  },
+  {
+    "icao24": "c00256",
+    "callsign": "CFAWZ",
+    "firstSeen": 1774378706,
+    "lastSeen": 1774383469,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3231,
+    "landing": 1
+  },
+  {
+    "icao24": "c06bfd",
+    "callsign": "CDR18T",
+    "firstSeen": 1774378749,
+    "lastSeen": 1774389947,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "CYPP",
+    "flight_hours": 3.1106,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1774386753,
+    "lastSeen": 1774388061,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3633,
+    "landing": 1
+  }
+]
