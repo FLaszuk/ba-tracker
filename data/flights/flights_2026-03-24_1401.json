@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "300575",
+    "callsign": "IXPRA",
+    "firstSeen": 1774358379,
+    "lastSeen": 1774361897,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9772,
+    "landing": 1
+  },
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1774355267,
+    "lastSeen": 1774362013,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 1.8739,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e570",
+    "callsign": "N221HJ",
+    "firstSeen": 1774362496,
+    "lastSeen": 1774363999,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.4175,
+    "landing": 1
+  },
+  {
+    "icao24": "abe1ad",
+    "callsign": "N865CS",
+    "firstSeen": 1774355976,
+    "lastSeen": 1774365828,
+    "estDepartureAirport": "TN98",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 2.7367,
+    "landing": 1
+  }
+]
