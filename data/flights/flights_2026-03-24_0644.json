@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1774332337,
+    "lastSeen": 1774335432,
+    "estDepartureAirport": "ESGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8597,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1774331101,
+    "lastSeen": 1774336025,
+    "estDepartureAirport": "YCNK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3678,
+    "landing": 1
+  }
+]
