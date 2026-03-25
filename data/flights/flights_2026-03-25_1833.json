@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3ec41",
+    "callsign": "N352AF",
+    "firstSeen": 1774451972,
+    "lastSeen": 1774466217,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "KBYI",
+    "flight_hours": 3.9569,
+    "landing": 1
+  },
+  {
+    "icao24": "e48430",
+    "callsign": "PPPRV",
+    "firstSeen": 1774461231,
+    "lastSeen": 1774463830,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.7219,
+    "landing": 1
+  }
+]
