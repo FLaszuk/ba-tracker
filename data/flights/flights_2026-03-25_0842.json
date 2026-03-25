@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "780b2a",
+    "callsign": "B8271",
+    "firstSeen": 1774419977,
+    "lastSeen": 1774432192,
+    "estDepartureAirport": "RKSS",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 3.3931,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE962",
+    "firstSeen": 1774428566,
+    "lastSeen": 1774429414,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YYNG",
+    "flight_hours": 0.2356,
+    "landing": 1
+  },
+  {
+    "icao24": "840fa4",
+    "callsign": "JA04AA",
+    "firstSeen": 1774427907,
+    "lastSeen": 1774429650,
+    "estDepartureAirport": "RJTT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4842,
+    "landing": 1
+  }
+]
