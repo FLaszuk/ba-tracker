@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1774462269,
+    "lastSeen": 1774468097,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KVHN",
+    "flight_hours": 1.6189,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1774455600,
+    "lastSeen": 1774467753,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUYI",
+    "flight_hours": 3.3758,
+    "landing": 1
+  }
+]
