@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2134",
+    "callsign": "VJT437",
+    "firstSeen": 1774430357,
+    "lastSeen": 1774431910,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "GMFM",
+    "flight_hours": 0.4314,
+    "landing": 1
+  },
+  {
+    "icao24": "78094e",
+    "callsign": "B8250",
+    "firstSeen": 1774433300,
+    "lastSeen": 1774433799,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1386,
+    "landing": 1
+  },
+  {
+    "icao24": "780b2a",
+    "callsign": "B8271",
+    "firstSeen": 1774419977,
+    "lastSeen": 1774432192,
+    "estDepartureAirport": "RKSS",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 3.3931,
+    "landing": 1
+  },
+  {
+    "icao24": "a715ef",
+    "callsign": "N556CH",
+    "firstSeen": 1774428928,
+    "lastSeen": 1774431885,
+    "estDepartureAirport": "EFHK",
+    "estArrivalAirport": "EFKM",
+    "flight_hours": 0.8214,
+    "landing": 1
+  }
+]
