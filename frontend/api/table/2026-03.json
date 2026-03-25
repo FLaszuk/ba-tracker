@@ -11,7 +11,7 @@
       "engine_model": "PW308C",
       "total_hours": 4019.9,
       "total_landings": 2173,
-      "aircraft_market_share": 13.34,
+      "aircraft_market_share": 13.33,
       "engine_market_share": 29.81
     },
     {
@@ -19,8 +19,8 @@
       "aircraft_model": "G650",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 3706.1,
-      "total_landings": 2021,
+      "total_hours": 3708.1,
+      "total_landings": 2022,
       "aircraft_market_share": 12.3,
       "engine_market_share": 45.92
     },
@@ -41,7 +41,7 @@
       "engine_model": "TFE731",
       "total_hours": 2810.9,
       "total_landings": 1510,
-      "aircraft_market_share": 9.33,
+      "aircraft_market_share": 9.32,
       "engine_market_share": 17.06
     },
     {
@@ -69,8 +69,8 @@
       "aircraft_model": "Citation X",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 1550.1,
-      "total_landings": 991,
+      "total_hours": 1550.6,
+      "total_landings": 992,
       "aircraft_market_share": 5.14,
       "engine_market_share": 45.92
     },
@@ -99,9 +99,9 @@
       "aircraft_model": "Learjet",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 965.2,
-      "total_landings": 745,
-      "aircraft_market_share": 3.2,
+      "total_hours": 966.7,
+      "total_landings": 746,
+      "aircraft_market_share": 3.21,
       "engine_market_share": 17.06
     },
     {
@@ -159,8 +159,8 @@
       "aircraft_model": "Legacy 600",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 409.8,
-      "total_landings": 325,
+      "total_hours": 410.9,
+      "total_landings": 326,
       "aircraft_market_share": 1.36,
       "engine_market_share": 45.92
     },

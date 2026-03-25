@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU57CZ",
+    "firstSeen": 1774456915,
+    "lastSeen": 1774460594,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.0219,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "N282AF",
+    "firstSeen": 1774454402,
+    "lastSeen": 1774460402,
+    "estDepartureAirport": "KDVO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6667,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1774456398,
+    "lastSeen": 1774461883,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5236,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf624",
+    "callsign": "EJM805",
+    "firstSeen": 1774453996,
+    "lastSeen": 1774461156,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "0AR1",
+    "flight_hours": 1.9889,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1774460633,
+    "lastSeen": 1774462548,
+    "estDepartureAirport": "KERI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5319,
+    "landing": 1
+  }
+]
