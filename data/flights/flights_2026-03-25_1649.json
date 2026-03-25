@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "407446",
+    "callsign": "EDC909L",
+    "firstSeen": 1774443495,
+    "lastSeen": 1774457225,
+    "estDepartureAirport": "EGBB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8139,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "N225AF",
+    "firstSeen": 1774458349,
+    "lastSeen": 1774459232,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYGF",
+    "flight_hours": 0.2453,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "N282AF",
+    "firstSeen": 1774454402,
+    "lastSeen": 1774460402,
+    "estDepartureAirport": "KDVO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6667,
+    "landing": 1
+  },
+  {
+    "icao24": "aade10",
+    "callsign": "N8KD",
+    "firstSeen": 1774455802,
+    "lastSeen": 1774458394,
+    "estDepartureAirport": "KF70",
+    "estArrivalAirport": "KF70",
+    "flight_hours": 0.72,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1774453433,
+    "lastSeen": 1774459501,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.6856,
+    "landing": 1
+  }
+]
