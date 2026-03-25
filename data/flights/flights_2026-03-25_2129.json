@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1774464246,
+    "lastSeen": 1774473913,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 2.6853,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b125",
+    "callsign": "VJA401",
+    "firstSeen": 1774466528,
+    "lastSeen": 1774473713,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9958,
+    "landing": 1
+  },
+  {
+    "icao24": "a55afb",
+    "callsign": "N444RL",
+    "firstSeen": 1774461244,
+    "lastSeen": 1774476626,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 4.2728,
+    "landing": 1
+  },
+  {
+    "icao24": "a59e7e",
+    "callsign": "N461N",
+    "firstSeen": 1774458333,
+    "lastSeen": 1774476900,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 5.1575,
+    "landing": 1
+  },
+  {
+    "icao24": "a9b9f5",
+    "callsign": "N726BF",
+    "firstSeen": 1774472590,
+    "lastSeen": 1774475360,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CZAM",
+    "flight_hours": 0.7694,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1774468660,
+    "lastSeen": 1774479688,
+    "estDepartureAirport": "KAFW",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 3.0633,
+    "landing": 1
+  },
+  {
+    "icao24": "ab5c6c",
+    "callsign": "TWY831",
+    "firstSeen": 1774472665,
+    "lastSeen": 1774474233,
+    "estDepartureAirport": "KOXR",
+    "estArrivalAirport": "3CA9",
+    "flight_hours": 0.4356,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1774468680,
+    "lastSeen": 1774476576,
+    "estDepartureAirport": "19TE",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 2.1933,
+    "landing": 1
+  },
+  {
+    "icao24": "e032c1",
+    "callsign": "LVCKA",
+    "firstSeen": 1774474786,
+    "lastSeen": 1774476953,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SA13",
+    "flight_hours": 0.6019,
+    "landing": 1
+  }
+]
