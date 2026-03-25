@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1774449993,
+    "lastSeen": 1774455437,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 1.5122,
+    "landing": 1
+  },
+  {
+    "icao24": "a57dd4",
+    "callsign": "LXJ453",
+    "firstSeen": 1774449684,
+    "lastSeen": 1774454854,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "4CO0",
+    "flight_hours": 1.4361,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1774453082,
+    "lastSeen": 1774454923,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.5114,
+    "landing": 1
+  },
+  {
+    "icao24": "aade10",
+    "callsign": "N8KD",
+    "firstSeen": 1774455802,
+    "lastSeen": 1774458394,
+    "estDepartureAirport": "KF70",
+    "estArrivalAirport": "KF70",
+    "flight_hours": 0.72,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1774450572,
+    "lastSeen": 1774454614,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KTWF",
+    "flight_hours": 1.1228,
+    "landing": 1
+  }
+]
