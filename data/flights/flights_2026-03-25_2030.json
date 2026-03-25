@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1774471004,
+    "lastSeen": 1774473378,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.6594,
+    "landing": 1
+  },
+  {
+    "icao24": "ab5c6c",
+    "callsign": "TWY831",
+    "firstSeen": 1774472665,
+    "lastSeen": 1774474233,
+    "estDepartureAirport": "KOXR",
+    "estArrivalAirport": "3CA9",
+    "flight_hours": 0.4356,
+    "landing": 1
+  },
+  {
+    "icao24": "acc334",
+    "callsign": "N921PP",
+    "firstSeen": 1774459190,
+    "lastSeen": 1774471229,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.3442,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1774466092,
+    "lastSeen": 1774470110,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "KMEI",
+    "flight_hours": 1.1161,
+    "landing": 1
+  }
+]
