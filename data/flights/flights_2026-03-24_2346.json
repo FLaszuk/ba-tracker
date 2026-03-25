@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW1700",
+    "firstSeen": 1774396177,
+    "lastSeen": 1774400678,
+    "estDepartureAirport": "MMVR",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 1.2503,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1774399487,
+    "lastSeen": 1774400714,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3408,
+    "landing": 1
+  },
+  {
+    "icao24": "a78922",
+    "callsign": "N585GS",
+    "firstSeen": 1774394520,
+    "lastSeen": 1774396318,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "NV09",
+    "flight_hours": 0.4994,
+    "landing": 1
+  }
+]
