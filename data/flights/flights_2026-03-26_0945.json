@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0080fe",
+    "callsign": "ZSAJD",
+    "firstSeen": 1774514012,
+    "lastSeen": 1774519877,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6292,
+    "landing": 1
+  },
+  {
+    "icao24": "4407c4",
+    "callsign": "GAC954A",
+    "firstSeen": 1774515666,
+    "lastSeen": 1774518996,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.925,
+    "landing": 1
+  },
+  {
+    "icao24": "a19df5",
+    "callsign": "N203JE",
+    "firstSeen": 1774517393,
+    "lastSeen": 1774520422,
+    "estDepartureAirport": "LPPT",
+    "estArrivalAirport": "LECO",
+    "flight_hours": 0.8414,
+    "landing": 1
+  },
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1774521695,
+    "lastSeen": 1774523614,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 0.5331,
+    "landing": 1
+  }
+]
