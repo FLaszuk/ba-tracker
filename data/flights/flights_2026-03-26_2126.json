@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1774562017,
+    "lastSeen": 1774563588,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.4364,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4dc",
+    "callsign": "VJA402",
+    "firstSeen": 1774549487,
+    "lastSeen": 1774566280,
+    "estDepartureAirport": "KCMH",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.6647,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d2c5",
+    "callsign": "N539KH",
+    "firstSeen": 1774555659,
+    "lastSeen": 1774561195,
+    "estDepartureAirport": "KODO",
+    "estArrivalAirport": "UT54",
+    "flight_hours": 1.5378,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1774559870,
+    "lastSeen": 1774560910,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.2889,
+    "landing": 1
+  }
+]
