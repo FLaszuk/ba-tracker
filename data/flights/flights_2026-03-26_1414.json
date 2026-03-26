@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "39ae37",
+    "callsign": "FHLRX",
+    "firstSeen": 1774535117,
+    "lastSeen": 1774537569,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": "LELO",
+    "flight_hours": 0.6811,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c9",
+    "callsign": "VJT582",
+    "firstSeen": 1774533588,
+    "lastSeen": 1774536463,
+    "estDepartureAirport": "LOWL",
+    "estArrivalAirport": "LOWL",
+    "flight_hours": 0.7986,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c9",
+    "callsign": "VJT582",
+    "firstSeen": 1774537470,
+    "lastSeen": 1774539708,
+    "estDepartureAirport": "LOWL",
+    "estArrivalAirport": "LOWL",
+    "flight_hours": 0.6217,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1774531948,
+    "lastSeen": 1774535320,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.9367,
+    "landing": 1
+  }
+]
