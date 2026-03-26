@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU57CZ",
+    "firstSeen": 1774527348,
+    "lastSeen": 1774531328,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1056,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1774529450,
+    "lastSeen": 1774530746,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.36,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a99e",
+    "callsign": "N27052",
+    "firstSeen": 1774531523,
+    "lastSeen": 1774531772,
+    "estDepartureAirport": "KABQ",
+    "estArrivalAirport": "K1N1",
+    "flight_hours": 0.0692,
+    "landing": 1
+  },
+  {
+    "icao24": "a6587e",
+    "callsign": "N508JP",
+    "firstSeen": 1774527007,
+    "lastSeen": 1774532542,
+    "estDepartureAirport": "KLZU",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.5375,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1774529222,
+    "lastSeen": 1774531635,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.6703,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1774525989,
+    "lastSeen": 1774529539,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.9861,
+    "landing": 1
+  }
+]
