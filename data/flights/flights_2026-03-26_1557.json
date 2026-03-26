@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a105b0",
+    "callsign": "EJA165",
+    "firstSeen": 1774538209,
+    "lastSeen": 1774540628,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.6719,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1774538756,
+    "lastSeen": 1774540636,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.5222,
+    "landing": 1
+  },
+  {
+    "icao24": "a62665",
+    "callsign": "JCY211",
+    "firstSeen": 1774538327,
+    "lastSeen": 1774543242,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KMPJ",
+    "flight_hours": 1.3653,
+    "landing": 1
+  }
+]
