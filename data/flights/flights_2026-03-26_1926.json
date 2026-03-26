@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1774553002,
+    "lastSeen": 1774555272,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6306,
+    "landing": 1
+  },
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1774552398,
+    "lastSeen": 1774555130,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 0.7589,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1774551665,
+    "lastSeen": 1774552956,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3586,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1774553899,
+    "lastSeen": 1774554800,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2503,
+    "landing": 1
+  },
+  {
+    "icao24": "e48fd1",
+    "callsign": "PPLJA",
+    "firstSeen": 1774552394,
+    "lastSeen": 1774553728,
+    "estDepartureAirport": "SBFZ",
+    "estArrivalAirport": "SBMS",
+    "flight_hours": 0.3706,
+    "landing": 1
+  }
+]
