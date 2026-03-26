@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0c6c6",
+    "callsign": "DCM2492",
+    "firstSeen": 1774555800,
+    "lastSeen": 1774557478,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "MUKW",
+    "flight_hours": 0.4661,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS719",
+    "firstSeen": 1774554725,
+    "lastSeen": 1774558736,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KJER",
+    "flight_hours": 1.1142,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1774558239,
+    "lastSeen": 1774559774,
+    "estDepartureAirport": "KMKV",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.4264,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1815",
+    "callsign": "N75EA",
+    "firstSeen": 1774549620,
+    "lastSeen": 1774558192,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "WY29",
+    "flight_hours": 2.3811,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1774559870,
+    "lastSeen": 1774560910,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.2889,
+    "landing": 1
+  }
+]
