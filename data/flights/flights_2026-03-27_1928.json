@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4d21b5",
+    "callsign": "VCJ50M",
+    "firstSeen": 1774631234,
+    "lastSeen": 1774639932,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 2.4161,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cbf0",
+    "callsign": "N28DC",
+    "firstSeen": 1774635253,
+    "lastSeen": 1774640245,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K7M3",
+    "flight_hours": 1.3867,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1774640765,
+    "lastSeen": 1774641452,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSMO",
+    "flight_hours": 0.1908,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f808",
+    "callsign": "LXJ484",
+    "firstSeen": 1774636639,
+    "lastSeen": 1774639916,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9103,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1774639351,
+    "lastSeen": 1774640153,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2228,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1774641201,
+    "lastSeen": 1774642248,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEQ4",
+    "flight_hours": 0.2908,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1774639073,
+    "lastSeen": 1774641955,
+    "estDepartureAirport": "SBJD",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.8006,
+    "landing": 1
+  }
+]

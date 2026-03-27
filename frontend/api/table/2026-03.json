@@ -39,8 +39,8 @@
       "aircraft_model": "Falcon 900",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 2819.3,
-      "total_landings": 1516,
+      "total_hours": 2820.7,
+      "total_landings": 1517,
       "aircraft_market_share": 9.31,
       "engine_market_share": 17.07
     },
@@ -49,8 +49,8 @@
       "aircraft_model": "G450",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "Tay 611-8C",
-      "total_hours": 2364.2,
-      "total_landings": 1246,
+      "total_hours": 2365.1,
+      "total_landings": 1247,
       "aircraft_market_share": 7.81,
       "engine_market_share": 45.89
     },
@@ -69,8 +69,8 @@
       "aircraft_model": "Citation X",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 1560.1,
-      "total_landings": 998,
+      "total_hours": 1560.3,
+      "total_landings": 999,
       "aircraft_market_share": 5.15,
       "engine_market_share": 45.89
     },
@@ -89,8 +89,8 @@
       "aircraft_model": "Phenom 300",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW535",
-      "total_hours": 1138.0,
-      "total_landings": 867,
+      "total_hours": 1139.0,
+      "total_landings": 869,
       "aircraft_market_share": 3.76,
       "engine_market_share": 29.84
     },
@@ -229,8 +229,8 @@
       "aircraft_model": "Citation XLS",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW545",
-      "total_hours": 264.4,
-      "total_landings": 158,
+      "total_hours": 264.7,
+      "total_landings": 159,
       "aircraft_market_share": 0.87,
       "engine_market_share": 29.84
     },
@@ -241,7 +241,7 @@
       "engine_model": "PW545",
       "total_hours": 210.5,
       "total_landings": 158,
-      "aircraft_market_share": 0.7,
+      "aircraft_market_share": 0.69,
       "engine_market_share": 29.84
     },
     {
@@ -271,7 +271,7 @@
       "engine_model": "HTF7250G",
       "total_hours": 162.0,
       "total_landings": 88,
-      "aircraft_market_share": 0.54,
+      "aircraft_market_share": 0.53,
       "engine_market_share": 17.07
     },
     {
