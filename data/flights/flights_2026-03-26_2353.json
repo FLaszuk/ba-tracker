@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a402d1",
+    "callsign": "N358DA",
+    "firstSeen": 1774564187,
+    "lastSeen": 1774568926,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3164,
+    "landing": 1
+  },
+  {
+    "icao24": "a54f31",
+    "callsign": "EJM441",
+    "firstSeen": 1774565789,
+    "lastSeen": 1774573251,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.0728,
+    "landing": 1
+  }
+]
