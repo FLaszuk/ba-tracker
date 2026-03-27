@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1774614573,
+    "lastSeen": 1774615700,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3131,
+    "landing": 1
+  },
+  {
+    "icao24": "3f6533",
+    "callsign": "GAF615",
+    "firstSeen": 1774611945,
+    "lastSeen": 1774618584,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.8442,
+    "landing": 1
+  },
+  {
+    "icao24": "4bc8a3",
+    "callsign": "TCREC",
+    "firstSeen": 1774613298,
+    "lastSeen": 1774613399,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": "LTBP",
+    "flight_hours": 0.0281,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0283",
+    "callsign": "JFA34N",
+    "firstSeen": 1774612692,
+    "lastSeen": 1774614749,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LFEG",
+    "flight_hours": 0.5714,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d2a3",
+    "callsign": "N603CN",
+    "firstSeen": 1774612712,
+    "lastSeen": 1774615449,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 0.7603,
+    "landing": 1
+  }
+]
