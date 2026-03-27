@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "47b007",
+    "callsign": "MDT5",
+    "firstSeen": 1774613280,
+    "lastSeen": 1774620248,
+    "estDepartureAirport": "ENGM",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.9356,
+    "landing": 1
+  },
+  {
+    "icao24": "490d02",
+    "callsign": "NJE200K",
+    "firstSeen": 1774617860,
+    "lastSeen": 1774620912,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIRQ",
+    "flight_hours": 0.8478,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cd",
+    "callsign": "VJT796",
+    "firstSeen": 1774603454,
+    "lastSeen": 1774620211,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.6547,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1774615609,
+    "lastSeen": 1774620861,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LIAF",
+    "flight_hours": 1.4589,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1774611587,
+    "lastSeen": 1774619610,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "GMFI",
+    "flight_hours": 2.2286,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "N280QS",
+    "firstSeen": 1774618159,
+    "lastSeen": 1774619216,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 0.2936,
+    "landing": 1
+  },
+  {
+    "icao24": "a7000f",
+    "callsign": "N550GP",
+    "firstSeen": 1774615894,
+    "lastSeen": 1774620455,
+    "estDepartureAirport": "KONT",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2669,
+    "landing": 1
+  },
+  {
+    "icao24": "e02192",
+    "callsign": "LVBFR",
+    "firstSeen": 1774621582,
+    "lastSeen": 1774622874,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SA31",
+    "flight_hours": 0.3589,
+    "landing": 1
+  }
+]
