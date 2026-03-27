@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d055c",
+    "callsign": "LET7233",
+    "firstSeen": 1774632788,
+    "lastSeen": 1774634063,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3542,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "N158AF",
+    "firstSeen": 1774631907,
+    "lastSeen": 1774633068,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.3225,
+    "landing": 1
+  }
+]
