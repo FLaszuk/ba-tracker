@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "490d03",
+    "callsign": "NJE646M",
+    "firstSeen": 1774631046,
+    "lastSeen": 1774631723,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LELI",
+    "flight_hours": 0.1881,
+    "landing": 1
+  },
+  {
+    "icao24": "a70016",
+    "callsign": "N550GW",
+    "firstSeen": 1774622729,
+    "lastSeen": 1774629839,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.975,
+    "landing": 1
+  },
+  {
+    "icao24": "a837f8",
+    "callsign": "N629DA",
+    "firstSeen": 1774623744,
+    "lastSeen": 1774629758,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 1.6706,
+    "landing": 1
+  }
+]
