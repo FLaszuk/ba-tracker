@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1774615730,
+    "lastSeen": 1774623066,
+    "estDepartureAirport": "EDQG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0378,
+    "landing": 1
+  },
+  {
+    "icao24": "a03fae",
+    "callsign": "EJM90",
+    "firstSeen": 1774626476,
+    "lastSeen": 1774628109,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4536,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1774622047,
+    "lastSeen": 1774625120,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "AZ86",
+    "flight_hours": 0.8536,
+    "landing": 1
+  },
+  {
+    "icao24": "e02192",
+    "callsign": "LVBFR",
+    "firstSeen": 1774621582,
+    "lastSeen": 1774622874,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SA31",
+    "flight_hours": 0.3589,
+    "landing": 1
+  }
+]
