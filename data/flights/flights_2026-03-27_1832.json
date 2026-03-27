@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d21b5",
+    "callsign": "VCJ50M",
+    "firstSeen": 1774631234,
+    "lastSeen": 1774639932,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 2.4161,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1ca5",
+    "callsign": "TWY94",
+    "firstSeen": 1774632115,
+    "lastSeen": 1774639051,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 1.9267,
+    "landing": 1
+  },
+  {
+    "icao24": "e8cfcf",
+    "callsign": "EP861",
+    "firstSeen": 1774637744,
+    "lastSeen": 1774638367,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SOML",
+    "flight_hours": 0.1731,
+    "landing": 1
+  }
+]
