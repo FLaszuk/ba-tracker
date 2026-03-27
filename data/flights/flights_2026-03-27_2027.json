@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1774644113,
+    "lastSeen": 1774647316,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 0.8897,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3bd8",
+    "callsign": "N888D",
+    "firstSeen": 1774640265,
+    "lastSeen": 1774642871,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "K6S5",
+    "flight_hours": 0.7239,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1774639064,
+    "lastSeen": 1774644484,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.5056,
+    "landing": 1
+  }
+]
