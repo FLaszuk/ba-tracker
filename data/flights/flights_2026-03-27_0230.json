@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE962",
+    "firstSeen": 1774578754,
+    "lastSeen": 1774579077,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.0897,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1774578073,
+    "lastSeen": 1774581272,
+    "estDepartureAirport": "KEFD",
+    "estArrivalAirport": "3MS9",
+    "flight_hours": 0.8886,
+    "landing": 1
+  },
+  {
+    "icao24": "a69f8c",
+    "callsign": "JKR26",
+    "firstSeen": 1774574816,
+    "lastSeen": 1774583972,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 2.5433,
+    "landing": 1
+  },
+  {
+    "icao24": "aa64f0",
+    "callsign": "N769WE",
+    "firstSeen": 1774577877,
+    "lastSeen": 1774580440,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.7119,
+    "landing": 1
+  }
+]
