@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1774704196,
+    "lastSeen": 1774710232,
+    "estDepartureAirport": "EGCC",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.6767,
+    "landing": 1
+  },
+  {
+    "icao24": "a380fc",
+    "callsign": "N325B",
+    "firstSeen": 1774706011,
+    "lastSeen": 1774711919,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "K02A",
+    "flight_hours": 1.6411,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1774703933,
+    "lastSeen": 1774710024,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 1.6919,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1774701670,
+    "lastSeen": 1774710406,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 2.4267,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1774706132,
+    "lastSeen": 1774707861,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.4803,
+    "landing": 1
+  },
+  {
+    "icao24": "ac380d",
+    "callsign": "N887CE",
+    "firstSeen": 1774707306,
+    "lastSeen": 1774710071,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.7681,
+    "landing": 1
+  },
+  {
+    "icao24": "e030d7",
+    "callsign": "LVCCW",
+    "firstSeen": 1774708478,
+    "lastSeen": 1774710075,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4436,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1774707433,
+    "lastSeen": 1774709191,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4883,
+    "landing": 1
+  }
+]
