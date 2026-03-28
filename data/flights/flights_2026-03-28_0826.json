@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0080fe",
+    "callsign": "OPM003",
+    "firstSeen": 1774684877,
+    "lastSeen": 1774686589,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FADU",
+    "flight_hours": 0.4756,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ca",
+    "callsign": "VJT570",
+    "firstSeen": 1774691322,
+    "lastSeen": 1774692013,
+    "estDepartureAirport": "ZGSZ",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1919,
+    "landing": 1
+  }
+]
