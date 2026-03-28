@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20d9",
+    "callsign": "VJT426",
+    "firstSeen": 1774719536,
+    "lastSeen": 1774721942,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CZAM",
+    "flight_hours": 0.6683,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1774716008,
+    "lastSeen": 1774721883,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6319,
+    "landing": 1
+  }
+]
