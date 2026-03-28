@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1774722618,
+    "lastSeen": 1774729005,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KGJT",
+    "flight_hours": 1.7742,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT3939",
+    "firstSeen": 1774719822,
+    "lastSeen": 1774729004,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5506,
+    "landing": 1
+  },
+  {
+    "icao24": "abc5b7",
+    "callsign": "N858GS",
+    "firstSeen": 1774721474,
+    "lastSeen": 1774732037,
+    "estDepartureAirport": "95OK",
+    "estArrivalAirport": "AZ86",
+    "flight_hours": 2.9342,
+    "landing": 1
+  }
+]
