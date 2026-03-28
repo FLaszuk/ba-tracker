@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1774697411,
+    "lastSeen": 1774702548,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 1.4269,
+    "landing": 1
+  },
+  {
+    "icao24": "a7126b",
+    "callsign": "N555EJ",
+    "firstSeen": 1774699076,
+    "lastSeen": 1774701711,
+    "estDepartureAirport": "KOWD",
+    "estArrivalAirport": "K3B1",
+    "flight_hours": 0.7319,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1774701271,
+    "lastSeen": 1774702436,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.3236,
+    "landing": 1
+  }
+]
