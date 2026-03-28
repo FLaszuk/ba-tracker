@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a678d2",
+    "callsign": "TWY10",
+    "firstSeen": 1774717346,
+    "lastSeen": 1774718481,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "MYGF",
+    "flight_hours": 0.3153,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f434",
+    "callsign": "N611TX",
+    "firstSeen": 1774715796,
+    "lastSeen": 1774718213,
+    "estDepartureAirport": "33NC",
+    "estArrivalAirport": "WV11",
+    "flight_hours": 0.6714,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1242",
+    "callsign": "N812RA",
+    "firstSeen": 1774712062,
+    "lastSeen": 1774720320,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "MYAX",
+    "flight_hours": 2.2939,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2ef2",
+    "callsign": "N82EM",
+    "firstSeen": 1774712927,
+    "lastSeen": 1774720086,
+    "estDepartureAirport": "KTTS",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.9886,
+    "landing": 1
+  }
+]

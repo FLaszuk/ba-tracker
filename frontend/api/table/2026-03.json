@@ -22,7 +22,7 @@
       "total_hours": 3714.0,
       "total_landings": 2024,
       "aircraft_market_share": 12.24,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -32,15 +32,15 @@
       "total_hours": 2938.5,
       "total_landings": 1621,
       "aircraft_market_share": 9.69,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 2821.4,
-      "total_landings": 1518,
+      "total_hours": 2821.7,
+      "total_landings": 1519,
       "aircraft_market_share": 9.3,
       "engine_market_share": 17.07
     },
@@ -52,7 +52,7 @@
       "total_hours": 2371.9,
       "total_landings": 1250,
       "aircraft_market_share": 7.82,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -62,7 +62,7 @@
       "total_hours": 2240.0,
       "total_landings": 1184,
       "aircraft_market_share": 7.38,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -72,7 +72,7 @@
       "total_hours": 1560.3,
       "total_landings": 999,
       "aircraft_market_share": 5.14,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -109,10 +109,10 @@
       "aircraft_model": "PC-24",
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
-      "total_hours": 962.4,
-      "total_landings": 604,
-      "aircraft_market_share": 3.17,
-      "engine_market_share": 4.7
+      "total_hours": 964.7,
+      "total_landings": 605,
+      "aircraft_market_share": 3.18,
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -131,7 +131,7 @@
       "engine_model": "PW610F",
       "total_hours": 659.7,
       "total_landings": 478,
-      "aircraft_market_share": 2.18,
+      "aircraft_market_share": 2.17,
       "engine_market_share": 29.83
     },
     {
@@ -152,7 +152,7 @@
       "total_hours": 423.8,
       "total_landings": 267,
       "aircraft_market_share": 1.4,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -162,7 +162,7 @@
       "total_hours": 412.5,
       "total_landings": 328,
       "aircraft_market_share": 1.36,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -212,7 +212,7 @@
       "total_hours": 332.3,
       "total_landings": 262,
       "aircraft_market_share": 1.1,
-      "engine_market_share": 4.7
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -252,7 +252,7 @@
       "total_hours": 204.6,
       "total_landings": 148,
       "aircraft_market_share": 0.67,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -282,7 +282,7 @@
       "total_hours": 131.3,
       "total_landings": 106,
       "aircraft_market_share": 0.43,
-      "engine_market_share": 4.7
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -322,7 +322,7 @@
       "total_hours": 55.6,
       "total_landings": 37,
       "aircraft_market_share": 0.18,
-      "engine_market_share": 45.9
+      "engine_market_share": 45.89
     },
     {
       "aircraft_manufacturer": "Embraer",
