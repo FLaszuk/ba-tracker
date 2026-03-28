@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH29B",
+    "firstSeen": 1774693961,
+    "lastSeen": 1774698478,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.2547,
+    "landing": 1
+  },
+  {
+    "icao24": "a7126b",
+    "callsign": "N555EJ",
+    "firstSeen": 1774699076,
+    "lastSeen": 1774701711,
+    "estDepartureAirport": "KOWD",
+    "estArrivalAirport": "K3B1",
+    "flight_hours": 0.7319,
+    "landing": 1
+  }
+]
