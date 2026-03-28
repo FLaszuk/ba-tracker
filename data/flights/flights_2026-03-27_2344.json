@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1774647261,
+    "lastSeen": 1774657830,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 2.9358,
+    "landing": 1
+  },
+  {
+    "icao24": "a67bd0",
+    "callsign": "N517DW",
+    "firstSeen": 1774633023,
+    "lastSeen": 1774658065,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.9561,
+    "landing": 1
+  },
+  {
+    "icao24": "a960ca",
+    "callsign": "N703MD",
+    "firstSeen": 1774640389,
+    "lastSeen": 1774657441,
+    "estDepartureAirport": "KOTH",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 4.7367,
+    "landing": 1
+  }
+]
