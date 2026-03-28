@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI601",
+    "firstSeen": 1774711219,
+    "lastSeen": 1774713974,
+    "estDepartureAirport": "LCEN",
+    "estArrivalAirport": "LTXE",
+    "flight_hours": 0.7653,
+    "landing": 1
+  },
+  {
+    "icao24": "a380fc",
+    "callsign": "N325B",
+    "firstSeen": 1774706011,
+    "lastSeen": 1774711919,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "K02A",
+    "flight_hours": 1.6411,
+    "landing": 1
+  }
+]
