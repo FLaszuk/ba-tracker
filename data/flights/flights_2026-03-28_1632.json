@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a7f434",
+    "callsign": "N611TX",
+    "firstSeen": 1774715796,
+    "lastSeen": 1774718213,
+    "estDepartureAirport": "33NC",
+    "estArrivalAirport": "WV11",
+    "flight_hours": 0.6714,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2ef2",
+    "callsign": "N82EM",
+    "firstSeen": 1774712927,
+    "lastSeen": 1774720086,
+    "estDepartureAirport": "KTTS",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.9886,
+    "landing": 1
+  },
+  {
+    "icao24": "e07457",
+    "callsign": "LVGQW",
+    "firstSeen": 1774715188,
+    "lastSeen": 1774716482,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3594,
+    "landing": 1
+  }
+]
