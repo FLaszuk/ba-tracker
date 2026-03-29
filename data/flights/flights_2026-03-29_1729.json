@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac3bd8",
+    "callsign": "N888D",
+    "firstSeen": 1774795160,
+    "lastSeen": 1774807018,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": null,
+    "flight_hours": 3.2939,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "N938QS",
+    "firstSeen": 1774797247,
+    "lastSeen": 1774805619,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSUT",
+    "flight_hours": 2.3256,
+    "landing": 1
+  }
+]
