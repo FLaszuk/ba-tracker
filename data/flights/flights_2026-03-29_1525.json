@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "493285",
+    "callsign": "NJE787A",
+    "firstSeen": 1774796701,
+    "lastSeen": 1774801800,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "ETSN",
+    "flight_hours": 1.4164,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029f",
+    "callsign": "JFA01Z",
+    "firstSeen": 1774796702,
+    "lastSeen": 1774800719,
+    "estDepartureAirport": "EBMB",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.1158,
+    "landing": 1
+  },
+  {
+    "icao24": "a000cc",
+    "callsign": "N1JB",
+    "firstSeen": 1774789222,
+    "lastSeen": 1774797718,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "PR20",
+    "flight_hours": 2.36,
+    "landing": 1
+  },
+  {
+    "icao24": "a8d751",
+    "callsign": "TBL1",
+    "firstSeen": 1774795569,
+    "lastSeen": 1774797980,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 0.6697,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1774800151,
+    "lastSeen": 1774802054,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.5286,
+    "landing": 1
+  }
+]
