@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "493285",
+    "callsign": "NJE787A",
+    "firstSeen": 1774796701,
+    "lastSeen": 1774801800,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "ETSN",
+    "flight_hours": 1.4164,
+    "landing": 1
+  },
+  {
+    "icao24": "a2380f",
+    "callsign": "N242GM",
+    "firstSeen": 1774801171,
+    "lastSeen": 1774803743,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 0.7144,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1774801680,
+    "lastSeen": 1774804671,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "59IL",
+    "flight_hours": 0.8308,
+    "landing": 1
+  },
+  {
+    "icao24": "a67882",
+    "callsign": "JKR56",
+    "firstSeen": 1774794440,
+    "lastSeen": 1774803523,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 2.5231,
+    "landing": 1
+  },
+  {
+    "icao24": "aa4089",
+    "callsign": "N76PW",
+    "firstSeen": 1774801192,
+    "lastSeen": 1774801939,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2075,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9746",
+    "callsign": "CYO975",
+    "firstSeen": 1774797281,
+    "lastSeen": 1774802539,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4606,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1774799273,
+    "lastSeen": 1774802259,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8294,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1774800151,
+    "lastSeen": 1774802054,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.5286,
+    "landing": 1
+  }
+]
