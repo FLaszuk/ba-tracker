@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1774769494,
+    "lastSeen": 1774774617,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4231,
+    "landing": 1
+  },
+  {
+    "icao24": "882c73",
+    "callsign": "MJJ712",
+    "firstSeen": 1774771427,
+    "lastSeen": 1774772524,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3047,
+    "landing": 1
+  }
+]
