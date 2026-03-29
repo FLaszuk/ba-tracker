@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494106",
+    "callsign": "NJE955K",
+    "firstSeen": 1774789175,
+    "lastSeen": 1774790410,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3431,
+    "landing": 1
+  },
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1774791873,
+    "lastSeen": 1774792620,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2075,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f6a",
+    "callsign": "NJM900",
+    "firstSeen": 1774783536,
+    "lastSeen": 1774791867,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 2.3142,
+    "landing": 1
+  }
+]
