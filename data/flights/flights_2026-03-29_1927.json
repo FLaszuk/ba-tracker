@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a02003",
+    "callsign": "N107PJ",
+    "firstSeen": 1774809067,
+    "lastSeen": 1774811906,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KDVO",
+    "flight_hours": 0.7886,
+    "landing": 1
+  },
+  {
+    "icao24": "a40a65",
+    "callsign": "N36EP",
+    "firstSeen": 1774805816,
+    "lastSeen": 1774812662,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9017,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1774812105,
+    "lastSeen": 1774813822,
+    "estDepartureAirport": "KMKV",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.4769,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ab44",
+    "callsign": "N40LB",
+    "firstSeen": 1774807631,
+    "lastSeen": 1774814084,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "K2R0",
+    "flight_hours": 1.7925,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1774809528,
+    "lastSeen": 1774812667,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8719,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1774816571,
+    "lastSeen": 1774817637,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.2961,
+    "landing": 1
+  },
+  {
+    "icao24": "e48424",
+    "callsign": "PRMON",
+    "firstSeen": 1774812102,
+    "lastSeen": 1774814452,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6528,
+    "landing": 1
+  }
+]
