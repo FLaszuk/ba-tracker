@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3453",
+    "firstSeen": 1774766914,
+    "lastSeen": 1774770441,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": "EPBK",
+    "flight_hours": 0.9797,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1774765045,
+    "lastSeen": 1774766436,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YMDG",
+    "flight_hours": 0.3864,
+    "landing": 1
+  }
+]
