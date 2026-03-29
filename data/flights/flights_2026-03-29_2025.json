@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1774813627,
+    "lastSeen": 1774817291,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "NM32",
+    "flight_hours": 1.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "a9538b",
+    "callsign": "WWI70",
+    "firstSeen": 1774813137,
+    "lastSeen": 1774817347,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1694,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1774814925,
+    "lastSeen": 1774816983,
+    "estDepartureAirport": "NV13",
+    "estArrivalAirport": "K62S",
+    "flight_hours": 0.5717,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1774816571,
+    "lastSeen": 1774817637,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.2961,
+    "landing": 1
+  }
+]

@@ -9,9 +9,9 @@
       "aircraft_model": "Falcon 2000",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW308C",
-      "total_hours": 4042.8,
-      "total_landings": 2192,
-      "aircraft_market_share": 13.29,
+      "total_hours": 4043.8,
+      "total_landings": 2193,
+      "aircraft_market_share": 13.3,
       "engine_market_share": 29.82
     },
     {
@@ -31,7 +31,7 @@
       "engine_model": "BR710",
       "total_hours": 2939.2,
       "total_landings": 1622,
-      "aircraft_market_share": 9.67,
+      "aircraft_market_share": 9.66,
       "engine_market_share": 45.87
     },
     {
@@ -39,8 +39,8 @@
       "aircraft_model": "Falcon 900",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 2832.8,
-      "total_landings": 1526,
+      "total_hours": 2833.4,
+      "total_landings": 1527,
       "aircraft_market_share": 9.32,
       "engine_market_share": 17.09
     },
@@ -59,8 +59,8 @@
       "aircraft_model": "Global 6000",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 2246.2,
-      "total_landings": 1186,
+      "total_hours": 2247.4,
+      "total_landings": 1187,
       "aircraft_market_share": 7.39,
       "engine_market_share": 45.87
     },
@@ -111,7 +111,7 @@
       "engine_model": "FJ44",
       "total_hours": 965.5,
       "total_landings": 606,
-      "aircraft_market_share": 3.18,
+      "aircraft_market_share": 3.17,
       "engine_market_share": 4.7
     },
     {
