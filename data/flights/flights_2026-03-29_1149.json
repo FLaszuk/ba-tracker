@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c665a",
+    "callsign": "VJH721",
+    "firstSeen": 1774783229,
+    "lastSeen": 1774786808,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.9942,
+    "landing": 1
+  },
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI601",
+    "firstSeen": 1774780985,
+    "lastSeen": 1774785094,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.1414,
+    "landing": 1
+  }
+]
