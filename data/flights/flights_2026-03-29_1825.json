@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a02003",
+    "callsign": "N107PJ",
+    "firstSeen": 1774809067,
+    "lastSeen": 1774811906,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KDVO",
+    "flight_hours": 0.7886,
+    "landing": 1
+  },
+  {
+    "icao24": "a105b0",
+    "callsign": "EJA165",
+    "firstSeen": 1774797547,
+    "lastSeen": 1774810604,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.6269,
+    "landing": 1
+  },
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1774799358,
+    "lastSeen": 1774808504,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5406,
+    "landing": 1
+  },
+  {
+    "icao24": "a4cea8",
+    "callsign": "N409GB",
+    "firstSeen": 1774799761,
+    "lastSeen": 1774808861,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5278,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1774793014,
+    "lastSeen": 1774808298,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": null,
+    "flight_hours": 4.2456,
+    "landing": 1
+  },
+  {
+    "icao24": "a64ad4",
+    "callsign": "N504WV",
+    "firstSeen": 1774799741,
+    "lastSeen": 1774808983,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KHDN",
+    "flight_hours": 2.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1774809528,
+    "lastSeen": 1774812667,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8719,
+    "landing": 1
+  }
+]
