@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "acad4a",
+    "callsign": "N916DK",
+    "firstSeen": 1774819149,
+    "lastSeen": 1774822059,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.8083,
+    "landing": 1
+  },
+  {
+    "icao24": "adf45a",
+    "callsign": "EJM999",
+    "firstSeen": 1774817107,
+    "lastSeen": 1774820755,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0133,
+    "landing": 1
+  }
+]
