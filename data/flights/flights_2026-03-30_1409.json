@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1774876859,
+    "lastSeen": 1774880439,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9944,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS818",
+    "firstSeen": 1774878038,
+    "lastSeen": 1774881693,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "23ID",
+    "flight_hours": 1.0153,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1774883200,
+    "lastSeen": 1774884346,
+    "estDepartureAirport": "KMSY",
+    "estArrivalAirport": "5LA1",
+    "flight_hours": 0.3183,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fae8",
+    "callsign": "N42ST",
+    "firstSeen": 1774874911,
+    "lastSeen": 1774879388,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2436,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d6df",
+    "callsign": "N733H",
+    "firstSeen": 1774873374,
+    "lastSeen": 1774883710,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 2.8711,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7127",
+    "callsign": "N900WG",
+    "firstSeen": 1774879478,
+    "lastSeen": 1774882373,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "LA63",
+    "flight_hours": 0.8042,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1774880049,
+    "lastSeen": 1774881077,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2856,
+    "landing": 1
+  }
+]
