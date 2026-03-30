@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1774867227,
+    "lastSeen": 1774868281,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2928,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1774867521,
+    "lastSeen": 1774868846,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3681,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1774866781,
+    "lastSeen": 1774868573,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4978,
+    "landing": 1
+  }
+]
