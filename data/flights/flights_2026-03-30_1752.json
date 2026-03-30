@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT7DL",
+    "firstSeen": 1774891387,
+    "lastSeen": 1774895474,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.1353,
+    "landing": 1
+  },
+  {
+    "icao24": "e48430",
+    "callsign": "PPPRV",
+    "firstSeen": 1774890262,
+    "lastSeen": 1774892585,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6453,
+    "landing": 1
+  }
+]
