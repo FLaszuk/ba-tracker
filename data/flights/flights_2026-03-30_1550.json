@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cc319",
+    "callsign": "DCBEN",
+    "firstSeen": 1774883368,
+    "lastSeen": 1774885439,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5753,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT8064",
+    "firstSeen": 1774881763,
+    "lastSeen": 1774886660,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.3603,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1774885206,
+    "lastSeen": 1774890258,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.4033,
+    "landing": 1
+  }
+]
