@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1774876859,
+    "lastSeen": 1774880439,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9944,
+    "landing": 1
+  },
+  {
+    "icao24": "39aded",
+    "callsign": "FHLPN",
+    "firstSeen": 1774871695,
+    "lastSeen": 1774878658,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9342,
+    "landing": 1
+  },
+  {
+    "icao24": "494104",
+    "callsign": "NJE433T",
+    "firstSeen": 1774868209,
+    "lastSeen": 1774875379,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 1.9917,
+    "landing": 1
+  },
+  {
+    "icao24": "4bbd2c",
+    "callsign": "TCOIL",
+    "firstSeen": 1774864561,
+    "lastSeen": 1774876650,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 3.3581,
+    "landing": 1
+  },
+  {
+    "icao24": "a04123",
+    "callsign": "N1150E",
+    "firstSeen": 1774872533,
+    "lastSeen": 1774875990,
+    "estDepartureAirport": "MN11",
+    "estArrivalAirport": "NE17",
+    "flight_hours": 0.9603,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4a6",
+    "callsign": "GLF76",
+    "firstSeen": 1774873496,
+    "lastSeen": 1774878537,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4003,
+    "landing": 1
+  }
+]
