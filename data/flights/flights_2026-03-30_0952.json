@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ9073",
+    "firstSeen": 1774854359,
+    "lastSeen": 1774865833,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": "UGKO",
+    "flight_hours": 3.1872,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1774858505,
+    "lastSeen": 1774864757,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.7367,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT7GM",
+    "firstSeen": 1774859996,
+    "lastSeen": 1774866974,
+    "estDepartureAirport": "EGPF",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.9383,
+    "landing": 1
+  }
+]
