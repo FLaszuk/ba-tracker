@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0ba69",
+    "callsign": "EJA146",
+    "firstSeen": 1774825112,
+    "lastSeen": 1774830542,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.5083,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1774825998,
+    "lastSeen": 1774829065,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "0ID0",
+    "flight_hours": 0.8519,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1774827880,
+    "lastSeen": 1774829128,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 0.3467,
+    "landing": 1
+  }
+]
