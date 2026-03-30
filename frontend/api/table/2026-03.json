@@ -71,7 +71,7 @@
       "engine_model": "AE 3007",
       "total_hours": 1570.2,
       "total_landings": 1008,
-      "aircraft_market_share": 5.16,
+      "aircraft_market_share": 5.15,
       "engine_market_share": 45.83
     },
     {
@@ -79,8 +79,8 @@
       "aircraft_model": "Falcon 7X",
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW307A",
-      "total_hours": 1204.7,
-      "total_landings": 692,
+      "total_hours": 1206.4,
+      "total_landings": 693,
       "aircraft_market_share": 3.96,
       "engine_market_share": 29.83
     },
@@ -99,8 +99,8 @@
       "aircraft_model": "Learjet",
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 983.5,
-      "total_landings": 762,
+      "total_hours": 983.9,
+      "total_landings": 763,
       "aircraft_market_share": 3.23,
       "engine_market_share": 17.09
     },
@@ -209,9 +209,9 @@
       "aircraft_model": "Citation CJ3",
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
-      "total_hours": 333.0,
-      "total_landings": 263,
-      "aircraft_market_share": 1.09,
+      "total_hours": 334.2,
+      "total_landings": 264,
+      "aircraft_market_share": 1.1,
       "engine_market_share": 4.7
     },
     {

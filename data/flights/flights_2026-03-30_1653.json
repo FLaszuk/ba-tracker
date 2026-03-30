@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR3DV",
+    "firstSeen": 1774883543,
+    "lastSeen": 1774889791,
+    "estDepartureAirport": "EBCI",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7356,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1774885206,
+    "lastSeen": 1774890258,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.4033,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1774890220,
+    "lastSeen": 1774891562,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3728,
+    "landing": 1
+  },
+  {
+    "icao24": "e48780",
+    "callsign": "PRSHC",
+    "firstSeen": 1774884929,
+    "lastSeen": 1774889211,
+    "estDepartureAirport": "SBGL",
+    "estArrivalAirport": "SJVC",
+    "flight_hours": 1.1894,
+    "landing": 1
+  }
+]
