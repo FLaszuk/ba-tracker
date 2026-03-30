@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1774894891,
+    "lastSeen": 1774895721,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2306,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT7DL",
+    "firstSeen": 1774891387,
+    "lastSeen": 1774895474,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.1353,
+    "landing": 1
+  },
+  {
+    "icao24": "a230d0",
+    "callsign": "N240JJ",
+    "firstSeen": 1774890836,
+    "lastSeen": 1774898952,
+    "estDepartureAirport": "KMKY",
+    "estArrivalAirport": "KOLY",
+    "flight_hours": 2.2544,
+    "landing": 1
+  }
+]

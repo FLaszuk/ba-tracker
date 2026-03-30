@@ -11,7 +11,7 @@
       "engine_model": "PW308C",
       "total_hours": 4050.4,
       "total_landings": 2198,
-      "aircraft_market_share": 13.3,
+      "aircraft_market_share": 13.29,
       "engine_market_share": 29.83
     },
     {
@@ -109,10 +109,10 @@
       "aircraft_model": "PC-24",
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
-      "total_hours": 966.5,
-      "total_landings": 607,
-      "aircraft_market_share": 3.17,
-      "engine_market_share": 4.7
+      "total_hours": 968.8,
+      "total_landings": 608,
+      "aircraft_market_share": 3.18,
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -121,7 +121,7 @@
       "engine_model": "HTF7350",
       "total_hours": 714.4,
       "total_landings": 464,
-      "aircraft_market_share": 2.35,
+      "aircraft_market_share": 2.34,
       "engine_market_share": 17.09
     },
     {
@@ -159,8 +159,8 @@
       "aircraft_model": "Legacy 600",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 414.3,
-      "total_landings": 329,
+      "total_hours": 414.5,
+      "total_landings": 330,
       "aircraft_market_share": 1.36,
       "engine_market_share": 45.83
     },
@@ -212,7 +212,7 @@
       "total_hours": 334.2,
       "total_landings": 264,
       "aircraft_market_share": 1.1,
-      "engine_market_share": 4.7
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -231,7 +231,7 @@
       "engine_model": "PW545",
       "total_hours": 266.6,
       "total_landings": 163,
-      "aircraft_market_share": 0.88,
+      "aircraft_market_share": 0.87,
       "engine_market_share": 29.83
     },
     {
@@ -282,7 +282,7 @@
       "total_hours": 131.3,
       "total_landings": 106,
       "aircraft_market_share": 0.43,
-      "engine_market_share": 4.7
+      "engine_market_share": 4.71
     },
     {
       "aircraft_manufacturer": "Dassault",
