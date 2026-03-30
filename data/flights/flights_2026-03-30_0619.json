@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1774851214,
+    "lastSeen": 1774852225,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.2808,
+    "landing": 1
+  },
+  {
+    "icao24": "840fa4",
+    "callsign": "JA04AA",
+    "firstSeen": 1774848032,
+    "lastSeen": 1774851203,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "RJTT",
+    "flight_hours": 0.8808,
+    "landing": 1
+  }
+]
