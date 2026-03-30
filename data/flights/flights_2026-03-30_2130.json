@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a5490f",
+    "callsign": "N44JC",
+    "firstSeen": 1774900362,
+    "lastSeen": 1774908067,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 2.1403,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c82",
+    "callsign": "PTSTU",
+    "firstSeen": 1774906006,
+    "lastSeen": 1774907782,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SJTA",
+    "flight_hours": 0.4933,
+    "landing": 1
+  }
+]
