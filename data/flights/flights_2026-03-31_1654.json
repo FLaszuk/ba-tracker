@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1774975999,
+    "lastSeen": 1774977726,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4797,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1774973883,
+    "lastSeen": 1774978133,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.1806,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1774976734,
+    "lastSeen": 1774978363,
+    "estDepartureAirport": "KMKV",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.4525,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf88",
+    "callsign": "N80AD",
+    "firstSeen": 1774970427,
+    "lastSeen": 1774975872,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 1.5125,
+    "landing": 1
+  }
+]
