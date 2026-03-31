@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300224",
+    "callsign": "VND06U",
+    "firstSeen": 1774988742,
+    "lastSeen": 1774992514,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0478,
+    "landing": 1
+  },
+  {
+    "icao24": "ab07a3",
+    "callsign": "N81GK",
+    "firstSeen": 1774990387,
+    "lastSeen": 1774996570,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "KORH",
+    "flight_hours": 1.7175,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1774988805,
+    "lastSeen": 1774992319,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMMA",
+    "flight_hours": 0.9761,
+    "landing": 1
+  }
+]
