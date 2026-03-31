@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1774965964,
+    "lastSeen": 1774968798,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7872,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1774964747,
+    "lastSeen": 1774965906,
+    "estDepartureAirport": "LA91",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.3219,
+    "landing": 1
+  }
+]
