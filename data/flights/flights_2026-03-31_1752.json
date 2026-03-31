@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "43e7a2",
+    "callsign": "MSNER",
+    "firstSeen": 1774979744,
+    "lastSeen": 1774982134,
+    "estDepartureAirport": "CRF3",
+    "estArrivalAirport": "MT17",
+    "flight_hours": 0.6639,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1774977346,
+    "lastSeen": 1774983079,
+    "estDepartureAirport": "KCHA",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 1.5925,
+    "landing": 1
+  },
+  {
+    "icao24": "a9564d",
+    "callsign": "N700TX",
+    "firstSeen": 1774980887,
+    "lastSeen": 1774982901,
+    "estDepartureAirport": "K3F9",
+    "estArrivalAirport": "KGZN",
+    "flight_hours": 0.5594,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744d",
+    "callsign": "LVGQM",
+    "firstSeen": 1774976910,
+    "lastSeen": 1774978963,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SAET",
+    "flight_hours": 0.5703,
+    "landing": 1
+  },
+  {
+    "icao24": "e48fd1",
+    "callsign": "PPLJA",
+    "firstSeen": 1774981639,
+    "lastSeen": 1774982848,
+    "estDepartureAirport": "SBFZ",
+    "estArrivalAirport": "SWBE",
+    "flight_hours": 0.3358,
+    "landing": 1
+  }
+]
