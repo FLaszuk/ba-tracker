@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a172a0",
+    "callsign": "N1925",
+    "firstSeen": 1774982556,
+    "lastSeen": 1774989572,
+    "estDepartureAirport": "KFSM",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 1.9489,
+    "landing": 1
+  },
+  {
+    "icao24": "a88e57",
+    "callsign": "LATTE92",
+    "firstSeen": 1774988423,
+    "lastSeen": 1774989245,
+    "estDepartureAirport": "PHNY",
+    "estArrivalAirport": "PHJR",
+    "flight_hours": 0.2283,
+    "landing": 1
+  }
+]
