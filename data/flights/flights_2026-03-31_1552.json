@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a661bd",
+    "callsign": "N510DC",
+    "firstSeen": 1774963260,
+    "lastSeen": 1774973746,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 2.9128,
+    "landing": 1
+  },
+  {
+    "icao24": "a9f0bf",
+    "callsign": "N74FS",
+    "firstSeen": 1774971433,
+    "lastSeen": 1774972248,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KBPT",
+    "flight_hours": 0.2264,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf88",
+    "callsign": "N80AD",
+    "firstSeen": 1774970427,
+    "lastSeen": 1774975872,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 1.5125,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1774972282,
+    "lastSeen": 1774973493,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3364,
+    "landing": 1
+  }
+]
