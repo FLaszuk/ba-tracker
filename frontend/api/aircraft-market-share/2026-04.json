@@ -3,21 +3,21 @@
   "data": [
     {
       "aircraft_manufacturer": "Bombardier",
-      "total_hours": 3.3,
+      "total_hours": 5.5,
+      "total_landings": 3,
+      "market_share_pct": 78.5
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "total_hours": 0.8,
       "total_landings": 2,
-      "market_share_pct": 74.5
+      "market_share_pct": 11.7
     },
     {
       "aircraft_manufacturer": "Dassault",
       "total_hours": 0.7,
       "total_landings": 1,
-      "market_share_pct": 15.6
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "total_hours": 0.4,
-      "total_landings": 1,
-      "market_share_pct": 9.9
+      "market_share_pct": 9.8
     }
   ]
 }

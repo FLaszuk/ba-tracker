@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b7fd4",
+    "callsign": "SUI784",
+    "firstSeen": 1775036701,
+    "lastSeen": 1775038091,
+    "estDepartureAirport": "LSME",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3861,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT7GM",
+    "firstSeen": 1775029740,
+    "lastSeen": 1775037831,
+    "estDepartureAirport": "EGPF",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 2.2475,
+    "landing": 1
+  }
+]
