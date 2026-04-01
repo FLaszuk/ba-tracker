@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1775053857,
+    "lastSeen": 1775058274,
+    "estDepartureAirport": "EDDS",
+    "estArrivalAirport": "LQVI",
+    "flight_hours": 1.2269,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ef",
+    "callsign": "ICL771",
+    "firstSeen": 1775018654,
+    "lastSeen": 1775060138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 11.5233,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775054147,
+    "lastSeen": 1775063306,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KROA",
+    "flight_hours": 2.5442,
+    "landing": 1
+  },
+  {
+    "icao24": "a18d54",
+    "callsign": "N2AC",
+    "firstSeen": 1775048932,
+    "lastSeen": 1775058530,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6661,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1775058572,
+    "lastSeen": 1775061117,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBTA",
+    "flight_hours": 0.7069,
+    "landing": 1
+  }
+]
