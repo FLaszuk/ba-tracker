@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d0230",
+    "callsign": "SVW97YX",
+    "firstSeen": 1775043269,
+    "lastSeen": 1775069023,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "OOBR",
+    "flight_hours": 7.1539,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1775058910,
+    "lastSeen": 1775070368,
+    "estDepartureAirport": "19TE",
+    "estArrivalAirport": "KS34",
+    "flight_hours": 3.1828,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744d",
+    "callsign": "LVGQM",
+    "firstSeen": 1775067110,
+    "lastSeen": 1775068489,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3831,
+    "landing": 1
+  },
+  {
+    "icao24": "e49151",
+    "callsign": "PRDRJ",
+    "firstSeen": 1775067439,
+    "lastSeen": 1775069309,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5194,
+    "landing": 1
+  }
+]
