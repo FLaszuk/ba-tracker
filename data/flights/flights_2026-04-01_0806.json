@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "490d02",
+    "callsign": "NJE002Q",
+    "firstSeen": 1775026003,
+    "lastSeen": 1775033894,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "LG55",
+    "flight_hours": 2.1919,
+    "landing": 1
+  },
+  {
+    "icao24": "493281",
+    "callsign": "NJE215N",
+    "firstSeen": 1775030005,
+    "lastSeen": 1775031579,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.4372,
+    "landing": 1
+  }
+]

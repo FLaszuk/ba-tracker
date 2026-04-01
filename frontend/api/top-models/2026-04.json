@@ -3,8 +3,20 @@
   "data": [
     {
       "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 350",
+      "total_hours": 2.2,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 1.1,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "total_hours": 0.4,
       "total_landings": 1
     },
     {

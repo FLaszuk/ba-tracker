@@ -1,9 +1,19 @@
 {
   "month": "2026-04",
-  "total": 2,
+  "total": 4,
   "offset": 0,
-  "limit": 2,
+  "limit": 4,
   "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 350",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 2.2,
+      "total_landings": 1,
+      "aircraft_market_share": 49.44,
+      "engine_market_share": 90.07
+    },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
@@ -11,8 +21,8 @@
       "engine_model": "TFE731",
       "total_hours": 1.1,
       "total_landings": 1,
-      "aircraft_market_share": 61.67,
-      "engine_market_share": 100.0
+      "aircraft_market_share": 25.06,
+      "engine_market_share": 90.07
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -21,8 +31,18 @@
       "engine_model": "TFE731",
       "total_hours": 0.7,
       "total_landings": 1,
-      "aircraft_market_share": 38.33,
-      "engine_market_share": 100.0
+      "aircraft_market_share": 15.58,
+      "engine_market_share": 90.07
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 0.4,
+      "total_landings": 1,
+      "aircraft_market_share": 9.93,
+      "engine_market_share": 9.93
     }
   ]
 }
