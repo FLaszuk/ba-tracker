@@ -2,6 +2,12 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 1.1,
+      "total_landings": 1
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 0.7,

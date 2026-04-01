@@ -2,10 +2,16 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "total_hours": 1.1,
+      "total_landings": 1,
+      "market_share_pct": 61.7
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "total_hours": 0.7,
       "total_landings": 1,
-      "market_share_pct": 100.0
+      "market_share_pct": 38.3
     }
   ]
 }
