@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3004c7",
+    "callsign": "SIO512",
+    "firstSeen": 1775063591,
+    "lastSeen": 1775065688,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 0.5825,
+    "landing": 1
+  },
+  {
+    "icao24": "491221",
+    "callsign": "NJE644M",
+    "firstSeen": 1775059381,
+    "lastSeen": 1775063659,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1883,
+    "landing": 1
+  },
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI601",
+    "firstSeen": 1775056045,
+    "lastSeen": 1775065129,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 2.5233,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775054147,
+    "lastSeen": 1775063306,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KROA",
+    "flight_hours": 2.5442,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1775056251,
+    "lastSeen": 1775063926,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1319,
+    "landing": 1
+  }
+]
