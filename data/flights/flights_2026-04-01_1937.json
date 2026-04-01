@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "43e7a2",
+    "callsign": "MSNER",
+    "firstSeen": 1775073328,
+    "lastSeen": 1775073739,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.1142,
+    "landing": 1
+  },
+  {
+    "icao24": "a58542",
+    "callsign": "LXJ455",
+    "firstSeen": 1775070811,
+    "lastSeen": 1775072808,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 0.5547,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a6e",
+    "callsign": "N504ST",
+    "firstSeen": 1775067077,
+    "lastSeen": 1775072669,
+    "estDepartureAirport": "KNEW",
+    "estArrivalAirport": "MYBC",
+    "flight_hours": 1.5533,
+    "landing": 1
+  },
+  {
+    "icao24": "ac91ba",
+    "callsign": "N909MM",
+    "firstSeen": 1775075020,
+    "lastSeen": 1775076520,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 0.4167,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1775064551,
+    "lastSeen": 1775073834,
+    "estDepartureAirport": "KOKC",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 2.5786,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1775072699,
+    "lastSeen": 1775073626,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2575,
+    "landing": 1
+  }
+]
