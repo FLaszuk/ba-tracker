@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "39b014",
+    "callsign": "FHMAU",
+    "firstSeen": 1775051089,
+    "lastSeen": 1775052775,
+    "estDepartureAirport": "LFLP",
+    "estArrivalAirport": "LFTW",
+    "flight_hours": 0.4683,
+    "landing": 1
+  },
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW935",
+    "firstSeen": 1775042579,
+    "lastSeen": 1775049451,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9089,
+    "landing": 1
+  },
+  {
+    "icao24": "4b18f0",
+    "callsign": "NUM701",
+    "firstSeen": 1775049705,
+    "lastSeen": 1775050837,
+    "estDepartureAirport": "LIBR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3144,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1775048529,
+    "lastSeen": 1775051907,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "II45",
+    "flight_hours": 0.9383,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4a6",
+    "callsign": "GLF73",
+    "firstSeen": 1775049494,
+    "lastSeen": 1775050700,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.335,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1775047397,
+    "lastSeen": 1775048528,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.3142,
+    "landing": 1
+  },
+  {
+    "icao24": "aae273",
+    "callsign": "GLF6",
+    "firstSeen": 1775046794,
+    "lastSeen": 1775048174,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KBQK",
+    "flight_hours": 0.3833,
+    "landing": 1
+  },
+  {
+    "icao24": "e07457",
+    "callsign": "LVGQW",
+    "firstSeen": 1775047565,
+    "lastSeen": 1775048861,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.36,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1775045995,
+    "lastSeen": 1775048530,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBTA",
+    "flight_hours": 0.7042,
+    "landing": 1
+  }
+]

@@ -2,6 +2,30 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 1.0,
+      "total_landings": 3
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 1.5,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "total_hours": 1.0,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 300",
+      "total_hours": 1.9,
+      "total_landings": 1
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 350",
       "total_hours": 2.2,
@@ -9,14 +33,14 @@
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 2.3,
+      "aircraft_model": "Challenger 605",
+      "total_hours": 0.9,
       "total_landings": 1
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 1.1,
+      "aircraft_model": "Global 6000",
+      "total_hours": 2.3,
       "total_landings": 1
     },
     {
@@ -32,15 +56,9 @@
       "total_landings": 1
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 900",
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 500",
       "total_hours": 0.7,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 0.4,
       "total_landings": 1
     }
   ]

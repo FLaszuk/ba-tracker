@@ -190,8 +190,8 @@
         "landings": 5082
       },
       "2026-04": {
-        "hours": 0.4,
-        "landings": 1
+        "hours": 1.0,
+        "landings": 3
       }
     },
     "Dassault": {
@@ -344,8 +344,8 @@
         "landings": 4498
       },
       "2026-04": {
-        "hours": 0.7,
-        "landings": 1
+        "hours": 1.0,
+        "landings": 2
       }
     },
     "Cessna (Textron)": {
@@ -652,8 +652,8 @@
         "landings": 3396
       },
       "2026-04": {
-        "hours": 5.5,
-        "landings": 3
+        "hours": 8.8,
+        "landings": 6
       }
     },
     "Embraer": {
@@ -804,6 +804,10 @@
       "2026-03": {
         "hours": 2162.8,
         "landings": 1682
+      },
+      "2026-04": {
+        "hours": 1.2,
+        "landings": 2
       }
     },
     "Pilatus": {
