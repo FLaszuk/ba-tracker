@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a67882",
+    "callsign": "JKR56",
+    "firstSeen": 1775069196,
+    "lastSeen": 1775078181,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f434",
+    "callsign": "N611TX",
+    "firstSeen": 1775068601,
+    "lastSeen": 1775077501,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K6L4",
+    "flight_hours": 2.4722,
+    "landing": 1
+  },
+  {
+    "icao24": "ac91ba",
+    "callsign": "N909MM",
+    "firstSeen": 1775075020,
+    "lastSeen": 1775076520,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 0.4167,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744d",
+    "callsign": "LVGQM",
+    "firstSeen": 1775077710,
+    "lastSeen": 1775079111,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3892,
+    "landing": 1
+  }
+]

@@ -4,7 +4,13 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 4.7,
+      "total_hours": 5.0,
+      "total_landings": 6
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "total_hours": 7.5,
       "total_landings": 5
     },
     {
@@ -17,12 +23,6 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 2.7,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 900",
-      "total_hours": 2.5,
       "total_landings": 3
     },
     {
