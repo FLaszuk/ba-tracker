@@ -36,6 +36,12 @@
       "aircraft_model": "Falcon 900",
       "total_hours": 0.7,
       "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 0.4,
+      "total_landings": 1
     }
   ]
 }
