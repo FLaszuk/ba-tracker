@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac444b",
+    "callsign": "N89PL",
+    "firstSeen": 1775078413,
+    "lastSeen": 1775079790,
+    "estDepartureAirport": "33LA",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.3825,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744d",
+    "callsign": "LVGQM",
+    "firstSeen": 1775077710,
+    "lastSeen": 1775079111,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3892,
+    "landing": 1
+  }
+]
