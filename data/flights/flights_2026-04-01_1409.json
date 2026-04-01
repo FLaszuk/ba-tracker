@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0bc000",
+    "callsign": "J8JET",
+    "firstSeen": 1775054534,
+    "lastSeen": 1775055396,
+    "estDepartureAirport": "TVSA",
+    "estArrivalAirport": "TFFF",
+    "flight_hours": 0.2394,
+    "landing": 1
+  },
+  {
+    "icao24": "39b014",
+    "callsign": "FHMAU",
+    "firstSeen": 1775051089,
+    "lastSeen": 1775052775,
+    "estDepartureAirport": "LFLP",
+    "estArrivalAirport": "LFTW",
+    "flight_hours": 0.4683,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR5649",
+    "firstSeen": 1775049422,
+    "lastSeen": 1775052443,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8392,
+    "landing": 1
+  }
+]

@@ -38,6 +38,12 @@
       "total_landings": 1
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 0.8,
+      "total_landings": 1
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7500E",
       "total_hours": 0.7,
@@ -52,12 +58,6 @@
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW306D1",
-      "total_hours": 0.4,
-      "total_landings": 1
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW545",
       "total_hours": 0.4,
       "total_landings": 1
     }
