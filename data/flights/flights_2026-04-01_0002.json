@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1774991951,
+    "lastSeen": 1775007408,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 4.2936,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1775001803,
+    "lastSeen": 1775004271,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.6856,
+    "landing": 1
+  }
+]

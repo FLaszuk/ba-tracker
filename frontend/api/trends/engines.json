@@ -36,7 +36,8 @@
     "2025-12",
     "2026-01",
     "2026-02",
-    "2026-03"
+    "2026-03",
+    "2026-04"
   ],
   "manufacturers": {
     "Rolls-Royce": {
@@ -335,8 +336,8 @@
         "landings": 12606
       },
       "2026-03": {
-        "hours": 9101.1,
-        "landings": 5779
+        "hours": 9105.4,
+        "landings": 5780
       }
     },
     "Honeywell": {
@@ -487,6 +488,10 @@
       "2026-03": {
         "hours": 5211.9,
         "landings": 3171
+      },
+      "2026-04": {
+        "hours": 0.7,
+        "landings": 1
       }
     },
     "Williams International": {

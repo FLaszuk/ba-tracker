@@ -1,0 +1,18 @@
+{
+  "month": "2026-04",
+  "total": 1,
+  "offset": 0,
+  "limit": 1,
+  "data": [
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 0.7,
+      "total_landings": 1,
+      "aircraft_market_share": 100.0,
+      "engine_market_share": 100.0
+    }
+  ]
+}
