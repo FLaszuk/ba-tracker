@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a1a24e",
+    "callsign": "N204QS",
+    "firstSeen": 1775139906,
+    "lastSeen": 1775144940,
+    "estDepartureAirport": "KBWI",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3983,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b103",
+    "callsign": "GLF6",
+    "firstSeen": 1775141836,
+    "lastSeen": 1775144748,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8089,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d52",
+    "callsign": "N650GB",
+    "firstSeen": 1775145116,
+    "lastSeen": 1775145436,
+    "estDepartureAirport": "KBTV",
+    "estArrivalAirport": "KBTV",
+    "flight_hours": 0.0889,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5022",
+    "callsign": "N957RC",
+    "firstSeen": 1775142797,
+    "lastSeen": 1775144915,
+    "estDepartureAirport": "KJAX",
+    "estArrivalAirport": "KBOW",
+    "flight_hours": 0.5883,
+    "landing": 1
+  },
+  {
+    "icao24": "e48ced",
+    "callsign": "PPCFJ",
+    "firstSeen": 1775143435,
+    "lastSeen": 1775144552,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3103,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1775143752,
+    "lastSeen": 1775144568,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SNAO",
+    "flight_hours": 0.2267,
+    "landing": 1
+  }
+]
