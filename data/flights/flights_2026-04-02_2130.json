@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1775161208,
+    "lastSeen": 1775167886,
+    "estDepartureAirport": "KTUS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.855,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1775162988,
+    "lastSeen": 1775166249,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "0MS0",
+    "flight_hours": 0.9058,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1775163084,
+    "lastSeen": 1775165913,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "c059cb",
+    "callsign": "CGIAC",
+    "firstSeen": 1775158062,
+    "lastSeen": 1775169065,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "CYXE",
+    "flight_hours": 3.0564,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1775167013,
+    "lastSeen": 1775169604,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.7197,
+    "landing": 1
+  }
+]

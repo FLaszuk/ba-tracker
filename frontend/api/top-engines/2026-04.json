@@ -2,16 +2,16 @@
   "month": "2026-04",
   "data": [
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 26.9,
+      "total_landings": 15
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
       "total_hours": 25.9,
       "total_landings": 19
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710",
-      "total_hours": 23.8,
-      "total_landings": 14
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -28,8 +28,8 @@
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW308C",
-      "total_hours": 7.6,
-      "total_landings": 7
+      "total_hours": 8.5,
+      "total_landings": 8
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -44,6 +44,12 @@
       "total_landings": 6
     },
     {
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 3.2,
+      "total_landings": 3
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
       "total_hours": 3.0,
@@ -51,15 +57,9 @@
     },
     {
       "engine_manufacturer": "Honeywell",
-      "engine_model": "HTF7000",
-      "total_hours": 1.9,
-      "total_landings": 1
-    },
-    {
-      "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7500E",
-      "total_hours": 1.4,
-      "total_landings": 2
+      "total_hours": 2.1,
+      "total_landings": 3
     }
   ]
 }
