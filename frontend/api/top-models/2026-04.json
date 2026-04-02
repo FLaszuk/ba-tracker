@@ -8,16 +8,16 @@
       "total_landings": 8
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 6.6,
+      "total_landings": 7
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 7.6,
       "total_landings": 7
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 5.0,
-      "total_landings": 6
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
