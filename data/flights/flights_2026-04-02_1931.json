@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775154587,
+    "lastSeen": 1775158091,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9733,
+    "landing": 1
+  },
+  {
+    "icao24": "a22eee",
+    "callsign": "N24PC",
+    "firstSeen": 1775150409,
+    "lastSeen": 1775159792,
+    "estDepartureAirport": "KLKR",
+    "estArrivalAirport": "KDDC",
+    "flight_hours": 2.6064,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS976",
+    "firstSeen": 1775156558,
+    "lastSeen": 1775163483,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.9236,
+    "landing": 1
+  }
+]
