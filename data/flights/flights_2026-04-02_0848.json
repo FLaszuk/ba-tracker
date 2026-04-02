@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1775116438,
+    "lastSeen": 1775119364,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIML",
+    "flight_hours": 0.8128,
+    "landing": 1
+  },
+  {
+    "icao24": "3cfdec",
+    "callsign": "VJH334",
+    "firstSeen": 1775115581,
+    "lastSeen": 1775121204,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5619,
+    "landing": 1
+  },
+  {
+    "icao24": "490d06",
+    "callsign": "NJE961K",
+    "firstSeen": 1775120548,
+    "lastSeen": 1775122076,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4244,
+    "landing": 1
+  }
+]
