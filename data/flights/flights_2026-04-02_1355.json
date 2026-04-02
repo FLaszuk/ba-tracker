@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "493282",
+    "callsign": "NJE055Q",
+    "firstSeen": 1775135783,
+    "lastSeen": 1775137867,
+    "estDepartureAirport": "ESSA",
+    "estArrivalAirport": "ESND",
+    "flight_hours": 0.5789,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1775138035,
+    "lastSeen": 1775139432,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3881,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bf7f",
+    "callsign": "N405D",
+    "firstSeen": 1775137125,
+    "lastSeen": 1775140282,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.8769,
+    "landing": 1
+  },
+  {
+    "icao24": "a70326",
+    "callsign": "N551AD",
+    "firstSeen": 1775131339,
+    "lastSeen": 1775138471,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9811,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1d23",
+    "callsign": "TWY944",
+    "firstSeen": 1775138104,
+    "lastSeen": 1775139143,
+    "estDepartureAirport": "BIKF",
+    "estArrivalAirport": "BISA",
+    "flight_hours": 0.2886,
+    "landing": 1
+  }
+]
