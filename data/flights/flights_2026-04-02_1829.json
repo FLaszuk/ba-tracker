@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR6HL",
+    "firstSeen": 1775153866,
+    "lastSeen": 1775157328,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": "LIBD",
+    "flight_hours": 0.9617,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775154587,
+    "lastSeen": 1775158091,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9733,
+    "landing": 1
+  },
+  {
+    "icao24": "a10dd5",
+    "callsign": "TIV167",
+    "firstSeen": 1775142498,
+    "lastSeen": 1775156528,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.8972,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf88",
+    "callsign": "N80AD",
+    "firstSeen": 1775150969,
+    "lastSeen": 1775155101,
+    "estDepartureAirport": "KPIE",
+    "estArrivalAirport": "MS68",
+    "flight_hours": 1.1478,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1775145945,
+    "lastSeen": 1775156954,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 3.0581,
+    "landing": 1
+  }
+]
