@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cc319",
+    "callsign": "DCBEN",
+    "firstSeen": 1775129124,
+    "lastSeen": 1775132221,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.8603,
+    "landing": 1
+  },
+  {
+    "icao24": "493033",
+    "callsign": "NJE337F",
+    "firstSeen": 1775129025,
+    "lastSeen": 1775134151,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.4239,
+    "landing": 1
+  },
+  {
+    "icao24": "e48ced",
+    "callsign": "PPCFJ",
+    "firstSeen": 1775133614,
+    "lastSeen": 1775134903,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3581,
+    "landing": 1
+  }
+]
