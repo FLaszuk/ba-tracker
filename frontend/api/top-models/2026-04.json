@@ -26,6 +26,12 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "total_hours": 5.0,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 2.7,
@@ -41,12 +47,6 @@
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 605",
       "total_hours": 1.3,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation Latitude",
-      "total_hours": 3.0,
       "total_landings": 2
     },
     {
