@@ -20,6 +20,12 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 5.8,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 2.7,
@@ -35,12 +41,6 @@
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 605",
       "total_hours": 1.3,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 4.9,
       "total_landings": 2
     },
     {
