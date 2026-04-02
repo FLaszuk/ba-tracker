@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS976",
+    "firstSeen": 1775156558,
+    "lastSeen": 1775163483,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.9236,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c1ab",
+    "callsign": "N728EC",
+    "firstSeen": 1775154477,
+    "lastSeen": 1775161520,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 1.9564,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1775158748,
+    "lastSeen": 1775164572,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "43CA",
+    "flight_hours": 1.6178,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1775163084,
+    "lastSeen": 1775165913,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "ac70be",
+    "callsign": "N900SB",
+    "firstSeen": 1775162890,
+    "lastSeen": 1775164182,
+    "estDepartureAirport": "KLBB",
+    "estArrivalAirport": "4XA3",
+    "flight_hours": 0.3589,
+    "landing": 1
+  }
+]
