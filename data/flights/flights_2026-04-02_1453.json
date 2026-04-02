@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "48d961",
+    "callsign": "PLF101",
+    "firstSeen": 1775141571,
+    "lastSeen": 1775142992,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EPMB",
+    "flight_hours": 0.3947,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "N269AF",
+    "firstSeen": 1775140915,
+    "lastSeen": 1775142364,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 0.4025,
+    "landing": 1
+  },
+  {
+    "icao24": "a50329",
+    "callsign": "PJC22",
+    "firstSeen": 1775139289,
+    "lastSeen": 1775141743,
+    "estDepartureAirport": "KPJC",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.6817,
+    "landing": 1
+  },
+  {
+    "icao24": "e48ced",
+    "callsign": "PPCFJ",
+    "firstSeen": 1775143435,
+    "lastSeen": 1775144552,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3103,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1775143752,
+    "lastSeen": 1775144568,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SNAO",
+    "flight_hours": 0.2267,
+    "landing": 1
+  }
+]
