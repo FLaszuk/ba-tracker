@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1775228620,
+    "lastSeen": 1775233599,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 1.3831,
+    "landing": 1
+  },
+  {
+    "icao24": "a5734d",
+    "callsign": "N450NE",
+    "firstSeen": 1775228978,
+    "lastSeen": 1775229907,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2OR1",
+    "flight_hours": 0.2581,
+    "landing": 1
+  },
+  {
+    "icao24": "e07457",
+    "callsign": "LVGQW",
+    "firstSeen": 1775229252,
+    "lastSeen": 1775230909,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SAAR",
+    "flight_hours": 0.4603,
+    "landing": 1
+  }
+]
