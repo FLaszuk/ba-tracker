@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a17eaa",
+    "callsign": "N196CC",
+    "firstSeen": 1775214868,
+    "lastSeen": 1775222793,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 2.2014,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "N269AF",
+    "firstSeen": 1775222795,
+    "lastSeen": 1775226215,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.95,
+    "landing": 1
+  },
+  {
+    "icao24": "a837f8",
+    "callsign": "N629DA",
+    "firstSeen": 1775218605,
+    "lastSeen": 1775223597,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 1.3867,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1775222565,
+    "lastSeen": 1775224336,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4919,
+    "landing": 1
+  }
+]
