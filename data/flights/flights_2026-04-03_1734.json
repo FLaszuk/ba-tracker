@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "491316",
+    "callsign": "NJE8HL",
+    "firstSeen": 1775236335,
+    "lastSeen": 1775240750,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 1.2264,
+    "landing": 1
+  },
+  {
+    "icao24": "a101f9",
+    "callsign": "EJA164",
+    "firstSeen": 1775237713,
+    "lastSeen": 1775238416,
+    "estDepartureAirport": "KBDL",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 0.1953,
+    "landing": 1
+  },
+  {
+    "icao24": "e06554",
+    "callsign": "",
+    "firstSeen": 1775236530,
+    "lastSeen": 1775237860,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3694,
+    "landing": 1
+  }
+]
