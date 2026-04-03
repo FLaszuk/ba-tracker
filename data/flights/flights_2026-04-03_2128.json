@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2edf2",
+    "callsign": "N288Z",
+    "firstSeen": 1775238818,
+    "lastSeen": 1775253481,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 4.0731,
+    "landing": 1
+  },
+  {
+    "icao24": "c04e94",
+    "callsign": "SYB007",
+    "firstSeen": 1775230497,
+    "lastSeen": 1775251137,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "PAFA",
+    "flight_hours": 5.7333,
+    "landing": 1
+  }
+]
