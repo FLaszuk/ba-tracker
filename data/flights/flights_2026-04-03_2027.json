@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1775237668,
+    "lastSeen": 1775247580,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KGOV",
+    "flight_hours": 2.7533,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1775246510,
+    "lastSeen": 1775250566,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "CA90",
+    "flight_hours": 1.1267,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c44",
+    "callsign": "N888HH",
+    "firstSeen": 1775239900,
+    "lastSeen": 1775250998,
+    "estDepartureAirport": "KBIV",
+    "estArrivalAirport": "KGEG",
+    "flight_hours": 3.0828,
+    "landing": 1
+  },
+  {
+    "icao24": "c04e94",
+    "callsign": "SYB007",
+    "firstSeen": 1775230497,
+    "lastSeen": 1775251137,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "PAFA",
+    "flight_hours": 5.7333,
+    "landing": 1
+  }
+]
