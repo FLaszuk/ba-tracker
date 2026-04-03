@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "491312",
+    "callsign": "NJE340Q",
+    "firstSeen": 1775197734,
+    "lastSeen": 1775206527,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 2.4425,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2139",
+    "callsign": "VJT972",
+    "firstSeen": 1775194091,
+    "lastSeen": 1775207166,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "RJTT",
+    "flight_hours": 3.6319,
+    "landing": 1
+  }
+]
