@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a9c1ab",
+    "callsign": "N728EC",
+    "firstSeen": 1775229842,
+    "lastSeen": 1775234763,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 1.3669,
+    "landing": 1
+  },
+  {
+    "icao24": "ab7dbe",
+    "callsign": "N84CM",
+    "firstSeen": 1775232710,
+    "lastSeen": 1775234390,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "TE89",
+    "flight_hours": 0.4667,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1775225405,
+    "lastSeen": 1775234184,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.4386,
+    "landing": 1
+  },
+  {
+    "icao24": "e06554",
+    "callsign": "",
+    "firstSeen": 1775236530,
+    "lastSeen": 1775237860,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3694,
+    "landing": 1
+  }
+]
