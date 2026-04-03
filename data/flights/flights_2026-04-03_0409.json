@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1775189902,
+    "lastSeen": 1775191167,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3514,
+    "landing": 1
+  },
+  {
+    "icao24": "a16693",
+    "callsign": "N19HT",
+    "firstSeen": 1775183230,
+    "lastSeen": 1775189973,
+    "estDepartureAirport": "KUDD",
+    "estArrivalAirport": "KHIO",
+    "flight_hours": 1.8731,
+    "landing": 1
+  }
+]

@@ -38,6 +38,12 @@
       "total_landings": 6
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 3.6,
+      "total_landings": 6
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation Latitude",
       "total_hours": 7.0,
@@ -47,12 +53,6 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 9.6,
-      "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 1.7,
       "total_landings": 5
     },
     {
