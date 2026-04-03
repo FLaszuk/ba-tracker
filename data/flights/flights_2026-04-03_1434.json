@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1775226088,
+    "lastSeen": 1775226864,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2156,
+    "landing": 1
+  },
+  {
+    "icao24": "a0de31",
+    "callsign": "EJA155",
+    "firstSeen": 1775225082,
+    "lastSeen": 1775227423,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 0.6503,
+    "landing": 1
+  },
+  {
+    "icao24": "a5734d",
+    "callsign": "N450NE",
+    "firstSeen": 1775228978,
+    "lastSeen": 1775229907,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2OR1",
+    "flight_hours": 0.2581,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7033",
+    "callsign": "N900LN",
+    "firstSeen": 1775227053,
+    "lastSeen": 1775228665,
+    "estDepartureAirport": "KEFD",
+    "estArrivalAirport": "LS90",
+    "flight_hours": 0.4478,
+    "landing": 1
+  }
+]
