@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d0227",
+    "callsign": "SVW24JM",
+    "firstSeen": 1775216010,
+    "lastSeen": 1775218335,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6458,
+    "landing": 1
+  },
+  {
+    "icao24": "800b94",
+    "callsign": "VTOMM",
+    "firstSeen": 1775216698,
+    "lastSeen": 1775217975,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3547,
+    "landing": 1
+  },
+  {
+    "icao24": "a572e7",
+    "callsign": "PWA371",
+    "firstSeen": 1775216716,
+    "lastSeen": 1775217811,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3042,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3fb0",
+    "callsign": "N76FD",
+    "firstSeen": 1775216682,
+    "lastSeen": 1775218164,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.4117,
+    "landing": 1
+  }
+]
