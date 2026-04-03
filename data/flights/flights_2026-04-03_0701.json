@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "506f24",
+    "callsign": "LSV101",
+    "firstSeen": 1775199864,
+    "lastSeen": 1775202914,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8472,
+    "landing": 1
+  },
+  {
+    "icao24": "ac35b6",
+    "callsign": "N886SG",
+    "firstSeen": 1775159261,
+    "lastSeen": 1775199724,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": null,
+    "flight_hours": 11.2397,
+    "landing": 1
+  }
+]
