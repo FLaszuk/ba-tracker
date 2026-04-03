@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1775219199,
+    "lastSeen": 1775222350,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.8753,
+    "landing": 1
+  },
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1775214514,
+    "lastSeen": 1775221576,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": "LGTP",
+    "flight_hours": 1.9617,
+    "landing": 1
+  },
+  {
+    "icao24": "a17eaa",
+    "callsign": "N196CC",
+    "firstSeen": 1775214868,
+    "lastSeen": 1775222793,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 2.2014,
+    "landing": 1
+  },
+  {
+    "icao24": "a837f8",
+    "callsign": "N629DA",
+    "firstSeen": 1775218605,
+    "lastSeen": 1775223597,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 1.3867,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1775218905,
+    "lastSeen": 1775220651,
+    "estDepartureAirport": "KPHF",
+    "estArrivalAirport": "WV70",
+    "flight_hours": 0.485,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1775222565,
+    "lastSeen": 1775224336,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4919,
+    "landing": 1
+  }
+]
