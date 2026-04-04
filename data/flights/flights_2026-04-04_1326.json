@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc7fe",
+    "callsign": "DWW269",
+    "firstSeen": 1775303264,
+    "lastSeen": 1775309297,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 1.6758,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1775302700,
+    "lastSeen": 1775313778,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "EDCT",
+    "flight_hours": 3.0772,
+    "landing": 1
+  }
+]
