@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1775265535,
+    "lastSeen": 1775268499,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8233,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1775270854,
+    "lastSeen": 1775271667,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KAPC",
+    "flight_hours": 0.2258,
+    "landing": 1
+  },
+  {
+    "icao24": "a34ed6",
+    "callsign": "N312GA",
+    "firstSeen": 1775266848,
+    "lastSeen": 1775268589,
+    "estDepartureAirport": "KIWA",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.4836,
+    "landing": 1
+  }
+]
