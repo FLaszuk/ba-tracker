@@ -16,14 +16,14 @@
     {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 37.9,
-      "total_landings": 32
+      "total_hours": 40.0,
+      "total_landings": 33
     },
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 26.4,
-      "total_landings": 14
+      "total_hours": 31.2,
+      "total_landings": 16
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -58,8 +58,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "Tay 611-8C",
-      "total_hours": 3.7,
-      "total_landings": 4
+      "total_hours": 5.2,
+      "total_landings": 5
     }
   ]
 }

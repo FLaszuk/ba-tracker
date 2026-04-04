@@ -15,21 +15,21 @@
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 23.2,
-      "total_landings": 15
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 15.0,
-      "total_landings": 15
+      "total_hours": 17.1,
+      "total_landings": 16
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 26.4,
-      "total_landings": 14
+      "total_hours": 31.2,
+      "total_landings": 16
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 23.2,
+      "total_landings": 15
     },
     {
       "aircraft_manufacturer": "Dassault",

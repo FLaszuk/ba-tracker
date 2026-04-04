@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d097a",
+    "callsign": "LET7430",
+    "firstSeen": 1775327453,
+    "lastSeen": 1775335151,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 2.1383,
+    "landing": 1
+  },
+  {
+    "icao24": "a18845",
+    "callsign": "N1980K",
+    "firstSeen": 1775336208,
+    "lastSeen": 1775337536,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.3689,
+    "landing": 1
+  },
+  {
+    "icao24": "a2076d",
+    "callsign": "N23PA",
+    "firstSeen": 1775318512,
+    "lastSeen": 1775334769,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": null,
+    "flight_hours": 4.5158,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e790",
+    "callsign": "N48PL",
+    "firstSeen": 1775331283,
+    "lastSeen": 1775336634,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KAFO",
+    "flight_hours": 1.4864,
+    "landing": 1
+  }
+]
