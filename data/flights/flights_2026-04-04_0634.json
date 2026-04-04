@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c10aa",
+    "callsign": "VJH643",
+    "firstSeen": 1775283166,
+    "lastSeen": 1775284905,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 0.4831,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3481",
+    "firstSeen": 1775281580,
+    "lastSeen": 1775285443,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0731,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b914",
+    "callsign": "N661MS",
+    "firstSeen": 1775286601,
+    "lastSeen": 1775288609,
+    "estDepartureAirport": "KTYR",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5578,
+    "landing": 1
+  }
+]
