@@ -2,6 +2,12 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 23.2,
+      "total_landings": 15
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 37.4,
@@ -12,12 +18,6 @@
       "aircraft_model": "Falcon 900",
       "total_hours": 21.1,
       "total_landings": 15
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 21.8,
-      "total_landings": 14
     },
     {
       "aircraft_manufacturer": "Bombardier",
