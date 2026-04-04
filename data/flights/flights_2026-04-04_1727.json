@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ad342e",
+    "callsign": "WDY600",
+    "firstSeen": 1775322495,
+    "lastSeen": 1775325041,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7072,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1775325688,
+    "lastSeen": 1775326734,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.2906,
+    "landing": 1
+  }
+]
