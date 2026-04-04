@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1775327317,
+    "lastSeen": 1775331825,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 1.2522,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1775315599,
+    "lastSeen": 1775328603,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 3.6122,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3591",
+    "callsign": "LXJ757",
+    "firstSeen": 1775323306,
+    "lastSeen": 1775326641,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "CA90",
+    "flight_hours": 0.9264,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1775325688,
+    "lastSeen": 1775326734,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.2906,
+    "landing": 1
+  }
+]
