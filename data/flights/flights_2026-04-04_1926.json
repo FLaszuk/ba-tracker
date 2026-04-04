@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1775327317,
+    "lastSeen": 1775331825,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 1.2522,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1775317355,
+    "lastSeen": 1775330742,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 3.7186,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1775327779,
+    "lastSeen": 1775330662,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8008,
+    "landing": 1
+  }
+]

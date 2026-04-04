@@ -2,16 +2,16 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 42.9,
+      "total_landings": 18
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 22.9,
       "total_landings": 17
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 38.4,
-      "total_landings": 16
     },
     {
       "aircraft_manufacturer": "Bombardier",
