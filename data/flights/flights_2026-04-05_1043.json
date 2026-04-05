@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ9XL",
+    "firstSeen": 1775379649,
+    "lastSeen": 1775387550,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "LFPO",
+    "flight_hours": 2.1947,
+    "landing": 1
+  },
+  {
+    "icao24": "8005e7",
+    "callsign": "VTAVS",
+    "firstSeen": 1775386423,
+    "lastSeen": 1775387428,
+    "estDepartureAirport": "VOBG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2792,
+    "landing": 1
+  },
+  {
+    "icao24": "ac45a0",
+    "callsign": "N890DA",
+    "firstSeen": 1775383677,
+    "lastSeen": 1775386255,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 0.7161,
+    "landing": 1
+  }
+]
