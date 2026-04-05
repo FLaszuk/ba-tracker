@@ -28,8 +28,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 24.5,
-      "total_landings": 16
+      "total_hours": 26.5,
+      "total_landings": 17
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -50,15 +50,15 @@
       "total_landings": 7
     },
     {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation Latitude",
-      "total_hours": 8.8,
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 605",
+      "total_hours": 10.9,
       "total_landings": 6
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 10.7,
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "total_hours": 8.8,
       "total_landings": 6
     }
   ]
