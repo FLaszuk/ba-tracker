@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0938",
+    "callsign": "XBUOC",
+    "firstSeen": 1775413342,
+    "lastSeen": 1775425636,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 3.415,
+    "landing": 1
+  },
+  {
+    "icao24": "0d0938",
+    "callsign": "XBUOC",
+    "firstSeen": 1775426282,
+    "lastSeen": 1775426426,
+    "estDepartureAirport": "MMIO",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 0.04,
+    "landing": 1
+  },
+  {
+    "icao24": "a6fdb6",
+    "callsign": "N55GP",
+    "firstSeen": 1775420524,
+    "lastSeen": 1775427050,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "KORH",
+    "flight_hours": 1.8128,
+    "landing": 1
+  }
+]
