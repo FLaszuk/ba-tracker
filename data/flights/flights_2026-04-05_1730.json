@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a60efc",
+    "callsign": "N49NS",
+    "firstSeen": 1775411248,
+    "lastSeen": 1775412255,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 0.2797,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1775408376,
+    "lastSeen": 1775412969,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.2758,
+    "landing": 1
+  }
+]
