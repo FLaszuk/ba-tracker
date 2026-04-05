@@ -2,16 +2,16 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 21.1,
+      "total_landings": 20
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 44.4,
       "total_landings": 19
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 19.9,
-      "total_landings": 18
     },
     {
       "aircraft_manufacturer": "Dassault",
