@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "491316",
+    "callsign": "NJE062E",
+    "firstSeen": 1775387619,
+    "lastSeen": 1775392782,
+    "estDepartureAirport": "LROP",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 1.4342,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1775391168,
+    "lastSeen": 1775392420,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3478,
+    "landing": 1
+  }
+]
