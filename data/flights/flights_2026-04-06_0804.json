@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA60P",
+    "firstSeen": 1775459925,
+    "lastSeen": 1775463678,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": "LFIX",
+    "flight_hours": 1.0425,
+    "landing": 1
+  },
+  {
+    "icao24": "ada5f8",
+    "callsign": "N979KC",
+    "firstSeen": 1775450793,
+    "lastSeen": 1775463255,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "K0A3",
+    "flight_hours": 3.4617,
+    "landing": 1
+  }
+]
