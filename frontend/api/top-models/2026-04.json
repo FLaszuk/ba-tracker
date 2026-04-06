@@ -26,6 +26,12 @@
       "total_landings": 20
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 34.5,
+      "total_landings": 19
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 25.1,
@@ -33,15 +39,9 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 32.8,
-      "total_landings": 18
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 36.4,
-      "total_landings": 16
+      "total_hours": 45.8,
+      "total_landings": 17
     },
     {
       "aircraft_manufacturer": "Embraer",

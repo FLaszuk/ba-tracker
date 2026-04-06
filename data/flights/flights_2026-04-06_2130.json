@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d0a53",
+    "callsign": "ACW2721",
+    "firstSeen": 1775503097,
+    "lastSeen": 1775510986,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.1914,
+    "landing": 1
+  },
+  {
+    "icao24": "a16693",
+    "callsign": "N19HT",
+    "firstSeen": 1775507096,
+    "lastSeen": 1775513181,
+    "estDepartureAirport": "KHIO",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 1.6903,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a533",
+    "callsign": "N27LX",
+    "firstSeen": 1775476762,
+    "lastSeen": 1775510687,
+    "estDepartureAirport": "RPLL",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 9.4236,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1775508706,
+    "lastSeen": 1775510733,
+    "estDepartureAirport": "KIOW",
+    "estArrivalAirport": "60IS",
+    "flight_hours": 0.5631,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1775508071,
+    "lastSeen": 1775510728,
+    "estDepartureAirport": "KOFP",
+    "estArrivalAirport": "46SC",
+    "flight_hours": 0.7381,
+    "landing": 1
+  }
+]
