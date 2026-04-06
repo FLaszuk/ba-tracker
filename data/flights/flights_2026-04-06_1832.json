@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0bc000",
+    "callsign": "J8JET",
+    "firstSeen": 1775501413,
+    "lastSeen": 1775501771,
+    "estDepartureAirport": "TVSU",
+    "estArrivalAirport": "TGPY",
+    "flight_hours": 0.0994,
+    "landing": 1
+  },
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1775502138,
+    "lastSeen": 1775504850,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7533,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1775498421,
+    "lastSeen": 1775500804,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6619,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1775500533,
+    "lastSeen": 1775502382,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KXFL",
+    "flight_hours": 0.5136,
+    "landing": 1
+  },
+  {
+    "icao24": "a92481",
+    "callsign": "TWY312",
+    "firstSeen": 1775497841,
+    "lastSeen": 1775500767,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "44KY",
+    "flight_hours": 0.8128,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9e7c",
+    "callsign": "N977JP",
+    "firstSeen": 1775496762,
+    "lastSeen": 1775499926,
+    "estDepartureAirport": "KHRT",
+    "estArrivalAirport": "2LA5",
+    "flight_hours": 0.8789,
+    "landing": 1
+  },
+  {
+    "icao24": "e48812",
+    "callsign": "PRFOR",
+    "firstSeen": 1775499692,
+    "lastSeen": 1775500491,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNDN",
+    "flight_hours": 0.2219,
+    "landing": 1
+  }
+]
