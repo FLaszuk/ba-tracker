@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1775507326,
+    "lastSeen": 1775509708,
+    "estDepartureAirport": "KSAC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6617,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1775508454,
+    "lastSeen": 1775509691,
+    "estDepartureAirport": "RI20",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 0.3436,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1775508071,
+    "lastSeen": 1775510728,
+    "estDepartureAirport": "KOFP",
+    "estArrivalAirport": "46SC",
+    "flight_hours": 0.7381,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1775502496,
+    "lastSeen": 1775507498,
+    "estDepartureAirport": "KBTR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3894,
+    "landing": 1
+  },
+  {
+    "icao24": "e48812",
+    "callsign": "PRFOR",
+    "firstSeen": 1775506177,
+    "lastSeen": 1775506885,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1967,
+    "landing": 1
+  }
+]
