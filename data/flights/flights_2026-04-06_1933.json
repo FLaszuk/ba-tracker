@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1775502138,
+    "lastSeen": 1775504850,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7533,
+    "landing": 1
+  },
+  {
+    "icao24": "a41804",
+    "callsign": "LXJ363",
+    "firstSeen": 1775501062,
+    "lastSeen": 1775506195,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.4258,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dde2",
+    "callsign": "N541Z",
+    "firstSeen": 1775498229,
+    "lastSeen": 1775504663,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 1.7872,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1775501479,
+    "lastSeen": 1775503983,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "29MT",
+    "flight_hours": 0.6956,
+    "landing": 1
+  }
+]
