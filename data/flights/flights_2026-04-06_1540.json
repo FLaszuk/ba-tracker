@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1775487436,
+    "lastSeen": 1775490811,
+    "estDepartureAirport": "ESGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9375,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1775488633,
+    "lastSeen": 1775493869,
+    "estDepartureAirport": "KPHH",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 1.4544,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1775490209,
+    "lastSeen": 1775495937,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.5911,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c990",
+    "callsign": "N279SW",
+    "firstSeen": 1775487792,
+    "lastSeen": 1775492637,
+    "estDepartureAirport": "KCLE",
+    "estArrivalAirport": "KATL",
+    "flight_hours": 1.3458,
+    "landing": 1
+  },
+  {
+    "icao24": "a38961",
+    "callsign": "N327LX",
+    "firstSeen": 1775491293,
+    "lastSeen": 1775493825,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "FL63",
+    "flight_hours": 0.7033,
+    "landing": 1
+  },
+  {
+    "icao24": "ab7dbe",
+    "callsign": "N84CM",
+    "firstSeen": 1775489611,
+    "lastSeen": 1775491436,
+    "estDepartureAirport": "KFYV",
+    "estArrivalAirport": "KTXK",
+    "flight_hours": 0.5069,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "N978QS",
+    "firstSeen": 1775487739,
+    "lastSeen": 1775491518,
+    "estDepartureAirport": "KDTS",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.0497,
+    "landing": 1
+  },
+  {
+    "icao24": "adca56",
+    "callsign": "N988RC",
+    "firstSeen": 1775489218,
+    "lastSeen": 1775490462,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "MYBC",
+    "flight_hours": 0.3456,
+    "landing": 1
+  }
+]
