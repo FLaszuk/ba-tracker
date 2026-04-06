@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "42418f",
+    "callsign": "VPCPT",
+    "firstSeen": 1775448918,
+    "lastSeen": 1775450705,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4964,
+    "landing": 1
+  },
+  {
+    "icao24": "a63e49",
+    "callsign": "N501GM",
+    "firstSeen": 1775448420,
+    "lastSeen": 1775450557,
+    "estDepartureAirport": "RJTT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5936,
+    "landing": 1
+  }
+]
