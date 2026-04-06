@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "424462",
+    "callsign": "PEX57H",
+    "firstSeen": 1775476452,
+    "lastSeen": 1775477940,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OM11",
+    "flight_hours": 0.4133,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775476966,
+    "lastSeen": 1775480347,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9392,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1775476615,
+    "lastSeen": 1775477821,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.335,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1775475851,
+    "lastSeen": 1775477122,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3531,
+    "landing": 1
+  }
+]
