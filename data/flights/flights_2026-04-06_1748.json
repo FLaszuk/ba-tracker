@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0bc000",
+    "callsign": "J8JET",
+    "firstSeen": 1775501413,
+    "lastSeen": 1775501771,
+    "estDepartureAirport": "TVSU",
+    "estArrivalAirport": "TGPY",
+    "flight_hours": 0.0994,
+    "landing": 1
+  },
+  {
+    "icao24": "0d05fc",
+    "callsign": "XALPK",
+    "firstSeen": 1775497094,
+    "lastSeen": 1775498328,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3428,
+    "landing": 1
+  },
+  {
+    "icao24": "0d08b7",
+    "callsign": "XAUVJ",
+    "firstSeen": 1775499009,
+    "lastSeen": 1775499717,
+    "estDepartureAirport": "MMJC",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.1967,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1775498421,
+    "lastSeen": 1775500804,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6619,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1775490170,
+    "lastSeen": 1775497620,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 2.0694,
+    "landing": 1
+  },
+  {
+    "icao24": "a92481",
+    "callsign": "TWY312",
+    "firstSeen": 1775497841,
+    "lastSeen": 1775500767,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "44KY",
+    "flight_hours": 0.8128,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9e7c",
+    "callsign": "N977JP",
+    "firstSeen": 1775496762,
+    "lastSeen": 1775499926,
+    "estDepartureAirport": "KHRT",
+    "estArrivalAirport": "2LA5",
+    "flight_hours": 0.8789,
+    "landing": 1
+  },
+  {
+    "icao24": "e48b2f",
+    "callsign": "PPNLR",
+    "firstSeen": 1775496163,
+    "lastSeen": 1775497949,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.4961,
+    "landing": 1
+  }
+]
