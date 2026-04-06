@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1775485631,
+    "lastSeen": 1775486481,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2361,
+    "landing": 1
+  },
+  {
+    "icao24": "a66175",
+    "callsign": "N510AF",
+    "firstSeen": 1775478116,
+    "lastSeen": 1775486500,
+    "estDepartureAirport": "KMKY",
+    "estArrivalAirport": "2KY5",
+    "flight_hours": 2.3289,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1775482840,
+    "lastSeen": 1775485901,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KHNB",
+    "flight_hours": 0.8503,
+    "landing": 1
+  }
+]
