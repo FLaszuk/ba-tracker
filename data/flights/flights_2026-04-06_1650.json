@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1775488633,
+    "lastSeen": 1775493869,
+    "estDepartureAirport": "KPHH",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 1.4544,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "CNS976",
+    "firstSeen": 1775489077,
+    "lastSeen": 1775495327,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KSGJ",
+    "flight_hours": 1.7361,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1775490209,
+    "lastSeen": 1775495937,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.5911,
+    "landing": 1
+  },
+  {
+    "icao24": "a38961",
+    "callsign": "N327LX",
+    "firstSeen": 1775491293,
+    "lastSeen": 1775493825,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "FL63",
+    "flight_hours": 0.7033,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1775490170,
+    "lastSeen": 1775497620,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 2.0694,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1775493562,
+    "lastSeen": 1775496394,
+    "estDepartureAirport": "RI20",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.7867,
+    "landing": 1
+  },
+  {
+    "icao24": "e48812",
+    "callsign": "PRFOR",
+    "firstSeen": 1775491396,
+    "lastSeen": 1775496659,
+    "estDepartureAirport": "SBPC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4619,
+    "landing": 1
+  }
+]
