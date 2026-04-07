@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d09b3",
+    "callsign": "ACW2520",
+    "firstSeen": 1775581299,
+    "lastSeen": 1775590234,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.4819,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU641J",
+    "firstSeen": 1775587403,
+    "lastSeen": 1775590726,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.9231,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1775582332,
+    "lastSeen": 1775593042,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 2.975,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1775586063,
+    "lastSeen": 1775593132,
+    "estDepartureAirport": "KOKC",
+    "estArrivalAirport": "KAIK",
+    "flight_hours": 1.9636,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1775592546,
+    "lastSeen": 1775593297,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNRA",
+    "flight_hours": 0.2086,
+    "landing": 1
+  }
+]
