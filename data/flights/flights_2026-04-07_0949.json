@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cd2d3",
+    "callsign": "SCR744",
+    "firstSeen": 1775549595,
+    "lastSeen": 1775555109,
+    "estDepartureAirport": "EDDN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5317,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7fd4",
+    "callsign": "SUI555",
+    "firstSeen": 1775552603,
+    "lastSeen": 1775558216,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5592,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA72P",
+    "firstSeen": 1775547452,
+    "lastSeen": 1775556045,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 2.3869,
+    "landing": 1
+  }
+]
