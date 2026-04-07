@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4406cb",
+    "callsign": "OEHEY",
+    "firstSeen": 1775516179,
+    "lastSeen": 1775538103,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 6.09,
+    "landing": 1
+  },
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1775536502,
+    "lastSeen": 1775539010,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "KMDW",
+    "flight_hours": 0.6967,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a533",
+    "callsign": "XEN27",
+    "firstSeen": 1775515884,
+    "lastSeen": 1775537136,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 5.9033,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1775536027,
+    "lastSeen": 1775537083,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "1IN5",
+    "flight_hours": 0.2933,
+    "landing": 1
+  }
+]
