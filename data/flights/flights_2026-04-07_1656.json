@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1775578384,
+    "lastSeen": 1775583107,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.3119,
+    "landing": 1
+  },
+  {
+    "icao24": "add0b4",
+    "callsign": "N99EF",
+    "firstSeen": 1775578459,
+    "lastSeen": 1775584641,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.7172,
+    "landing": 1
+  }
+]
