@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a03fe1",
+    "callsign": "N115MH",
+    "firstSeen": 1775592546,
+    "lastSeen": 1775595282,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.76,
+    "landing": 1
+  },
+  {
+    "icao24": "a21fbb",
+    "callsign": "KFB236",
+    "firstSeen": 1775592231,
+    "lastSeen": 1775599620,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 2.0525,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b200",
+    "callsign": "SCA53",
+    "firstSeen": 1775593568,
+    "lastSeen": 1775595835,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "19AZ",
+    "flight_hours": 0.6297,
+    "landing": 1
+  }
+]
