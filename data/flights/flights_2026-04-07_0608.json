@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "1427dd",
+    "callsign": "TRH9111",
+    "firstSeen": 1775543287,
+    "lastSeen": 1775547251,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "UUEE",
+    "flight_hours": 1.1011,
+    "landing": 1
+  },
+  {
+    "icao24": "3b77e4",
+    "callsign": "CTM1105",
+    "firstSeen": 1775544471,
+    "lastSeen": 1775546384,
+    "estDepartureAirport": "LFPV",
+    "estArrivalAirport": "LFBL",
+    "flight_hours": 0.5314,
+    "landing": 1
+  },
+  {
+    "icao24": "48b70c",
+    "callsign": "AMQ1M",
+    "firstSeen": 1775541605,
+    "lastSeen": 1775543599,
+    "estDepartureAirport": "EPKT",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 0.5539,
+    "landing": 1
+  }
+]
