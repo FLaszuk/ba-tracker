@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a21fbb",
+    "callsign": "KFB236",
+    "firstSeen": 1775592231,
+    "lastSeen": 1775599620,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 2.0525,
+    "landing": 1
+  },
+  {
+    "icao24": "a7a512",
+    "callsign": "N592CL",
+    "firstSeen": 1775578378,
+    "lastSeen": 1775599096,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CO86",
+    "flight_hours": 5.755,
+    "landing": 1
+  }
+]
