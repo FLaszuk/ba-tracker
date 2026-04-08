@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0a0081",
+    "callsign": "7TVNC",
+    "firstSeen": 1775659199,
+    "lastSeen": 1775660240,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DA14",
+    "flight_hours": 0.2892,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4a6",
+    "callsign": "GLF68",
+    "firstSeen": 1775657752,
+    "lastSeen": 1775660303,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7086,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b7e6",
+    "callsign": "LXJ468",
+    "firstSeen": 1775647845,
+    "lastSeen": 1775660375,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4806,
+    "landing": 1
+  },
+  {
+    "icao24": "a8d20c",
+    "callsign": "N668BB",
+    "firstSeen": 1775642732,
+    "lastSeen": 1775661814,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 5.3006,
+    "landing": 1
+  }
+]
