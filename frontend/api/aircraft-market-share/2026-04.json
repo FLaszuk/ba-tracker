@@ -2,16 +2,16 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "total_hours": 96.5,
+      "total_landings": 74,
+      "market_share_pct": 25.4
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "total_hours": 96.1,
       "total_landings": 47,
       "market_share_pct": 25.3
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "total_hours": 95.6,
-      "total_landings": 73,
-      "market_share_pct": 25.2
     },
     {
       "aircraft_manufacturer": "Dassault",
