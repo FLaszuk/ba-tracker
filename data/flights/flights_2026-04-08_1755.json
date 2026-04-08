@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR39ED",
+    "firstSeen": 1775669742,
+    "lastSeen": 1775672193,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.6808,
+    "landing": 1
+  },
+  {
+    "icao24": "a01f56",
+    "callsign": "N107GL",
+    "firstSeen": 1775657860,
+    "lastSeen": 1775672139,
+    "estDepartureAirport": "KSBN",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 3.9664,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1775672393,
+    "lastSeen": 1775674622,
+    "estDepartureAirport": "53TA",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.6192,
+    "landing": 1
+  }
+]
