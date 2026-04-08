@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "494107",
+    "callsign": "NJE200L",
+    "firstSeen": 1775632547,
+    "lastSeen": 1775637053,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2517,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1775634850,
+    "lastSeen": 1775636221,
+    "estDepartureAirport": "LIPX",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.3808,
+    "landing": 1
+  }
+]
