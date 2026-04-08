@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1775672393,
+    "lastSeen": 1775674622,
+    "estDepartureAirport": "53TA",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.6192,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1775671782,
+    "lastSeen": 1775675589,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0575,
+    "landing": 1
+  }
+]
