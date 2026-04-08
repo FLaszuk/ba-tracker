@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5677",
+    "firstSeen": 1775681887,
+    "lastSeen": 1775683732,
+    "estDepartureAirport": "MMMA",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 0.5125,
+    "landing": 1
+  },
+  {
+    "icao24": "a00084",
+    "callsign": "N1FE",
+    "firstSeen": 1775681063,
+    "lastSeen": 1775684293,
+    "estDepartureAirport": "KTYS",
+    "estArrivalAirport": "K7M9",
+    "flight_hours": 0.8972,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c990",
+    "callsign": "N279SW",
+    "firstSeen": 1775682539,
+    "lastSeen": 1775684551,
+    "estDepartureAirport": "KAGS",
+    "estArrivalAirport": "KATL",
+    "flight_hours": 0.5589,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dde2",
+    "callsign": "N541Z",
+    "firstSeen": 1775679184,
+    "lastSeen": 1775684312,
+    "estDepartureAirport": "KBWI",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 1.4244,
+    "landing": 1
+  }
+]
