@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1775744911,
+    "lastSeen": 1775748367,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.96,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1775749944,
+    "lastSeen": 1775751144,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KHYW",
+    "flight_hours": 0.3333,
+    "landing": 1
+  }
+]
