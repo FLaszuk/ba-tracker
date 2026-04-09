@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a03f9f",
+    "callsign": "N115JS",
+    "firstSeen": 1775752592,
+    "lastSeen": 1775753655,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2953,
+    "landing": 1
+  },
+  {
+    "icao24": "a05ed9",
+    "callsign": "N123AB",
+    "firstSeen": 1775753232,
+    "lastSeen": 1775756066,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KPWA",
+    "flight_hours": 0.7872,
+    "landing": 1
+  },
+  {
+    "icao24": "a07f5a",
+    "callsign": "N131EP",
+    "firstSeen": 1775743020,
+    "lastSeen": 1775754906,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 3.3017,
+    "landing": 1
+  },
+  {
+    "icao24": "a21b74",
+    "callsign": "TWY235",
+    "firstSeen": 1775749864,
+    "lastSeen": 1775753232,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.9356,
+    "landing": 1
+  },
+  {
+    "icao24": "ada5f8",
+    "callsign": "N979KC",
+    "firstSeen": 1775755108,
+    "lastSeen": 1775757643,
+    "estDepartureAirport": "KCLE",
+    "estArrivalAirport": "08KY",
+    "flight_hours": 0.7042,
+    "landing": 1
+  },
+  {
+    "icao24": "e073cd",
+    "callsign": "LVGOM",
+    "firstSeen": 1775753683,
+    "lastSeen": 1775754627,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SAVO",
+    "flight_hours": 0.2622,
+    "landing": 1
+  }
+]
