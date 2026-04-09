@@ -2,6 +2,12 @@
   "month": "2026-04",
   "data": [
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 54.3,
+      "total_landings": 32
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 44.8,
@@ -11,12 +17,6 @@
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 32.6,
-      "total_landings": 31
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 53.6,
       "total_landings": 31
     },
     {
@@ -46,8 +46,8 @@
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 11.2,
-      "total_landings": 12
+      "total_hours": 11.4,
+      "total_landings": 13
     },
     {
       "aircraft_manufacturer": "Pilatus",

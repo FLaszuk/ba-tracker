@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a05269",
+    "callsign": "N12LX",
+    "firstSeen": 1775739521,
+    "lastSeen": 1775742040,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.6997,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f74",
+    "callsign": "PPMCG",
+    "firstSeen": 1775742371,
+    "lastSeen": 1775743054,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1897,
+    "landing": 1
+  }
+]
