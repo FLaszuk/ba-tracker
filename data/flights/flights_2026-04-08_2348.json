@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2b346",
+    "callsign": "N273SW",
+    "firstSeen": 1775679640,
+    "lastSeen": 1775693828,
+    "estDepartureAirport": "KAGS",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 3.9411,
+    "landing": 1
+  },
+  {
+    "icao24": "a6286f",
+    "callsign": "N496X",
+    "firstSeen": 1775688924,
+    "lastSeen": 1775691942,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.8383,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1775690616,
+    "lastSeen": 1775692335,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.4775,
+    "landing": 1
+  }
+]
