@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a01ec0",
+    "callsign": "N107AL",
+    "firstSeen": 1775759936,
+    "lastSeen": 1775761316,
+    "estDepartureAirport": "KLNS",
+    "estArrivalAirport": "KSEG",
+    "flight_hours": 0.3833,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS12",
+    "firstSeen": 1775752940,
+    "lastSeen": 1775757519,
+    "estDepartureAirport": "KSOP",
+    "estArrivalAirport": "KM72",
+    "flight_hours": 1.2719,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6d77",
+    "callsign": "N90GP",
+    "firstSeen": 1775756916,
+    "lastSeen": 1775758192,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "TJBQ",
+    "flight_hours": 0.3544,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1775755029,
+    "lastSeen": 1775760130,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 1.4169,
+    "landing": 1
+  },
+  {
+    "icao24": "ada5f8",
+    "callsign": "N979KC",
+    "firstSeen": 1775755108,
+    "lastSeen": 1775757643,
+    "estDepartureAirport": "KCLE",
+    "estArrivalAirport": "08KY",
+    "flight_hours": 0.7042,
+    "landing": 1
+  }
+]
