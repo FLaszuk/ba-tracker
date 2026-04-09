@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1775764147,
+    "lastSeen": 1775767867,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 1.0333,
+    "landing": 1
+  },
+  {
+    "icao24": "a21b74",
+    "callsign": "TWY235",
+    "firstSeen": 1775771288,
+    "lastSeen": 1775773108,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.5056,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cba6",
+    "callsign": "TWY84",
+    "firstSeen": 1775759658,
+    "lastSeen": 1775769958,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KMDW",
+    "flight_hours": 2.8611,
+    "landing": 1
+  },
+  {
+    "icao24": "a657e4",
+    "callsign": "N508CK",
+    "firstSeen": 1775766714,
+    "lastSeen": 1775769655,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.8169,
+    "landing": 1
+  },
+  {
+    "icao24": "a95345",
+    "callsign": "N70LX",
+    "firstSeen": 1775766831,
+    "lastSeen": 1775771696,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "MO23",
+    "flight_hours": 1.3514,
+    "landing": 1
+  },
+  {
+    "icao24": "acb223",
+    "callsign": "N917R",
+    "firstSeen": 1775761819,
+    "lastSeen": 1775767734,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 1.6431,
+    "landing": 1
+  }
+]
