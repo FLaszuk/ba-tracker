@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cce74",
+    "callsign": "DCFMI",
+    "firstSeen": 1775821326,
+    "lastSeen": 1775823461,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5931,
+    "landing": 1
+  },
+  {
+    "icao24": "3f6533",
+    "callsign": "GAF621",
+    "firstSeen": 1775804997,
+    "lastSeen": 1775819776,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "LFRB",
+    "flight_hours": 4.1053,
+    "landing": 1
+  }
+]
