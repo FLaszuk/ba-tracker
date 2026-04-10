@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a54957",
+    "callsign": "LJY241",
+    "firstSeen": 1775853425,
+    "lastSeen": 1775856646,
+    "estDepartureAirport": "KRDG",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1775857206,
+    "lastSeen": 1775860087,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KL22",
+    "flight_hours": 0.8003,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1775854087,
+    "lastSeen": 1775859856,
+    "estDepartureAirport": "KAGS",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 1.6025,
+    "landing": 1
+  },
+  {
+    "icao24": "a89442",
+    "callsign": "EJM652",
+    "firstSeen": 1775850594,
+    "lastSeen": 1775858650,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 2.2378,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1775854948,
+    "lastSeen": 1775856588,
+    "estDepartureAirport": "KJKA",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.4556,
+    "landing": 1
+  }
+]
