@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1775774935,
+    "lastSeen": 1775782333,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.055,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d9e0",
+    "callsign": "N540W",
+    "firstSeen": 1775769789,
+    "lastSeen": 1775781812,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "CD69",
+    "flight_hours": 3.3397,
+    "landing": 1
+  }
+]
