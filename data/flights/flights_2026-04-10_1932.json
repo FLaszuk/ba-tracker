@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a4cea8",
+    "callsign": "N409GB",
+    "firstSeen": 1775837165,
+    "lastSeen": 1775848974,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": "KL64",
+    "flight_hours": 3.2803,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1775847732,
+    "lastSeen": 1775850292,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7111,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1775849284,
+    "lastSeen": 1775850443,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3219,
+    "landing": 1
+  }
+]
