@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU58KQ",
+    "firstSeen": 1775842498,
+    "lastSeen": 1775848002,
+    "estDepartureAirport": "LIBD",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.5289,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1775845332,
+    "lastSeen": 1775848155,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.7842,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bf68",
+    "callsign": "N405CB",
+    "firstSeen": 1775841008,
+    "lastSeen": 1775848708,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 2.1389,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1775845727,
+    "lastSeen": 1775848812,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 0.8569,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1775849284,
+    "lastSeen": 1775850443,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3219,
+    "landing": 1
+  }
+]
