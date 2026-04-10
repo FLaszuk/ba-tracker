@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "484120",
+    "callsign": "P4WIN",
+    "firstSeen": 1775808988,
+    "lastSeen": 1775844088,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 9.75,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2094",
+    "callsign": "AXY176T",
+    "firstSeen": 1775833257,
+    "lastSeen": 1775842602,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5958,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1775845727,
+    "lastSeen": 1775848812,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 0.8569,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1775832940,
+    "lastSeen": 1775842283,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 2.5953,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1775842726,
+    "lastSeen": 1775843813,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3019,
+    "landing": 1
+  }
+]

@@ -8,6 +8,12 @@
       "total_landings": 65
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 75.3,
+      "total_landings": 42
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
       "total_hours": 73.1,
@@ -18,12 +24,6 @@
       "engine_model": "PW308C",
       "total_hours": 64.5,
       "total_landings": 38
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "AE 3007",
-      "total_hours": 63.0,
-      "total_landings": 40
     },
     {
       "engine_manufacturer": "Rolls-Royce",
