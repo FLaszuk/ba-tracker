@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440689",
+    "callsign": "OEGHB",
+    "firstSeen": 1775804731,
+    "lastSeen": 1775810509,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.605,
+    "landing": 1
+  },
+  {
+    "icao24": "44b2ad",
+    "callsign": "BAF90",
+    "firstSeen": 1775809613,
+    "lastSeen": 1775814748,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "EBMB",
+    "flight_hours": 1.4264,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR39ED",
+    "firstSeen": 1775807902,
+    "lastSeen": 1775810806,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8067,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ec",
+    "callsign": "VJT850",
+    "firstSeen": 1775807855,
+    "lastSeen": 1775810792,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "EGHQ",
+    "flight_hours": 0.8158,
+    "landing": 1
+  },
+  {
+    "icao24": "e40130",
+    "callsign": "PPXVJ",
+    "firstSeen": 1775813971,
+    "lastSeen": 1775814042,
+    "estDepartureAirport": "SDNL",
+    "estArrivalAirport": "SDNL",
+    "flight_hours": 0.0197,
+    "landing": 1
+  }
+]
