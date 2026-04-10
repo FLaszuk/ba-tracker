@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0752b",
+    "callsign": "EJM129",
+    "firstSeen": 1775784319,
+    "lastSeen": 1775790990,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 1.8531,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1775785098,
+    "lastSeen": 1775791088,
+    "estDepartureAirport": "KAIK",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.6639,
+    "landing": 1
+  }
+]
