@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0752b",
+    "callsign": "EJM129",
+    "firstSeen": 1775837783,
+    "lastSeen": 1775840370,
+    "estDepartureAirport": "KSSI",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.7186,
+    "landing": 1
+  },
+  {
+    "icao24": "a1db21",
+    "callsign": "N219BY",
+    "firstSeen": 1775838438,
+    "lastSeen": 1775841895,
+    "estDepartureAirport": "KCAE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9603,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1775832940,
+    "lastSeen": 1775842283,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 2.5953,
+    "landing": 1
+  }
+]
