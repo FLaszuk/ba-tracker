@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a54957",
+    "callsign": "LJY241",
+    "firstSeen": 1775853425,
+    "lastSeen": 1775856646,
+    "estDepartureAirport": "KRDG",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1775854948,
+    "lastSeen": 1775856588,
+    "estDepartureAirport": "KJKA",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.4556,
+    "landing": 1
+  }
+]
