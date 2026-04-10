@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1775796494,
+    "lastSeen": 1775797957,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": "YMES",
+    "flight_hours": 0.4064,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e919",
+    "callsign": "N222GV",
+    "firstSeen": 1775798239,
+    "lastSeen": 1775800426,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": "RJOE",
+    "flight_hours": 0.6075,
+    "landing": 1
+  }
+]
