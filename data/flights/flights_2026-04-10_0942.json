@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ce624",
+    "callsign": "MCK312",
+    "firstSeen": 1775813105,
+    "lastSeen": 1775814476,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 0.3808,
+    "landing": 1
+  },
+  {
+    "icao24": "44b2ad",
+    "callsign": "BAF90",
+    "firstSeen": 1775809613,
+    "lastSeen": 1775814748,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "EBMB",
+    "flight_hours": 1.4264,
+    "landing": 1
+  },
+  {
+    "icao24": "e40130",
+    "callsign": "PPXVJ",
+    "firstSeen": 1775813971,
+    "lastSeen": 1775814042,
+    "estDepartureAirport": "SDNL",
+    "estArrivalAirport": "SDNL",
+    "flight_hours": 0.0197,
+    "landing": 1
+  }
+]
