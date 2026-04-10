@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cce74",
+    "callsign": "DCFMI",
+    "firstSeen": 1775821326,
+    "lastSeen": 1775823461,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5931,
+    "landing": 1
+  },
+  {
+    "icao24": "a95633",
+    "callsign": "N700SW",
+    "firstSeen": 1775823097,
+    "lastSeen": 1775827829,
+    "estDepartureAirport": "KLOT",
+    "estArrivalAirport": "K19M",
+    "flight_hours": 1.3144,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2a72",
+    "callsign": "N883RA",
+    "firstSeen": 1775822102,
+    "lastSeen": 1775823438,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "MYNN",
+    "flight_hours": 0.3711,
+    "landing": 1
+  }
+]
