@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1d51a",
+    "callsign": "LJY930",
+    "firstSeen": 1775828254,
+    "lastSeen": 1775832647,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KDKK",
+    "flight_hours": 1.2203,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "N225AF",
+    "firstSeen": 1775829552,
+    "lastSeen": 1775830373,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "MYGW",
+    "flight_hours": 0.2281,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1775829536,
+    "lastSeen": 1775830262,
+    "estDepartureAirport": "KIOW",
+    "estArrivalAirport": "38IS",
+    "flight_hours": 0.2017,
+    "landing": 1
+  }
+]
