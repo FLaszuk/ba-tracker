@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2155",
+    "callsign": "VJT130",
+    "firstSeen": 1775879288,
+    "lastSeen": 1775881803,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VECC",
+    "flight_hours": 0.6986,
+    "landing": 1
+  },
+  {
+    "icao24": "a88df6",
+    "callsign": "N650NR",
+    "firstSeen": 1775872793,
+    "lastSeen": 1775880521,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 2.1467,
+    "landing": 1
+  }
+]
