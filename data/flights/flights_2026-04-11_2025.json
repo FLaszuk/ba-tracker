@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP402",
+    "firstSeen": 1775935340,
+    "lastSeen": 1775940471,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LEVT",
+    "flight_hours": 1.4253,
+    "landing": 1
+  },
+  {
+    "icao24": "a8e830",
+    "callsign": "BOG73",
+    "firstSeen": 1775937439,
+    "lastSeen": 1775941154,
+    "estDepartureAirport": "9NC6",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.0319,
+    "landing": 1
+  }
+]
