@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1775892962,
+    "lastSeen": 1775894499,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.4269,
+    "landing": 1
+  },
+  {
+    "icao24": "c0411d",
+    "callsign": "CNK1",
+    "firstSeen": 1775891823,
+    "lastSeen": 1775895963,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.15,
+    "landing": 1
+  }
+]
