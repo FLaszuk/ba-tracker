@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5027",
+    "firstSeen": 1775925358,
+    "lastSeen": 1775927181,
+    "estDepartureAirport": "KBRO",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 0.5064,
+    "landing": 1
+  },
+  {
+    "icao24": "3cdde1",
+    "callsign": "SFG55A",
+    "firstSeen": 1775922609,
+    "lastSeen": 1775928296,
+    "estDepartureAirport": "LFQQ",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 1.5797,
+    "landing": 1
+  },
+  {
+    "icao24": "a06f7d",
+    "callsign": "N127UH",
+    "firstSeen": 1775921164,
+    "lastSeen": 1775927843,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KO81",
+    "flight_hours": 1.8553,
+    "landing": 1
+  }
+]
