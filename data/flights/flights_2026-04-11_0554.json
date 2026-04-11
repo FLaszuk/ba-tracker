@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE984",
+    "firstSeen": 1775888001,
+    "lastSeen": 1775890577,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YTWN",
+    "flight_hours": 0.7156,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1775869115,
+    "lastSeen": 1775887183,
+    "estDepartureAirport": "KAIK",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 5.0189,
+    "landing": 1
+  }
+]
