@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a000cc",
+    "callsign": "N1JB",
+    "firstSeen": 1775944758,
+    "lastSeen": 1775946380,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 0.4506,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d30c",
+    "callsign": "EJA152",
+    "firstSeen": 1775934568,
+    "lastSeen": 1775944474,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KCOQ",
+    "flight_hours": 2.7517,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe34",
+    "callsign": "GLF66",
+    "firstSeen": 1775941434,
+    "lastSeen": 1775944745,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9197,
+    "landing": 1
+  }
+]
