@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a88a96",
+    "callsign": "N65CC",
+    "firstSeen": 1775923915,
+    "lastSeen": 1775931571,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.1267,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1775916353,
+    "lastSeen": 1775935427,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 5.2983,
+    "landing": 1
+  },
+  {
+    "icao24": "ade549",
+    "callsign": "N995AU",
+    "firstSeen": 1775929933,
+    "lastSeen": 1775931427,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.415,
+    "landing": 1
+  }
+]
