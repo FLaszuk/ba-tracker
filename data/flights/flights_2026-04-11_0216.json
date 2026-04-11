@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d2155",
+    "callsign": "VJT130",
+    "firstSeen": 1775871928,
+    "lastSeen": 1775874093,
+    "estDepartureAirport": "VECC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6014,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1775872590,
+    "lastSeen": 1775874180,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4417,
+    "landing": 1
+  },
+  {
+    "icao24": "a000b4",
+    "callsign": "N1HC",
+    "firstSeen": 1775871842,
+    "lastSeen": 1775875835,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.1092,
+    "landing": 1
+  }
+]
