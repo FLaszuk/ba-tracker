@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0c808",
+    "callsign": "N15C",
+    "firstSeen": 1775933136,
+    "lastSeen": 1775937511,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "9TA2",
+    "flight_hours": 1.2153,
+    "landing": 1
+  },
+  {
+    "icao24": "a18845",
+    "callsign": "N1980K",
+    "firstSeen": 1775936698,
+    "lastSeen": 1775938033,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KL22",
+    "flight_hours": 0.3708,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1775916353,
+    "lastSeen": 1775935427,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 5.2983,
+    "landing": 1
+  }
+]
