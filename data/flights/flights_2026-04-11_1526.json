@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "add3bc",
+    "callsign": "N990MF",
+    "firstSeen": 1775919748,
+    "lastSeen": 1775921789,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KMDT",
+    "flight_hours": 0.5669,
+    "landing": 1
+  },
+  {
+    "icao24": "e4930d",
+    "callsign": "PRJQF",
+    "firstSeen": 1775920267,
+    "lastSeen": 1775922483,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 0.6156,
+    "landing": 1
+  }
+]
