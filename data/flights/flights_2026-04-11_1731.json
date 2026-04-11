@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cdde1",
+    "callsign": "SFG55A",
+    "firstSeen": 1775922609,
+    "lastSeen": 1775928296,
+    "estDepartureAirport": "LFQQ",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 1.5797,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT579",
+    "firstSeen": 1775917313,
+    "lastSeen": 1775928736,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1731,
+    "landing": 1
+  },
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1775926631,
+    "lastSeen": 1775928566,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5375,
+    "landing": 1
+  },
+  {
+    "icao24": "a88a96",
+    "callsign": "N65CC",
+    "firstSeen": 1775923915,
+    "lastSeen": 1775931571,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.1267,
+    "landing": 1
+  }
+]
