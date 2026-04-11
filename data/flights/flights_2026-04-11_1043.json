@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP472",
+    "firstSeen": 1775903223,
+    "lastSeen": 1775905997,
+    "estDepartureAirport": "LEAL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7706,
+    "landing": 1
+  },
+  {
+    "icao24": "3c9654",
+    "callsign": "BFD65H",
+    "firstSeen": 1775901878,
+    "lastSeen": 1775905339,
+    "estDepartureAirport": "EDLP",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.9614,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2131",
+    "callsign": "VJT957",
+    "firstSeen": 1775881516,
+    "lastSeen": 1775905562,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.6794,
+    "landing": 1
+  }
+]
