@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA76E",
+    "firstSeen": 1775904695,
+    "lastSeen": 1775912244,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LFFN",
+    "flight_hours": 2.0969,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2155",
+    "callsign": "VJT125",
+    "firstSeen": 1775904549,
+    "lastSeen": 1775914557,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 2.78,
+    "landing": 1
+  },
+  {
+    "icao24": "a1dfdd",
+    "callsign": "N22NJ",
+    "firstSeen": 1775906967,
+    "lastSeen": 1775912287,
+    "estDepartureAirport": "KVNC",
+    "estArrivalAirport": "K38J",
+    "flight_hours": 1.4778,
+    "landing": 1
+  }
+]
