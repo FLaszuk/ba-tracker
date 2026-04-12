@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT9984",
+    "firstSeen": 1775975162,
+    "lastSeen": 1775980156,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.3872,
+    "landing": 1
+  },
+  {
+    "icao24": "800159",
+    "callsign": "VTCSP",
+    "firstSeen": 1775980283,
+    "lastSeen": 1775981616,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VIAM",
+    "flight_hours": 0.3703,
+    "landing": 1
+  }
+]
