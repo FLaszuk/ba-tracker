@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "008887",
+    "callsign": "ZSDFI",
+    "firstSeen": 1775995629,
+    "lastSeen": 1775997380,
+    "estDepartureAirport": "FAOR",
+    "estArrivalAirport": "FALL",
+    "flight_hours": 0.4864,
+    "landing": 1
+  },
+  {
+    "icao24": "3c8502",
+    "callsign": "ELG2B",
+    "firstSeen": 1775991240,
+    "lastSeen": 1775998595,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "LIRM",
+    "flight_hours": 2.0431,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1775993809,
+    "lastSeen": 1775998185,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": "EDDB",
+    "flight_hours": 1.2156,
+    "landing": 1
+  },
+  {
+    "icao24": "494110",
+    "callsign": "NJE378T",
+    "firstSeen": 1775991822,
+    "lastSeen": 1775997939,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EDOH",
+    "flight_hours": 1.6992,
+    "landing": 1
+  },
+  {
+    "icao24": "780b2a",
+    "callsign": "B8271",
+    "firstSeen": 1775985952,
+    "lastSeen": 1776002240,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 4.5244,
+    "landing": 1
+  },
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1775980379,
+    "lastSeen": 1775999996,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": null,
+    "flight_hours": 5.4492,
+    "landing": 1
+  },
+  {
+    "icao24": "a8e830",
+    "callsign": "BOG73",
+    "firstSeen": 1775994690,
+    "lastSeen": 1775998558,
+    "estDepartureAirport": "KILM",
+    "estArrivalAirport": "KLEX",
+    "flight_hours": 1.0744,
+    "landing": 1
+  },
+  {
+    "icao24": "e80907",
+    "callsign": "CCCPS",
+    "firstSeen": 1775993625,
+    "lastSeen": 1775998981,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "SCCY",
+    "flight_hours": 1.4878,
+    "landing": 1
+  }
+]

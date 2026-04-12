@@ -16,14 +16,14 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 77.8,
-      "total_landings": 45
+      "total_hours": 79.3,
+      "total_landings": 46
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW308C",
-      "total_hours": 65.5,
-      "total_landings": 39
+      "total_hours": 67.5,
+      "total_landings": 40
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -32,34 +32,34 @@
       "total_landings": 30
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 25.9,
+      "total_landings": 13
+    },
+    {
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
       "total_hours": 25.9,
       "total_landings": 26
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "Tay 611-8C",
-      "total_hours": 15.9,
-      "total_landings": 11
-    },
-    {
       "engine_manufacturer": "GE Aviation",
       "engine_model": "CF34-3B",
-      "total_hours": 15.1,
-      "total_landings": 9
+      "total_hours": 16.4,
+      "total_landings": 10
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535",
+      "total_hours": 15.7,
+      "total_landings": 18
     },
     {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
       "total_hours": 14.9,
       "total_landings": 9
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW307A",
-      "total_hours": 14.0,
-      "total_landings": 11
     }
   ]
 }
