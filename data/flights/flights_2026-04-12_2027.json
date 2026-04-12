@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS124",
+    "firstSeen": 1776025657,
+    "lastSeen": 1776027119,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "21NK",
+    "flight_hours": 0.4061,
+    "landing": 1
+  },
+  {
+    "icao24": "a0c484",
+    "callsign": "N149EA",
+    "firstSeen": 1776024671,
+    "lastSeen": 1776030441,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OK54",
+    "flight_hours": 1.6028,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df20",
+    "callsign": "N606SG",
+    "firstSeen": 1776022703,
+    "lastSeen": 1776026367,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 1.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1776024394,
+    "lastSeen": 1776027356,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.8228,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1776025740,
+    "lastSeen": 1776027003,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.3508,
+    "landing": 1
+  }
+]
