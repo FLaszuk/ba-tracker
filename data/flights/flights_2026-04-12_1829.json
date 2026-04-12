@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a04819",
+    "callsign": "N117VK",
+    "firstSeen": 1776009073,
+    "lastSeen": 1776018885,
+    "estDepartureAirport": "FL36",
+    "estArrivalAirport": "4XA3",
+    "flight_hours": 2.7256,
+    "landing": 1
+  },
+  {
+    "icao24": "a27ee8",
+    "callsign": "N26ZE",
+    "firstSeen": 1776008358,
+    "lastSeen": 1776018851,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "AL76",
+    "flight_hours": 2.9147,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1776013394,
+    "lastSeen": 1776018131,
+    "estDepartureAirport": "KERI",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.3158,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf4bd",
+    "callsign": "N805DB",
+    "firstSeen": 1775993652,
+    "lastSeen": 1776019725,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.2425,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1776018662,
+    "lastSeen": 1776021249,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "9CA7",
+    "flight_hours": 0.7186,
+    "landing": 1
+  }
+]
