@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "484363",
+    "callsign": "P4JIMI2",
+    "firstSeen": 1776012874,
+    "lastSeen": 1776016047,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8814,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT579",
+    "firstSeen": 1776003196,
+    "lastSeen": 1776014998,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 3.2783,
+    "landing": 1
+  },
+  {
+    "icao24": "a04819",
+    "callsign": "N117VK",
+    "firstSeen": 1776009073,
+    "lastSeen": 1776018885,
+    "estDepartureAirport": "FL36",
+    "estArrivalAirport": "4XA3",
+    "flight_hours": 2.7256,
+    "landing": 1
+  },
+  {
+    "icao24": "a178fb",
+    "callsign": "N194W",
+    "firstSeen": 1776015115,
+    "lastSeen": 1776015948,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2314,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1776013394,
+    "lastSeen": 1776018131,
+    "estDepartureAirport": "KERI",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.3158,
+    "landing": 1
+  },
+  {
+    "icao24": "aac094",
+    "callsign": "EJM792",
+    "firstSeen": 1776004404,
+    "lastSeen": 1776016847,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.4564,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf4bd",
+    "callsign": "N805DB",
+    "firstSeen": 1775993652,
+    "lastSeen": 1776019725,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.2425,
+    "landing": 1
+  }
+]
