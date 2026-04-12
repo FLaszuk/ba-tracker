@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2a072",
+    "callsign": "N269AF",
+    "firstSeen": 1776022553,
+    "lastSeen": 1776023360,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2242,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df20",
+    "callsign": "N606SG",
+    "firstSeen": 1776022703,
+    "lastSeen": 1776026367,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 1.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1776025740,
+    "lastSeen": 1776027003,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.3508,
+    "landing": 1
+  }
+]
