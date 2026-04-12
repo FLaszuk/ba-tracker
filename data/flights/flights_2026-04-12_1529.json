@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1776006421,
+    "lastSeen": 1776007592,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3253,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ1KT",
+    "firstSeen": 1776002759,
+    "lastSeen": 1776007871,
+    "estDepartureAirport": "LRBS",
+    "estArrivalAirport": "EPKK",
+    "flight_hours": 1.42,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS27",
+    "firstSeen": 1776008813,
+    "lastSeen": 1776010875,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "44PA",
+    "flight_hours": 0.5728,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1776006688,
+    "lastSeen": 1776008889,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6114,
+    "landing": 1
+  },
+  {
+    "icao24": "aab97c",
+    "callsign": "N790R",
+    "firstSeen": 1775985968,
+    "lastSeen": 1776012132,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.2678,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1776007062,
+    "lastSeen": 1776009769,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNTF",
+    "flight_hours": 0.7519,
+    "landing": 1
+  }
+]
