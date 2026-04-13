@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4b1999",
+    "callsign": "HBJSB",
+    "firstSeen": 1776075663,
+    "lastSeen": 1776086627,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "HE32",
+    "flight_hours": 3.0456,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1776084763,
+    "lastSeen": 1776086117,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3761,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1776087382,
+    "lastSeen": 1776089010,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4522,
+    "landing": 1
+  }
+]

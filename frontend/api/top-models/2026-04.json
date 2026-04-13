@@ -10,20 +10,20 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 83.3,
-      "total_landings": 43
+      "total_hours": 86.4,
+      "total_landings": 44
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 36.0,
+      "total_landings": 37
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 62.9,
       "total_landings": 37
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 35.6,
-      "total_landings": 36
     },
     {
       "aircraft_manufacturer": "Dassault",
