@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c61f3",
+    "callsign": "VJH784",
+    "firstSeen": 1776113496,
+    "lastSeen": 1776114393,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2492,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1776103565,
+    "lastSeen": 1776112593,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "50AZ",
+    "flight_hours": 2.5078,
+    "landing": 1
+  }
+]
