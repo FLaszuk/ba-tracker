@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a27a5c",
+    "callsign": "EJA259",
+    "firstSeen": 1776097252,
+    "lastSeen": 1776106500,
+    "estDepartureAirport": "KJFK",
+    "estArrivalAirport": "KFLL",
+    "flight_hours": 2.5689,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1776103933,
+    "lastSeen": 1776106396,
+    "estDepartureAirport": "NV17",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.6842,
+    "landing": 1
+  },
+  {
+    "icao24": "a43f5a",
+    "callsign": "N373EF",
+    "firstSeen": 1776105045,
+    "lastSeen": 1776107728,
+    "estDepartureAirport": "KSUX",
+    "estArrivalAirport": "K48K",
+    "flight_hours": 0.7453,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1776100100,
+    "lastSeen": 1776107046,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 1.9294,
+    "landing": 1
+  }
+]
