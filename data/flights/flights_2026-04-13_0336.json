@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1776050720,
+    "lastSeen": 1776053109,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.6636,
+    "landing": 1
+  },
+  {
+    "icao24": "ac1d80",
+    "callsign": "N88WR",
+    "firstSeen": 1776038890,
+    "lastSeen": 1776054676,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KBRO",
+    "flight_hours": 4.385,
+    "landing": 1
+  }
+]
