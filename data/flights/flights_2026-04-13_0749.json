@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "490d0a",
+    "callsign": "NJE561F",
+    "firstSeen": 1776057532,
+    "lastSeen": 1776066473,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 2.4836,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7fd4",
+    "callsign": "SUI555",
+    "firstSeen": 1776063819,
+    "lastSeen": 1776069649,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6194,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2131",
+    "callsign": "VJT957",
+    "firstSeen": 1776042149,
+    "lastSeen": 1776067296,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 6.9853,
+    "landing": 1
+  }
+]
