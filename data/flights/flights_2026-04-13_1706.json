@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a01500",
+    "callsign": "N104QT",
+    "firstSeen": 1776095740,
+    "lastSeen": 1776103771,
+    "estDepartureAirport": "KARR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2308,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS245",
+    "firstSeen": 1776101412,
+    "lastSeen": 1776102406,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KCON",
+    "flight_hours": 0.2761,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1776095603,
+    "lastSeen": 1776101267,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.5733,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1b82",
+    "callsign": "N750RB",
+    "firstSeen": 1776095532,
+    "lastSeen": 1776101005,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.5203,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1776100368,
+    "lastSeen": 1776102284,
+    "estDepartureAirport": "KSGU",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5322,
+    "landing": 1
+  },
+  {
+    "icao24": "adf45a",
+    "callsign": "EJM999",
+    "firstSeen": 1776096806,
+    "lastSeen": 1776101564,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KI58",
+    "flight_hours": 1.3217,
+    "landing": 1
+  },
+  {
+    "icao24": "e493a0",
+    "callsign": "PPJCC",
+    "firstSeen": 1776099282,
+    "lastSeen": 1776100983,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4725,
+    "landing": 1
+  }
+]
