@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1776069136,
+    "lastSeen": 1776071362,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 0.6183,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR97YQ",
+    "firstSeen": 1776067419,
+    "lastSeen": 1776071051,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0089,
+    "landing": 1
+  },
+  {
+    "icao24": "a8bbe1",
+    "callsign": "N662CH",
+    "firstSeen": 1776044279,
+    "lastSeen": 1776071960,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "LIAL",
+    "flight_hours": 7.6892,
+    "landing": 1
+  }
+]
