@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a29d25",
+    "callsign": "FDJ268",
+    "firstSeen": 1776192269,
+    "lastSeen": 1776195856,
+    "estDepartureAirport": "KLAW",
+    "estArrivalAirport": "KLAA",
+    "flight_hours": 0.9964,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1776190025,
+    "lastSeen": 1776195673,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.5689,
+    "landing": 1
+  },
+  {
+    "icao24": "a5941e",
+    "callsign": "LXJ459",
+    "firstSeen": 1776183149,
+    "lastSeen": 1776196785,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7878,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1776199048,
+    "lastSeen": 1776200069,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2836,
+    "landing": 1
+  }
+]
