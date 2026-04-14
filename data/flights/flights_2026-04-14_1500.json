@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "491316",
+    "callsign": "NJE552W",
+    "firstSeen": 1776174552,
+    "lastSeen": 1776179762,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4472,
+    "landing": 1
+  },
+  {
+    "icao24": "a079fc",
+    "callsign": "N13MS",
+    "firstSeen": 1776171751,
+    "lastSeen": 1776178276,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KGLS",
+    "flight_hours": 1.8125,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1776176830,
+    "lastSeen": 1776180230,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "63CO",
+    "flight_hours": 0.9444,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1776181099,
+    "lastSeen": 1776183792,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.7481,
+    "landing": 1
+  },
+  {
+    "icao24": "e08194",
+    "callsign": "LVHFT",
+    "firstSeen": 1776181567,
+    "lastSeen": 1776182824,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SA31",
+    "flight_hours": 0.3492,
+    "landing": 1
+  },
+  {
+    "icao24": "e4865b",
+    "callsign": "PTPVB",
+    "firstSeen": 1776175712,
+    "lastSeen": 1776178917,
+    "estDepartureAirport": "SWUD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8903,
+    "landing": 1
+  }
+]
