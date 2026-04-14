@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW485",
+    "firstSeen": 1776182668,
+    "lastSeen": 1776185330,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.7394,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1776181099,
+    "lastSeen": 1776183792,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.7481,
+    "landing": 1
+  },
+  {
+    "icao24": "a996c1",
+    "callsign": "N717HD",
+    "firstSeen": 1776178356,
+    "lastSeen": 1776188509,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "KAKO",
+    "flight_hours": 2.8203,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1776182055,
+    "lastSeen": 1776184136,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "MUVR",
+    "flight_hours": 0.5781,
+    "landing": 1
+  },
+  {
+    "icao24": "e08194",
+    "callsign": "LVHFT",
+    "firstSeen": 1776181567,
+    "lastSeen": 1776182824,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SA31",
+    "flight_hours": 0.3492,
+    "landing": 1
+  }
+]
