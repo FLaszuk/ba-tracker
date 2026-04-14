@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a00067",
+    "callsign": "N1EA",
+    "firstSeen": 1776197403,
+    "lastSeen": 1776202941,
+    "estDepartureAirport": "KOKC",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.5383,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1776201107,
+    "lastSeen": 1776205356,
+    "estDepartureAirport": "KLAN",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.1803,
+    "landing": 1
+  },
+  {
+    "icao24": "a996c1",
+    "callsign": "N717HD",
+    "firstSeen": 1776189977,
+    "lastSeen": 1776199778,
+    "estDepartureAirport": "KAKO",
+    "estArrivalAirport": "K80T",
+    "flight_hours": 2.7225,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1776199048,
+    "lastSeen": 1776200069,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2836,
+    "landing": 1
+  }
+]
