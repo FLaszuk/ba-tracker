@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3ccd47",
+    "callsign": "IFA4032",
+    "firstSeen": 1776159449,
+    "lastSeen": 1776172793,
+    "estDepartureAirport": "OMAA",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7067,
+    "landing": 1
+  },
+  {
+    "icao24": "a29d25",
+    "callsign": "FDJ268",
+    "firstSeen": 1776171627,
+    "lastSeen": 1776172818,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KLAA",
+    "flight_hours": 0.3308,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ad37",
+    "callsign": "GLF25",
+    "firstSeen": 1776171345,
+    "lastSeen": 1776177055,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5861,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4cf1",
+    "callsign": "N956WM",
+    "firstSeen": 1776166193,
+    "lastSeen": 1776172281,
+    "estDepartureAirport": "KOJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6911,
+    "landing": 1
+  }
+]

@@ -22,19 +22,19 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 36.0,
-      "total_landings": 37
+      "total_hours": 39.7,
+      "total_landings": 38
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 63.9,
+      "total_landings": 33
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 49.0,
-      "total_landings": 32
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 62.3,
       "total_landings": 32
     },
     {
@@ -46,8 +46,8 @@
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 25.5,
-      "total_landings": 24
+      "total_hours": 27.2,
+      "total_landings": 25
     },
     {
       "aircraft_manufacturer": "Embraer",
