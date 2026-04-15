@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0bc000",
+    "callsign": "J8JET",
+    "firstSeen": 1776269142,
+    "lastSeen": 1776269866,
+    "estDepartureAirport": "TVSA",
+    "estArrivalAirport": "TGPY",
+    "flight_hours": 0.2011,
+    "landing": 1
+  },
+  {
+    "icao24": "494106",
+    "callsign": "NJE037W",
+    "firstSeen": 1776266661,
+    "lastSeen": 1776268800,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LFYS",
+    "flight_hours": 0.5942,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1776264316,
+    "lastSeen": 1776268869,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KRIW",
+    "flight_hours": 1.2647,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1776272043,
+    "lastSeen": 1776273874,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KRSW",
+    "flight_hours": 0.5086,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1776259233,
+    "lastSeen": 1776269191,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 2.7661,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1776269746,
+    "lastSeen": 1776272082,
+    "estDepartureAirport": "SGEN",
+    "estArrivalAirport": "SGEN",
+    "flight_hours": 0.6489,
+    "landing": 1
+  }
+]
