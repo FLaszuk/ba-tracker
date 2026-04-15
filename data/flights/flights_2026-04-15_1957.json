@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a57616",
+    "callsign": "N451CS",
+    "firstSeen": 1776285468,
+    "lastSeen": 1776286983,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KSMX",
+    "flight_hours": 0.4208,
+    "landing": 1
+  },
+  {
+    "icao24": "a68cf3",
+    "callsign": "N521DC",
+    "firstSeen": 1776284120,
+    "lastSeen": 1776285339,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.3386,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1776273049,
+    "lastSeen": 1776284876,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.2853,
+    "landing": 1
+  }
+]
