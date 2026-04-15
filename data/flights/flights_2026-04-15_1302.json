@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1776254488,
+    "lastSeen": 1776257797,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9192,
+    "landing": 1
+  },
+  {
+    "icao24": "343183",
+    "callsign": "INI231",
+    "firstSeen": 1776258574,
+    "lastSeen": 1776259583,
+    "estDepartureAirport": "EDLW",
+    "estArrivalAirport": "EDGS",
+    "flight_hours": 0.2803,
+    "landing": 1
+  },
+  {
+    "icao24": "a01500",
+    "callsign": "N104QT",
+    "firstSeen": 1776258318,
+    "lastSeen": 1776259109,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2197,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1776261091,
+    "lastSeen": 1776263324,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "7TX8",
+    "flight_hours": 0.6203,
+    "landing": 1
+  },
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1776260060,
+    "lastSeen": 1776263649,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 0.9969,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4a6",
+    "callsign": "GLF67",
+    "firstSeen": 1776259101,
+    "lastSeen": 1776260543,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4006,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ae9a",
+    "callsign": "N53FJ",
+    "firstSeen": 1776259591,
+    "lastSeen": 1776261888,
+    "estDepartureAirport": "KMAF",
+    "estArrivalAirport": "KEDC",
+    "flight_hours": 0.6381,
+    "landing": 1
+  }
+]
