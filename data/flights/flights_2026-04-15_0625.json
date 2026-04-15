@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "39adec",
+    "callsign": "FHLPM",
+    "firstSeen": 1776234377,
+    "lastSeen": 1776237045,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": "LELO",
+    "flight_hours": 0.7411,
+    "landing": 1
+  },
+  {
+    "icao24": "4d211a",
+    "callsign": "VJT910H",
+    "firstSeen": 1776232426,
+    "lastSeen": 1776235033,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VOMD",
+    "flight_hours": 0.7242,
+    "landing": 1
+  }
+]
