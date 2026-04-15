@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0bc000",
+    "callsign": "J8JET",
+    "firstSeen": 1776269142,
+    "lastSeen": 1776269866,
+    "estDepartureAirport": "TVSA",
+    "estArrivalAirport": "TGPY",
+    "flight_hours": 0.2011,
+    "landing": 1
+  },
+  {
+    "icao24": "0d07a6",
+    "callsign": "XARUA",
+    "firstSeen": 1776264319,
+    "lastSeen": 1776266200,
+    "estDepartureAirport": "MMVR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5225,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1776262666,
+    "lastSeen": 1776266008,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.9283,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1776265149,
+    "lastSeen": 1776266857,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SGEN",
+    "flight_hours": 0.4744,
+    "landing": 1
+  }
+]
