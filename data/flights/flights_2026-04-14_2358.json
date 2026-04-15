@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776203022,
+    "lastSeen": 1776212385,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "41CA",
+    "flight_hours": 2.6008,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1776208300,
+    "lastSeen": 1776214058,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.5994,
+    "landing": 1
+  },
+  {
+    "icao24": "a1745b",
+    "callsign": "TWY193",
+    "firstSeen": 1776203997,
+    "lastSeen": 1776211702,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 2.1403,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1776207823,
+    "lastSeen": 1776211296,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 0.9647,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1776200932,
+    "lastSeen": 1776214396,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 3.74,
+    "landing": 1
+  }
+]
