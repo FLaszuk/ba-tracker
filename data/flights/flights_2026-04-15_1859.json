@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1776273134,
+    "lastSeen": 1776282054,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 2.4778,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1776280381,
+    "lastSeen": 1776281577,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3322,
+    "landing": 1
+  }
+]
