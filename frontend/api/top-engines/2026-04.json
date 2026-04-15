@@ -50,16 +50,16 @@
       "total_landings": 20
     },
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 17.3,
+      "total_landings": 10
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW610F",
       "total_hours": 17.3,
       "total_landings": 14
-    },
-    {
-      "engine_manufacturer": "GE Aviation",
-      "engine_model": "CF34-3B",
-      "total_hours": 16.4,
-      "total_landings": 10
     }
   ]
 }
