@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c61f3",
+    "callsign": "VJH784",
+    "firstSeen": 1776329826,
+    "lastSeen": 1776333051,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "GMMD",
+    "flight_hours": 0.8958,
+    "landing": 1
+  },
+  {
+    "icao24": "e484e8",
+    "callsign": "PPONE",
+    "firstSeen": 1776333532,
+    "lastSeen": 1776336266,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNPS",
+    "flight_hours": 0.7594,
+    "landing": 1
+  }
+]
