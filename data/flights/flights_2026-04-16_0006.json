@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0de31",
+    "callsign": "EJA155",
+    "firstSeen": 1776297844,
+    "lastSeen": 1776300700,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.7933,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1776290086,
+    "lastSeen": 1776298070,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KWRL",
+    "flight_hours": 2.2178,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1776298449,
+    "lastSeen": 1776298944,
+    "estDepartureAirport": "SJXM",
+    "estArrivalAirport": "SBSC",
+    "flight_hours": 0.1375,
+    "landing": 1
+  }
+]
