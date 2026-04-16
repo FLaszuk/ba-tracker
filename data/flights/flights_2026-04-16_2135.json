@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0da7a",
+    "callsign": "EJA154",
+    "firstSeen": 1776363448,
+    "lastSeen": 1776375364,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KL64",
+    "flight_hours": 3.31,
+    "landing": 1
+  },
+  {
+    "icao24": "a7904c",
+    "callsign": "N587DZ",
+    "firstSeen": 1776371979,
+    "lastSeen": 1776374830,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 0.7919,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1776376207,
+    "lastSeen": 1776379506,
+    "estDepartureAirport": "KFCI",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.9164,
+    "landing": 1
+  },
+  {
+    "icao24": "a9564d",
+    "callsign": "N700TX",
+    "firstSeen": 1776376215,
+    "lastSeen": 1776378136,
+    "estDepartureAirport": "K4M9",
+    "estArrivalAirport": "MS40",
+    "flight_hours": 0.5336,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1776376449,
+    "lastSeen": 1776378763,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6428,
+    "landing": 1
+  }
+]
