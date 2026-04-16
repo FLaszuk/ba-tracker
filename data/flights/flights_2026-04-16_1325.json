@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR4PN",
+    "firstSeen": 1776345113,
+    "lastSeen": 1776349027,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0872,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3454",
+    "firstSeen": 1776339348,
+    "lastSeen": 1776348783,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.6208,
+    "landing": 1
+  },
+  {
+    "icao24": "a034cb",
+    "callsign": "N112MY",
+    "firstSeen": 1776342579,
+    "lastSeen": 1776348907,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7578,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6d79",
+    "callsign": "N771HM",
+    "firstSeen": 1776334711,
+    "lastSeen": 1776348472,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8225,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1776348129,
+    "lastSeen": 1776349073,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSGU",
+    "flight_hours": 0.2622,
+    "landing": 1
+  }
+]
