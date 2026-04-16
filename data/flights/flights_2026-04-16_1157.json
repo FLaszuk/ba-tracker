@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1776335532,
+    "lastSeen": 1776340818,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 1.4683,
+    "landing": 1
+  },
+  {
+    "icao24": "491d85",
+    "callsign": "NJE449G",
+    "firstSeen": 1776337008,
+    "lastSeen": 1776342620,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LOKR",
+    "flight_hours": 1.5589,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2139",
+    "callsign": "VJT972",
+    "firstSeen": 1776325840,
+    "lastSeen": 1776340385,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 4.0403,
+    "landing": 1
+  }
+]
