@@ -28,8 +28,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 70.5,
-      "total_landings": 38
+      "total_hours": 70.7,
+      "total_landings": 39
     },
     {
       "engine_manufacturer": "Williams International",
@@ -44,6 +44,12 @@
       "total_landings": 18
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW307A",
+      "total_hours": 20.9,
+      "total_landings": 15
+    },
+    {
       "engine_manufacturer": "GE Aviation",
       "engine_model": "CF34-3B",
       "total_hours": 18.8,
@@ -54,12 +60,6 @@
       "engine_model": "PW535",
       "total_hours": 18.1,
       "total_landings": 22
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW610F",
-      "total_hours": 17.6,
-      "total_landings": 15
     }
   ]
 }
