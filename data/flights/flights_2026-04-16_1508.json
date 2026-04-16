@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "43c8d7",
+    "callsign": "SCPTR1",
+    "firstSeen": 1776350787,
+    "lastSeen": 1776354073,
+    "estDepartureAirport": "EGYD",
+    "estArrivalAirport": "EGNJ",
+    "flight_hours": 0.9128,
+    "landing": 1
+  },
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI201",
+    "firstSeen": 1776355631,
+    "lastSeen": 1776356260,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LTXE",
+    "flight_hours": 0.1747,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f6",
+    "callsign": "VJT861",
+    "firstSeen": 1776342874,
+    "lastSeen": 1776352399,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 2.6458,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776350162,
+    "lastSeen": 1776352433,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "7TX8",
+    "flight_hours": 0.6308,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a734",
+    "callsign": "VJA141",
+    "firstSeen": 1776343817,
+    "lastSeen": 1776351543,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 2.1461,
+    "landing": 1
+  },
+  {
+    "icao24": "a184d2",
+    "callsign": "HOB3",
+    "firstSeen": 1776349767,
+    "lastSeen": 1776352476,
+    "estDepartureAirport": "KOKC",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.7525,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1776350337,
+    "lastSeen": 1776352576,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "5XS2",
+    "flight_hours": 0.6219,
+    "landing": 1
+  },
+  {
+    "icao24": "a32f0f",
+    "callsign": "EJM33",
+    "firstSeen": 1776348179,
+    "lastSeen": 1776352328,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.1525,
+    "landing": 1
+  },
+  {
+    "icao24": "a99e92",
+    "callsign": "DCM4241",
+    "firstSeen": 1776352047,
+    "lastSeen": 1776353244,
+    "estDepartureAirport": "KPMP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3325,
+    "landing": 1
+  }
+]
