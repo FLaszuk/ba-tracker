@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac9975",
+    "callsign": "PVA1519",
+    "firstSeen": 1776293577,
+    "lastSeen": 1776322441,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "GMMN",
+    "flight_hours": 8.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1ca5",
+    "callsign": "TWY94",
+    "firstSeen": 1776307293,
+    "lastSeen": 1776320228,
+    "estDepartureAirport": "MSPT",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 3.5931,
+    "landing": 1
+  }
+]
