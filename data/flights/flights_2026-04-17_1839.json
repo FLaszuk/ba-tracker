@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU151H",
+    "firstSeen": 1776450387,
+    "lastSeen": 1776453639,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9033,
+    "landing": 1
+  },
+  {
+    "icao24": "a82d60",
+    "callsign": "N626JS",
+    "firstSeen": 1776451172,
+    "lastSeen": 1776452499,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KLEB",
+    "flight_hours": 0.3686,
+    "landing": 1
+  },
+  {
+    "icao24": "ad8907",
+    "callsign": "RLI971",
+    "firstSeen": 1776443173,
+    "lastSeen": 1776452081,
+    "estDepartureAirport": "KDXR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4744,
+    "landing": 1
+  }
+]
