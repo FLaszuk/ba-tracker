@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "493285",
+    "callsign": "NJE376V",
+    "firstSeen": 1776430444,
+    "lastSeen": 1776432217,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LFLY",
+    "flight_hours": 0.4925,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ad37",
+    "callsign": "GLF68",
+    "firstSeen": 1776429901,
+    "lastSeen": 1776433325,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9511,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1776429024,
+    "lastSeen": 1776432000,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8267,
+    "landing": 1
+  },
+  {
+    "icao24": "adca56",
+    "callsign": "N988RC",
+    "firstSeen": 1776429099,
+    "lastSeen": 1776430334,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3431,
+    "landing": 1
+  },
+  {
+    "icao24": "e48dfe",
+    "callsign": "PPSCN",
+    "firstSeen": 1776429872,
+    "lastSeen": 1776435995,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SDPD",
+    "flight_hours": 1.7008,
+    "landing": 1
+  }
+]
