@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "484363",
+    "callsign": "P4JIMI2",
+    "firstSeen": 1776430196,
+    "lastSeen": 1776445142,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": null,
+    "flight_hours": 4.1517,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS888",
+    "firstSeen": 1776438784,
+    "lastSeen": 1776444167,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KLAM",
+    "flight_hours": 1.4953,
+    "landing": 1
+  },
+  {
+    "icao24": "a37a92",
+    "callsign": "N323MK",
+    "firstSeen": 1776444398,
+    "lastSeen": 1776445481,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3008,
+    "landing": 1
+  },
+  {
+    "icao24": "a5734d",
+    "callsign": "N450NE",
+    "firstSeen": 1776441624,
+    "lastSeen": 1776446770,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 1.4294,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d33",
+    "callsign": "TWY1650",
+    "firstSeen": 1776443645,
+    "lastSeen": 1776444976,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.3697,
+    "landing": 1
+  },
+  {
+    "icao24": "a94fe3",
+    "callsign": "N7AG",
+    "firstSeen": 1776447054,
+    "lastSeen": 1776448355,
+    "estDepartureAirport": "KEOK",
+    "estArrivalAirport": "KJEF",
+    "flight_hours": 0.3614,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7033",
+    "callsign": "N900LN",
+    "firstSeen": 1776444332,
+    "lastSeen": 1776445837,
+    "estDepartureAirport": "5TA7",
+    "estArrivalAirport": "KF17",
+    "flight_hours": 0.4181,
+    "landing": 1
+  },
+  {
+    "icao24": "c05df9",
+    "callsign": "CGJPG",
+    "firstSeen": 1776433072,
+    "lastSeen": 1776444618,
+    "estDepartureAirport": "KDTO",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 3.2072,
+    "landing": 1
+  }
+]
