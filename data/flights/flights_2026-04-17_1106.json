@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3181",
+    "firstSeen": 1776419118,
+    "lastSeen": 1776425295,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIMF",
+    "flight_hours": 1.7158,
+    "landing": 1
+  },
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3181",
+    "firstSeen": 1776426619,
+    "lastSeen": 1776429051,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.6756,
+    "landing": 1
+  },
+  {
+    "icao24": "49d116",
+    "callsign": "SUA7C",
+    "firstSeen": 1776416774,
+    "lastSeen": 1776424494,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1444,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ef",
+    "callsign": "ICL773",
+    "firstSeen": 1776381334,
+    "lastSeen": 1776428053,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 12.9775,
+    "landing": 1
+  },
+  {
+    "icao24": "ad60ab",
+    "callsign": "NEW961",
+    "firstSeen": 1776408620,
+    "lastSeen": 1776424473,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 4.4036,
+    "landing": 1
+  }
+]
