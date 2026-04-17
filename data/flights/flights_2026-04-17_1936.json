@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a03fe1",
+    "callsign": "N115MH",
+    "firstSeen": 1776447394,
+    "lastSeen": 1776458935,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.2058,
+    "landing": 1
+  },
+  {
+    "icao24": "a588f9",
+    "callsign": "LXJ456",
+    "firstSeen": 1776446170,
+    "lastSeen": 1776456620,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "K06M",
+    "flight_hours": 2.9028,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1776454072,
+    "lastSeen": 1776455377,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3625,
+    "landing": 1
+  }
+]
