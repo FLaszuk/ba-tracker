@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "DSO17MO",
+    "firstSeen": 1776414061,
+    "lastSeen": 1776417650,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.9969,
+    "landing": 1
+  },
+  {
+    "icao24": "3f4e27",
+    "callsign": "GAF621",
+    "firstSeen": 1776410295,
+    "lastSeen": 1776415937,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "ENBL",
+    "flight_hours": 1.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "493282",
+    "callsign": "NJE966B",
+    "firstSeen": 1776412643,
+    "lastSeen": 1776417944,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 1.4725,
+    "landing": 1
+  },
+  {
+    "icao24": "494105",
+    "callsign": "NJE262W",
+    "firstSeen": 1776415025,
+    "lastSeen": 1776416586,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4336,
+    "landing": 1
+  },
+  {
+    "icao24": "494106",
+    "callsign": "NJE730R",
+    "firstSeen": 1776416197,
+    "lastSeen": 1776416203,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LELL",
+    "flight_hours": 0.0017,
+    "landing": 1
+  }
+]
