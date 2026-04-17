@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776375333,
+    "lastSeen": 1776385096,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KFSD",
+    "flight_hours": 2.7119,
+    "landing": 1
+  },
+  {
+    "icao24": "a6e3b2",
+    "callsign": "N543GL",
+    "firstSeen": 1776381225,
+    "lastSeen": 1776383745,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "RJOW",
+    "flight_hours": 0.7,
+    "landing": 1
+  }
+]
