@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a4e4ba",
+    "callsign": "N414TW",
+    "firstSeen": 1776459053,
+    "lastSeen": 1776461195,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "2CO2",
+    "flight_hours": 0.595,
+    "landing": 1
+  },
+  {
+    "icao24": "a57337",
+    "callsign": "N450MH",
+    "firstSeen": 1776461239,
+    "lastSeen": 1776463830,
+    "estDepartureAirport": "KMDT",
+    "estArrivalAirport": "KJFK",
+    "flight_hours": 0.7197,
+    "landing": 1
+  },
+  {
+    "icao24": "a686d5",
+    "callsign": "CTF52",
+    "firstSeen": 1776453178,
+    "lastSeen": 1776462765,
+    "estDepartureAirport": "3CL2",
+    "estArrivalAirport": "96TE",
+    "flight_hours": 2.6631,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1776456061,
+    "lastSeen": 1776461097,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "KO89",
+    "flight_hours": 1.3989,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1776456340,
+    "lastSeen": 1776461070,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 1.3139,
+    "landing": 1
+  }
+]
