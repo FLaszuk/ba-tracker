@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac1f75",
+    "callsign": "N880SR",
+    "firstSeen": 1776535232,
+    "lastSeen": 1776542935,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1397,
+    "landing": 1
+  },
+  {
+    "icao24": "e492d2",
+    "callsign": "PSRBR",
+    "firstSeen": 1776529948,
+    "lastSeen": 1776542326,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDVL",
+    "flight_hours": 3.4383,
+    "landing": 1
+  }
+]
