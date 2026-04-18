@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3770e",
+    "callsign": "N322PL",
+    "firstSeen": 1776528112,
+    "lastSeen": 1776536898,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KLAA",
+    "flight_hours": 2.4406,
+    "landing": 1
+  },
+  {
+    "icao24": "e48aed",
+    "callsign": "PRADB",
+    "firstSeen": 1776517959,
+    "lastSeen": 1776536470,
+    "estDepartureAirport": "SBFZ",
+    "estArrivalAirport": "GCXO",
+    "flight_hours": 5.1419,
+    "landing": 1
+  }
+]

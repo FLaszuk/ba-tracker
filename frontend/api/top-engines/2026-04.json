@@ -45,6 +45,12 @@
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW610F",
+      "total_hours": 22.7,
+      "total_landings": 19
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW535",
       "total_hours": 21.9,
       "total_landings": 27
@@ -54,12 +60,6 @@
       "engine_model": "PW307A",
       "total_hours": 20.9,
       "total_landings": 15
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW610F",
-      "total_hours": 20.2,
-      "total_landings": 18
     }
   ]
 }
