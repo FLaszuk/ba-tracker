@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "008887",
+    "callsign": "ZSDFI",
+    "firstSeen": 1776519018,
+    "lastSeen": 1776526056,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": "FATA",
+    "flight_hours": 1.955,
+    "landing": 1
+  },
+  {
+    "icao24": "aab109",
+    "callsign": "JCY900",
+    "firstSeen": 1776530676,
+    "lastSeen": 1776531589,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.2536,
+    "landing": 1
+  }
+]
