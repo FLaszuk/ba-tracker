@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c07fc",
+    "callsign": "VJH727",
+    "firstSeen": 1776548749,
+    "lastSeen": 1776550456,
+    "estDepartureAirport": "LPPT",
+    "estArrivalAirport": "LPPR",
+    "flight_hours": 0.4742,
+    "landing": 1
+  },
+  {
+    "icao24": "a230d0",
+    "callsign": "N240JJ",
+    "firstSeen": 1776536516,
+    "lastSeen": 1776544853,
+    "estDepartureAirport": "KMKY",
+    "estArrivalAirport": "0IN9",
+    "flight_hours": 2.3158,
+    "landing": 1
+  }
+]
