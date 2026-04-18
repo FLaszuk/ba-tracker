@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "008887",
+    "callsign": "ZSDFI",
+    "firstSeen": 1776519018,
+    "lastSeen": 1776526056,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": "FATA",
+    "flight_hours": 1.955,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d43",
+    "callsign": "PRFRZ",
+    "firstSeen": 1776524505,
+    "lastSeen": 1776524704,
+    "estDepartureAirport": "SDCA",
+    "estArrivalAirport": "SDEJ",
+    "flight_hours": 0.0553,
+    "landing": 1
+  }
+]
