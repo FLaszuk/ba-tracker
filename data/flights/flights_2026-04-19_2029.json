@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a28e0b",
+    "callsign": "N264C",
+    "firstSeen": 1776630131,
+    "lastSeen": 1776631173,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.2894,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "CNS3",
+    "firstSeen": 1776630917,
+    "lastSeen": 1776633688,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KMMH",
+    "flight_hours": 0.7697,
+    "landing": 1
+  }
+]
