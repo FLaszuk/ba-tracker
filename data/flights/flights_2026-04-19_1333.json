@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "008887",
+    "callsign": "ZSDFI",
+    "firstSeen": 1776608725,
+    "lastSeen": 1776609917,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FAGM",
+    "flight_hours": 0.3311,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1776606106,
+    "lastSeen": 1776607272,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3239,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1776602656,
+    "lastSeen": 1776605873,
+    "estDepartureAirport": "EGNT",
+    "estArrivalAirport": "EGWU",
+    "flight_hours": 0.8936,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1776605815,
+    "lastSeen": 1776606998,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3286,
+    "landing": 1
+  }
+]
