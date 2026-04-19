@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE962",
+    "firstSeen": 1776572600,
+    "lastSeen": 1776573841,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.3447,
+    "landing": 1
+  },
+  {
+    "icao24": "a35219",
+    "callsign": "N313BK",
+    "firstSeen": 1776560212,
+    "lastSeen": 1776571403,
+    "estDepartureAirport": "KOXR",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 3.1086,
+    "landing": 1
+  }
+]
