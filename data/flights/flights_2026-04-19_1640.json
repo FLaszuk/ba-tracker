@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0a0f1",
+    "callsign": "N14GD",
+    "firstSeen": 1776610432,
+    "lastSeen": 1776617786,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 2.0428,
+    "landing": 1
+  },
+  {
+    "icao24": "ab09d2",
+    "callsign": "TWY83",
+    "firstSeen": 1776616229,
+    "lastSeen": 1776618394,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6014,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1776615039,
+    "lastSeen": 1776616449,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "SC60",
+    "flight_hours": 0.3917,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "N946QS",
+    "firstSeen": 1776615596,
+    "lastSeen": 1776616495,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 0.2497,
+    "landing": 1
+  }
+]
