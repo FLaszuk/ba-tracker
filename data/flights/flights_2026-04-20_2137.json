@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1cc9a",
+    "callsign": "XEN15",
+    "firstSeen": 1776715227,
+    "lastSeen": 1776720643,
+    "estDepartureAirport": "KAIK",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 1.5044,
+    "landing": 1
+  },
+  {
+    "icao24": "a9ca9d",
+    "callsign": "N73VR",
+    "firstSeen": 1776709264,
+    "lastSeen": 1776721499,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KJFK",
+    "flight_hours": 3.3986,
+    "landing": 1
+  }
+]
