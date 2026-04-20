@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776706437,
+    "lastSeen": 1776710420,
+    "estDepartureAirport": "KIWA",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 1.1064,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1776706690,
+    "lastSeen": 1776711678,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KHYW",
+    "flight_hours": 1.3856,
+    "landing": 1
+  },
+  {
+    "icao24": "a74eb4",
+    "callsign": "N570D",
+    "firstSeen": 1776706446,
+    "lastSeen": 1776710559,
+    "estDepartureAirport": "KMBS",
+    "estArrivalAirport": "CYMX",
+    "flight_hours": 1.1425,
+    "landing": 1
+  },
+  {
+    "icao24": "ac1fe2",
+    "callsign": "N880X",
+    "firstSeen": 1776710847,
+    "lastSeen": 1776713887,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.8444,
+    "landing": 1
+  }
+]
