@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3ce0f7",
+    "callsign": "PVD464P",
+    "firstSeen": 1776679637,
+    "lastSeen": 1776685339,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 1.5839,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU171A",
+    "firstSeen": 1776680876,
+    "lastSeen": 1776684792,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0878,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ef",
+    "callsign": "ICL773",
+    "firstSeen": 1776638284,
+    "lastSeen": 1776686527,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 13.4008,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1776682833,
+    "lastSeen": 1776684803,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.5472,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1776684717,
+    "lastSeen": 1776685498,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2169,
+    "landing": 1
+  }
+]
