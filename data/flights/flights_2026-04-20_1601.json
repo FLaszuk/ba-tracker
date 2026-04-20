@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0938",
+    "callsign": "XBUOC",
+    "firstSeen": 1776696804,
+    "lastSeen": 1776700425,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 1.0058,
+    "landing": 1
+  },
+  {
+    "icao24": "43ea60",
+    "callsign": "MAERO",
+    "firstSeen": 1776696509,
+    "lastSeen": 1776707342,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 3.0092,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1776697381,
+    "lastSeen": 1776701761,
+    "estDepartureAirport": "SDRF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2167,
+    "landing": 1
+  }
+]
