@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "43ea60",
+    "callsign": "MAERO",
+    "firstSeen": 1776696509,
+    "lastSeen": 1776707342,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 3.0092,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776706437,
+    "lastSeen": 1776710420,
+    "estDepartureAirport": "KIWA",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 1.1064,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1776706690,
+    "lastSeen": 1776711678,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KHYW",
+    "flight_hours": 1.3856,
+    "landing": 1
+  },
+  {
+    "icao24": "a17e7d",
+    "callsign": "LN196AH",
+    "firstSeen": 1776703892,
+    "lastSeen": 1776707749,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KMWK",
+    "flight_hours": 1.0714,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c1f0",
+    "callsign": "EJM3",
+    "firstSeen": 1776704511,
+    "lastSeen": 1776707337,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.785,
+    "landing": 1
+  },
+  {
+    "icao24": "a74eb4",
+    "callsign": "N570D",
+    "firstSeen": 1776706446,
+    "lastSeen": 1776710559,
+    "estDepartureAirport": "KMBS",
+    "estArrivalAirport": "CYMX",
+    "flight_hours": 1.1425,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1776704632,
+    "lastSeen": 1776709672,
+    "estDepartureAirport": "KBEH",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.4,
+    "landing": 1
+  }
+]
