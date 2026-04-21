@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "490d01",
+    "callsign": "NJE701K",
+    "firstSeen": 1776758782,
+    "lastSeen": 1776763440,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2939,
+    "landing": 1
+  },
+  {
+    "icao24": "490d04",
+    "callsign": "NJE289R",
+    "firstSeen": 1776759839,
+    "lastSeen": 1776765212,
+    "estDepartureAirport": "EIDW",
+    "estArrivalAirport": "LEBG",
+    "flight_hours": 1.4925,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR4PN",
+    "firstSeen": 1776760327,
+    "lastSeen": 1776764297,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": "LICP",
+    "flight_hours": 1.1028,
+    "landing": 1
+  }
+]
