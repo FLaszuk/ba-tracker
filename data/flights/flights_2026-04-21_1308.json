@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "30047d",
+    "callsign": "SIO618",
+    "firstSeen": 1776774076,
+    "lastSeen": 1776777956,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 1.0778,
+    "landing": 1
+  },
+  {
+    "icao24": "a01ec0",
+    "callsign": "N107AL",
+    "firstSeen": 1776776887,
+    "lastSeen": 1776778110,
+    "estDepartureAirport": "KLNS",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 0.3397,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1776773789,
+    "lastSeen": 1776776442,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.7369,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1776775147,
+    "lastSeen": 1776777374,
+    "estDepartureAirport": "KSGJ",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.6186,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4cf1",
+    "callsign": "N956WM",
+    "firstSeen": 1776771788,
+    "lastSeen": 1776777762,
+    "estDepartureAirport": "KOJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6594,
+    "landing": 1
+  }
+]
