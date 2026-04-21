@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "485171",
+    "callsign": "FYG13P",
+    "firstSeen": 1776790839,
+    "lastSeen": 1776803377,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4828,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f9",
+    "callsign": "VJT809",
+    "firstSeen": 1776798354,
+    "lastSeen": 1776804004,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 1.5694,
+    "landing": 1
+  },
+  {
+    "icao24": "a35374",
+    "callsign": "N313RG",
+    "firstSeen": 1776805345,
+    "lastSeen": 1776809128,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 1.0508,
+    "landing": 1
+  },
+  {
+    "icao24": "a5611c",
+    "callsign": "TWY007",
+    "firstSeen": 1776801104,
+    "lastSeen": 1776803826,
+    "estDepartureAirport": "KDZB",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 0.7561,
+    "landing": 1
+  }
+]
