@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1776750813,
+    "lastSeen": 1776752054,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3447,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8668",
+    "callsign": "N7777U",
+    "firstSeen": 1776751409,
+    "lastSeen": 1776751536,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.0353,
+    "landing": 1
+  }
+]
