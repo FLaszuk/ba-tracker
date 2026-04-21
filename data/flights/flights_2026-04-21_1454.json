@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1776778313,
+    "lastSeen": 1776783619,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "0LS9",
+    "flight_hours": 1.4739,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1776782179,
+    "lastSeen": 1776783340,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3225,
+    "landing": 1
+  }
+]
