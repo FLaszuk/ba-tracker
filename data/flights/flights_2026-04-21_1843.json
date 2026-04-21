@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a5c133",
+    "callsign": "LEX8325",
+    "firstSeen": 1776778093,
+    "lastSeen": 1776797165,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LMML",
+    "flight_hours": 5.2978,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1776797374,
+    "lastSeen": 1776799528,
+    "estDepartureAirport": "KMQS",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.5983,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5afb",
+    "callsign": "N96NB",
+    "firstSeen": 1776795379,
+    "lastSeen": 1776798371,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KK58",
+    "flight_hours": 0.8311,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c8f",
+    "callsign": "PPWMA",
+    "firstSeen": 1776793200,
+    "lastSeen": 1776797921,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 1.3114,
+    "landing": 1
+  }
+]
