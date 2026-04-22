@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d073a",
+    "callsign": "XABLZ",
+    "firstSeen": 1776890777,
+    "lastSeen": 1776895307,
+    "estDepartureAirport": "MMMY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2583,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1776895148,
+    "lastSeen": 1776896707,
+    "estDepartureAirport": "SD62",
+    "estArrivalAirport": "KFSD",
+    "flight_hours": 0.4331,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1776892380,
+    "lastSeen": 1776894623,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SAAJ",
+    "flight_hours": 0.6231,
+    "landing": 1
+  }
+]
