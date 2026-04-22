@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a950b2",
+    "callsign": "N7JP",
+    "firstSeen": 1776862583,
+    "lastSeen": 1776863545,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2672,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1776857078,
+    "lastSeen": 1776863642,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.8233,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1776861602,
+    "lastSeen": 1776862782,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3278,
+    "landing": 1
+  },
+  {
+    "icao24": "e49269",
+    "callsign": "PRVEN",
+    "firstSeen": 1776858445,
+    "lastSeen": 1776861551,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8628,
+    "landing": 1
+  }
+]
