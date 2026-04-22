@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d07a6",
+    "callsign": "XARUA",
+    "firstSeen": 1776864646,
+    "lastSeen": 1776867892,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9017,
+    "landing": 1
+  },
+  {
+    "icao24": "494102",
+    "callsign": "NJE939R",
+    "firstSeen": 1776864332,
+    "lastSeen": 1776866731,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LFNQ",
+    "flight_hours": 0.6664,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR5649",
+    "firstSeen": 1776863974,
+    "lastSeen": 1776867011,
+    "estDepartureAirport": "LIPQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8436,
+    "landing": 1
+  },
+  {
+    "icao24": "800187",
+    "callsign": "VUBSF",
+    "firstSeen": 1776865677,
+    "lastSeen": 1776868363,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7461,
+    "landing": 1
+  },
+  {
+    "icao24": "a28302",
+    "callsign": "N261DC",
+    "firstSeen": 1776868448,
+    "lastSeen": 1776869248,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "1AZ8",
+    "flight_hours": 0.2222,
+    "landing": 1
+  },
+  {
+    "icao24": "a99e92",
+    "callsign": "DCM4241",
+    "firstSeen": 1776865638,
+    "lastSeen": 1776866641,
+    "estDepartureAirport": "KPMP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2786,
+    "landing": 1
+  }
+]
