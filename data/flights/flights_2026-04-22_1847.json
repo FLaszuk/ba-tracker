@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a572e7",
+    "callsign": "PWA371",
+    "firstSeen": 1776862265,
+    "lastSeen": 1776887313,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.9578,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1776870854,
+    "lastSeen": 1776883555,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "K33V",
+    "flight_hours": 3.5281,
+    "landing": 1
+  },
+  {
+    "icao24": "ac45a0",
+    "callsign": "N890DA",
+    "firstSeen": 1776881107,
+    "lastSeen": 1776883352,
+    "estDepartureAirport": "LTBJ",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 0.6236,
+    "landing": 1
+  }
+]
