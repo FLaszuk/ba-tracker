@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1776807506,
+    "lastSeen": 1776816212,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "3MS5",
+    "flight_hours": 2.4183,
+    "landing": 1
+  },
+  {
+    "icao24": "a19040",
+    "callsign": "N20G",
+    "firstSeen": 1776817478,
+    "lastSeen": 1776818706,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.3411,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7154",
+    "callsign": "N900YB",
+    "firstSeen": 1776814261,
+    "lastSeen": 1776820055,
+    "estDepartureAirport": "KLXT",
+    "estArrivalAirport": "KROA",
+    "flight_hours": 1.6094,
+    "landing": 1
+  }
+]
