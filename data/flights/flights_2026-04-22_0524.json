@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "1427dd",
+    "callsign": "TRH9112",
+    "firstSeen": 1776838569,
+    "lastSeen": 1776839649,
+    "estDepartureAirport": "UUEE",
+    "estArrivalAirport": "UUBK",
+    "flight_hours": 0.3,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ1D",
+    "firstSeen": 1776831906,
+    "lastSeen": 1776836266,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2111,
+    "landing": 1
+  },
+  {
+    "icao24": "840142",
+    "callsign": "CKSTR9",
+    "firstSeen": 1776835541,
+    "lastSeen": 1776835982,
+    "estDepartureAirport": "RJCM",
+    "estArrivalAirport": "RJEB",
+    "flight_hours": 0.1225,
+    "landing": 1
+  }
+]
