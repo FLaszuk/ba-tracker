@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "34318a",
+    "callsign": "GES121L",
+    "firstSeen": 1776935317,
+    "lastSeen": 1776936951,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 0.4539,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH78A",
+    "firstSeen": 1776932552,
+    "lastSeen": 1776934895,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 0.6508,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d1",
+    "callsign": "VJT401",
+    "firstSeen": 1776926335,
+    "lastSeen": 1776934913,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3828,
+    "landing": 1
+  },
+  {
+    "icao24": "a1be80",
+    "callsign": "N211PB",
+    "firstSeen": 1776931779,
+    "lastSeen": 1776935206,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9519,
+    "landing": 1
+  }
+]
