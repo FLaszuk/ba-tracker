@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC281",
+    "firstSeen": 1776944764,
+    "lastSeen": 1776955337,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LYBE",
+    "flight_hours": 2.9369,
+    "landing": 1
+  },
+  {
+    "icao24": "a28302",
+    "callsign": "N261DC",
+    "firstSeen": 1776950098,
+    "lastSeen": 1776952556,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "68AZ",
+    "flight_hours": 0.6828,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f3d1",
+    "callsign": "N29HA",
+    "firstSeen": 1776950732,
+    "lastSeen": 1776955411,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.2997,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1776955095,
+    "lastSeen": 1776956086,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "OL04",
+    "flight_hours": 0.2753,
+    "landing": 1
+  }
+]
