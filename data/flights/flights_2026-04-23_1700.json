@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1a116",
+    "callsign": "N204CE",
+    "firstSeen": 1776961930,
+    "lastSeen": 1776964436,
+    "estDepartureAirport": "KSEE",
+    "estArrivalAirport": "KSEE",
+    "flight_hours": 0.6961,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bb47",
+    "callsign": "N34DG",
+    "firstSeen": 1776964362,
+    "lastSeen": 1776966236,
+    "estDepartureAirport": "KRUQ",
+    "estArrivalAirport": "KRVN",
+    "flight_hours": 0.5206,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1776953323,
+    "lastSeen": 1776964375,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 3.07,
+    "landing": 1
+  }
+]
