@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a29d25",
+    "callsign": "FDJ268",
+    "firstSeen": 1776961521,
+    "lastSeen": 1776970305,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.44,
+    "landing": 1
+  },
+  {
+    "icao24": "e49269",
+    "callsign": "PRVEN",
+    "firstSeen": 1776969461,
+    "lastSeen": 1776972056,
+    "estDepartureAirport": "SJTQ",
+    "estArrivalAirport": "SDSB",
+    "flight_hours": 0.7208,
+    "landing": 1
+  }
+]
