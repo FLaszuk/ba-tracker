@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494103",
+    "callsign": "NJE897B",
+    "firstSeen": 1776917754,
+    "lastSeen": 1776929200,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1794,
+    "landing": 1
+  },
+  {
+    "icao24": "49d3ac",
+    "callsign": "BOH711",
+    "firstSeen": 1776927117,
+    "lastSeen": 1776929846,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LEPP",
+    "flight_hours": 0.7581,
+    "landing": 1
+  },
+  {
+    "icao24": "4d211a",
+    "callsign": "VJT915",
+    "firstSeen": 1776920291,
+    "lastSeen": 1776930973,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9672,
+    "landing": 1
+  }
+]
