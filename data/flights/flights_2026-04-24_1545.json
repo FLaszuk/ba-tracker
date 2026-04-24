@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3c564f",
+    "callsign": "VJH632",
+    "firstSeen": 1777037480,
+    "lastSeen": 1777045154,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 2.1317,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d1",
+    "callsign": "VJT401",
+    "firstSeen": 1777043581,
+    "lastSeen": 1777045894,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LIML",
+    "flight_hours": 0.6425,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS1031",
+    "firstSeen": 1777040439,
+    "lastSeen": 1777046376,
+    "estDepartureAirport": "KRSW",
+    "estArrivalAirport": "K1A5",
+    "flight_hours": 1.6492,
+    "landing": 1
+  },
+  {
+    "icao24": "a35373",
+    "callsign": "N313RF",
+    "firstSeen": 1777042910,
+    "lastSeen": 1777046500,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9972,
+    "landing": 1
+  },
+  {
+    "icao24": "a8059f",
+    "callsign": "GLF77",
+    "firstSeen": 1777049318,
+    "lastSeen": 1777050565,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3464,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1777041685,
+    "lastSeen": 1777046159,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.2428,
+    "landing": 1
+  }
+]
