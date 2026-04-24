@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1500",
+    "firstSeen": 1777054996,
+    "lastSeen": 1777058403,
+    "estDepartureAirport": "MMHO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9464,
+    "landing": 1
+  },
+  {
+    "icao24": "0d09b3",
+    "callsign": "ACW1520",
+    "firstSeen": 1777055415,
+    "lastSeen": 1777057295,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5222,
+    "landing": 1
+  },
+  {
+    "icao24": "a110d5",
+    "callsign": "N168QS",
+    "firstSeen": 1777054811,
+    "lastSeen": 1777055672,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "MYBO",
+    "flight_hours": 0.2392,
+    "landing": 1
+  },
+  {
+    "icao24": "a972dd",
+    "callsign": "N708GA",
+    "firstSeen": 1777049326,
+    "lastSeen": 1777057232,
+    "estDepartureAirport": "14MI",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1961,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4d1b",
+    "callsign": "N827Z",
+    "firstSeen": 1777046629,
+    "lastSeen": 1777060247,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KMDT",
+    "flight_hours": 3.7828,
+    "landing": 1
+  },
+  {
+    "icao24": "ac78ce",
+    "callsign": "N902YP",
+    "firstSeen": 1777056626,
+    "lastSeen": 1777058411,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1777053175,
+    "lastSeen": 1777055682,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SNAF",
+    "flight_hours": 0.6964,
+    "landing": 1
+  }
+]
