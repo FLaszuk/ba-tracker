@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0fa8b",
+    "callsign": "EJA162",
+    "firstSeen": 1777047757,
+    "lastSeen": 1777059197,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1778,
+    "landing": 1
+  },
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1777061647,
+    "lastSeen": 1777063323,
+    "estDepartureAirport": "KBHM",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.4656,
+    "landing": 1
+  },
+  {
+    "icao24": "a7a512",
+    "callsign": "N592CL",
+    "firstSeen": 1777052331,
+    "lastSeen": 1777060130,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1664,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4d1b",
+    "callsign": "N827Z",
+    "firstSeen": 1777046629,
+    "lastSeen": 1777060247,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KMDT",
+    "flight_hours": 3.7828,
+    "landing": 1
+  }
+]
