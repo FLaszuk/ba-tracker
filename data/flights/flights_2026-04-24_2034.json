@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d09b3",
+    "callsign": "ACW1521",
+    "firstSeen": 1777061777,
+    "lastSeen": 1777063727,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5417,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214c",
+    "callsign": "ARU910",
+    "firstSeen": 1777056643,
+    "lastSeen": 1777062415,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6033,
+    "landing": 1
+  },
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1777061647,
+    "lastSeen": 1777063323,
+    "estDepartureAirport": "KBHM",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.4656,
+    "landing": 1
+  },
+  {
+    "icao24": "a3230f",
+    "callsign": "N301AF",
+    "firstSeen": 1777058925,
+    "lastSeen": 1777063275,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2083,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1777067042,
+    "lastSeen": 1777067106,
+    "estDepartureAirport": "KMHR",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1777066457,
+    "lastSeen": 1777067420,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "OL04",
+    "flight_hours": 0.2675,
+    "landing": 1
+  },
+  {
+    "icao24": "aaba44",
+    "callsign": "N790Z",
+    "firstSeen": 1777062210,
+    "lastSeen": 1777064463,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KVIS",
+    "flight_hours": 0.6258,
+    "landing": 1
+  }
+]
