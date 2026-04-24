@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c564f",
+    "callsign": "VJH632",
+    "firstSeen": 1777037480,
+    "lastSeen": 1777045154,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 2.1317,
+    "landing": 1
+  },
+  {
+    "icao24": "4b8693",
+    "callsign": "TCATS",
+    "firstSeen": 1777034087,
+    "lastSeen": 1777041757,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 2.1306,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fa8b",
+    "callsign": "EJA162",
+    "firstSeen": 1777038295,
+    "lastSeen": 1777043141,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.3461,
+    "landing": 1
+  },
+  {
+    "icao24": "a904cd",
+    "callsign": "N680SF",
+    "firstSeen": 1777041685,
+    "lastSeen": 1777046159,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.2428,
+    "landing": 1
+  }
+]
