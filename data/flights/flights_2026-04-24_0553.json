@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WMT836",
+    "firstSeen": 1777003253,
+    "lastSeen": 1777011545,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3033,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1777012131,
+    "lastSeen": 1777013073,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YCTM",
+    "flight_hours": 0.2617,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3077",
+    "callsign": "N885AQ",
+    "firstSeen": 1776973085,
+    "lastSeen": 1777011871,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "GMME",
+    "flight_hours": 10.7739,
+    "landing": 1
+  }
+]
