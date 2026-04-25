@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "30061c",
+    "callsign": "VND003D",
+    "firstSeen": 1777100300,
+    "lastSeen": 1777103730,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9528,
+    "landing": 1
+  },
+  {
+    "icao24": "493288",
+    "callsign": "NJE922V",
+    "firstSeen": 1777098411,
+    "lastSeen": 1777103898,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LATI",
+    "flight_hours": 1.5242,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cb",
+    "callsign": "VJT569",
+    "firstSeen": 1777106649,
+    "lastSeen": 1777109455,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "EGHQ",
+    "flight_hours": 0.7794,
+    "landing": 1
+  }
+]
