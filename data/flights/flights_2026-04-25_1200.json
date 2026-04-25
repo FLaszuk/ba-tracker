@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d029f",
+    "callsign": "JFA16L",
+    "firstSeen": 1777115081,
+    "lastSeen": 1777117867,
+    "estDepartureAirport": "LSGK",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.7739,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20b7",
+    "callsign": "FJO647",
+    "firstSeen": 1777118054,
+    "lastSeen": 1777119949,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIML",
+    "flight_hours": 0.5264,
+    "landing": 1
+  },
+  {
+    "icao24": "780b27",
+    "callsign": "B8105",
+    "firstSeen": 1777086238,
+    "lastSeen": 1777118026,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 8.83,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1777121052,
+    "lastSeen": 1777122157,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3069,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1777117479,
+    "lastSeen": 1777119941,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6839,
+    "landing": 1
+  }
+]
