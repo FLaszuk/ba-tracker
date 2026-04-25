@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1777091422,
+    "lastSeen": 1777092597,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3264,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a533",
+    "callsign": "XEN27",
+    "firstSeen": 1777088402,
+    "lastSeen": 1777090847,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.6792,
+    "landing": 1
+  }
+]
