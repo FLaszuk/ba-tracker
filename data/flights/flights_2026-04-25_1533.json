@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d21b5",
+    "callsign": "VCJ50M",
+    "firstSeen": 1777126819,
+    "lastSeen": 1777132732,
+    "estDepartureAirport": "LCPH",
+    "estArrivalAirport": "LBHT",
+    "flight_hours": 1.6425,
+    "landing": 1
+  },
+  {
+    "icao24": "a03427",
+    "callsign": "RNI112",
+    "firstSeen": 1777118664,
+    "lastSeen": 1777131969,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": null,
+    "flight_hours": 3.6958,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1777129855,
+    "lastSeen": 1777133564,
+    "estDepartureAirport": "KAUW",
+    "estArrivalAirport": "II33",
+    "flight_hours": 1.0303,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1777125249,
+    "lastSeen": 1777130756,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5297,
+    "landing": 1
+  }
+]

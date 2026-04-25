@@ -10,14 +10,14 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 149.7,
-      "total_landings": 91
+      "total_hours": 153.4,
+      "total_landings": 92
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
-      "total_hours": 119.8,
-      "total_landings": 67
+      "total_hours": 121.4,
+      "total_landings": 68
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -40,19 +40,19 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 90.7,
+      "total_hours": 92.2,
+      "total_landings": 43
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 48.4,
       "total_landings": 42
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 37.5,
-      "total_landings": 41
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 47.4,
       "total_landings": 41
     },
     {
