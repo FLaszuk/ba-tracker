@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 202.4,
-      "total_landings": 101
+      "total_hours": 203.0,
+      "total_landings": 102
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -22,8 +22,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 84.4,
-      "total_landings": 60
+      "total_hours": 85.5,
+      "total_landings": 61
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -44,16 +44,16 @@
       "total_landings": 43
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 37.9,
+      "total_landings": 42
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 48.4,
       "total_landings": 42
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 37.5,
-      "total_landings": 41
     },
     {
       "aircraft_manufacturer": "Eclipse Aerospace",

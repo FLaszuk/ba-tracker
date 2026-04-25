@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW2510",
+    "firstSeen": 1777137634,
+    "lastSeen": 1777138935,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3614,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ef31",
+    "callsign": "TWY22",
+    "firstSeen": 1777140483,
+    "lastSeen": 1777142519,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.5656,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1777135665,
+    "lastSeen": 1777139843,
+    "estDepartureAirport": "KRSW",
+    "estArrivalAirport": "SC28",
+    "flight_hours": 1.1606,
+    "landing": 1
+  },
+  {
+    "icao24": "a5c289",
+    "callsign": "EJM470",
+    "firstSeen": 1777123131,
+    "lastSeen": 1777139798,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 4.6297,
+    "landing": 1
+  }
+]
