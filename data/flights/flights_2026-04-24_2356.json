@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2c7f3",
+    "callsign": "LN279AH",
+    "firstSeen": 1777072627,
+    "lastSeen": 1777076025,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.9439,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1777073272,
+    "lastSeen": 1777076084,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7811,
+    "landing": 1
+  }
+]
