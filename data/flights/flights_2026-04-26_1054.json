@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT4HK",
+    "firstSeen": 1777196068,
+    "lastSeen": 1777201819,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.5975,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f808",
+    "callsign": "LXJ484",
+    "firstSeen": 1777187878,
+    "lastSeen": 1777201875,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8881,
+    "landing": 1
+  }
+]
