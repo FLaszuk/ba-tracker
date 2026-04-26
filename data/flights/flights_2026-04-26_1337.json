@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "491d82",
+    "callsign": "NJE171L",
+    "firstSeen": 1777201209,
+    "lastSeen": 1777211264,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7931,
+    "landing": 1
+  },
+  {
+    "icao24": "49328b",
+    "callsign": "NJU486W",
+    "firstSeen": 1777204232,
+    "lastSeen": 1777210198,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.6572,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2131",
+    "callsign": "VJT957",
+    "firstSeen": 1777184311,
+    "lastSeen": 1777212094,
+    "estDepartureAirport": "ESSA",
+    "estArrivalAirport": null,
+    "flight_hours": 7.7175,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1777210431,
+    "lastSeen": 1777211401,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "KDLC",
+    "flight_hours": 0.2694,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1777209728,
+    "lastSeen": 1777210483,
+    "estDepartureAirport": "KLEB",
+    "estArrivalAirport": "KHIE",
+    "flight_hours": 0.2097,
+    "landing": 1
+  }
+]
