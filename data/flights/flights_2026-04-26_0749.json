@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT3ZD",
+    "firstSeen": 1777182234,
+    "lastSeen": 1777191404,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LW75",
+    "flight_hours": 2.5472,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT9984",
+    "firstSeen": 1777186026,
+    "lastSeen": 1777190956,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.3694,
+    "landing": 1
+  },
+  {
+    "icao24": "800194",
+    "callsign": "VTCLA",
+    "firstSeen": 1777187425,
+    "lastSeen": 1777189300,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5208,
+    "landing": 1
+  }
+]
