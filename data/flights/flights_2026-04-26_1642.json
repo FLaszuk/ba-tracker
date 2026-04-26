@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4403ec",
+    "callsign": "OEGRB",
+    "firstSeen": 1777222048,
+    "lastSeen": 1777225938,
+    "estDepartureAirport": "LEBB",
+    "estArrivalAirport": "LFLL",
+    "flight_hours": 1.0806,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1777218177,
+    "lastSeen": 1777223546,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KATL",
+    "flight_hours": 1.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "a63b6e",
+    "callsign": "N500RG",
+    "firstSeen": 1777224172,
+    "lastSeen": 1777227436,
+    "estDepartureAirport": "80TX",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.9067,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1777220755,
+    "lastSeen": 1777224557,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "ID56",
+    "flight_hours": 1.0561,
+    "landing": 1
+  }
+]
