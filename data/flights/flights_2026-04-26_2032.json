@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d09df",
+    "callsign": "XAGGS",
+    "firstSeen": 1777234072,
+    "lastSeen": 1777235046,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.2706,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f8",
+    "callsign": "VJT895",
+    "firstSeen": 1777220610,
+    "lastSeen": 1777236859,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "CYHU",
+    "flight_hours": 4.5136,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e956",
+    "callsign": "EJA158",
+    "firstSeen": 1777233942,
+    "lastSeen": 1777235727,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "CL01",
+    "flight_hours": 0.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "a258fe",
+    "callsign": "N250RJ",
+    "firstSeen": 1777230578,
+    "lastSeen": 1777236243,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "K4S3",
+    "flight_hours": 1.5736,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1777229451,
+    "lastSeen": 1777235713,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KE16",
+    "flight_hours": 1.7394,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1777210891,
+    "lastSeen": 1777236845,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 7.2094,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3fb0",
+    "callsign": "N76FD",
+    "firstSeen": 1777231089,
+    "lastSeen": 1777238900,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 2.1697,
+    "landing": 1
+  }
+]
