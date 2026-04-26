@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d09e3",
+    "callsign": "ACW1540",
+    "firstSeen": 1777243295,
+    "lastSeen": 1777244075,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2167,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214c",
+    "callsign": "ARU900",
+    "firstSeen": 1777234089,
+    "lastSeen": 1777239933,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6233,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1777233009,
+    "lastSeen": 1777241108,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "K3E0",
+    "flight_hours": 2.2497,
+    "landing": 1
+  },
+  {
+    "icao24": "a801d7",
+    "callsign": "N615FJ",
+    "firstSeen": 1777238058,
+    "lastSeen": 1777244115,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.6825,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3fb0",
+    "callsign": "N76FD",
+    "firstSeen": 1777231089,
+    "lastSeen": 1777238900,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 2.1697,
+    "landing": 1
+  },
+  {
+    "icao24": "aae67b",
+    "callsign": "TWY100",
+    "firstSeen": 1777236685,
+    "lastSeen": 1777240325,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0111,
+    "landing": 1
+  }
+]
