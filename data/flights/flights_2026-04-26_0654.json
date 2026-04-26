@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1777183601,
+    "lastSeen": 1777187811,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.1694,
+    "landing": 1
+  },
+  {
+    "icao24": "800194",
+    "callsign": "VTCLA",
+    "firstSeen": 1777187425,
+    "lastSeen": 1777189300,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5208,
+    "landing": 1
+  }
+]
