@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d09df",
+    "callsign": "XAGGS",
+    "firstSeen": 1777234072,
+    "lastSeen": 1777235046,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.2706,
+    "landing": 1
+  },
+  {
+    "icao24": "a0007f",
+    "callsign": "N1F",
+    "firstSeen": 1777232008,
+    "lastSeen": 1777233860,
+    "estDepartureAirport": "MMTN",
+    "estArrivalAirport": "80TX",
+    "flight_hours": 0.5144,
+    "landing": 1
+  },
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1777231579,
+    "lastSeen": 1777232614,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2875,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e956",
+    "callsign": "EJA158",
+    "firstSeen": 1777233942,
+    "lastSeen": 1777235727,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "CL01",
+    "flight_hours": 0.4958,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1777227677,
+    "lastSeen": 1777231391,
+    "estDepartureAirport": "KATL",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 1.0317,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1777229451,
+    "lastSeen": 1777235713,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KE16",
+    "flight_hours": 1.7394,
+    "landing": 1
+  }
+]
