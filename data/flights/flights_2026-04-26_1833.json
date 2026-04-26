@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d09b3",
+    "callsign": "ACW1520",
+    "firstSeen": 1777227120,
+    "lastSeen": 1777228698,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4383,
+    "landing": 1
+  },
+  {
+    "icao24": "a27a5c",
+    "callsign": "EJA259",
+    "firstSeen": 1777221716,
+    "lastSeen": 1777228497,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.8836,
+    "landing": 1
+  },
+  {
+    "icao24": "a59de5",
+    "callsign": "LXJ461",
+    "firstSeen": 1777219549,
+    "lastSeen": 1777228923,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 2.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "ac803c",
+    "callsign": "N904YP",
+    "firstSeen": 1777227275,
+    "lastSeen": 1777229413,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.5939,
+    "landing": 1
+  }
+]
