@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a4e6cc",
+    "callsign": "TWY41",
+    "firstSeen": 1777214350,
+    "lastSeen": 1777215703,
+    "estDepartureAirport": "KSMF",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.3758,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dffe",
+    "callsign": "N542GP",
+    "firstSeen": 1777214392,
+    "lastSeen": 1777215352,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.2667,
+    "landing": 1
+  },
+  {
+    "icao24": "a7126b",
+    "callsign": "N555EJ",
+    "firstSeen": 1777211488,
+    "lastSeen": 1777214057,
+    "estDepartureAirport": "KOWD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7136,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4c9e",
+    "callsign": "N827U",
+    "firstSeen": 1777209685,
+    "lastSeen": 1777218689,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 2.5011,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1777212544,
+    "lastSeen": 1777218953,
+    "estDepartureAirport": "KSEP",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.7803,
+    "landing": 1
+  }
+]
