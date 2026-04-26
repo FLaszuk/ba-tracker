@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP433",
+    "firstSeen": 1777206896,
+    "lastSeen": 1777209400,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 0.6956,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1777207196,
+    "lastSeen": 1777208322,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3128,
+    "landing": 1
+  }
+]
