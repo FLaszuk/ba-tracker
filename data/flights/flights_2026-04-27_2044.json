@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d214c",
+    "callsign": "ARU906",
+    "firstSeen": 1777316692,
+    "lastSeen": 1777322535,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6231,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1777312285,
+    "lastSeen": 1777324938,
+    "estDepartureAirport": "KRME",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 3.5147,
+    "landing": 1
+  },
+  {
+    "icao24": "a4eb4e",
+    "callsign": "N416KC",
+    "firstSeen": 1777307320,
+    "lastSeen": 1777323888,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.6022,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7fb7",
+    "callsign": "N904TF",
+    "firstSeen": 1777319899,
+    "lastSeen": 1777324201,
+    "estDepartureAirport": "KPSP",
+    "estArrivalAirport": "30ID",
+    "flight_hours": 1.195,
+    "landing": 1
+  }
+]
