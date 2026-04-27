@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1777304810,
+    "lastSeen": 1777310550,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.5944,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bbfa",
+    "callsign": "N404F",
+    "firstSeen": 1777305055,
+    "lastSeen": 1777313047,
+    "estDepartureAirport": "KDET",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 2.22,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1777305871,
+    "lastSeen": 1777309797,
+    "estDepartureAirport": "KEUG",
+    "estArrivalAirport": "37CN",
+    "flight_hours": 1.0906,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1777307033,
+    "lastSeen": 1777309300,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBTA",
+    "flight_hours": 0.6297,
+    "landing": 1
+  }
+]
