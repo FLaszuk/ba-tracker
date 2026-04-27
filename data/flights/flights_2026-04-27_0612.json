@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU14TE",
+    "firstSeen": 1777271239,
+    "lastSeen": 1777273127,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": "LIRI",
+    "flight_hours": 0.5244,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0297",
+    "callsign": "LXA32B",
+    "firstSeen": 1777262220,
+    "lastSeen": 1777269788,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 2.1022,
+    "landing": 1
+  }
+]
