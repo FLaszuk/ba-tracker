@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a21b34",
+    "callsign": "N235BH",
+    "firstSeen": 1777310518,
+    "lastSeen": 1777316979,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 1.7947,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a7c7",
+    "callsign": "N528MP",
+    "firstSeen": 1777319942,
+    "lastSeen": 1777320908,
+    "estDepartureAirport": "PHSF",
+    "estArrivalAirport": "PHKO",
+    "flight_hours": 0.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1777314082,
+    "lastSeen": 1777316878,
+    "estDepartureAirport": "CL24",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7767,
+    "landing": 1
+  }
+]
