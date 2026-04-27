@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1777312285,
+    "lastSeen": 1777324938,
+    "estDepartureAirport": "KRME",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 3.5147,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a7c7",
+    "callsign": "N528MP",
+    "firstSeen": 1777319942,
+    "lastSeen": 1777320908,
+    "estDepartureAirport": "PHSF",
+    "estArrivalAirport": "PHKO",
+    "flight_hours": 0.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1777319370,
+    "lastSeen": 1777320555,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3292,
+    "landing": 1
+  }
+]
