@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0014e",
+    "callsign": "N1PG",
+    "firstSeen": 1777290811,
+    "lastSeen": 1777295301,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KF89",
+    "flight_hours": 1.2472,
+    "landing": 1
+  },
+  {
+    "icao24": "a82d60",
+    "callsign": "N626JS",
+    "firstSeen": 1777294077,
+    "lastSeen": 1777295562,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 0.4125,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1777296698,
+    "lastSeen": 1777298445,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4853,
+    "landing": 1
+  }
+]
