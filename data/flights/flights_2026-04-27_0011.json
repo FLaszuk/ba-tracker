@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1777233490,
+    "lastSeen": 1777248817,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "PAKT",
+    "flight_hours": 4.2575,
+    "landing": 1
+  },
+  {
+    "icao24": "c05e09",
+    "callsign": "CGJPW",
+    "firstSeen": 1777249343,
+    "lastSeen": 1777250343,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 0.2778,
+    "landing": 1
+  }
+]
