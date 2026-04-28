@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 224.1,
-      "total_landings": 112
+      "total_hours": 232.4,
+      "total_landings": 114
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -52,13 +52,13 @@
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 52.9,
-      "total_landings": 44
+      "total_hours": 53.7,
+      "total_landings": 45
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 60.6,
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 30.6,
       "total_landings": 28
     }
   ]

@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20d8",
+    "callsign": "VJT836",
+    "firstSeen": 1777311281,
+    "lastSeen": 1777335709,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": null,
+    "flight_hours": 6.7856,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT3471",
+    "firstSeen": 1777337580,
+    "lastSeen": 1777338705,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3125,
+    "landing": 1
+  },
+  {
+    "icao24": "a058fa",
+    "callsign": "N121SA",
+    "firstSeen": 1777334789,
+    "lastSeen": 1777340488,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.5831,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1777336687,
+    "lastSeen": 1777339505,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7828,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e4ba",
+    "callsign": "N414TW",
+    "firstSeen": 1777333795,
+    "lastSeen": 1777336233,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.6772,
+    "landing": 1
+  }
+]
