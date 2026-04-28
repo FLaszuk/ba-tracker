@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a034cb",
+    "callsign": "N112MY",
+    "firstSeen": 1777399554,
+    "lastSeen": 1777405803,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7358,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1777403307,
+    "lastSeen": 1777406207,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.8056,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1777394536,
+    "lastSeen": 1777404307,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORH",
+    "flight_hours": 2.7142,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1777396883,
+    "lastSeen": 1777403970,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.9686,
+    "landing": 1
+  }
+]
