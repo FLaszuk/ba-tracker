@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1777353253,
+    "lastSeen": 1777356369,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.8656,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1777357605,
+    "lastSeen": 1777360821,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.8933,
+    "landing": 1
+  }
+]
