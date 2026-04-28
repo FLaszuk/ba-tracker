@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0838",
+    "callsign": "XAABD",
+    "firstSeen": 1777396770,
+    "lastSeen": 1777397834,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2956,
+    "landing": 1
+  },
+  {
+    "icao24": "a7b13f",
+    "callsign": "N595P",
+    "firstSeen": 1777392651,
+    "lastSeen": 1777397971,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.4778,
+    "landing": 1
+  },
+  {
+    "icao24": "adc563",
+    "callsign": "N987CM",
+    "firstSeen": 1777390286,
+    "lastSeen": 1777400448,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "1ID9",
+    "flight_hours": 2.8228,
+    "landing": 1
+  }
+]
