@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3ce8e8",
+    "callsign": "IFA1139",
+    "firstSeen": 1777364149,
+    "lastSeen": 1777372663,
+    "estDepartureAirport": "EDDN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.365,
+    "landing": 1
+  },
+  {
+    "icao24": "440591",
+    "callsign": "GAC701J",
+    "firstSeen": 1777370283,
+    "lastSeen": 1777372655,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": "EDQD",
+    "flight_hours": 0.6589,
+    "landing": 1
+  },
+  {
+    "icao24": "4b9c30",
+    "callsign": "TRK5",
+    "firstSeen": 1777371156,
+    "lastSeen": 1777375788,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 1.2867,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ec",
+    "callsign": "VJT850",
+    "firstSeen": 1777359203,
+    "lastSeen": 1777374627,
+    "estDepartureAirport": "LTFM",
+    "estArrivalAirport": "LPFR",
+    "flight_hours": 4.2844,
+    "landing": 1
+  }
+]
