@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cc9f3",
+    "callsign": "DCDTZ",
+    "firstSeen": 1777384264,
+    "lastSeen": 1777387195,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.8142,
+    "landing": 1
+  },
+  {
+    "icao24": "a01ec0",
+    "callsign": "N107AL",
+    "firstSeen": 1777382823,
+    "lastSeen": 1777384860,
+    "estDepartureAirport": "KLNS",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 0.5658,
+    "landing": 1
+  },
+  {
+    "icao24": "aa69ee",
+    "callsign": "N770KF",
+    "firstSeen": 1777382847,
+    "lastSeen": 1777386089,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KPUB",
+    "flight_hours": 0.9006,
+    "landing": 1
+  }
+]
