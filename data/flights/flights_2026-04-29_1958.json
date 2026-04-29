@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d21cc",
+    "callsign": "GSM650",
+    "firstSeen": 1777470161,
+    "lastSeen": 1777495538,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": null,
+    "flight_hours": 7.0492,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1777494021,
+    "lastSeen": 1777495928,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 0.5297,
+    "landing": 1
+  }
+]
