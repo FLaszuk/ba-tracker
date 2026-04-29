@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440834",
+    "callsign": "GCK18",
+    "firstSeen": 1777466668,
+    "lastSeen": 1777473755,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9686,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d1",
+    "callsign": "VJT401",
+    "firstSeen": 1777462049,
+    "lastSeen": 1777467467,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIML",
+    "flight_hours": 1.505,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fe2",
+    "callsign": "N900HG",
+    "firstSeen": 1777461643,
+    "lastSeen": 1777468658,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGZJ",
+    "flight_hours": 1.9486,
+    "landing": 1
+  },
+  {
+    "icao24": "adc995",
+    "callsign": "N988HK",
+    "firstSeen": 1777470921,
+    "lastSeen": 1777471370,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 0.1247,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1777464723,
+    "lastSeen": 1777467900,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SJEH",
+    "flight_hours": 0.8825,
+    "landing": 1
+  }
+]
