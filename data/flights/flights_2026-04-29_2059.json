@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20c8",
+    "callsign": "VJT598",
+    "firstSeen": 1777475787,
+    "lastSeen": 1777496536,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": "OMAL",
+    "flight_hours": 5.7636,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f5d0",
+    "callsign": "N290DL",
+    "firstSeen": 1777483063,
+    "lastSeen": 1777496773,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 3.8083,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1777494021,
+    "lastSeen": 1777495928,
+    "estDepartureAirport": "KGYR",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 0.5297,
+    "landing": 1
+  }
+]
