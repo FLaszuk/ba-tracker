@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "343183",
+    "callsign": "INI233H",
+    "firstSeen": 1777455159,
+    "lastSeen": 1777457291,
+    "estDepartureAirport": "LEZL",
+    "estArrivalAirport": "LETC",
+    "flight_hours": 0.5922,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d8",
+    "callsign": "VJT278",
+    "firstSeen": 1777452182,
+    "lastSeen": 1777457066,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 1.3567,
+    "landing": 1
+  },
+  {
+    "icao24": "780b2a",
+    "callsign": "B8271",
+    "firstSeen": 1777448388,
+    "lastSeen": 1777457889,
+    "estDepartureAirport": "ZBAA",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 2.6392,
+    "landing": 1
+  }
+]
