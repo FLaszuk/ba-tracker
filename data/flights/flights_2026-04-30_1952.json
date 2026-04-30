@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d04bb",
+    "callsign": "XADST",
+    "firstSeen": 1777578367,
+    "lastSeen": 1777579661,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3594,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf106",
+    "callsign": "UNI135",
+    "firstSeen": 1777574003,
+    "lastSeen": 1777579122,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.4219,
+    "landing": 1
+  },
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1777581701,
+    "lastSeen": 1777584359,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7383,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1777577582,
+    "lastSeen": 1777582533,
+    "estDepartureAirport": "KVPZ",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.3753,
+    "landing": 1
+  },
+  {
+    "icao24": "a8bc3a",
+    "callsign": "LXJ662",
+    "firstSeen": 1777578280,
+    "lastSeen": 1777579672,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3867,
+    "landing": 1
+  }
+]
