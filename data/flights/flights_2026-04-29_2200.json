@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0cf55",
+    "callsign": "EJA151",
+    "firstSeen": 1777500098,
+    "lastSeen": 1777500765,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KBMT",
+    "flight_hours": 0.1853,
+    "landing": 1
+  },
+  {
+    "icao24": "a1085d",
+    "callsign": "N166EA",
+    "firstSeen": 1777498799,
+    "lastSeen": 1777502290,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KSAW",
+    "flight_hours": 0.9697,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c982",
+    "callsign": "N214MS",
+    "firstSeen": 1777499890,
+    "lastSeen": 1777501850,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "1TN2",
+    "flight_hours": 0.5444,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a81",
+    "callsign": "PRNJR",
+    "firstSeen": 1777500241,
+    "lastSeen": 1777500849,
+    "estDepartureAirport": "SDFH",
+    "estArrivalAirport": "SDJZ",
+    "flight_hours": 0.1689,
+    "landing": 1
+  }
+]
