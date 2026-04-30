@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ4295",
+    "firstSeen": 1777570054,
+    "lastSeen": 1777574679,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.2847,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1777572559,
+    "lastSeen": 1777573822,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "0IL9",
+    "flight_hours": 0.3508,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1777569547,
+    "lastSeen": 1777571699,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.5978,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1777568759,
+    "lastSeen": 1777569622,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2397,
+    "landing": 1
+  },
+  {
+    "icao24": "e492fa",
+    "callsign": "PRROI",
+    "firstSeen": 1777570795,
+    "lastSeen": 1777570795,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.0,
+    "landing": 1
+  }
+]
