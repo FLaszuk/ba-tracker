@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d09de",
+    "callsign": "XAFOF",
+    "firstSeen": 1777584478,
+    "lastSeen": 1777585727,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3469,
+    "landing": 1
+  },
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1777581701,
+    "lastSeen": 1777584359,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7383,
+    "landing": 1
+  },
+  {
+    "icao24": "a00382",
+    "callsign": "N10MV",
+    "firstSeen": 1777584546,
+    "lastSeen": 1777587912,
+    "estDepartureAirport": "KBLI",
+    "estArrivalAirport": "KCLM",
+    "flight_hours": 0.935,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1777577582,
+    "lastSeen": 1777582533,
+    "estDepartureAirport": "KVPZ",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.3753,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1777580145,
+    "lastSeen": 1777584785,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.2889,
+    "landing": 1
+  },
+  {
+    "icao24": "e070cb",
+    "callsign": "LVGCK",
+    "firstSeen": 1777580816,
+    "lastSeen": 1777582040,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.34,
+    "landing": 1
+  },
+  {
+    "icao24": "e48fd3",
+    "callsign": "00000000",
+    "firstSeen": 1777580304,
+    "lastSeen": 1777582613,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDNH",
+    "flight_hours": 0.6414,
+    "landing": 1
+  }
+]
