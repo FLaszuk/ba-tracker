@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a18d54",
+    "callsign": "N2AC",
+    "firstSeen": 1777558575,
+    "lastSeen": 1777576428,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 4.9592,
+    "landing": 1
+  },
+  {
+    "icao24": "a22f79",
+    "callsign": "NUS24",
+    "firstSeen": 1777572424,
+    "lastSeen": 1777576245,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KCQM",
+    "flight_hours": 1.0614,
+    "landing": 1
+  },
+  {
+    "icao24": "a63f2e",
+    "callsign": "EJM511",
+    "firstSeen": 1777565332,
+    "lastSeen": 1777577151,
+    "estDepartureAirport": "KAKH",
+    "estArrivalAirport": null,
+    "flight_hours": 3.2831,
+    "landing": 1
+  },
+  {
+    "icao24": "a70100",
+    "callsign": "N550SE",
+    "firstSeen": 1777574118,
+    "lastSeen": 1777575074,
+    "estDepartureAirport": "KMYF",
+    "estArrivalAirport": "58CL",
+    "flight_hours": 0.2656,
+    "landing": 1
+  },
+  {
+    "icao24": "acaaf5",
+    "callsign": "N915TP",
+    "firstSeen": 1777564961,
+    "lastSeen": 1777575655,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 2.9706,
+    "landing": 1
+  }
+]
