@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "493033",
+    "callsign": "NJE261G",
+    "firstSeen": 1777548708,
+    "lastSeen": 1777550709,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5558,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1777551137,
+    "lastSeen": 1777551924,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2186,
+    "landing": 1
+  }
+]
