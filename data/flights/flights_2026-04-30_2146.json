@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d09de",
+    "callsign": "XAFOF",
+    "firstSeen": 1777584478,
+    "lastSeen": 1777585727,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3469,
+    "landing": 1
+  },
+  {
+    "icao24": "a00382",
+    "callsign": "N10MV",
+    "firstSeen": 1777584546,
+    "lastSeen": 1777587912,
+    "estDepartureAirport": "KBLI",
+    "estArrivalAirport": "KCLM",
+    "flight_hours": 0.935,
+    "landing": 1
+  },
+  {
+    "icao24": "a0cb9e",
+    "callsign": "EJA150",
+    "firstSeen": 1777578479,
+    "lastSeen": 1777586910,
+    "estDepartureAirport": "KAGS",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.3419,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1777579621,
+    "lastSeen": 1777587129,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 2.0856,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bde1",
+    "callsign": "LXJ340",
+    "firstSeen": 1777581875,
+    "lastSeen": 1777588101,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "II49",
+    "flight_hours": 1.7294,
+    "landing": 1
+  },
+  {
+    "icao24": "a954c8",
+    "callsign": "N700CH",
+    "firstSeen": 1777585178,
+    "lastSeen": 1777589386,
+    "estDepartureAirport": "KLAL",
+    "estArrivalAirport": "KATL",
+    "flight_hours": 1.1689,
+    "landing": 1
+  }
+]
