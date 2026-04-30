@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "49d387",
+    "callsign": "AAN131",
+    "firstSeen": 1777556575,
+    "lastSeen": 1777559593,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LESO",
+    "flight_hours": 0.8383,
+    "landing": 1
+  },
+  {
+    "icao24": "a03059",
+    "callsign": "N111EL",
+    "firstSeen": 1777551852,
+    "lastSeen": 1777558043,
+    "estDepartureAirport": "KESN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7197,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1777556470,
+    "lastSeen": 1777559026,
+    "estDepartureAirport": "KCHA",
+    "estArrivalAirport": "K38J",
+    "flight_hours": 0.71,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1777555665,
+    "lastSeen": 1777557853,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDSB",
+    "flight_hours": 0.6078,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1777558120,
+    "lastSeen": 1777560957,
+    "estDepartureAirport": "SWMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7881,
+    "landing": 1
+  }
+]
