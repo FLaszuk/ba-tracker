@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE962",
+    "firstSeen": 1777512773,
+    "lastSeen": 1777513966,
+    "estDepartureAirport": "YWOL",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3314,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c422",
+    "callsign": "N406NL",
+    "firstSeen": 1777505376,
+    "lastSeen": 1777514905,
+    "estDepartureAirport": "KSLE",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 2.6469,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1777510965,
+    "lastSeen": 1777513665,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.75,
+    "landing": 1
+  }
+]
