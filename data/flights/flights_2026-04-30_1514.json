@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1777561025,
+    "lastSeen": 1777564236,
+    "estDepartureAirport": "EDLV",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.8919,
+    "landing": 1
+  },
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC281",
+    "firstSeen": 1777558243,
+    "lastSeen": 1777563992,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5969,
+    "landing": 1
+  },
+  {
+    "icao24": "ab9e5a",
+    "callsign": "EJM848",
+    "firstSeen": 1777553182,
+    "lastSeen": 1777562767,
+    "estDepartureAirport": "KENW",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6625,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1777564124,
+    "lastSeen": 1777565248,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3122,
+    "landing": 1
+  }
+]
