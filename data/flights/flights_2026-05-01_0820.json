@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1777625720,
+    "lastSeen": 1777628198,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6883,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2066",
+    "callsign": "VJT765",
+    "firstSeen": 1777620710,
+    "lastSeen": 1777623092,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "EGGP",
+    "flight_hours": 0.6617,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR40HE",
+    "firstSeen": 1777623336,
+    "lastSeen": 1777626310,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 0.8261,
+    "landing": 1
+  },
+  {
+    "icao24": "882c73",
+    "callsign": "MJJ711",
+    "firstSeen": 1777621697,
+    "lastSeen": 1777623067,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3806,
+    "landing": 1
+  }
+]

@@ -351,6 +351,10 @@
       "2026-04": {
         "hours": 313.1,
         "landings": 202
+      },
+      "2026-05": {
+        "hours": 1.5,
+        "landings": 2
       }
     },
     "Cessna (Textron)": {
@@ -507,8 +511,8 @@
         "landings": 164
       },
       "2026-05": {
-        "hours": 1.4,
-        "landings": 2
+        "hours": 1.8,
+        "landings": 3
       }
     },
     "Bombardier": {
@@ -665,8 +669,8 @@
         "landings": 253
       },
       "2026-05": {
-        "hours": 2.7,
-        "landings": 1
+        "hours": 3.4,
+        "landings": 2
       }
     },
     "Embraer": {
