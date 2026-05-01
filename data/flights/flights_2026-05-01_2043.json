@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5781",
+    "firstSeen": 1777665889,
+    "lastSeen": 1777669348,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "79TX",
+    "flight_hours": 0.9608,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "N294AF",
+    "firstSeen": 1777667322,
+    "lastSeen": 1777668688,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3794,
+    "landing": 1
+  },
+  {
+    "icao24": "a954c8",
+    "callsign": "N700CH",
+    "firstSeen": 1777666319,
+    "lastSeen": 1777669600,
+    "estDepartureAirport": "2MO1",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 0.9114,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1777660613,
+    "lastSeen": 1777669242,
+    "estDepartureAirport": "KJAX",
+    "estArrivalAirport": "KIOW",
+    "flight_hours": 2.3969,
+    "landing": 1
+  }
+]
