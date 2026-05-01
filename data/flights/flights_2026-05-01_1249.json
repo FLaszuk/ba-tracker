@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a6368a",
+    "callsign": "N5PG",
+    "firstSeen": 1777638919,
+    "lastSeen": 1777640506,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KHNB",
+    "flight_hours": 0.4408,
+    "landing": 1
+  },
+  {
+    "icao24": "adce1b",
+    "callsign": "SVL33",
+    "firstSeen": 1777635881,
+    "lastSeen": 1777639670,
+    "estDepartureAirport": "KORF",
+    "estArrivalAirport": "K6A4",
+    "flight_hours": 1.0525,
+    "landing": 1
+  },
+  {
+    "icao24": "e490d9",
+    "callsign": "PTGMU",
+    "firstSeen": 1777639621,
+    "lastSeen": 1777640879,
+    "estDepartureAirport": "SDSV",
+    "estArrivalAirport": "SDJG",
+    "flight_hours": 0.3494,
+    "landing": 1
+  }
+]
