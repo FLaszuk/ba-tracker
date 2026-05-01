@@ -195,8 +195,8 @@
         "landings": 381
       },
       "2026-05": {
-        "hours": 0.2,
-        "landings": 1
+        "hours": 0.9,
+        "landings": 2
       }
     },
     "Pratt & Whitney Canada": {
@@ -351,6 +351,10 @@
       "2026-04": {
         "hours": 357.6,
         "landings": 304
+      },
+      "2026-05": {
+        "hours": 0.7,
+        "landings": 1
       }
     },
     "Honeywell": {
@@ -813,6 +817,10 @@
       "2026-04": {
         "hours": 45.8,
         "landings": 24
+      },
+      "2026-05": {
+        "hours": 2.7,
+        "landings": 1
       }
     }
   }

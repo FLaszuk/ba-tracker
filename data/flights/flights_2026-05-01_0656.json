@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1777615864,
+    "lastSeen": 1777618411,
+    "estDepartureAirport": "LFST",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.7075,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e2",
+    "callsign": "VJT547",
+    "firstSeen": 1777612691,
+    "lastSeen": 1777622385,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6928,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1777616882,
+    "lastSeen": 1777619443,
+    "estDepartureAirport": "YORG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7114,
+    "landing": 1
+  }
+]

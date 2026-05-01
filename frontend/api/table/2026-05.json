@@ -1,9 +1,39 @@
 {
   "month": "2026-05",
-  "total": 1,
+  "total": 4,
   "offset": 0,
-  "limit": 1,
+  "limit": 4,
   "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 605",
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 2.7,
+      "total_landings": 1,
+      "aircraft_market_share": 62.56,
+      "engine_market_share": 62.56
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 0.7,
+      "total_landings": 1,
+      "aircraft_market_share": 16.51,
+      "engine_market_share": 16.51
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 0.7,
+      "total_landings": 1,
+      "aircraft_market_share": 16.51,
+      "engine_market_share": 20.93
+    },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
@@ -11,8 +41,8 @@
       "engine_model": "Tay 611-8C",
       "total_hours": 0.2,
       "total_landings": 1,
-      "aircraft_market_share": 100.0,
-      "engine_market_share": 100.0
+      "aircraft_market_share": 4.42,
+      "engine_market_share": 20.93
     }
   ]
 }
