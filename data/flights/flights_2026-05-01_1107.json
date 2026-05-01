@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1777630336,
+    "lastSeen": 1777633132,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7767,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20fe",
+    "callsign": "VJT685R",
+    "firstSeen": 1777629945,
+    "lastSeen": 1777635643,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ENCN",
+    "flight_hours": 1.5828,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1777627374,
+    "lastSeen": 1777633670,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.7489,
+    "landing": 1
+  }
+]
