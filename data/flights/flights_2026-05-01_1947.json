@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4d0225",
+    "callsign": "SVW55AR",
+    "firstSeen": 1777635326,
+    "lastSeen": 1777664382,
+    "estDepartureAirport": "VAJJ",
+    "estArrivalAirport": "LIPZ",
+    "flight_hours": 8.0711,
+    "landing": 1
+  },
+  {
+    "icao24": "a70e5b",
+    "callsign": "N554AV",
+    "firstSeen": 1777662707,
+    "lastSeen": 1777665549,
+    "estDepartureAirport": "KFFT",
+    "estArrivalAirport": "33NC",
+    "flight_hours": 0.7894,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1777659269,
+    "lastSeen": 1777665924,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "K33V",
+    "flight_hours": 1.8486,
+    "landing": 1
+  },
+  {
+    "icao24": "a954c8",
+    "callsign": "N700CH",
+    "firstSeen": 1777666319,
+    "lastSeen": 1777669600,
+    "estDepartureAirport": "2MO1",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 0.9114,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1777662690,
+    "lastSeen": 1777665989,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KA34",
+    "flight_hours": 0.9164,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1777660613,
+    "lastSeen": 1777669242,
+    "estDepartureAirport": "KJAX",
+    "estArrivalAirport": "KIOW",
+    "flight_hours": 2.3969,
+    "landing": 1
+  },
+  {
+    "icao24": "acc302",
+    "callsign": "N921MP",
+    "firstSeen": 1777661394,
+    "lastSeen": 1777665439,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1236,
+    "landing": 1
+  }
+]
