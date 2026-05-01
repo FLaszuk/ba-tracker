@@ -37,7 +37,8 @@
     "2026-01",
     "2026-02",
     "2026-03",
-    "2026-04"
+    "2026-04",
+    "2026-05"
   ],
   "manufacturers": {
     "Gulfstream": {
@@ -192,6 +193,10 @@
       "2026-04": {
         "hours": 300.5,
         "landings": 151
+      },
+      "2026-05": {
+        "hours": 0.2,
+        "landings": 1
       }
     },
     "Dassault": {
@@ -960,8 +965,8 @@
         "landings": 611
       },
       "2026-04": {
-        "hours": 55.7,
-        "landings": 47
+        "hours": 59.1,
+        "landings": 48
       }
     },
     "Eclipse Aerospace": {

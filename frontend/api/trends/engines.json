@@ -37,7 +37,8 @@
     "2026-01",
     "2026-02",
     "2026-03",
-    "2026-04"
+    "2026-04",
+    "2026-05"
   ],
   "manufacturers": {
     "Rolls-Royce": {
@@ -192,6 +193,10 @@
       "2026-04": {
         "hours": 724.3,
         "landings": 381
+      },
+      "2026-05": {
+        "hours": 0.2,
+        "landings": 1
       }
     },
     "Pratt & Whitney Canada": {
@@ -652,8 +657,8 @@
         "landings": 982
       },
       "2026-04": {
-        "hours": 65.9,
-        "landings": 61
+        "hours": 69.3,
+        "landings": 62
       }
     },
     "GE Aviation": {

@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d09de",
+    "callsign": "XAFOF",
+    "firstSeen": 1777597307,
+    "lastSeen": 1777597998,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM35",
+    "flight_hours": 0.1919,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1777584549,
+    "lastSeen": 1777596839,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "9CA7",
+    "flight_hours": 3.4139,
+    "landing": 1
+  }
+]
