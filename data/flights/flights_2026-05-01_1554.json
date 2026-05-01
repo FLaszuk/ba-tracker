@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "7101a1",
+    "callsign": "MEDVC4A",
+    "firstSeen": 1777623513,
+    "lastSeen": 1777650968,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "OEBQ",
+    "flight_hours": 7.6264,
+    "landing": 1
+  },
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1777652072,
+    "lastSeen": 1777653356,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "SC94",
+    "flight_hours": 0.3567,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1777646138,
+    "lastSeen": 1777651309,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "K0A8",
+    "flight_hours": 1.4364,
+    "landing": 1
+  },
+  {
+    "icao24": "a657e8",
+    "callsign": "N508CP",
+    "firstSeen": 1777654402,
+    "lastSeen": 1777655146,
+    "estDepartureAirport": "KU77",
+    "estArrivalAirport": "KPUC",
+    "flight_hours": 0.2067,
+    "landing": 1
+  },
+  {
+    "icao24": "a80689",
+    "callsign": "JENA616",
+    "firstSeen": 1777636307,
+    "lastSeen": 1777653223,
+    "estDepartureAirport": "KRIC",
+    "estArrivalAirport": "KSGU",
+    "flight_hours": 4.6989,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1777652538,
+    "lastSeen": 1777655254,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 0.7544,
+    "landing": 1
+  }
+]
