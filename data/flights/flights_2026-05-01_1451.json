@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d09e3",
+    "callsign": "ACW1540",
+    "firstSeen": 1777647124,
+    "lastSeen": 1777648498,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3817,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1777646344,
+    "lastSeen": 1777648569,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 0.6181,
+    "landing": 1
+  }
+]

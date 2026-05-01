@@ -2,16 +2,16 @@
   "month": "2026-05",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 2.9,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 1.9,
       "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 2.2,
-      "total_landings": 2
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -23,6 +23,12 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 1.5,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 0.7,
       "total_landings": 2
     },
     {
@@ -41,12 +47,6 @@
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation Mustang",
       "total_hours": 0.7,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 0.3,
       "total_landings": 1
     },
     {
