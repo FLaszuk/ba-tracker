@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1777639666,
+    "lastSeen": 1777644218,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.2644,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d6e",
+    "callsign": "PPNMM",
+    "firstSeen": 1777645088,
+    "lastSeen": 1777646140,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2922,
+    "landing": 1
+  }
+]
