@@ -26,6 +26,12 @@
       "total_landings": 2
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 4.7,
+      "total_landings": 5
+    },
+    {
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
       "total_hours": 4.5,
@@ -48,12 +54,6 @@
       "engine_model": "PW308C",
       "total_hours": 3.1,
       "total_landings": 3
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "AE 3007",
-      "total_hours": 2.1,
-      "total_landings": 4
     },
     {
       "engine_manufacturer": "Honeywell",
