@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0938",
+    "callsign": "XBUOC",
+    "firstSeen": 1777680287,
+    "lastSeen": 1777683224,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8158,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a81",
+    "callsign": "PRNJR",
+    "firstSeen": 1777679045,
+    "lastSeen": 1777680884,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.5108,
+    "landing": 1
+  }
+]
