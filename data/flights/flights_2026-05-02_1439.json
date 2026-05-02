@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU95RP",
+    "firstSeen": 1777715575,
+    "lastSeen": 1777733576,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 5.0003,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029e",
+    "callsign": "LXJPA",
+    "firstSeen": 1777732784,
+    "lastSeen": 1777733539,
+    "estDepartureAirport": "LSGE",
+    "estArrivalAirport": "LSGR",
+    "flight_hours": 0.2097,
+    "landing": 1
+  },
+  {
+    "icao24": "a1085d",
+    "callsign": "N166EA",
+    "firstSeen": 1777731331,
+    "lastSeen": 1777734823,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KSAW",
+    "flight_hours": 0.97,
+    "landing": 1
+  }
+]
