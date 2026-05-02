@@ -20,6 +20,12 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 1.0,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 2.6,
@@ -47,12 +53,6 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 1.5,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 0.7,
       "total_landings": 2
     },
     {
