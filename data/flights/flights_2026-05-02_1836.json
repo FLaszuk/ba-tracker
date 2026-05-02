@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d02ca",
+    "callsign": "XAAFX",
+    "firstSeen": 1777747742,
+    "lastSeen": 1777748864,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3117,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1777741816,
+    "lastSeen": 1777749696,
+    "estDepartureAirport": "73CL",
+    "estArrivalAirport": "K3FU",
+    "flight_hours": 2.1889,
+    "landing": 1
+  }
+]
