@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a130e6",
+    "callsign": "EJA176",
+    "firstSeen": 1777749930,
+    "lastSeen": 1777753924,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 1.1094,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1777744639,
+    "lastSeen": 1777752120,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "68AZ",
+    "flight_hours": 2.0781,
+    "landing": 1
+  }
+]
