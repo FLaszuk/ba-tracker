@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a17855",
+    "callsign": "N194PJ",
+    "firstSeen": 1777756598,
+    "lastSeen": 1777759628,
+    "estDepartureAirport": "10LA",
+    "estArrivalAirport": "8TA1",
+    "flight_hours": 0.8417,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d6f",
+    "callsign": "N650HF",
+    "firstSeen": 1777754203,
+    "lastSeen": 1777758563,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "CO03",
+    "flight_hours": 1.2111,
+    "landing": 1
+  }
+]
