@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d029e",
+    "callsign": "LXJPA",
+    "firstSeen": 1777732784,
+    "lastSeen": 1777733539,
+    "estDepartureAirport": "LSGE",
+    "estArrivalAirport": "LSGR",
+    "flight_hours": 0.2097,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1777728307,
+    "lastSeen": 1777730921,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KM16",
+    "flight_hours": 0.7261,
+    "landing": 1
+  }
+]
