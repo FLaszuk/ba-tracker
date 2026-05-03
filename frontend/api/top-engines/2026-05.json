@@ -32,6 +32,18 @@
       "total_landings": 2
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 5.0,
+      "total_landings": 4
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW617",
+      "total_hours": 4.7,
+      "total_landings": 2
+    },
+    {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
       "total_hours": 4.7,
@@ -48,18 +60,6 @@
       "engine_model": "TFE731",
       "total_hours": 3.9,
       "total_landings": 4
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW545",
-      "total_hours": 3.5,
-      "total_landings": 2
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW617",
-      "total_hours": 3.4,
-      "total_landings": 1
     }
   ]
 }

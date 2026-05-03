@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "451c42",
+    "callsign": "BGF001",
+    "firstSeen": 1777786063,
+    "lastSeen": 1777792645,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.8283,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "STM3466",
+    "firstSeen": 1777793870,
+    "lastSeen": 1777798435,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "LRPV",
+    "flight_hours": 1.2681,
+    "landing": 1
+  }
+]
