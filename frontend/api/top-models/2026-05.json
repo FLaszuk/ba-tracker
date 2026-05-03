@@ -2,15 +2,15 @@
   "month": "2026-05",
   "data": [
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 4.6,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 4.4,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 3.4,
       "total_landings": 4
     },
     {
