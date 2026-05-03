@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1777804572,
+    "lastSeen": 1777809400,
+    "estDepartureAirport": "EGFF",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 1.3411,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE191L",
+    "firstSeen": 1777803206,
+    "lastSeen": 1777806246,
+    "estDepartureAirport": "LEAL",
+    "estArrivalAirport": "LEVE",
+    "flight_hours": 0.8444,
+    "landing": 1
+  },
+  {
+    "icao24": "4d022a",
+    "callsign": "SVW88AV",
+    "firstSeen": 1777806683,
+    "lastSeen": 1777808742,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.5719,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f9",
+    "callsign": "VJT268",
+    "firstSeen": 1777803631,
+    "lastSeen": 1777809429,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VNLT",
+    "flight_hours": 1.6106,
+    "landing": 1
+  },
+  {
+    "icao24": "800b7e",
+    "callsign": "VTAHI",
+    "firstSeen": 1777804398,
+    "lastSeen": 1777808600,
+    "estDepartureAirport": "VECC",
+    "estArrivalAirport": "VECC",
+    "flight_hours": 1.1672,
+    "landing": 1
+  },
+  {
+    "icao24": "a00034",
+    "callsign": "EJM721",
+    "firstSeen": 1777774442,
+    "lastSeen": 1777806680,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 8.955,
+    "landing": 1
+  },
+  {
+    "icao24": "a0312f",
+    "callsign": "N111P",
+    "firstSeen": 1777799834,
+    "lastSeen": 1777806309,
+    "estDepartureAirport": "KSMX",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 1.7986,
+    "landing": 1
+  },
+  {
+    "icao24": "a8a0f9",
+    "callsign": "N655TC",
+    "firstSeen": 1777806823,
+    "lastSeen": 1777807836,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2814,
+    "landing": 1
+  }
+]
