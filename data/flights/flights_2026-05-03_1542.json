@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU91CZ",
+    "firstSeen": 1777819210,
+    "lastSeen": 1777823991,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.3281,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR13KA",
+    "firstSeen": 1777819926,
+    "lastSeen": 1777823057,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LIER",
+    "flight_hours": 0.8697,
+    "landing": 1
+  },
+  {
+    "icao24": "a20675",
+    "callsign": "N23DC",
+    "firstSeen": 1777824281,
+    "lastSeen": 1777827910,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.0081,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa00",
+    "callsign": "PGN613",
+    "firstSeen": 1777821459,
+    "lastSeen": 1777825111,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 1.0144,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d711",
+    "callsign": "N733K",
+    "firstSeen": 1777823268,
+    "lastSeen": 1777826057,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSAT",
+    "flight_hours": 0.7747,
+    "landing": 1
+  }
+]

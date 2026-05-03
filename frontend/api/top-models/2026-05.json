@@ -2,6 +2,12 @@
   "month": "2026-05",
   "data": [
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 15.7,
+      "total_landings": 7
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 7.2,
@@ -21,12 +27,6 @@
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 13.9,
-      "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 5.5,
       "total_landings": 5
@@ -38,27 +38,27 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 7.4,
+      "total_landings": 4
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 3.5,
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 2.4,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 1.0,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 6.4,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 10.1,
+      "aircraft_model": "Legacy 600",
+      "total_hours": 4.2,
       "total_landings": 3
     }
   ]
