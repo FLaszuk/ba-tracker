@@ -20,6 +20,12 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 12.4,
+      "total_landings": 4
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 1.9,
@@ -29,12 +35,6 @@
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 1.0,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 10.0,
       "total_landings": 3
     },
     {

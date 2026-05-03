@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "STM3466",
+    "firstSeen": 1777793870,
+    "lastSeen": 1777798435,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "LRPV",
+    "flight_hours": 1.2681,
+    "landing": 1
+  },
+  {
+    "icao24": "780b2a",
+    "callsign": "B8271",
+    "firstSeen": 1777793733,
+    "lastSeen": 1777802330,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3881,
+    "landing": 1
+  }
+]
