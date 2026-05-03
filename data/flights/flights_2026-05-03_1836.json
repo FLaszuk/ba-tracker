@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a19466",
+    "callsign": "N2000L",
+    "firstSeen": 1777825513,
+    "lastSeen": 1777834578,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "MYZ3",
+    "flight_hours": 2.5181,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS3",
+    "firstSeen": 1777827354,
+    "lastSeen": 1777836439,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KFNL",
+    "flight_hours": 2.5236,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1777831408,
+    "lastSeen": 1777833493,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "41CO",
+    "flight_hours": 0.5792,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fe2",
+    "callsign": "N900HG",
+    "firstSeen": 1777816897,
+    "lastSeen": 1777838541,
+    "estDepartureAirport": "EGPE",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.0122,
+    "landing": 1
+  },
+  {
+    "icao24": "e0340c",
+    "callsign": "LVCPL",
+    "firstSeen": 1777832086,
+    "lastSeen": 1777833293,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3353,
+    "landing": 1
+  }
+]
