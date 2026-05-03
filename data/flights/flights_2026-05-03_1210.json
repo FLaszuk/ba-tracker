@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4403ff",
+    "callsign": "LOD51V",
+    "firstSeen": 1777803981,
+    "lastSeen": 1777811983,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 2.2228,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c1ab",
+    "callsign": "N728EC",
+    "firstSeen": 1777805376,
+    "lastSeen": 1777809875,
+    "estDepartureAirport": "KGAO",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 1.2497,
+    "landing": 1
+  }
+]
