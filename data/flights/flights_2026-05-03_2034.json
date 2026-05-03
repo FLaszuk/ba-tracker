@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a93de3",
+    "callsign": "N695GD",
+    "firstSeen": 1777834310,
+    "lastSeen": 1777840069,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KH79",
+    "flight_hours": 1.5997,
+    "landing": 1
+  },
+  {
+    "icao24": "ac22ea",
+    "callsign": "TWY201",
+    "firstSeen": 1777841674,
+    "lastSeen": 1777844065,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 0.6642,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8e76",
+    "callsign": "HRC908",
+    "firstSeen": 1777839196,
+    "lastSeen": 1777842580,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "28TX",
+    "flight_hours": 0.94,
+    "landing": 1
+  }
+]
