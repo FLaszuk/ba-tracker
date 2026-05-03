@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA32D",
+    "firstSeen": 1777815637,
+    "lastSeen": 1777819516,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LOWG",
+    "flight_hours": 1.0775,
+    "landing": 1
+  },
+  {
+    "icao24": "516001",
+    "callsign": "4OMNE",
+    "firstSeen": 1777808697,
+    "lastSeen": 1777817118,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3392,
+    "landing": 1
+  }
+]
