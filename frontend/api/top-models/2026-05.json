@@ -8,6 +8,12 @@
       "total_landings": 11
     },
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 9.6,
+      "total_landings": 9
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 7.9,
@@ -17,12 +23,6 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 13.9,
-      "total_landings": 8
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 8.8,
       "total_landings": 8
     },
     {
@@ -38,15 +38,15 @@
       "total_landings": 5
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 12.9,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 3.8,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 7.4,
       "total_landings": 4
     },
     {

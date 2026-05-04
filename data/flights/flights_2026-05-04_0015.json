@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5451",
+    "firstSeen": 1777853901,
+    "lastSeen": 1777854937,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2878,
+    "landing": 1
+  },
+  {
+    "icao24": "a4384d",
+    "callsign": "N371JC",
+    "firstSeen": 1777836711,
+    "lastSeen": 1777856582,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 5.5197,
+    "landing": 1
+  },
+  {
+    "icao24": "ac783b",
+    "callsign": "N902SS",
+    "firstSeen": 1777852620,
+    "lastSeen": 1777855499,
+    "estDepartureAirport": "KMFR",
+    "estArrivalAirport": "0ID3",
+    "flight_hours": 0.7997,
+    "landing": 1
+  }
+]
