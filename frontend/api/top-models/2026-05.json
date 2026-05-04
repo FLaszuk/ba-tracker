@@ -50,16 +50,16 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 1.4,
+      "total_landings": 4
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
       "total_hours": 11.7,
       "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 300",
-      "total_hours": 6.3,
-      "total_landings": 3
     }
   ]
 }
