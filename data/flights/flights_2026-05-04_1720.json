@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1777910457,
+    "lastSeen": 1777915630,
+    "estDepartureAirport": "AZ19",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 1.4369,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1777909833,
+    "lastSeen": 1777915410,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.5492,
+    "landing": 1
+  },
+  {
+    "icao24": "ac70ae",
+    "callsign": "N900RL",
+    "firstSeen": 1777914590,
+    "lastSeen": 1777916253,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 0.4619,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a8b",
+    "callsign": "PRGCR",
+    "firstSeen": 1777914894,
+    "lastSeen": 1777916005,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.3086,
+    "landing": 1
+  }
+]
