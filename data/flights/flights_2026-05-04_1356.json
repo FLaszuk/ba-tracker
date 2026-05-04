@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1777903578,
+    "lastSeen": 1777906801,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.8953,
+    "landing": 1
+  },
+  {
+    "icao24": "516001",
+    "callsign": "4OMNE",
+    "firstSeen": 1777897859,
+    "lastSeen": 1777906419,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3778,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1777905624,
+    "lastSeen": 1777907597,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "AZ14",
+    "flight_hours": 0.5481,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1777897356,
+    "lastSeen": 1777906473,
+    "estDepartureAirport": "KSEP",
+    "estArrivalAirport": "WY33",
+    "flight_hours": 2.5325,
+    "landing": 1
+  }
+]
