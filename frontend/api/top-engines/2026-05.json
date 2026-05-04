@@ -2,16 +2,16 @@
   "month": "2026-05",
   "data": [
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 26.9,
+      "total_landings": 14
+    },
+    {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
       "total_hours": 25.9,
       "total_landings": 17
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW308C",
-      "total_hours": 22.3,
-      "total_landings": 12
     },
     {
       "engine_manufacturer": "Honeywell",
@@ -32,16 +32,16 @@
       "total_landings": 5
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 13.3,
+      "total_landings": 6
+    },
+    {
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
       "total_hours": 13.2,
       "total_landings": 13
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "Tay 611-8C",
-      "total_hours": 13.0,
-      "total_landings": 5
     },
     {
       "engine_manufacturer": "Honeywell",

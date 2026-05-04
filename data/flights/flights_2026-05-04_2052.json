@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1ca0d",
+    "callsign": "N214TF",
+    "firstSeen": 1777918773,
+    "lastSeen": 1777928185,
+    "estDepartureAirport": "RI20",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.6144,
+    "landing": 1
+  },
+  {
+    "icao24": "a57281",
+    "callsign": "N450EA",
+    "firstSeen": 1777930977,
+    "lastSeen": 1777931996,
+    "estDepartureAirport": "KLZU",
+    "estArrivalAirport": "KD73",
+    "flight_hours": 0.2831,
+    "landing": 1
+  },
+  {
+    "icao24": "aab2c0",
+    "callsign": "XEN89",
+    "firstSeen": 1777923524,
+    "lastSeen": 1777930588,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "5MD8",
+    "flight_hours": 1.9622,
+    "landing": 1
+  }
+]
