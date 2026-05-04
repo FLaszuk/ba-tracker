@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3180",
+    "firstSeen": 1777886427,
+    "lastSeen": 1777887892,
+    "estDepartureAirport": "LIDF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4069,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8e2b",
+    "callsign": "N77999",
+    "firstSeen": 1777881667,
+    "lastSeen": 1777888259,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.8311,
+    "landing": 1
+  }
+]
