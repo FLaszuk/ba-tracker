@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1777906422,
+    "lastSeen": 1777908933,
+    "estDepartureAirport": "HL53",
+    "estArrivalAirport": "DTNH",
+    "flight_hours": 0.6975,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS3",
+    "firstSeen": 1777906236,
+    "lastSeen": 1777911980,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.5956,
+    "landing": 1
+  }
+]
