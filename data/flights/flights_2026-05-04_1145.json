@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a76901",
+    "callsign": "N577GA",
+    "firstSeen": 1777889978,
+    "lastSeen": 1777895715,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KH79",
+    "flight_hours": 1.5936,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11be",
+    "callsign": "N748RE",
+    "firstSeen": 1777895757,
+    "lastSeen": 1777896996,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 0.3442,
+    "landing": 1
+  }
+]
