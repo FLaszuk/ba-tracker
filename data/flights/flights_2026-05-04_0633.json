@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU14TE",
+    "firstSeen": 1777874684,
+    "lastSeen": 1777876847,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.6008,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1777877844,
+    "lastSeen": 1777880624,
+    "estDepartureAirport": "ESGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7722,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1777876829,
+    "lastSeen": 1777878294,
+    "estDepartureAirport": "YPMQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4069,
+    "landing": 1
+  }
+]
