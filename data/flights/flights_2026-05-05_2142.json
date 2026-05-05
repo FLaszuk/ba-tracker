@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3bb47",
+    "callsign": "N34DG",
+    "firstSeen": 1778015552,
+    "lastSeen": 1778016919,
+    "estDepartureAirport": "KEXX",
+    "estArrivalAirport": "NC82",
+    "flight_hours": 0.3797,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bb47",
+    "callsign": "N34DG",
+    "firstSeen": 1778017769,
+    "lastSeen": 1778017769,
+    "estDepartureAirport": "17NC",
+    "estArrivalAirport": "17NC",
+    "flight_hours": 0.0,
+    "landing": 1
+  }
+]
