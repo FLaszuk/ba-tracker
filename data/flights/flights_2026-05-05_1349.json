@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU51DR",
+    "firstSeen": 1777972020,
+    "lastSeen": 1777988374,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 4.5428,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c8",
+    "callsign": "VJT598",
+    "firstSeen": 1777983290,
+    "lastSeen": 1777988523,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.4536,
+    "landing": 1
+  },
+  {
+    "icao24": "ac74f0",
+    "callsign": "N901X",
+    "firstSeen": 1777984583,
+    "lastSeen": 1777989617,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3983,
+    "landing": 1
+  }
+]
