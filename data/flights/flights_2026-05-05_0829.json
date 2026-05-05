@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3004aa",
+    "callsign": "CPI051",
+    "firstSeen": 1777968295,
+    "lastSeen": 1777972829,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2594,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1777969356,
+    "lastSeen": 1777972333,
+    "estDepartureAirport": "LDRI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8269,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1777963503,
+    "lastSeen": 1777970875,
+    "estDepartureAirport": "YBAF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0478,
+    "landing": 1
+  }
+]
