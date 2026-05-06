@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW2700",
+    "firstSeen": 1778072256,
+    "lastSeen": 1778081832,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 2.66,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1778080069,
+    "lastSeen": 1778082058,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LTAY",
+    "flight_hours": 0.5525,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1778080106,
+    "lastSeen": 1778084002,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 1.0822,
+    "landing": 1
+  }
+]
