@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778090482,
+    "lastSeen": 1778095006,
+    "estDepartureAirport": "KA20",
+    "estArrivalAirport": "7TX8",
+    "flight_hours": 1.2567,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1778095476,
+    "lastSeen": 1778097978,
+    "estDepartureAirport": "KORF",
+    "estArrivalAirport": "KROA",
+    "flight_hours": 0.695,
+    "landing": 1
+  }
+]
