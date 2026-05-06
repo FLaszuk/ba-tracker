@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "800187",
+    "callsign": "VUBSF",
+    "firstSeen": 1778074279,
+    "lastSeen": 1778077759,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9667,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778077780,
+    "lastSeen": 1778079765,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 0.5514,
+    "landing": 1
+  },
+  {
+    "icao24": "a1cc9a",
+    "callsign": "XEN15",
+    "firstSeen": 1778070600,
+    "lastSeen": 1778075913,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KCLT",
+    "flight_hours": 1.4758,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1778074892,
+    "lastSeen": 1778075797,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "0IL8",
+    "flight_hours": 0.2514,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1778068470,
+    "lastSeen": 1778075647,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "WY11",
+    "flight_hours": 1.9936,
+    "landing": 1
+  },
+  {
+    "icao24": "a9bf3b",
+    "callsign": "N727TE",
+    "firstSeen": 1778077215,
+    "lastSeen": 1778078262,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.2908,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1778069185,
+    "lastSeen": 1778078289,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 2.5289,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1778076100,
+    "lastSeen": 1778077695,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4431,
+    "landing": 1
+  },
+  {
+    "icao24": "e49027",
+    "callsign": "PRDLN",
+    "firstSeen": 1778073557,
+    "lastSeen": 1778076279,
+    "estDepartureAirport": "SIIU",
+    "estArrivalAirport": "SSYA",
+    "flight_hours": 0.7561,
+    "landing": 1
+  }
+]
