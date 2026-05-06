@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1778088589,
+    "lastSeen": 1778091375,
+    "estDepartureAirport": "EDDL",
+    "estArrivalAirport": "EDQE",
+    "flight_hours": 0.7739,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1778082516,
+    "lastSeen": 1778088381,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "3TN0",
+    "flight_hours": 1.6292,
+    "landing": 1
+  }
+]
