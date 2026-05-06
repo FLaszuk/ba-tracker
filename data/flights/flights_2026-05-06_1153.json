@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c308f",
+    "callsign": "DBVHA",
+    "firstSeen": 1778066895,
+    "lastSeen": 1778070509,
+    "estDepartureAirport": "EDDH",
+    "estArrivalAirport": "EDMO",
+    "flight_hours": 1.0039,
+    "landing": 1
+  },
+  {
+    "icao24": "8002ce",
+    "callsign": "VUAVV",
+    "firstSeen": 1778067792,
+    "lastSeen": 1778069193,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3892,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS13",
+    "firstSeen": 1778065901,
+    "lastSeen": 1778068811,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 0.8083,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1778068314,
+    "lastSeen": 1778069534,
+    "estDepartureAirport": "KCWA",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 0.3389,
+    "landing": 1
+  }
+]
