@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1778183637,
+    "lastSeen": 1778187252,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "KEEO",
+    "flight_hours": 1.0042,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1778183210,
+    "lastSeen": 1778187345,
+    "estDepartureAirport": "KGJT",
+    "estArrivalAirport": "KL77",
+    "flight_hours": 1.1486,
+    "landing": 1
+  }
+]
