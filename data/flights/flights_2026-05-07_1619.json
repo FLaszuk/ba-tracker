@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a8cc3c",
+    "callsign": "N666TR",
+    "firstSeen": 1778173445,
+    "lastSeen": 1778175294,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "K8B0",
+    "flight_hours": 0.5136,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1ad6",
+    "callsign": "N750JE",
+    "firstSeen": 1778173696,
+    "lastSeen": 1778175406,
+    "estDepartureAirport": "KL77",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.475,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7fb7",
+    "callsign": "N904TF",
+    "firstSeen": 1778171051,
+    "lastSeen": 1778172327,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "1MO8",
+    "flight_hours": 0.3544,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1778168915,
+    "lastSeen": 1778170252,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3714,
+    "landing": 1
+  }
+]
