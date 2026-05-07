@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1778176645,
+    "lastSeen": 1778179374,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7581,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1778175282,
+    "lastSeen": 1778176820,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.4272,
+    "landing": 1
+  },
+  {
+    "icao24": "e48ef4",
+    "callsign": "PRBJA",
+    "firstSeen": 1778175552,
+    "lastSeen": 1778177494,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SWYV",
+    "flight_hours": 0.5394,
+    "landing": 1
+  }
+]
