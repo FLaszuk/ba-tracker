@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "39aded",
+    "callsign": "FHLPN",
+    "firstSeen": 1778155363,
+    "lastSeen": 1778162017,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8483,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3415",
+    "firstSeen": 1778155347,
+    "lastSeen": 1778164613,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5739,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1778160086,
+    "lastSeen": 1778163100,
+    "estDepartureAirport": "KJZI",
+    "estArrivalAirport": "VG10",
+    "flight_hours": 0.8372,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1778161590,
+    "lastSeen": 1778163733,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "ME69",
+    "flight_hours": 0.5953,
+    "landing": 1
+  }
+]
