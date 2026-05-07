@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300500",
+    "callsign": "CPI071",
+    "firstSeen": 1778137205,
+    "lastSeen": 1778139247,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc2eb",
+    "callsign": "DCBCT",
+    "firstSeen": 1778136595,
+    "lastSeen": 1778137746,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": "EDMO",
+    "flight_hours": 0.3197,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1778133926,
+    "lastSeen": 1778136017,
+    "estDepartureAirport": "YWLM",
+    "estArrivalAirport": "YWVL",
+    "flight_hours": 0.5808,
+    "landing": 1
+  }
+]
