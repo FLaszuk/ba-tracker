@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1ecac",
+    "callsign": "N223FJ",
+    "firstSeen": 1778180617,
+    "lastSeen": 1778185037,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.2278,
+    "landing": 1
+  },
+  {
+    "icao24": "a894bb",
+    "callsign": "LXJ652",
+    "firstSeen": 1778181562,
+    "lastSeen": 1778183093,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "MUCO",
+    "flight_hours": 0.4253,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1778183637,
+    "lastSeen": 1778187252,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "KEEO",
+    "flight_hours": 1.0042,
+    "landing": 1
+  }
+]
