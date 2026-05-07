@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "8403a4",
+    "callsign": "CKSTR10",
+    "firstSeen": 1778117153,
+    "lastSeen": 1778118185,
+    "estDepartureAirport": "RJGG",
+    "estArrivalAirport": "RJAF",
+    "flight_hours": 0.2867,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1778112578,
+    "lastSeen": 1778115355,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7714,
+    "landing": 1
+  }
+]
