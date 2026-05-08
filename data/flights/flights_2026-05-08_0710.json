@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "39c82b",
+    "callsign": "PEA501",
+    "firstSeen": 1778221489,
+    "lastSeen": 1778223808,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LFCE",
+    "flight_hours": 0.6442,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE930",
+    "firstSeen": 1778225771,
+    "lastSeen": 1778226964,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.3314,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cc",
+    "callsign": "VUAVT",
+    "firstSeen": 1778223886,
+    "lastSeen": 1778225251,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3792,
+    "landing": 1
+  }
+]
