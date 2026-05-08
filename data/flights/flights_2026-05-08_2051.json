@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW1700",
+    "firstSeen": 1778274739,
+    "lastSeen": 1778275372,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM35",
+    "flight_hours": 0.1758,
+    "landing": 1
+  },
+  {
+    "icao24": "a41052",
+    "callsign": "N361DD",
+    "firstSeen": 1778269985,
+    "lastSeen": 1778277937,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.2089,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a809",
+    "callsign": "N4BA",
+    "firstSeen": 1778277666,
+    "lastSeen": 1778278544,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2439,
+    "landing": 1
+  }
+]
