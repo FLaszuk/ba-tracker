@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c080d",
+    "callsign": "DASBG",
+    "firstSeen": 1778235209,
+    "lastSeen": 1778240430,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LOSM",
+    "flight_hours": 1.4503,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1778238965,
+    "lastSeen": 1778243132,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.1575,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1778236693,
+    "lastSeen": 1778241026,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.2036,
+    "landing": 1
+  },
+  {
+    "icao24": "e49027",
+    "callsign": "PRDLN",
+    "firstSeen": 1778242267,
+    "lastSeen": 1778243047,
+    "estDepartureAirport": "SIVE",
+    "estArrivalAirport": "SJWN",
+    "flight_hours": 0.2167,
+    "landing": 1
+  }
+]
