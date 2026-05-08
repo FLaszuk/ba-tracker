@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1778258391,
+    "lastSeen": 1778261417,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "77AR",
+    "flight_hours": 0.8406,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c616",
+    "callsign": "EJA213",
+    "firstSeen": 1778255700,
+    "lastSeen": 1778260771,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "K02A",
+    "flight_hours": 1.4086,
+    "landing": 1
+  },
+  {
+    "icao24": "a31df5",
+    "callsign": "N30LB",
+    "firstSeen": 1778258558,
+    "lastSeen": 1778259940,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KHNB",
+    "flight_hours": 0.3839,
+    "landing": 1
+  },
+  {
+    "icao24": "a97c83",
+    "callsign": "N710ET",
+    "firstSeen": 1778259184,
+    "lastSeen": 1778263040,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "63CA",
+    "flight_hours": 1.0711,
+    "landing": 1
+  }
+]
