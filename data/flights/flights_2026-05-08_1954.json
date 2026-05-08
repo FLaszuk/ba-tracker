@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "0d05e3",
+    "callsign": "XACHE",
+    "firstSeen": 1778255584,
+    "lastSeen": 1778272491,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEMR",
+    "flight_hours": 4.6964,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS10",
+    "firstSeen": 1778261884,
+    "lastSeen": 1778269831,
+    "estDepartureAirport": "KABQ",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 2.2075,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1778267685,
+    "lastSeen": 1778269851,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.6017,
+    "landing": 1
+  },
+  {
+    "icao24": "a3ad24",
+    "callsign": "N336LS",
+    "firstSeen": 1778269649,
+    "lastSeen": 1778270758,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KDAG",
+    "flight_hours": 0.3081,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c508",
+    "callsign": "N60BJ",
+    "firstSeen": 1778268800,
+    "lastSeen": 1778270937,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5936,
+    "landing": 1
+  },
+  {
+    "icao24": "a954ea",
+    "callsign": "CCK70",
+    "firstSeen": 1778271035,
+    "lastSeen": 1778272568,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 0.4258,
+    "landing": 1
+  },
+  {
+    "icao24": "aab6ab",
+    "callsign": "N79LE",
+    "firstSeen": 1778269560,
+    "lastSeen": 1778271151,
+    "estDepartureAirport": "KSAC",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.4419,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1deb",
+    "callsign": "N815WH",
+    "firstSeen": 1778270873,
+    "lastSeen": 1778271754,
+    "estDepartureAirport": "TJIG",
+    "estArrivalAirport": "TJVQ",
+    "flight_hours": 0.2447,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1778271373,
+    "lastSeen": 1778272512,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEQ4",
+    "flight_hours": 0.3164,
+    "landing": 1
+  }
+]
