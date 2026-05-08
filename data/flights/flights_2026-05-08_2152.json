@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1778275872,
+    "lastSeen": 1778280974,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "SN93",
+    "flight_hours": 1.4172,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778278738,
+    "lastSeen": 1778280731,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "AZ21",
+    "flight_hours": 0.5536,
+    "landing": 1
+  },
+  {
+    "icao24": "a41052",
+    "callsign": "N361DD",
+    "firstSeen": 1778269985,
+    "lastSeen": 1778277937,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.2089,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a809",
+    "callsign": "N4BA",
+    "firstSeen": 1778277666,
+    "lastSeen": 1778278544,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2439,
+    "landing": 1
+  },
+  {
+    "icao24": "e4859a",
+    "callsign": "PPOAC",
+    "firstSeen": 1778278374,
+    "lastSeen": 1778280975,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.7225,
+    "landing": 1
+  }
+]
