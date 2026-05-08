@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS10",
+    "firstSeen": 1778261884,
+    "lastSeen": 1778269831,
+    "estDepartureAirport": "KABQ",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 2.2075,
+    "landing": 1
+  },
+  {
+    "icao24": "a230d0",
+    "callsign": "N240JJ",
+    "firstSeen": 1778258617,
+    "lastSeen": 1778267317,
+    "estDepartureAirport": "KMKY",
+    "estArrivalAirport": "0IN9",
+    "flight_hours": 2.4167,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1778267685,
+    "lastSeen": 1778269851,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.6017,
+    "landing": 1
+  },
+  {
+    "icao24": "a954ea",
+    "callsign": "CCK70",
+    "firstSeen": 1778265497,
+    "lastSeen": 1778266753,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.3489,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1778253482,
+    "lastSeen": 1778268727,
+    "estDepartureAirport": "SBBI",
+    "estArrivalAirport": "SWLT",
+    "flight_hours": 4.2347,
+    "landing": 1
+  }
+]

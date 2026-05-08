@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 40.9,
-      "total_landings": 26
+      "total_hours": 41.9,
+      "total_landings": 28
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -20,15 +20,15 @@
       "total_landings": 16
     },
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 19.4,
+      "total_landings": 16
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 14.9,
-      "total_landings": 14
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 14.8,
       "total_landings": 14
     },
     {
