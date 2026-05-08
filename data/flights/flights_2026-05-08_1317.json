@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "800b79",
+    "callsign": "VTCLF",
+    "firstSeen": 1778242133,
+    "lastSeen": 1778247816,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VQ10",
+    "flight_hours": 1.5786,
+    "landing": 1
+  },
+  {
+    "icao24": "a03059",
+    "callsign": "N111EL",
+    "firstSeen": 1778241634,
+    "lastSeen": 1778247749,
+    "estDepartureAirport": "KESN",
+    "estArrivalAirport": "MYAT",
+    "flight_hours": 1.6986,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ad37",
+    "callsign": "GLF83",
+    "firstSeen": 1778245061,
+    "lastSeen": 1778249481,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KHXD",
+    "flight_hours": 1.2278,
+    "landing": 1
+  },
+  {
+    "icao24": "a572b3",
+    "callsign": "N450GA",
+    "firstSeen": 1778224553,
+    "lastSeen": 1778250011,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.0717,
+    "landing": 1
+  },
+  {
+    "icao24": "a65b61",
+    "callsign": "FTD509",
+    "firstSeen": 1778243989,
+    "lastSeen": 1778247092,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "9VA0",
+    "flight_hours": 0.8619,
+    "landing": 1
+  }
+]
