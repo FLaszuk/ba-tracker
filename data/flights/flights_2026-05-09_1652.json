@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cc1db",
+    "callsign": "SFG55C",
+    "firstSeen": 1778342314,
+    "lastSeen": 1778346574,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.1833,
+    "landing": 1
+  },
+  {
+    "icao24": "a2aa87",
+    "callsign": "TWY271",
+    "firstSeen": 1778342413,
+    "lastSeen": 1778345416,
+    "estDepartureAirport": "KDZB",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 0.8342,
+    "landing": 1
+  },
+  {
+    "icao24": "e48ef4",
+    "callsign": "PRBJA",
+    "firstSeen": 1778345922,
+    "lastSeen": 1778348437,
+    "estDepartureAirport": "SBGL",
+    "estArrivalAirport": "SBVT",
+    "flight_hours": 0.6986,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1778346041,
+    "lastSeen": 1778348318,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSIS",
+    "flight_hours": 0.6325,
+    "landing": 1
+  },
+  {
+    "icao24": "e49269",
+    "callsign": "PRVEN",
+    "firstSeen": 1778344433,
+    "lastSeen": 1778345175,
+    "estDepartureAirport": "SNLY",
+    "estArrivalAirport": "SNSC",
+    "flight_hours": 0.2061,
+    "landing": 1
+  }
+]
