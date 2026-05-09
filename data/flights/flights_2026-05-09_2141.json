@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW1511",
+    "firstSeen": 1778362127,
+    "lastSeen": 1778362775,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM69",
+    "flight_hours": 0.18,
+    "landing": 1
+  },
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1778358963,
+    "lastSeen": 1778363339,
+    "estDepartureAirport": "35TX",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.2156,
+    "landing": 1
+  },
+  {
+    "icao24": "a59ec1",
+    "callsign": "EJM461",
+    "firstSeen": 1778352338,
+    "lastSeen": 1778365538,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.6667,
+    "landing": 1
+  }
+]
