@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1778359403,
+    "lastSeen": 1778361656,
+    "estDepartureAirport": "LROP",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 0.6258,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f294",
+    "callsign": "N611BF",
+    "firstSeen": 1778348649,
+    "lastSeen": 1778355820,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.9919,
+    "landing": 1
+  }
+]
