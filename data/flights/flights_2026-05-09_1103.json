@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU97XB",
+    "firstSeen": 1778320882,
+    "lastSeen": 1778324989,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1408,
+    "landing": 1
+  },
+  {
+    "icao24": "491221",
+    "callsign": "NJE251T",
+    "firstSeen": 1778320851,
+    "lastSeen": 1778324616,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0458,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6d79",
+    "callsign": "N771HM",
+    "firstSeen": 1778317648,
+    "lastSeen": 1778324813,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9903,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1778324658,
+    "lastSeen": 1778325826,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.3244,
+    "landing": 1
+  }
+]
