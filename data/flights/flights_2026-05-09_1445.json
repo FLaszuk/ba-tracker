@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0ba69",
+    "callsign": "EJA146",
+    "firstSeen": 1778337357,
+    "lastSeen": 1778338551,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "ME69",
+    "flight_hours": 0.3317,
+    "landing": 1
+  },
+  {
+    "icao24": "a70174",
+    "callsign": "N550WW",
+    "firstSeen": 1778338870,
+    "lastSeen": 1778340973,
+    "estDepartureAirport": "WY31",
+    "estArrivalAirport": "KFOM",
+    "flight_hours": 0.5842,
+    "landing": 1
+  }
+]
