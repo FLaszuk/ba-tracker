@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "484703",
+    "callsign": "XRO1214",
+    "firstSeen": 1778264452,
+    "lastSeen": 1778287969,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "FKYS",
+    "flight_hours": 6.5325,
+    "landing": 1
+  },
+  {
+    "icao24": "a06f7d",
+    "callsign": "N127UH",
+    "firstSeen": 1778286814,
+    "lastSeen": 1778289659,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": "KANE",
+    "flight_hours": 0.7903,
+    "landing": 1
+  }
+]
