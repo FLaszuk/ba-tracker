@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "343183",
+    "callsign": "INI262H",
+    "firstSeen": 1778332960,
+    "lastSeen": 1778335013,
+    "estDepartureAirport": "LECO",
+    "estArrivalAirport": "LEXJ",
+    "flight_hours": 0.5703,
+    "landing": 1
+  },
+  {
+    "icao24": "aa5d7f",
+    "callsign": "N767WB",
+    "firstSeen": 1778323227,
+    "lastSeen": 1778335078,
+    "estDepartureAirport": "KENW",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 3.2919,
+    "landing": 1
+  }
+]
