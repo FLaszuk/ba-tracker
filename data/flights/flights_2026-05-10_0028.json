@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3004c7",
+    "callsign": "IADVD",
+    "firstSeen": 1778337167,
+    "lastSeen": 1778377098,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 11.0919,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f39",
+    "callsign": "N949GM",
+    "firstSeen": 1778367856,
+    "lastSeen": 1778376958,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.5283,
+    "landing": 1
+  }
+]

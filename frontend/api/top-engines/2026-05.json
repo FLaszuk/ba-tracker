@@ -2,15 +2,15 @@
   "month": "2026-05",
   "data": [
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 63.5,
+      "total_landings": 36
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
       "total_hours": 51.5,
-      "total_landings": 34
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710",
-      "total_hours": 49.9,
       "total_landings": 34
     },
     {
