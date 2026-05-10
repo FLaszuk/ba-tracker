@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1778449215,
+    "lastSeen": 1778451731,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6989,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dffe",
+    "callsign": "CLY107",
+    "firstSeen": 1778443665,
+    "lastSeen": 1778452297,
+    "estDepartureAirport": "KPNE",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 2.3978,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f294",
+    "callsign": "N611BF",
+    "firstSeen": 1778442814,
+    "lastSeen": 1778449930,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.9767,
+    "landing": 1
+  },
+  {
+    "icao24": "a86407",
+    "callsign": "N64MT",
+    "firstSeen": 1778445800,
+    "lastSeen": 1778454192,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "VG22",
+    "flight_hours": 2.3311,
+    "landing": 1
+  }
+]
