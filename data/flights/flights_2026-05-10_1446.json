@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3cc7fe",
+    "callsign": "DWW154",
+    "firstSeen": 1778423460,
+    "lastSeen": 1778426848,
+    "estDepartureAirport": "LFRM",
+    "estArrivalAirport": "LESU",
+    "flight_hours": 0.9411,
+    "landing": 1
+  },
+  {
+    "icao24": "3cfdec",
+    "callsign": "VJH334",
+    "firstSeen": 1778422800,
+    "lastSeen": 1778424179,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3831,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU78LB",
+    "firstSeen": 1778411282,
+    "lastSeen": 1778425093,
+    "estDepartureAirport": "LPMA",
+    "estArrivalAirport": "EDBO",
+    "flight_hours": 3.8364,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1778421914,
+    "lastSeen": 1778425707,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.0536,
+    "landing": 1
+  },
+  {
+    "icao24": "7c37bb",
+    "callsign": "VHLAL",
+    "firstSeen": 1778382743,
+    "lastSeen": 1778429181,
+    "estDepartureAirport": "YSSY",
+    "estArrivalAirport": "KCMA",
+    "flight_hours": 12.8994,
+    "landing": 1
+  },
+  {
+    "icao24": "ab07a3",
+    "callsign": "N81GK",
+    "firstSeen": 1778413567,
+    "lastSeen": 1778425182,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "KL77",
+    "flight_hours": 3.2264,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3007",
+    "callsign": "N82RP",
+    "firstSeen": 1778426195,
+    "lastSeen": 1778427191,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.2767,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1778412936,
+    "lastSeen": 1778424443,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 3.1964,
+    "landing": 1
+  }
+]
