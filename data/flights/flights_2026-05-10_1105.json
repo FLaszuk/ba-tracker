@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU38JM",
+    "firstSeen": 1778408455,
+    "lastSeen": 1778411514,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIRM",
+    "flight_hours": 0.8497,
+    "landing": 1
+  },
+  {
+    "icao24": "45ceef",
+    "callsign": "BBB65P",
+    "firstSeen": 1778406588,
+    "lastSeen": 1778411099,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.2531,
+    "landing": 1
+  },
+  {
+    "icao24": "e484ad",
+    "callsign": "PRSPJ",
+    "firstSeen": 1778409541,
+    "lastSeen": 1778411509,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5467,
+    "landing": 1
+  }
+]
