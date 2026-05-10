@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1778440568,
+    "lastSeen": 1778441500,
+    "estDepartureAirport": "KTYS",
+    "estArrivalAirport": "75TN",
+    "flight_hours": 0.2589,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1778429138,
+    "lastSeen": 1778439317,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 2.8275,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1778424776,
+    "lastSeen": 1778439250,
+    "estDepartureAirport": "KBMG",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.0206,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1778441695,
+    "lastSeen": 1778442817,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3117,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1778441844,
+    "lastSeen": 1778442995,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3197,
+    "landing": 1
+  }
+]
