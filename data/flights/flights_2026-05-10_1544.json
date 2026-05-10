@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU91CZ",
+    "firstSeen": 1778424426,
+    "lastSeen": 1778429507,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.4114,
+    "landing": 1
+  },
+  {
+    "icao24": "491139",
+    "callsign": "DBT526",
+    "firstSeen": 1778420800,
+    "lastSeen": 1778428535,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 2.1486,
+    "landing": 1
+  },
+  {
+    "icao24": "7c37bb",
+    "callsign": "VHLAL",
+    "firstSeen": 1778382743,
+    "lastSeen": 1778429181,
+    "estDepartureAirport": "YSSY",
+    "estArrivalAirport": "KCMA",
+    "flight_hours": 12.8994,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1778422081,
+    "lastSeen": 1778428863,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 1.8839,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9dac",
+    "callsign": "SJE97",
+    "firstSeen": 1778420339,
+    "lastSeen": 1778430203,
+    "estDepartureAirport": "KMBS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.74,
+    "landing": 1
+  }
+]
