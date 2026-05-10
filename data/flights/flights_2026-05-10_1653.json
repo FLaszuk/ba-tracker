@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH72D",
+    "firstSeen": 1778424260,
+    "lastSeen": 1778432536,
+    "estDepartureAirport": "LFRM",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2989,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20fe",
+    "callsign": "VJT981",
+    "firstSeen": 1778430311,
+    "lastSeen": 1778433081,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.7694,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fe42",
+    "callsign": "N163QS",
+    "firstSeen": 1778431087,
+    "lastSeen": 1778431739,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1811,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1778430406,
+    "lastSeen": 1778435907,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K41A",
+    "flight_hours": 1.5281,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3983",
+    "callsign": "N822NP",
+    "firstSeen": 1778429192,
+    "lastSeen": 1778431546,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "16AR",
+    "flight_hours": 0.6539,
+    "landing": 1
+  },
+  {
+    "icao24": "adca6c",
+    "callsign": "N988S",
+    "firstSeen": 1778434886,
+    "lastSeen": 1778436622,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.4822,
+    "landing": 1
+  },
+  {
+    "icao24": "c03f27",
+    "callsign": "CFXXU",
+    "firstSeen": 1778407548,
+    "lastSeen": 1778435810,
+    "estDepartureAirport": "LIRS",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.8506,
+    "landing": 1
+  }
+]
