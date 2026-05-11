@@ -4,61 +4,61 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 55.9,
-      "total_landings": 40
+      "total_hours": 62.2,
+      "total_landings": 46
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 41.9,
-      "total_landings": 28
+      "total_hours": 51.0,
+      "total_landings": 35
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 51.4,
-      "total_landings": 27
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 23.8,
-      "total_landings": 22
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 22.2,
-      "total_landings": 20
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 11.4,
-      "total_landings": 17
+      "total_hours": 57.6,
+      "total_landings": 32
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 41.9,
-      "total_landings": 17
+      "total_hours": 58.6,
+      "total_landings": 25
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 25.1,
+      "total_landings": 23
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 23.3,
+      "total_landings": 22
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 12.0,
+      "total_landings": 18
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 42.6,
+      "total_landings": 18
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 16.0,
-      "total_landings": 15
+      "total_hours": 17.6,
+      "total_landings": 16
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Legacy 600",
       "total_hours": 11.7,
-      "total_landings": 13
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 40.4,
       "total_landings": 13
     }
   ]
