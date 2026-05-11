@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3463",
+    "firstSeen": 1778498460,
+    "lastSeen": 1778499830,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": "EVAD",
+    "flight_hours": 0.3806,
+    "landing": 1
+  },
+  {
+    "icao24": "a00067",
+    "callsign": "N1EA",
+    "firstSeen": 1778500606,
+    "lastSeen": 1778501562,
+    "estDepartureAirport": "KFYV",
+    "estArrivalAirport": "AR89",
+    "flight_hours": 0.2656,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1778498510,
+    "lastSeen": 1778500314,
+    "estDepartureAirport": "KAVO",
+    "estArrivalAirport": "MYGD",
+    "flight_hours": 0.5011,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1778497650,
+    "lastSeen": 1778499576,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.535,
+    "landing": 1
+  },
+  {
+    "icao24": "e03059",
+    "callsign": "LVCAY",
+    "firstSeen": 1778498075,
+    "lastSeen": 1778499326,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SAZB",
+    "flight_hours": 0.3475,
+    "landing": 1
+  }
+]
