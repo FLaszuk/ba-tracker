@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a3cdb2",
+    "callsign": "N344RS",
+    "firstSeen": 1778523269,
+    "lastSeen": 1778524368,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3053,
+    "landing": 1
+  },
+  {
+    "icao24": "a594ac",
+    "callsign": "N459MP",
+    "firstSeen": 1778506476,
+    "lastSeen": 1778529711,
+    "estDepartureAirport": "9OH8",
+    "estArrivalAirport": "PAEN",
+    "flight_hours": 6.4542,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1778508721,
+    "lastSeen": 1778527751,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 5.2861,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1778517419,
+    "lastSeen": 1778523798,
+    "estDepartureAirport": "KPIE",
+    "estArrivalAirport": "KOLY",
+    "flight_hours": 1.7719,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1778522372,
+    "lastSeen": 1778523665,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "17NC",
+    "flight_hours": 0.3592,
+    "landing": 1
+  }
+]
