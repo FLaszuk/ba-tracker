@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0c6c6",
+    "callsign": "DCM2492",
+    "firstSeen": 1778527548,
+    "lastSeen": 1778529558,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5583,
+    "landing": 1
+  },
+  {
+    "icao24": "a1ca0d",
+    "callsign": "N214TF",
+    "firstSeen": 1778522926,
+    "lastSeen": 1778532118,
+    "estDepartureAirport": "KPVD",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.5533,
+    "landing": 1
+  },
+  {
+    "icao24": "a594ac",
+    "callsign": "N459MP",
+    "firstSeen": 1778506476,
+    "lastSeen": 1778529711,
+    "estDepartureAirport": "9OH8",
+    "estArrivalAirport": "PAEN",
+    "flight_hours": 6.4542,
+    "landing": 1
+  },
+  {
+    "icao24": "ac38f5",
+    "callsign": "XEN88",
+    "firstSeen": 1778516432,
+    "lastSeen": 1778534665,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 5.0647,
+    "landing": 1
+  }
+]
