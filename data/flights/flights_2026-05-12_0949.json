@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0a0081",
+    "callsign": "7TVNC",
+    "firstSeen": 1778578381,
+    "lastSeen": 1778579402,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2836,
+    "landing": 1
+  },
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1778579801,
+    "lastSeen": 1778581925,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 0.59,
+    "landing": 1
+  },
+  {
+    "icao24": "494106",
+    "callsign": "NJE887C",
+    "firstSeen": 1778577253,
+    "lastSeen": 1778579364,
+    "estDepartureAirport": "LFJL",
+    "estArrivalAirport": "LFEV",
+    "flight_hours": 0.5864,
+    "landing": 1
+  }
+]
