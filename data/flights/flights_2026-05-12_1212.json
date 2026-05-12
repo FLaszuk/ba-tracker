@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44b2ad",
+    "callsign": "BAF70",
+    "firstSeen": 1778582073,
+    "lastSeen": 1778591049,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "LTBU",
+    "flight_hours": 2.4933,
+    "landing": 1
+  },
+  {
+    "icao24": "494106",
+    "callsign": "NJE102V",
+    "firstSeen": 1778584866,
+    "lastSeen": 1778588795,
+    "estDepartureAirport": "LFGJ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0914,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2119",
+    "callsign": "VJT405",
+    "firstSeen": 1778580298,
+    "lastSeen": 1778587815,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 2.0881,
+    "landing": 1
+  },
+  {
+    "icao24": "a8053b",
+    "callsign": "N616CA",
+    "firstSeen": 1778587095,
+    "lastSeen": 1778590051,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "CPE6",
+    "flight_hours": 0.8211,
+    "landing": 1
+  },
+  {
+    "icao24": "e073cd",
+    "callsign": "LVGOM",
+    "firstSeen": 1778585009,
+    "lastSeen": 1778587993,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8289,
+    "landing": 1
+  }
+]
