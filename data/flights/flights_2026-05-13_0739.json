@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3181",
+    "firstSeen": 1778655193,
+    "lastSeen": 1778657863,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LICR",
+    "flight_hours": 0.7417,
+    "landing": 1
+  },
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3141",
+    "firstSeen": 1778656153,
+    "lastSeen": 1778658180,
+    "estDepartureAirport": "LETO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5631,
+    "landing": 1
+  }
+]
