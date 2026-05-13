@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d05c3",
+    "callsign": "XBCFX",
+    "firstSeen": 1778690669,
+    "lastSeen": 1778701210,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 2.9281,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1778699412,
+    "lastSeen": 1778703042,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.0083,
+    "landing": 1
+  },
+  {
+    "icao24": "a413cb",
+    "callsign": "XSR362",
+    "firstSeen": 1778698528,
+    "lastSeen": 1778702125,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "92TE",
+    "flight_hours": 0.9992,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bbfa",
+    "callsign": "N404F",
+    "firstSeen": 1778698132,
+    "lastSeen": 1778702456,
+    "estDepartureAirport": "KDET",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 1.2011,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3007",
+    "callsign": "N82RP",
+    "firstSeen": 1778695402,
+    "lastSeen": 1778702720,
+    "estDepartureAirport": "80TX",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.0328,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1778697465,
+    "lastSeen": 1778701389,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KD86",
+    "flight_hours": 1.09,
+    "landing": 1
+  }
+]
