@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "880401",
+    "callsign": "MTL124",
+    "firstSeen": 1778631450,
+    "lastSeen": 1778632490,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": "VTPN",
+    "flight_hours": 0.2889,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4813",
+    "callsign": "N955JS",
+    "firstSeen": 1778628637,
+    "lastSeen": 1778632583,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.0961,
+    "landing": 1
+  }
+]
