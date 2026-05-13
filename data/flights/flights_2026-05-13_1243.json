@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cdd32",
+    "callsign": "LHB2",
+    "firstSeen": 1778675599,
+    "lastSeen": 1778679002,
+    "estDepartureAirport": "EDNY",
+    "estArrivalAirport": "LFLW",
+    "flight_hours": 0.9453,
+    "landing": 1
+  },
+  {
+    "icao24": "491d87",
+    "callsign": "NJE882R",
+    "firstSeen": 1778674856,
+    "lastSeen": 1778676448,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.4422,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1778670518,
+    "lastSeen": 1778676794,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.7433,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS25",
+    "firstSeen": 1778673490,
+    "lastSeen": 1778677820,
+    "estDepartureAirport": "KCAE",
+    "estArrivalAirport": "K2R0",
+    "flight_hours": 1.2028,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1778678073,
+    "lastSeen": 1778681036,
+    "estDepartureAirport": "LA41",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.8231,
+    "landing": 1
+  }
+]
