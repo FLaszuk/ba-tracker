@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d22f5",
+    "callsign": "VJT783",
+    "firstSeen": 1778703890,
+    "lastSeen": 1778706108,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6161,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1778705249,
+    "lastSeen": 1778706966,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4769,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1242",
+    "callsign": "N812RA",
+    "firstSeen": 1778699740,
+    "lastSeen": 1778706131,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "WY34",
+    "flight_hours": 1.7753,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1878",
+    "callsign": "N814CP",
+    "firstSeen": 1778707740,
+    "lastSeen": 1778709428,
+    "estDepartureAirport": "KDVN",
+    "estArrivalAirport": "34IL",
+    "flight_hours": 0.4689,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1778705088,
+    "lastSeen": 1778708206,
+    "estDepartureAirport": "37CN",
+    "estArrivalAirport": "33AZ",
+    "flight_hours": 0.8661,
+    "landing": 1
+  }
+]
