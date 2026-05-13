@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a3770e",
+    "callsign": "N322PL",
+    "firstSeen": 1778685520,
+    "lastSeen": 1778695279,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "1KS7",
+    "flight_hours": 2.7108,
+    "landing": 1
+  },
+  {
+    "icao24": "a95335",
+    "callsign": "N70LF",
+    "firstSeen": 1778693640,
+    "lastSeen": 1778698983,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KBFR",
+    "flight_hours": 1.4842,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1778690364,
+    "lastSeen": 1778697521,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.9881,
+    "landing": 1
+  },
+  {
+    "icao24": "ac836e",
+    "callsign": "N905TF",
+    "firstSeen": 1778696753,
+    "lastSeen": 1778697647,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KMPJ",
+    "flight_hours": 0.2483,
+    "landing": 1
+  }
+]
