@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a02cad",
+    "callsign": "N110EX",
+    "firstSeen": 1778777926,
+    "lastSeen": 1778780024,
+    "estDepartureAirport": "KJLN",
+    "estArrivalAirport": "KJBR",
+    "flight_hours": 0.5828,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778768738,
+    "lastSeen": 1778777181,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "MT52",
+    "flight_hours": 2.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e790",
+    "callsign": "N48PL",
+    "firstSeen": 1778774502,
+    "lastSeen": 1778778131,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 1.0081,
+    "landing": 1
+  },
+  {
+    "icao24": "a724ce",
+    "callsign": "N56CL",
+    "firstSeen": 1778773963,
+    "lastSeen": 1778778533,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "CD10",
+    "flight_hours": 1.2694,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1778781471,
+    "lastSeen": 1778782359,
+    "estDepartureAirport": "KN40",
+    "estArrivalAirport": "KN40",
+    "flight_hours": 0.2467,
+    "landing": 1
+  }
+]
