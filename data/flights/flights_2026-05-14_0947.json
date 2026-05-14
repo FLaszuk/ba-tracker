@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1778752482,
+    "lastSeen": 1778753890,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3911,
+    "landing": 1
+  },
+  {
+    "icao24": "a40da9",
+    "callsign": "COL360",
+    "firstSeen": 1778750098,
+    "lastSeen": 1778752745,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "EGGD",
+    "flight_hours": 0.7353,
+    "landing": 1
+  }
+]
