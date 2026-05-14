@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0cb9e",
+    "callsign": "EJA150",
+    "firstSeen": 1778793221,
+    "lastSeen": 1778798951,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.5917,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1778795054,
+    "lastSeen": 1778797490,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.6767,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1778796376,
+    "lastSeen": 1778799538,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSTF",
+    "flight_hours": 0.8783,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1778787792,
+    "lastSeen": 1778796875,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KU96",
+    "flight_hours": 2.5231,
+    "landing": 1
+  }
+]
