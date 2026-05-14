@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778720200,
+    "lastSeen": 1778721912,
+    "estDepartureAirport": "TE88",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.4756,
+    "landing": 1
+  },
+  {
+    "icao24": "e48714",
+    "callsign": "PPJMJ",
+    "firstSeen": 1778720051,
+    "lastSeen": 1778722255,
+    "estDepartureAirport": "SBAX",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.6122,
+    "landing": 1
+  }
+]
