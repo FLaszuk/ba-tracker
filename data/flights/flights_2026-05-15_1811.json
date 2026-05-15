@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1778867900,
+    "lastSeen": 1778870102,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 0.6117,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1778864492,
+    "lastSeen": 1778868152,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "AZ21",
+    "flight_hours": 1.0167,
+    "landing": 1
+  },
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1778861387,
+    "lastSeen": 1778868236,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.9025,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1778866883,
+    "lastSeen": 1778872381,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5272,
+    "landing": 1
+  },
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1778854817,
+    "lastSeen": 1778868359,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "9CA7",
+    "flight_hours": 3.7617,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1abe",
+    "callsign": "N750HF",
+    "firstSeen": 1778865370,
+    "lastSeen": 1778869751,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2169,
+    "landing": 1
+  }
+]
