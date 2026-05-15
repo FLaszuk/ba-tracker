@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH25F",
+    "firstSeen": 1778837558,
+    "lastSeen": 1778838828,
+    "estDepartureAirport": "EDDE",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.3528,
+    "landing": 1
+  },
+  {
+    "icao24": "4402ea",
+    "callsign": "OEFID",
+    "firstSeen": 1778836089,
+    "lastSeen": 1778839685,
+    "estDepartureAirport": "EDDR",
+    "estArrivalAirport": "LOSM",
+    "flight_hours": 0.9989,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU19PK",
+    "firstSeen": 1778839233,
+    "lastSeen": 1778841203,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5472,
+    "landing": 1
+  },
+  {
+    "icao24": "e48896",
+    "callsign": "PRLPG",
+    "firstSeen": 1778836574,
+    "lastSeen": 1778838342,
+    "estDepartureAirport": "SDWL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4911,
+    "landing": 1
+  }
+]
