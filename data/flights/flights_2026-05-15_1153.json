@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "49d39d",
+    "callsign": "ABP931",
+    "firstSeen": 1778841385,
+    "lastSeen": 1778846053,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2967,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1778846710,
+    "lastSeen": 1778848356,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDAN",
+    "flight_hours": 0.4572,
+    "landing": 1
+  }
+]
