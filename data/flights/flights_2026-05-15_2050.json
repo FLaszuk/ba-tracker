@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1778872861,
+    "lastSeen": 1778880638,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 2.1603,
+    "landing": 1
+  },
+  {
+    "icao24": "a54957",
+    "callsign": "LJY241",
+    "firstSeen": 1778876269,
+    "lastSeen": 1778878591,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.645,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1778879770,
+    "lastSeen": 1778882988,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.8939,
+    "landing": 1
+  }
+]

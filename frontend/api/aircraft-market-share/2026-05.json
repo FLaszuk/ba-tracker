@@ -3,27 +3,27 @@
   "data": [
     {
       "aircraft_manufacturer": "Dassault",
-      "total_hours": 160.4,
-      "total_landings": 111,
+      "total_hours": 161.3,
+      "total_landings": 112,
       "market_share_pct": 27.6
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "total_hours": 151.6,
       "total_landings": 69,
-      "market_share_pct": 26.1
+      "market_share_pct": 25.9
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "total_hours": 121.8,
-      "total_landings": 86,
-      "market_share_pct": 20.9
+      "total_hours": 123.9,
+      "total_landings": 87,
+      "market_share_pct": 21.2
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "total_hours": 62.1,
       "total_landings": 65,
-      "market_share_pct": 10.7
+      "market_share_pct": 10.6
     },
     {
       "aircraft_manufacturer": "Embraer",
