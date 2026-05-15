@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a82215",
+    "callsign": "N623HD",
+    "firstSeen": 1778853101,
+    "lastSeen": 1778856795,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 1.0261,
+    "landing": 1
+  },
+  {
+    "icao24": "e49124",
+    "callsign": "PPLBM",
+    "firstSeen": 1778845908,
+    "lastSeen": 1778858028,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 3.3667,
+    "landing": 1
+  }
+]
