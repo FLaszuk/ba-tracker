@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1778882370,
+    "lastSeen": 1778884972,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KAMA",
+    "flight_hours": 0.7228,
+    "landing": 1
+  },
+  {
+    "icao24": "a05b20",
+    "callsign": "N122A",
+    "firstSeen": 1778881922,
+    "lastSeen": 1778883551,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.4525,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ae9a",
+    "callsign": "N53FJ",
+    "firstSeen": 1778885804,
+    "lastSeen": 1778887460,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KEDC",
+    "flight_hours": 0.46,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1778879770,
+    "lastSeen": 1778882988,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.8939,
+    "landing": 1
+  }
+]
