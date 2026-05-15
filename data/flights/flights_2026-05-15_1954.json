@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4b1999",
+    "callsign": "HBJSB",
+    "firstSeen": 1778873322,
+    "lastSeen": 1778874243,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2558,
+    "landing": 1
+  },
+  {
+    "icao24": "a54957",
+    "callsign": "LJY241",
+    "firstSeen": 1778876269,
+    "lastSeen": 1778878591,
+    "estDepartureAirport": "KLBE",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.645,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1815",
+    "callsign": "N75EA",
+    "firstSeen": 1778869628,
+    "lastSeen": 1778874270,
+    "estDepartureAirport": "KPUB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2894,
+    "landing": 1
+  }
+]
