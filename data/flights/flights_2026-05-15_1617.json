@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH25H",
+    "firstSeen": 1778862497,
+    "lastSeen": 1778865093,
+    "estDepartureAirport": "EDDR",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.7211,
+    "landing": 1
+  },
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1778860324,
+    "lastSeen": 1778864297,
+    "estDepartureAirport": "LIRZ",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.1036,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2094",
+    "callsign": "AXY387M",
+    "firstSeen": 1778853875,
+    "lastSeen": 1778865939,
+    "estDepartureAirport": "LETE",
+    "estArrivalAirport": "LTBW",
+    "flight_hours": 3.3511,
+    "landing": 1
+  },
+  {
+    "icao24": "a0da7a",
+    "callsign": "EJA154",
+    "firstSeen": 1778861041,
+    "lastSeen": 1778862755,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KHVN",
+    "flight_hours": 0.4761,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e59f",
+    "callsign": "EJA157",
+    "firstSeen": 1778854429,
+    "lastSeen": 1778863560,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KLAR",
+    "flight_hours": 2.5364,
+    "landing": 1
+  },
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1778851716,
+    "lastSeen": 1778861496,
+    "estDepartureAirport": "FL63",
+    "estArrivalAirport": "K3K8",
+    "flight_hours": 2.7167,
+    "landing": 1
+  },
+  {
+    "icao24": "a6781e",
+    "callsign": "N516EA",
+    "firstSeen": 1778861511,
+    "lastSeen": 1778863868,
+    "estDepartureAirport": "KSAF",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 0.6547,
+    "landing": 1
+  },
+  {
+    "icao24": "a70174",
+    "callsign": "N550WW",
+    "firstSeen": 1778863519,
+    "lastSeen": 1778865241,
+    "estDepartureAirport": "KAZC",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.4783,
+    "landing": 1
+  }
+]
