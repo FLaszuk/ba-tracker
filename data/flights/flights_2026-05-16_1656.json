@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW1701",
+    "firstSeen": 1778949472,
+    "lastSeen": 1778954192,
+    "estDepartureAirport": "MMMY",
+    "estArrivalAirport": "MMCB",
+    "flight_hours": 1.3111,
+    "landing": 1
+  },
+  {
+    "icao24": "a15aae",
+    "callsign": "COL187",
+    "firstSeen": 1778943170,
+    "lastSeen": 1778952353,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 2.5508,
+    "landing": 1
+  },
+  {
+    "icao24": "a88a96",
+    "callsign": "N65CC",
+    "firstSeen": 1778947071,
+    "lastSeen": 1778953878,
+    "estDepartureAirport": "KAXV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8908,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5b14",
+    "callsign": "JTL96",
+    "firstSeen": 1778948643,
+    "lastSeen": 1778951763,
+    "estDepartureAirport": "8FD2",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.8667,
+    "landing": 1
+  }
+]
