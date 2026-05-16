@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1500",
+    "firstSeen": 1778944392,
+    "lastSeen": 1778946206,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5039,
+    "landing": 1
+  },
+  {
+    "icao24": "a29d25",
+    "callsign": "FDJ268",
+    "firstSeen": 1778942570,
+    "lastSeen": 1778948154,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5511,
+    "landing": 1
+  }
+]
