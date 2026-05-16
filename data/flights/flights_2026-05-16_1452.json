@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0d30c",
+    "callsign": "EJA152",
+    "firstSeen": 1778941214,
+    "lastSeen": 1778944229,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.8375,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e993",
+    "callsign": "DCM3057",
+    "firstSeen": 1778941103,
+    "lastSeen": 1778943725,
+    "estDepartureAirport": "FA49",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.7283,
+    "landing": 1
+  }
+]
