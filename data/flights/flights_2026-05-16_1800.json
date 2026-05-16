@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW1701",
+    "firstSeen": 1778949472,
+    "lastSeen": 1778954192,
+    "estDepartureAirport": "MMMY",
+    "estArrivalAirport": "MMCB",
+    "flight_hours": 1.3111,
+    "landing": 1
+  },
+  {
+    "icao24": "a88a96",
+    "callsign": "N65CC",
+    "firstSeen": 1778947071,
+    "lastSeen": 1778953878,
+    "estDepartureAirport": "KAXV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8908,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1778947986,
+    "lastSeen": 1778956516,
+    "estDepartureAirport": "KLOT",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 2.3694,
+    "landing": 1
+  }
+]
