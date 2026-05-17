@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "add3bc",
+    "callsign": "N990MF",
+    "firstSeen": 1779038905,
+    "lastSeen": 1779042040,
+    "estDepartureAirport": "KSBN",
+    "estArrivalAirport": "KFIG",
+    "flight_hours": 0.8708,
+    "landing": 1
+  },
+  {
+    "icao24": "e4903f",
+    "callsign": "PTFLE",
+    "firstSeen": 1779039161,
+    "lastSeen": 1779041204,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUZ",
+    "flight_hours": 0.5675,
+    "landing": 1
+  }
+]
