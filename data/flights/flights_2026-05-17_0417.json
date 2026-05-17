@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "800140",
+    "callsign": "VTTBT",
+    "firstSeen": 1778984671,
+    "lastSeen": 1778993010,
+    "estDepartureAirport": "VEBA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3164,
+    "landing": 1
+  },
+  {
+    "icao24": "a15d58",
+    "callsign": "TBJ25",
+    "firstSeen": 1778950868,
+    "lastSeen": 1778992016,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 11.43,
+    "landing": 1
+  }
+]
