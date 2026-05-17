@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a6df68",
+    "callsign": "CLY769",
+    "firstSeen": 1779037670,
+    "lastSeen": 1779038990,
+    "estDepartureAirport": "EGTE",
+    "estArrivalAirport": "EGJB",
+    "flight_hours": 0.3667,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1779027302,
+    "lastSeen": 1779034051,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "95OR",
+    "flight_hours": 1.8747,
+    "landing": 1
+  }
+]
