@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1779009614,
+    "lastSeen": 1779010769,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3208,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cf",
+    "callsign": "VJT453",
+    "firstSeen": 1779004784,
+    "lastSeen": 1779008634,
+    "estDepartureAirport": "EHRD",
+    "estArrivalAirport": "LFSP",
+    "flight_hours": 1.0694,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d20",
+    "callsign": "N650EB",
+    "firstSeen": 1778972704,
+    "lastSeen": 1779009705,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "LFNV",
+    "flight_hours": 10.2781,
+    "landing": 1
+  },
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1778998715,
+    "lastSeen": 1779012941,
+    "estDepartureAirport": "KSMF",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 3.9517,
+    "landing": 1
+  },
+  {
+    "icao24": "ac15a1",
+    "callsign": "N878SC",
+    "firstSeen": 1779007056,
+    "lastSeen": 1779010699,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.0119,
+    "landing": 1
+  }
+]
