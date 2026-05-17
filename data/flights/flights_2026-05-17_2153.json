@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0998a",
+    "callsign": "N138GL",
+    "firstSeen": 1779053637,
+    "lastSeen": 1779056684,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8464,
+    "landing": 1
+  },
+  {
+    "icao24": "a48e1f",
+    "callsign": "N393BZ",
+    "firstSeen": 1779049924,
+    "lastSeen": 1779055288,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.49,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1779055182,
+    "lastSeen": 1779058226,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8456,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9e7c",
+    "callsign": "N977JP",
+    "firstSeen": 1779050165,
+    "lastSeen": 1779055231,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "KSPH",
+    "flight_hours": 1.4072,
+    "landing": 1
+  }
+]
