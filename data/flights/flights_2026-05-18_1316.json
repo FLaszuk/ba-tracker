@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "48d635",
+    "callsign": "JDI20B",
+    "firstSeen": 1779106617,
+    "lastSeen": 1779116072,
+    "estDepartureAirport": "ENGM",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 2.6264,
+    "landing": 1
+  },
+  {
+    "icao24": "e49217",
+    "callsign": "GEIV02",
+    "firstSeen": 1779110736,
+    "lastSeen": 1779112763,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSIS",
+    "flight_hours": 0.5631,
+    "landing": 1
+  }
+]
