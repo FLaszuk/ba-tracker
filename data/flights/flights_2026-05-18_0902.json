@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1779094118,
+    "lastSeen": 1779096681,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.7119,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1779092702,
+    "lastSeen": 1779094630,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ESNJ",
+    "flight_hours": 0.5356,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA27E",
+    "firstSeen": 1779087374,
+    "lastSeen": 1779094634,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 2.0167,
+    "landing": 1
+  }
+]
