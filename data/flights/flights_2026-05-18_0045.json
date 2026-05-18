@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a24a70",
+    "callsign": "N247EM",
+    "firstSeen": 1779064862,
+    "lastSeen": 1779067609,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "KP14",
+    "flight_hours": 0.7631,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1779064290,
+    "lastSeen": 1779068277,
+    "estDepartureAirport": "KWBW",
+    "estArrivalAirport": "KY95",
+    "flight_hours": 1.1075,
+    "landing": 1
+  },
+  {
+    "icao24": "a5723c",
+    "callsign": "N450BG",
+    "firstSeen": 1779069422,
+    "lastSeen": 1779070549,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.3131,
+    "landing": 1
+  }
+]
