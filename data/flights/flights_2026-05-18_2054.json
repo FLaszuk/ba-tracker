@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "142332",
+    "callsign": "TIS1101",
+    "firstSeen": 1779135817,
+    "lastSeen": 1779137779,
+    "estDepartureAirport": "UUEE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.545,
+    "landing": 1
+  },
+  {
+    "icao24": "a28e0b",
+    "callsign": "N264C",
+    "firstSeen": 1779138353,
+    "lastSeen": 1779139518,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3236,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f7fe",
+    "callsign": "N484FM",
+    "firstSeen": 1779133372,
+    "lastSeen": 1779137196,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KP33",
+    "flight_hours": 1.0622,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1779137808,
+    "lastSeen": 1779139107,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KU96",
+    "flight_hours": 0.3608,
+    "landing": 1
+  }
+]
