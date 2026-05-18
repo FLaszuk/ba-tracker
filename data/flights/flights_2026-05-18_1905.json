@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1779132081,
+    "lastSeen": 1779133895,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "SN63",
+    "flight_hours": 0.5039,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1779126581,
+    "lastSeen": 1779135625,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "CD32",
+    "flight_hours": 2.5122,
+    "landing": 1
+  }
+]
