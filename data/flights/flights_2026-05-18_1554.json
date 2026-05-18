@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "516001",
+    "callsign": "4OMNE",
+    "firstSeen": 1779110981,
+    "lastSeen": 1779119474,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "LYPG",
+    "flight_hours": 2.3592,
+    "landing": 1
+  },
+  {
+    "icao24": "a00d65",
+    "callsign": "N102NY",
+    "firstSeen": 1779123319,
+    "lastSeen": 1779125711,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KPVU",
+    "flight_hours": 0.6644,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1779114533,
+    "lastSeen": 1779122999,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "80OR",
+    "flight_hours": 2.3517,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d654",
+    "callsign": "N54HT",
+    "firstSeen": 1779110176,
+    "lastSeen": 1779119768,
+    "estDepartureAirport": "KCXY",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 2.6644,
+    "landing": 1
+  },
+  {
+    "icao24": "a70174",
+    "callsign": "N550WW",
+    "firstSeen": 1779120849,
+    "lastSeen": 1779123538,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSGU",
+    "flight_hours": 0.7469,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8e76",
+    "callsign": "HRC908",
+    "firstSeen": 1779116306,
+    "lastSeen": 1779119242,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "2XA0",
+    "flight_hours": 0.8156,
+    "landing": 1
+  },
+  {
+    "icao24": "adcd5e",
+    "callsign": "N989JC",
+    "firstSeen": 1779115142,
+    "lastSeen": 1779119612,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "KCXY",
+    "flight_hours": 1.2417,
+    "landing": 1
+  }
+]
