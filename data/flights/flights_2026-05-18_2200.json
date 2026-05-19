@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1779137236,
+    "lastSeen": 1779142065,
+    "estDepartureAirport": "K9A1",
+    "estArrivalAirport": "MYGD",
+    "flight_hours": 1.3414,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c1f0",
+    "callsign": "EJM3",
+    "firstSeen": 1779126426,
+    "lastSeen": 1779143438,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 4.7256,
+    "landing": 1
+  }
+]
