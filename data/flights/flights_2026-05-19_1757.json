@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d09d4",
+    "callsign": "ACW1701",
+    "firstSeen": 1779204398,
+    "lastSeen": 1779216150,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMMY",
+    "flight_hours": 3.2644,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1779213415,
+    "lastSeen": 1779215233,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KRDU",
+    "flight_hours": 0.505,
+    "landing": 1
+  },
+  {
+    "icao24": "a81fab",
+    "callsign": "N622WM",
+    "firstSeen": 1779211482,
+    "lastSeen": 1779213170,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.4689,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1815",
+    "callsign": "N75EA",
+    "firstSeen": 1779208128,
+    "lastSeen": 1779214560,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "52NE",
+    "flight_hours": 1.7867,
+    "landing": 1
+  }
+]
