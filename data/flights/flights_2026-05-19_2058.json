@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1779223633,
+    "lastSeen": 1779224856,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3397,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1779227128,
+    "lastSeen": 1779227954,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "4LL7",
+    "flight_hours": 0.2294,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1779222987,
+    "lastSeen": 1779226963,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.1044,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1779225551,
+    "lastSeen": 1779226435,
+    "estDepartureAirport": "KTYS",
+    "estArrivalAirport": "TN99",
+    "flight_hours": 0.2456,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1439",
+    "callsign": "N749CP",
+    "firstSeen": 1779220040,
+    "lastSeen": 1779224422,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "K6S3",
+    "flight_hours": 1.2172,
+    "landing": 1
+  }
+]
