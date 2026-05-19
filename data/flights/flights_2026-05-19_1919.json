@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1502",
+    "firstSeen": 1779217307,
+    "lastSeen": 1779218429,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3117,
+    "landing": 1
+  },
+  {
+    "icao24": "a37644",
+    "callsign": "N322FJ",
+    "firstSeen": 1779191353,
+    "lastSeen": 1779219529,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.8267,
+    "landing": 1
+  },
+  {
+    "icao24": "a916b1",
+    "callsign": "N685KF",
+    "firstSeen": 1779206050,
+    "lastSeen": 1779220887,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 4.1214,
+    "landing": 1
+  }
+]
