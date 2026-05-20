@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c5192",
+    "callsign": "DADLR",
+    "firstSeen": 1779267560,
+    "lastSeen": 1779272477,
+    "estDepartureAirport": "EDMO",
+    "estArrivalAirport": "EDDC",
+    "flight_hours": 1.3658,
+    "landing": 1
+  },
+  {
+    "icao24": "49d05d",
+    "callsign": "SUA5G",
+    "firstSeen": 1779260783,
+    "lastSeen": 1779271035,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": "LSTB",
+    "flight_hours": 2.8478,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1779271236,
+    "lastSeen": 1779274366,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8694,
+    "landing": 1
+  }
+]
