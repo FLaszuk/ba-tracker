@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d07a6",
+    "callsign": "XARUA",
+    "firstSeen": 1779306963,
+    "lastSeen": 1779308732,
+    "estDepartureAirport": "MMJA",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "a18d54",
+    "callsign": "N2AC",
+    "firstSeen": 1779297532,
+    "lastSeen": 1779310513,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.6058,
+    "landing": 1
+  }
+]
