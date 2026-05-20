@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cdd18",
+    "callsign": "LHB1",
+    "firstSeen": 1779294193,
+    "lastSeen": 1779298508,
+    "estDepartureAirport": "EDNY",
+    "estArrivalAirport": "LFBO",
+    "flight_hours": 1.1986,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "CNS1217",
+    "firstSeen": 1779289355,
+    "lastSeen": 1779291715,
+    "estDepartureAirport": "85GA",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 0.6556,
+    "landing": 1
+  }
+]
