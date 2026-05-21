@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1779374242,
+    "lastSeen": 1779376031,
+    "estDepartureAirport": "HLLM",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4969,
+    "landing": 1
+  },
+  {
+    "icao24": "0d097a",
+    "callsign": "LET7942",
+    "firstSeen": 1779372372,
+    "lastSeen": 1779373412,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.2889,
+    "landing": 1
+  },
+  {
+    "icao24": "43ea87",
+    "callsign": "MCNZI",
+    "firstSeen": 1779373014,
+    "lastSeen": 1779374482,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "OJAI",
+    "flight_hours": 0.4078,
+    "landing": 1
+  },
+  {
+    "icao24": "a58598",
+    "callsign": "N455KH",
+    "firstSeen": 1779372299,
+    "lastSeen": 1779373477,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 0.3272,
+    "landing": 1
+  }
+]
