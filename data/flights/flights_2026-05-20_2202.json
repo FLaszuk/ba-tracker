@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5176",
+    "firstSeen": 1779310381,
+    "lastSeen": 1779314285,
+    "estDepartureAirport": "MMMA",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 1.0844,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1779301477,
+    "lastSeen": 1779315000,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 3.7564,
+    "landing": 1
+  }
+]
