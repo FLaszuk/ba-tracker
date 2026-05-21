@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1779323053,
+    "lastSeen": 1779333896,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": "33ID",
+    "flight_hours": 3.0119,
+    "landing": 1
+  },
+  {
+    "icao24": "acb854",
+    "callsign": "COL919",
+    "firstSeen": 1779331100,
+    "lastSeen": 1779332867,
+    "estDepartureAirport": "KMGY",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.4908,
+    "landing": 1
+  }
+]
