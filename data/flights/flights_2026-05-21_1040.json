@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1779359180,
+    "lastSeen": 1779361217,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5658,
+    "landing": 1
+  },
+  {
+    "icao24": "8002ce",
+    "callsign": "VUAVV",
+    "firstSeen": 1779360351,
+    "lastSeen": 1779362244,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5258,
+    "landing": 1
+  }
+]
