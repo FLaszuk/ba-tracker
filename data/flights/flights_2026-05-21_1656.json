@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1779386207,
+    "lastSeen": 1779389075,
+    "estDepartureAirport": "EDVE",
+    "estArrivalAirport": "LOWS",
+    "flight_hours": 0.7967,
+    "landing": 1
+  },
+  {
+    "icao24": "4d206d",
+    "callsign": "HYP001",
+    "firstSeen": 1779369854,
+    "lastSeen": 1779382521,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "UGSB",
+    "flight_hours": 3.5186,
+    "landing": 1
+  },
+  {
+    "icao24": "a37211",
+    "callsign": "TWY321",
+    "firstSeen": 1779354899,
+    "lastSeen": 1779383172,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.8536,
+    "landing": 1
+  },
+  {
+    "icao24": "a63308",
+    "callsign": "N499RK",
+    "firstSeen": 1779379852,
+    "lastSeen": 1779387005,
+    "estDepartureAirport": "KAQP",
+    "estArrivalAirport": "KX54",
+    "flight_hours": 1.9869,
+    "landing": 1
+  }
+]
