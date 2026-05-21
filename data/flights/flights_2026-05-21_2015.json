@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0d028e",
+    "callsign": "XASAP",
+    "firstSeen": 1779393444,
+    "lastSeen": 1779394837,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3869,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1779390159,
+    "lastSeen": 1779394166,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 1.1131,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1779391737,
+    "lastSeen": 1779394210,
+    "estDepartureAirport": "TA30",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.6869,
+    "landing": 1
+  },
+  {
+    "icao24": "a55b7f",
+    "callsign": "N444WT",
+    "firstSeen": 1779390486,
+    "lastSeen": 1779394517,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KEKA",
+    "flight_hours": 1.1197,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1779397424,
+    "lastSeen": 1779399715,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 0.6364,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3bc6",
+    "callsign": "KFB822",
+    "firstSeen": 1779390390,
+    "lastSeen": 1779397495,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 1.9736,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7033",
+    "callsign": "N900LN",
+    "firstSeen": 1779395797,
+    "lastSeen": 1779397442,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "LS41",
+    "flight_hours": 0.4569,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1779383128,
+    "lastSeen": 1779394170,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 3.0672,
+    "landing": 1
+  }
+]
