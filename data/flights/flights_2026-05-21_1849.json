@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1500",
+    "firstSeen": 1779390093,
+    "lastSeen": 1779391233,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3167,
+    "landing": 1
+  },
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1779386207,
+    "lastSeen": 1779389075,
+    "estDepartureAirport": "EDVE",
+    "estArrivalAirport": "LOWS",
+    "flight_hours": 0.7967,
+    "landing": 1
+  },
+  {
+    "icao24": "493281",
+    "callsign": "NJE349M",
+    "firstSeen": 1779390758,
+    "lastSeen": 1779391490,
+    "estDepartureAirport": "LQSA",
+    "estArrivalAirport": "LYNK",
+    "flight_hours": 0.2033,
+    "landing": 1
+  },
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1779373058,
+    "lastSeen": 1779390688,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 4.8972,
+    "landing": 1
+  },
+  {
+    "icao24": "a1828d",
+    "callsign": "LBQ197",
+    "firstSeen": 1779378803,
+    "lastSeen": 1779393727,
+    "estDepartureAirport": "KTVC",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 4.1456,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS1210",
+    "firstSeen": 1779381336,
+    "lastSeen": 1779389795,
+    "estDepartureAirport": "KDWH",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.3497,
+    "landing": 1
+  }
+]
