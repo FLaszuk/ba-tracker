@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c5c41",
+    "callsign": "BTX1A",
+    "firstSeen": 1779428545,
+    "lastSeen": 1779448693,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "CYGP",
+    "flight_hours": 5.5967,
+    "landing": 1
+  },
+  {
+    "icao24": "4d207f",
+    "callsign": "VJT732",
+    "firstSeen": 1779441380,
+    "lastSeen": 1779449642,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LTBU",
+    "flight_hours": 2.295,
+    "landing": 1
+  }
+]
