@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1405f",
+    "callsign": "N18WZ",
+    "firstSeen": 1779478250,
+    "lastSeen": 1779481040,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.775,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a7c7",
+    "callsign": "N528MP",
+    "firstSeen": 1779482602,
+    "lastSeen": 1779483544,
+    "estDepartureAirport": "PHSF",
+    "estArrivalAirport": "PHKO",
+    "flight_hours": 0.2617,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1779480517,
+    "lastSeen": 1779481907,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3861,
+    "landing": 1
+  }
+]
