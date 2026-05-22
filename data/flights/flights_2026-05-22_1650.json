@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "48b70c",
+    "callsign": "AMQ1M",
+    "firstSeen": 1779463295,
+    "lastSeen": 1779472903,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "EPPO",
+    "flight_hours": 2.6689,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f1d2",
+    "callsign": "N224WA",
+    "firstSeen": 1779467736,
+    "lastSeen": 1779469437,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "KT23",
+    "flight_hours": 0.4725,
+    "landing": 1
+  }
+]
