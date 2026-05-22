@@ -1,0 +1,112 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1500",
+    "firstSeen": 1779475296,
+    "lastSeen": 1779476689,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3869,
+    "landing": 1
+  },
+  {
+    "icao24": "0d090f",
+    "callsign": "XAGNI",
+    "firstSeen": 1779449835,
+    "lastSeen": 1779475435,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 7.1111,
+    "landing": 1
+  },
+  {
+    "icao24": "a01500",
+    "callsign": "N104QT",
+    "firstSeen": 1779473633,
+    "lastSeen": 1779475973,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "4CO0",
+    "flight_hours": 0.65,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1779474915,
+    "lastSeen": 1779478353,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.955,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1779454111,
+    "lastSeen": 1779475395,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": null,
+    "flight_hours": 5.9122,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fe42",
+    "callsign": "EJA163",
+    "firstSeen": 1779469819,
+    "lastSeen": 1779475241,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBDQ",
+    "flight_hours": 1.5061,
+    "landing": 1
+  },
+  {
+    "icao24": "a5701c",
+    "callsign": "N45DP",
+    "firstSeen": 1779467154,
+    "lastSeen": 1779476131,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4936,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ff7f",
+    "callsign": "N550AV",
+    "firstSeen": 1779467998,
+    "lastSeen": 1779477147,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "AR43",
+    "flight_hours": 2.5414,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3ff3",
+    "callsign": "HNW900",
+    "firstSeen": 1779472049,
+    "lastSeen": 1779474897,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "KPVU",
+    "flight_hours": 0.7911,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3ff3",
+    "callsign": "HNW900",
+    "firstSeen": 1779476314,
+    "lastSeen": 1779477067,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "KPVU",
+    "flight_hours": 0.2092,
+    "landing": 1
+  },
+  {
+    "icao24": "ad363d",
+    "callsign": "N950SF",
+    "firstSeen": 1779466461,
+    "lastSeen": 1779474600,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "MYAS",
+    "flight_hours": 2.2608,
+    "landing": 1
+  }
+]
