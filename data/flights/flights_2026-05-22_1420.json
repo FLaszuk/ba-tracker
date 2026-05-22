@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU82AQ",
+    "firstSeen": 1779456792,
+    "lastSeen": 1779461315,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 1.2564,
+    "landing": 1
+  },
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1779458058,
+    "lastSeen": 1779459855,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": "YCRN",
+    "flight_hours": 0.4992,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c95c",
+    "callsign": "RNI41",
+    "firstSeen": 1779459966,
+    "lastSeen": 1779461464,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.4161,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1779456054,
+    "lastSeen": 1779459842,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 1.0522,
+    "landing": 1
+  },
+  {
+    "icao24": "a25849",
+    "callsign": "TWY20",
+    "firstSeen": 1779457790,
+    "lastSeen": 1779462872,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4117,
+    "landing": 1
+  },
+  {
+    "icao24": "a572e7",
+    "callsign": "PWA371",
+    "firstSeen": 1779458297,
+    "lastSeen": 1779459405,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3078,
+    "landing": 1
+  },
+  {
+    "icao24": "a597ee",
+    "callsign": "N46GX",
+    "firstSeen": 1779429075,
+    "lastSeen": 1779462235,
+    "estDepartureAirport": "RKSS",
+    "estArrivalAirport": "KBFI",
+    "flight_hours": 9.2111,
+    "landing": 1
+  }
+]
