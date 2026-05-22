@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a17eaa",
+    "callsign": "N196CC",
+    "firstSeen": 1779389950,
+    "lastSeen": 1779413898,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 6.6522,
+    "landing": 1
+  },
+  {
+    "icao24": "a6368a",
+    "callsign": "N5PG",
+    "firstSeen": 1779416044,
+    "lastSeen": 1779417287,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1779408934,
+    "lastSeen": 1779414304,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.4917,
+    "landing": 1
+  },
+  {
+    "icao24": "c059cb",
+    "callsign": "CGIAC",
+    "firstSeen": 1779409327,
+    "lastSeen": 1779418397,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "CYXE",
+    "flight_hours": 2.5194,
+    "landing": 1
+  }
+]
