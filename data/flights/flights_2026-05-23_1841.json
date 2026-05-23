@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2132",
+    "callsign": "VJT968",
+    "firstSeen": 1779553396,
+    "lastSeen": 1779564769,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "OJAI",
+    "flight_hours": 3.1592,
+    "landing": 1
+  },
+  {
+    "icao24": "a00468",
+    "callsign": "N10X",
+    "firstSeen": 1779559017,
+    "lastSeen": 1779565997,
+    "estDepartureAirport": "KBDN",
+    "estArrivalAirport": "KPHX",
+    "flight_hours": 1.9389,
+    "landing": 1
+  },
+  {
+    "icao24": "a3a150",
+    "callsign": "LVA442",
+    "firstSeen": 1779536868,
+    "lastSeen": 1779564456,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 7.6633,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1779556475,
+    "lastSeen": 1779563648,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9925,
+    "landing": 1
+  }
+]
