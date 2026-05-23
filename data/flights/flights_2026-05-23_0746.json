@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494104",
+    "callsign": "NJE526T",
+    "firstSeen": 1779517687,
+    "lastSeen": 1779522467,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.3278,
+    "landing": 1
+  },
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI601",
+    "firstSeen": 1779524143,
+    "lastSeen": 1779525323,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3278,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1779524412,
+    "lastSeen": 1779525846,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3983,
+    "landing": 1
+  }
+]
