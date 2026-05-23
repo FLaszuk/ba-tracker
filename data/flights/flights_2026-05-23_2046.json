@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a598b9",
+    "callsign": "N46R",
+    "firstSeen": 1779557281,
+    "lastSeen": 1779571148,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "CYYC",
+    "flight_hours": 3.8519,
+    "landing": 1
+  },
+  {
+    "icao24": "a7e534",
+    "callsign": "EJM58",
+    "firstSeen": 1779560813,
+    "lastSeen": 1779568711,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 2.1939,
+    "landing": 1
+  }
+]
