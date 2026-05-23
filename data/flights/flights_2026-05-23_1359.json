@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c564f",
+    "callsign": "VJH632",
+    "firstSeen": 1779542754,
+    "lastSeen": 1779544280,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "GMMY",
+    "flight_hours": 0.4239,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ2TJ",
+    "firstSeen": 1779542954,
+    "lastSeen": 1779545191,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6214,
+    "landing": 1
+  },
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1779542218,
+    "lastSeen": 1779544923,
+    "estDepartureAirport": "K09J",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.7514,
+    "landing": 1
+  },
+  {
+    "icao24": "a98efb",
+    "callsign": "N715DR",
+    "firstSeen": 1779543331,
+    "lastSeen": 1779547020,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0247,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4cf1",
+    "callsign": "N956WM",
+    "firstSeen": 1779541643,
+    "lastSeen": 1779547460,
+    "estDepartureAirport": "KOJC",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.6158,
+    "landing": 1
+  }
+]
