@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a55e9f",
+    "callsign": "EJM445",
+    "firstSeen": 1779552379,
+    "lastSeen": 1779557529,
+    "estDepartureAirport": "KCMI",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.4306,
+    "landing": 1
+  },
+  {
+    "icao24": "adf45a",
+    "callsign": "EJM999",
+    "firstSeen": 1779546759,
+    "lastSeen": 1779556982,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8397,
+    "landing": 1
+  }
+]
