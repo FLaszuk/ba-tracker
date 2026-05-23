@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1779545786,
+    "lastSeen": 1779549317,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9808,
+    "landing": 1
+  },
+  {
+    "icao24": "3b77e4",
+    "callsign": "CTM1281",
+    "firstSeen": 1779547659,
+    "lastSeen": 1779551280,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFRN",
+    "flight_hours": 1.0058,
+    "landing": 1
+  },
+  {
+    "icao24": "a29251",
+    "callsign": "N265HT",
+    "firstSeen": 1779541755,
+    "lastSeen": 1779548384,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8414,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1779546989,
+    "lastSeen": 1779552320,
+    "estDepartureAirport": "KHXD",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 1.4808,
+    "landing": 1
+  }
+]
