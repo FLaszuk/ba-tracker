@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a18da2",
+    "callsign": "N2DF",
+    "firstSeen": 1779481837,
+    "lastSeen": 1779490299,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "TXKF",
+    "flight_hours": 2.3506,
+    "landing": 1
+  },
+  {
+    "icao24": "a88de8",
+    "callsign": "N650NB",
+    "firstSeen": 1779479023,
+    "lastSeen": 1779487656,
+    "estDepartureAirport": "KORD",
+    "estArrivalAirport": "KU96",
+    "flight_hours": 2.3981,
+    "landing": 1
+  },
+  {
+    "icao24": "a8e78e",
+    "callsign": "TWY34",
+    "firstSeen": 1779486024,
+    "lastSeen": 1779487336,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.3644,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "N938QS",
+    "firstSeen": 1779486352,
+    "lastSeen": 1779486719,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1019,
+    "landing": 1
+  }
+]
