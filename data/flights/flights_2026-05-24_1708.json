@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1779637191,
+    "lastSeen": 1779643069,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6328,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4797",
+    "callsign": "EPI394",
+    "firstSeen": 1779641901,
+    "lastSeen": 1779645284,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "KGLE",
+    "flight_hours": 0.9397,
+    "landing": 1
+  }
+]
