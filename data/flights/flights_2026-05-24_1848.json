@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a283fc",
+    "callsign": "N261PC",
+    "firstSeen": 1779647041,
+    "lastSeen": 1779651047,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KHIO",
+    "flight_hours": 1.1128,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1779642942,
+    "lastSeen": 1779648115,
+    "estDepartureAirport": "0ID4",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.4369,
+    "landing": 1
+  },
+  {
+    "icao24": "a83ce8",
+    "callsign": "N63RP",
+    "firstSeen": 1779646650,
+    "lastSeen": 1779648608,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5439,
+    "landing": 1
+  },
+  {
+    "icao24": "a981cc",
+    "callsign": "N711WV",
+    "firstSeen": 1779633910,
+    "lastSeen": 1779649639,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 4.3692,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c8f",
+    "callsign": "PPWMA",
+    "firstSeen": 1779644855,
+    "lastSeen": 1779648069,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8928,
+    "landing": 1
+  }
+]
