@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "044037",
+    "callsign": "GHA002",
+    "firstSeen": 1779632342,
+    "lastSeen": 1779634253,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBFZ",
+    "flight_hours": 0.5308,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2491",
+    "callsign": "N946MM",
+    "firstSeen": 1779632193,
+    "lastSeen": 1779637300,
+    "estDepartureAirport": "KLWB",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 1.4186,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1779627373,
+    "lastSeen": 1779635198,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SBMT",
+    "flight_hours": 2.1736,
+    "landing": 1
+  }
+]
