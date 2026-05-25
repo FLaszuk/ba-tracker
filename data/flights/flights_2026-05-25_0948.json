@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3434ce",
+    "callsign": "GES401V",
+    "firstSeen": 1779695844,
+    "lastSeen": 1779702274,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7861,
+    "landing": 1
+  },
+  {
+    "icao24": "49130d",
+    "callsign": "NJE846G",
+    "firstSeen": 1779694405,
+    "lastSeen": 1779702379,
+    "estDepartureAirport": "EGHH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.215,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE178F",
+    "firstSeen": 1779697717,
+    "lastSeen": 1779702246,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2581,
+    "landing": 1
+  }
+]
