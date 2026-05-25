@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2131",
+    "callsign": "VJT957",
+    "firstSeen": 1779720170,
+    "lastSeen": 1779736169,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 4.4442,
+    "landing": 1
+  },
+  {
+    "icao24": "e06554",
+    "callsign": "",
+    "firstSeen": 1779734967,
+    "lastSeen": 1779736026,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUAA",
+    "flight_hours": 0.2942,
+    "landing": 1
+  }
+]
