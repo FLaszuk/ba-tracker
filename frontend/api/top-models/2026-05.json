@@ -22,8 +22,8 @@
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
-      "total_hours": 51.8,
-      "total_landings": 49
+      "total_hours": 52.7,
+      "total_landings": 50
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -38,15 +38,15 @@
       "total_landings": 39
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 71.9,
+      "total_landings": 37
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 39.8,
-      "total_landings": 36
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 71.7,
       "total_landings": 36
     },
     {

@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a6331a",
+    "callsign": "GDG49",
+    "firstSeen": 1779831620,
+    "lastSeen": 1779832528,
+    "estDepartureAirport": "KSCK",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.2522,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1779825262,
+    "lastSeen": 1779828542,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 0.9111,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1779824118,
+    "lastSeen": 1779826719,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.7225,
+    "landing": 1
+  }
+]
