@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a13c49",
+    "callsign": "N179TD",
+    "firstSeen": 1779825071,
+    "lastSeen": 1779825685,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KLGB",
+    "flight_hours": 0.1706,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cc0",
+    "callsign": "N650AF",
+    "firstSeen": 1779817913,
+    "lastSeen": 1779822535,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KU89",
+    "flight_hours": 1.2839,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1779818937,
+    "lastSeen": 1779822520,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.9953,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1779818944,
+    "lastSeen": 1779821491,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7075,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1779811067,
+    "lastSeen": 1779821034,
+    "estDepartureAirport": "KSDF",
+    "estArrivalAirport": "K6S3",
+    "flight_hours": 2.7686,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1779824118,
+    "lastSeen": 1779826719,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.7225,
+    "landing": 1
+  }
+]
