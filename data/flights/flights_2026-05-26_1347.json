@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "47929b",
+    "callsign": "RTG8016",
+    "firstSeen": 1779801557,
+    "lastSeen": 1779807356,
+    "estDepartureAirport": "ENVA",
+    "estArrivalAirport": "ENVA",
+    "flight_hours": 1.6108,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2094",
+    "callsign": "AXY790E",
+    "firstSeen": 1779802560,
+    "lastSeen": 1779805482,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LAGJ",
+    "flight_hours": 0.8117,
+    "landing": 1
+  },
+  {
+    "icao24": "a63689",
+    "callsign": "N5PF",
+    "firstSeen": 1779801150,
+    "lastSeen": 1779803444,
+    "estDepartureAirport": "KTYS",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.6372,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1779800043,
+    "lastSeen": 1779803175,
+    "estDepartureAirport": "KRNT",
+    "estArrivalAirport": "33ID",
+    "flight_hours": 0.87,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1779800732,
+    "lastSeen": 1779803593,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.7947,
+    "landing": 1
+  }
+]
