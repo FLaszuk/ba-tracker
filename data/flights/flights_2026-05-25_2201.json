@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1405f",
+    "callsign": "N18WZ",
+    "firstSeen": 1779744869,
+    "lastSeen": 1779747565,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.7489,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a98b",
+    "callsign": "N4SM",
+    "firstSeen": 1779735707,
+    "lastSeen": 1779745938,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 2.8419,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bf7f",
+    "callsign": "N405D",
+    "firstSeen": 1779746547,
+    "lastSeen": 1779749119,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KIAD",
+    "flight_hours": 0.7144,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1779747683,
+    "lastSeen": 1779749663,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "16CO",
+    "flight_hours": 0.55,
+    "landing": 1
+  }
+]
