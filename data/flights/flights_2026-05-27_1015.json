@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac70d1",
+    "callsign": "TWY925",
+    "firstSeen": 1779875860,
+    "lastSeen": 1779877305,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4014,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1779875598,
+    "lastSeen": 1779878077,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.6886,
+    "landing": 1
+  }
+]
