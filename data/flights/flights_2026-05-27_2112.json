@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1779907108,
+    "lastSeen": 1779916427,
+    "estDepartureAirport": "KISW",
+    "estArrivalAirport": "KP10",
+    "flight_hours": 2.5886,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c422",
+    "callsign": "N406NL",
+    "firstSeen": 1779912897,
+    "lastSeen": 1779921390,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 2.3592,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1779914041,
+    "lastSeen": 1779916871,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.7861,
+    "landing": 1
+  }
+]
