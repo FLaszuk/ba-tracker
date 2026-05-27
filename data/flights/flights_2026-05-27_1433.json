@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ3UU",
+    "firstSeen": 1779889411,
+    "lastSeen": 1779893193,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0506,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1779894078,
+    "lastSeen": 1779896047,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.5469,
+    "landing": 1
+  },
+  {
+    "icao24": "a724ce",
+    "callsign": "N56CL",
+    "firstSeen": 1779892831,
+    "lastSeen": 1779895588,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "K6V4",
+    "flight_hours": 0.7658,
+    "landing": 1
+  }
+]
