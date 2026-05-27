@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d212d",
+    "callsign": "VJT938",
+    "firstSeen": 1779864716,
+    "lastSeen": 1779867235,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": "VLVT",
+    "flight_hours": 0.6997,
+    "landing": 1
+  },
+  {
+    "icao24": "a2409d",
+    "callsign": "GOGO1",
+    "firstSeen": 1779865052,
+    "lastSeen": 1779866688,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KOKS",
+    "flight_hours": 0.4544,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1779857261,
+    "lastSeen": 1779865242,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KRNT",
+    "flight_hours": 2.2169,
+    "landing": 1
+  }
+]
