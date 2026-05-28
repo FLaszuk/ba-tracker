@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a8e78e",
+    "callsign": "TWY34",
+    "firstSeen": 1779998722,
+    "lastSeen": 1779999169,
+    "estDepartureAirport": "KMHR",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.1242,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1779993153,
+    "lastSeen": 1779995893,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.7611,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1779997315,
+    "lastSeen": 1779998002,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNPO",
+    "flight_hours": 0.1908,
+    "landing": 1
+  }
+]
