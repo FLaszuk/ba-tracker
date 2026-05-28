@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1779945108,
+    "lastSeen": 1779948098,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.8306,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf42d",
+    "callsign": "EUL3T",
+    "firstSeen": 1779942288,
+    "lastSeen": 1779944188,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LKPR",
+    "flight_hours": 0.5278,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1779942733,
+    "lastSeen": 1779945710,
+    "estDepartureAirport": "CYLW",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.8269,
+    "landing": 1
+  }
+]
