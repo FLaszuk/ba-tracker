@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1780013691,
+    "lastSeen": 1780016062,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.6586,
+    "landing": 1
+  },
+  {
+    "icao24": "a9905a",
+    "callsign": "N715TS",
+    "firstSeen": 1780003042,
+    "lastSeen": 1780015500,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 3.4606,
+    "landing": 1
+  }
+]
