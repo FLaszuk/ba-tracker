@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP402",
+    "firstSeen": 1780058131,
+    "lastSeen": 1780061042,
+    "estDepartureAirport": "LEMP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8086,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc1c8",
+    "callsign": "AWH44D",
+    "firstSeen": 1780049745,
+    "lastSeen": 1780055105,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 1.4889,
+    "landing": 1
+  },
+  {
+    "icao24": "4b18e7",
+    "callsign": "HBJLF",
+    "firstSeen": 1780056964,
+    "lastSeen": 1780058983,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5608,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT3583",
+    "firstSeen": 1780052042,
+    "lastSeen": 1780056154,
+    "estDepartureAirport": "EVRA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1422,
+    "landing": 1
+  },
+  {
+    "icao24": "800661",
+    "callsign": "VTSNP",
+    "firstSeen": 1780054159,
+    "lastSeen": 1780055282,
+    "estDepartureAirport": "VOBG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3119,
+    "landing": 1
+  }
+]
