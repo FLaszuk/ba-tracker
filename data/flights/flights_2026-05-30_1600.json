@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1780155110,
+    "lastSeen": 1780158921,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "0IL9",
+    "flight_hours": 1.0586,
+    "landing": 1
+  },
+  {
+    "icao24": "a26b80",
+    "callsign": "EJA255",
+    "firstSeen": 1780140199,
+    "lastSeen": 1780157578,
+    "estDepartureAirport": "KFDK",
+    "estArrivalAirport": "94OR",
+    "flight_hours": 4.8275,
+    "landing": 1
+  }
+]
