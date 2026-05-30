@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "493281",
+    "callsign": "NJE475B",
+    "firstSeen": 1780123679,
+    "lastSeen": 1780131478,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 2.1664,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT979W",
+    "firstSeen": 1780121750,
+    "lastSeen": 1780127824,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 1.6872,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cf",
+    "callsign": "VJT453",
+    "firstSeen": 1780125245,
+    "lastSeen": 1780129833,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.2744,
+    "landing": 1
+  }
+]
