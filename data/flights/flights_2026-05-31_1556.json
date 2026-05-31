@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "300619",
+    "callsign": "ULC25",
+    "firstSeen": 1780240549,
+    "lastSeen": 1780242864,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.6431,
+    "landing": 1
+  },
+  {
+    "icao24": "a0020b",
+    "callsign": "N1WW",
+    "firstSeen": 1780234078,
+    "lastSeen": 1780246372,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 3.415,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N500JJ",
+    "firstSeen": 1780244433,
+    "lastSeen": 1780245325,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 0.2478,
+    "landing": 1
+  },
+  {
+    "icao24": "a6630f",
+    "callsign": "N510SR",
+    "firstSeen": 1780242943,
+    "lastSeen": 1780245523,
+    "estDepartureAirport": "LOWL",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 0.7167,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1439",
+    "callsign": "N749CP",
+    "firstSeen": 1780243201,
+    "lastSeen": 1780244401,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3333,
+    "landing": 1
+  }
+]
