@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1780260307,
+    "lastSeen": 1780261814,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4186,
+    "landing": 1
+  },
+  {
+    "icao24": "a19734",
+    "callsign": "N201RC",
+    "firstSeen": 1780258530,
+    "lastSeen": 1780261176,
+    "estDepartureAirport": "XS39",
+    "estArrivalAirport": "KT50",
+    "flight_hours": 0.735,
+    "landing": 1
+  }
+]
