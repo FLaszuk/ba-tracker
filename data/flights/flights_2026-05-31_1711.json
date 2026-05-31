@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "43eb83",
+    "callsign": "2JSEG",
+    "firstSeen": 1780245636,
+    "lastSeen": 1780248217,
+    "estDepartureAirport": "KSAF",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 0.7169,
+    "landing": 1
+  },
+  {
+    "icao24": "a0001a",
+    "callsign": "CXF1",
+    "firstSeen": 1780237776,
+    "lastSeen": 1780248013,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "3MI2",
+    "flight_hours": 2.8436,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1780248264,
+    "lastSeen": 1780250074,
+    "estDepartureAirport": "KORF",
+    "estArrivalAirport": "03NC",
+    "flight_hours": 0.5028,
+    "landing": 1
+  },
+  {
+    "icao24": "a63689",
+    "callsign": "N5PF",
+    "firstSeen": 1780235223,
+    "lastSeen": 1780250517,
+    "estDepartureAirport": "TN98",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 4.2483,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1780246957,
+    "lastSeen": 1780247223,
+    "estDepartureAirport": "KRDM",
+    "estArrivalAirport": "OG51",
+    "flight_hours": 0.0739,
+    "landing": 1
+  }
+]
