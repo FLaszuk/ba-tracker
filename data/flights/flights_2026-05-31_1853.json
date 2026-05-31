@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc2bc",
+    "callsign": "DCBAY",
+    "firstSeen": 1780246492,
+    "lastSeen": 1780256459,
+    "estDepartureAirport": "LIRM",
+    "estArrivalAirport": "EGCC",
+    "flight_hours": 2.7686,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02c4",
+    "callsign": "JFA39L",
+    "firstSeen": 1780247285,
+    "lastSeen": 1780255726,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 2.3447,
+    "landing": 1
+  },
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1780254659,
+    "lastSeen": 1780256466,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": "YDRA",
+    "flight_hours": 0.5019,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7154",
+    "callsign": "N900YB",
+    "firstSeen": 1780249033,
+    "lastSeen": 1780254165,
+    "estDepartureAirport": "KLXT",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4256,
+    "landing": 1
+  }
+]
