@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "43e9d3",
+    "callsign": "MBAEP",
+    "firstSeen": 1780227985,
+    "lastSeen": 1780229899,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FADB",
+    "flight_hours": 0.5317,
+    "landing": 1
+  },
+  {
+    "icao24": "459cd3",
+    "callsign": "MMD6844",
+    "firstSeen": 1780227092,
+    "lastSeen": 1780233503,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.7808,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d8",
+    "callsign": "VJT836",
+    "firstSeen": 1780219487,
+    "lastSeen": 1780229901,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 2.8928,
+    "landing": 1
+  },
+  {
+    "icao24": "a8e830",
+    "callsign": "BOG73",
+    "firstSeen": 1780229387,
+    "lastSeen": 1780232850,
+    "estDepartureAirport": "NC43",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.9619,
+    "landing": 1
+  }
+]
