@@ -1,9 +1,9 @@
 {
-  "total_flight_hours": 2.3,
-  "total_landings": 2,
-  "unique_aircraft": 2,
-  "unique_aircraft_manufacturers": 2,
-  "unique_engine_manufacturers": 2,
+  "total_flight_hours": 2.5,
+  "total_landings": 4,
+  "unique_aircraft": 4,
+  "unique_aircraft_manufacturers": 3,
+  "unique_engine_manufacturers": 3,
   "min_timestamp": 1780435794,
-  "max_timestamp": 1780441073
+  "max_timestamp": 1780497387
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP431",
+    "firstSeen": 1780497162,
+    "lastSeen": 1780497387,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 0.0625,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1780496764,
+    "lastSeen": 1780497374,
+    "estDepartureAirport": "CLA5",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.1694,
+    "landing": 1
+  }
+]

@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "total": 2,
+  "total": 4,
   "offset": 0,
-  "limit": 2,
+  "limit": 4,
   "data": [
     {
       "aircraft_manufacturer": "Bombardier",
@@ -11,8 +11,8 @@
       "engine_model": "Passport 20",
       "total_hours": 1.2,
       "total_landings": 1,
-      "aircraft_market_share": 52.63,
-      "engine_market_share": 52.63
+      "aircraft_market_share": 47.81,
+      "engine_market_share": 47.81
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -21,8 +21,28 @@
       "engine_model": "Tay 611-8C",
       "total_hours": 1.1,
       "total_landings": 1,
-      "aircraft_market_share": 47.37,
-      "engine_market_share": 47.37
+      "aircraft_market_share": 43.03,
+      "engine_market_share": 43.03
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545",
+      "total_hours": 0.2,
+      "total_landings": 1,
+      "aircraft_market_share": 6.77,
+      "engine_market_share": 9.16
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Excel",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545",
+      "total_hours": 0.1,
+      "total_landings": 1,
+      "aircraft_market_share": 2.39,
+      "engine_market_share": 9.16
     }
   ]
 }
