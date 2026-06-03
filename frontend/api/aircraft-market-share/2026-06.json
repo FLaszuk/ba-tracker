@@ -1,0 +1,17 @@
+{
+  "month": "2026-06",
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "total_hours": 1.2,
+      "total_landings": 1,
+      "market_share_pct": 52.6
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "total_hours": 1.1,
+      "total_landings": 1,
+      "market_share_pct": 47.4
+    }
+  ]
+}

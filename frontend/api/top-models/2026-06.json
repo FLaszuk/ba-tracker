@@ -1,0 +1,17 @@
+{
+  "month": "2026-06",
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 7500",
+      "total_hours": 1.2,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 1.1,
+      "total_landings": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a1349d",
+    "callsign": "EJA177",
+    "firstSeen": 1780435794,
+    "lastSeen": 1780440129,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2042,
+    "landing": 1
+  },
+  {
+    "icao24": "a19040",
+    "callsign": "N20G",
+    "firstSeen": 1780437189,
+    "lastSeen": 1780441073,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "MI93",
+    "flight_hours": 1.0789,
+    "landing": 1
+  }
+]
