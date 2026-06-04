@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a5ece3",
+    "callsign": "LXJ481",
+    "firstSeen": 1780603308,
+    "lastSeen": 1780606823,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KSPH",
+    "flight_hours": 0.9764,
+    "landing": 1
+  },
+  {
+    "icao24": "a63bba",
+    "callsign": "N500UH",
+    "firstSeen": 1780606790,
+    "lastSeen": 1780607014,
+    "estDepartureAirport": "KEVW",
+    "estArrivalAirport": "ID04",
+    "flight_hours": 0.0622,
+    "landing": 1
+  }
+]
