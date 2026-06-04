@@ -362,8 +362,8 @@
         "landings": 184
       },
       "2026-06": {
-        "hours": 3.5,
-        "landings": 1
+        "hours": 4.4,
+        "landings": 2
       }
     },
     "Cessna (Textron)": {
@@ -524,8 +524,8 @@
         "landings": 116
       },
       "2026-06": {
-        "hours": 0.9,
-        "landings": 3
+        "hours": 3.1,
+        "landings": 4
       }
     },
     "Bombardier": {
@@ -846,6 +846,10 @@
       "2026-05": {
         "hours": 74.3,
         "landings": 77
+      },
+      "2026-06": {
+        "hours": 1.0,
+        "landings": 1
       }
     },
     "Pilatus": {

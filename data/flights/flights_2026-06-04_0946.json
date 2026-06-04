@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cefbd",
+    "callsign": "SCR187",
+    "firstSeen": 1780558596,
+    "lastSeen": 1780566471,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "EHAM",
+    "flight_hours": 2.1875,
+    "landing": 1
+  },
+  {
+    "icao24": "494105",
+    "callsign": "NJE588T",
+    "firstSeen": 1780565313,
+    "lastSeen": 1780568855,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.9839,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR354V",
+    "firstSeen": 1780562903,
+    "lastSeen": 1780566076,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8814,
+    "landing": 1
+  }
+]
