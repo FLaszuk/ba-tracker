@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2066",
+    "callsign": "VJT765",
+    "firstSeen": 1780578857,
+    "lastSeen": 1780604091,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 7.0094,
+    "landing": 1
+  },
+  {
+    "icao24": "a63bba",
+    "callsign": "N500UH",
+    "firstSeen": 1780601059,
+    "lastSeen": 1780602927,
+    "estDepartureAirport": "KU77",
+    "estArrivalAirport": "KEMM",
+    "flight_hours": 0.5189,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d6c",
+    "callsign": "GHA97",
+    "firstSeen": 1780591149,
+    "lastSeen": 1780601514,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 2.8792,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1780602421,
+    "lastSeen": 1780603712,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.3586,
+    "landing": 1
+  }
+]

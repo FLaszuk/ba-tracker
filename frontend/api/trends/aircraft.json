@@ -200,8 +200,8 @@
         "landings": 119
       },
       "2026-06": {
-        "hours": 5.8,
-        "landings": 4
+        "hours": 8.7,
+        "landings": 5
       }
     },
     "Dassault": {
@@ -524,8 +524,8 @@
         "landings": 116
       },
       "2026-06": {
-        "hours": 4.5,
-        "landings": 5
+        "hours": 4.9,
+        "landings": 6
       }
     },
     "Bombardier": {
@@ -686,8 +686,8 @@
         "landings": 157
       },
       "2026-06": {
-        "hours": 19.3,
-        "landings": 6
+        "hours": 26.3,
+        "landings": 7
       }
     },
     "Embraer": {
@@ -1166,6 +1166,10 @@
       "2026-05": {
         "hours": 14.6,
         "landings": 15
+      },
+      "2026-06": {
+        "hours": 0.5,
+        "landings": 1
       }
     }
   }
