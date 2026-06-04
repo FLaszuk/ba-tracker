@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1780525397,
+    "lastSeen": 1780538176,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.5497,
+    "landing": 1
+  },
+  {
+    "icao24": "aae132",
+    "callsign": "TWY1026",
+    "firstSeen": 1780533693,
+    "lastSeen": 1780537354,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.0169,
+    "landing": 1
+  }
+]
