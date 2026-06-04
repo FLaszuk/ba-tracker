@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1780584751,
+    "lastSeen": 1780589720,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 1.3803,
+    "landing": 1
+  },
+  {
+    "icao24": "3ce629",
+    "callsign": "DCOLT",
+    "firstSeen": 1780580425,
+    "lastSeen": 1780587743,
+    "estDepartureAirport": "LRTM",
+    "estArrivalAirport": "EDLW",
+    "flight_hours": 2.0328,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU3623",
+    "firstSeen": 1780585569,
+    "lastSeen": 1780589573,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LICP",
+    "flight_hours": 1.1122,
+    "landing": 1
+  },
+  {
+    "icao24": "a17618",
+    "callsign": "N1933G",
+    "firstSeen": 1780590390,
+    "lastSeen": 1780591993,
+    "estDepartureAirport": "WY11",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.4453,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f5d0",
+    "callsign": "N290DL",
+    "firstSeen": 1780584437,
+    "lastSeen": 1780590737,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.75,
+    "landing": 1
+  },
+  {
+    "icao24": "a351fd",
+    "callsign": "N313AG",
+    "firstSeen": 1780584015,
+    "lastSeen": 1780590817,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "WI10",
+    "flight_hours": 1.8894,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c30f",
+    "callsign": "N6FE",
+    "firstSeen": 1780565936,
+    "lastSeen": 1780591408,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "PANC",
+    "flight_hours": 7.0756,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c86d",
+    "callsign": "N600NB",
+    "firstSeen": 1780581294,
+    "lastSeen": 1780587458,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.7122,
+    "landing": 1
+  },
+  {
+    "icao24": "abe1ad",
+    "callsign": "N865CS",
+    "firstSeen": 1780560878,
+    "lastSeen": 1780588750,
+    "estDepartureAirport": "LFMP",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.7422,
+    "landing": 1
+  }
+]
