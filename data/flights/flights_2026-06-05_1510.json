@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "300575",
+    "callsign": "IXPRA",
+    "firstSeen": 1780674213,
+    "lastSeen": 1780676954,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFTP",
+    "flight_hours": 0.7614,
+    "landing": 1
+  },
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1780672074,
+    "lastSeen": 1780676954,
+    "estDepartureAirport": "EBLG",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.3556,
+    "landing": 1
+  },
+  {
+    "icao24": "a18845",
+    "callsign": "N1980K",
+    "firstSeen": 1780639859,
+    "lastSeen": 1780676954,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "LFMD",
+    "flight_hours": 10.3042,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1780670423,
+    "lastSeen": 1780672825,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "7TX8",
+    "flight_hours": 0.6672,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cba6",
+    "callsign": "TWY84",
+    "firstSeen": 1780671495,
+    "lastSeen": 1780674573,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.855,
+    "landing": 1
+  },
+  {
+    "icao24": "a8dd3f",
+    "callsign": "N670RR",
+    "firstSeen": 1780632687,
+    "lastSeen": 1780675579,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 11.9144,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1780661043,
+    "lastSeen": 1780674185,
+    "estDepartureAirport": "KJZI",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.6506,
+    "landing": 1
+  },
+  {
+    "icao24": "ad82e4",
+    "callsign": "N97SH",
+    "firstSeen": 1780671881,
+    "lastSeen": 1780673984,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.5842,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1780671036,
+    "lastSeen": 1780671636,
+    "estDepartureAirport": "CGN3",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.1667,
+    "landing": 1
+  }
+]

@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 24.8,
-      "total_landings": 7
+      "total_hours": 25.4,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -16,13 +16,25 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 7.6,
-      "total_landings": 4
+      "total_hours": 17.9,
+      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
-      "total_hours": 4.3,
+      "total_hours": 7.9,
+      "total_landings": 4
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 3.7,
+      "total_landings": 4
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "total_hours": 0.7,
       "total_landings": 3
     },
     {
@@ -38,27 +50,15 @@
       "total_landings": 3
     },
     {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation XLS",
-      "total_hours": 0.5,
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 300",
+      "total_hours": 1.7,
       "total_landings": 2
     },
     {
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "Eclipse 500",
       "total_hours": 0.6,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 100",
-      "total_hours": 3.9,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 3.0,
       "total_landings": 2
     }
   ]
