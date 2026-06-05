@@ -9,9 +9,27 @@
     },
     {
       "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 5.2,
+      "total_landings": 6
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 15.3,
       "total_landings": 6
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "total_hours": 1.7,
+      "total_landings": 5
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 7.0,
+      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -26,24 +44,6 @@
       "total_landings": 4
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 3.7,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation XLS",
-      "total_hours": 0.7,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 2.1,
-      "total_landings": 3
-    },
-    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 3.8,
@@ -56,9 +56,9 @@
       "total_landings": 2
     },
     {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "Eclipse 500",
-      "total_hours": 0.6,
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 7500",
+      "total_hours": 5.4,
       "total_landings": 2
     }
   ]

@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a1349d",
+    "callsign": "N177QS",
+    "firstSeen": 1780672722,
+    "lastSeen": 1780687821,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ME45",
+    "flight_hours": 4.1942,
+    "landing": 1
+  },
+  {
+    "icao24": "a2b346",
+    "callsign": "N273SW",
+    "firstSeen": 1780690088,
+    "lastSeen": 1780691446,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "76II",
+    "flight_hours": 0.3772,
+    "landing": 1
+  },
+  {
+    "icao24": "a4abf9",
+    "callsign": "N40TH",
+    "firstSeen": 1780683503,
+    "lastSeen": 1780687878,
+    "estDepartureAirport": "KGGP",
+    "estArrivalAirport": "KAXN",
+    "flight_hours": 1.2153,
+    "landing": 1
+  },
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1780679148,
+    "lastSeen": 1780691012,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.2956,
+    "landing": 1
+  },
+  {
+    "icao24": "a69068",
+    "callsign": "N522AM",
+    "firstSeen": 1780684412,
+    "lastSeen": 1780686823,
+    "estDepartureAirport": "KAXN",
+    "estArrivalAirport": "KY19",
+    "flight_hours": 0.6697,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1780683441,
+    "lastSeen": 1780688925,
+    "estDepartureAirport": "KANE",
+    "estArrivalAirport": "96WY",
+    "flight_hours": 1.5233,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1780688782,
+    "lastSeen": 1780689868,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3017,
+    "landing": 1
+  }
+]
