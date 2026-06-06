@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20fe",
+    "callsign": "VJT981",
+    "firstSeen": 1780754443,
+    "lastSeen": 1780783486,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 8.0675,
+    "landing": 1
+  },
+  {
+    "icao24": "a700bb",
+    "callsign": "N550PL",
+    "firstSeen": 1780740111,
+    "lastSeen": 1780784208,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 12.2492,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1780780143,
+    "lastSeen": 1780783237,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.8594,
+    "landing": 1
+  }
+]
