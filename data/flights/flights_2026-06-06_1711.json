@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU63MP",
+    "firstSeen": 1780761588,
+    "lastSeen": 1780766665,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 1.4103,
+    "landing": 1
+  },
+  {
+    "icao24": "a63993",
+    "callsign": "N50WH",
+    "firstSeen": 1780758716,
+    "lastSeen": 1780766124,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0578,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2a72",
+    "callsign": "N883RA",
+    "firstSeen": 1780762444,
+    "lastSeen": 1780767522,
+    "estDepartureAirport": "VG10",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4106,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "EJA946",
+    "firstSeen": 1780763787,
+    "lastSeen": 1780768185,
+    "estDepartureAirport": "VA19",
+    "estArrivalAirport": "18ME",
+    "flight_hours": 1.2217,
+    "landing": 1
+  }
+]
