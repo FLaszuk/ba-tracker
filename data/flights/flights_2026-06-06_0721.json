@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "490d02",
+    "callsign": "NJE841H",
+    "firstSeen": 1780731077,
+    "lastSeen": 1780731808,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.2031,
+    "landing": 1
+  },
+  {
+    "icao24": "a17eaa",
+    "callsign": "N196CC",
+    "firstSeen": 1780727900,
+    "lastSeen": 1780734100,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.7222,
+    "landing": 1
+  }
+]
