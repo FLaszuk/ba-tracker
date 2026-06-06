@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1780743231,
+    "lastSeen": 1780750640,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LEPA",
+    "flight_hours": 2.0581,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2134",
+    "callsign": "VJT437",
+    "firstSeen": 1780739969,
+    "lastSeen": 1780746133,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.7122,
+    "landing": 1
+  },
+  {
+    "icao24": "a87a8f",
+    "callsign": "N6453",
+    "firstSeen": 1780738315,
+    "lastSeen": 1780745184,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIAQ",
+    "flight_hours": 1.9081,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1780744943,
+    "lastSeen": 1780746157,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3372,
+    "landing": 1
+  }
+]
