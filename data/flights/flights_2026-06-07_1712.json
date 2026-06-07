@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4403c9",
+    "callsign": "OEFWH",
+    "firstSeen": 1780844836,
+    "lastSeen": 1780851858,
+    "estDepartureAirport": "LESB",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 1.9506,
+    "landing": 1
+  },
+  {
+    "icao24": "a2564e",
+    "callsign": "DLX25",
+    "firstSeen": 1780849696,
+    "lastSeen": 1780852661,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KCEZ",
+    "flight_hours": 0.8236,
+    "landing": 1
+  },
+  {
+    "icao24": "a41804",
+    "callsign": "LXJ363",
+    "firstSeen": 1780840130,
+    "lastSeen": 1780853044,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.5872,
+    "landing": 1
+  },
+  {
+    "icao24": "a996c1",
+    "callsign": "N717HD",
+    "firstSeen": 1780845756,
+    "lastSeen": 1780854374,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "MYZ3",
+    "flight_hours": 2.3939,
+    "landing": 1
+  },
+  {
+    "icao24": "e4853c",
+    "callsign": "PRDFC",
+    "firstSeen": 1780852514,
+    "lastSeen": 1780853658,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSSQ",
+    "flight_hours": 0.3178,
+    "landing": 1
+  }
+]
