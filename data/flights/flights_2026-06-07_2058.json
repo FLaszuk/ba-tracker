@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a258fe",
+    "callsign": "N250RJ",
+    "firstSeen": 1780855978,
+    "lastSeen": 1780866338,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "2ID7",
+    "flight_hours": 2.8778,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1780859179,
+    "lastSeen": 1780867941,
+    "estDepartureAirport": "KTUS",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 2.4339,
+    "landing": 1
+  }
+]
