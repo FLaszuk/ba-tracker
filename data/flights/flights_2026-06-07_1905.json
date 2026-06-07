@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1780855957,
+    "lastSeen": 1780858784,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "OR53",
+    "flight_hours": 0.7853,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1780858267,
+    "lastSeen": 1780862021,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "K5J9",
+    "flight_hours": 1.0428,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1780860522,
+    "lastSeen": 1780861785,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3508,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1780858966,
+    "lastSeen": 1780860148,
+    "estDepartureAirport": "SDIU",
+    "estArrivalAirport": "SDLU",
+    "flight_hours": 0.3283,
+    "landing": 1
+  }
+]

@@ -524,8 +524,8 @@
         "landings": 116
       },
       "2026-06": {
-        "hours": 15.5,
-        "landings": 13
+        "hours": 16.8,
+        "landings": 15
       }
     },
     "Bombardier": {
@@ -686,8 +686,8 @@
         "landings": 157
       },
       "2026-06": {
-        "hours": 43.7,
-        "landings": 17
+        "hours": 44.0,
+        "landings": 18
       }
     },
     "Embraer": {
@@ -1008,6 +1008,10 @@
       "2026-05": {
         "hours": 52.8,
         "landings": 44
+      },
+      "2026-06": {
+        "hours": 0.8,
+        "landings": 1
       }
     },
     "Eclipse Aerospace": {
