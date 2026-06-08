@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a79da4",
+    "callsign": "N590CL",
+    "firstSeen": 1780861424,
+    "lastSeen": 1780870232,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.4467,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1780865525,
+    "lastSeen": 1780869821,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "ID72",
+    "flight_hours": 1.1933,
+    "landing": 1
+  }
+]
