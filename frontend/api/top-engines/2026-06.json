@@ -16,14 +16,14 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 19.8,
-      "total_landings": 6
+      "total_hours": 20.8,
+      "total_landings": 7
     },
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 16.4,
-      "total_landings": 10
+      "total_hours": 18.2,
+      "total_landings": 11
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -38,27 +38,27 @@
       "total_landings": 3
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 5.7,
+      "total_landings": 7
+    },
+    {
       "engine_manufacturer": "GE Aviation",
       "engine_model": "Passport 20",
       "total_hours": 5.4,
       "total_landings": 2
     },
     {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW308C",
-      "total_hours": 5.2,
-      "total_landings": 6
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 4.4,
+      "total_landings": 3
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW617",
       "total_hours": 4.2,
-      "total_landings": 3
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW307A",
-      "total_hours": 3.8,
       "total_landings": 3
     }
   ]

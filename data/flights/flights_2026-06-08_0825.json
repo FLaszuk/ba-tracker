@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1780907279,
+    "lastSeen": 1780908883,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.4456,
+    "landing": 1
+  },
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1780901319,
+    "lastSeen": 1780907727,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.78,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e7",
+    "callsign": "VJT474",
+    "firstSeen": 1780902922,
+    "lastSeen": 1780911766,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.4567,
+    "landing": 1
+  },
+  {
+    "icao24": "a48e35",
+    "callsign": "N393CW",
+    "firstSeen": 1780906168,
+    "lastSeen": 1780909969,
+    "estDepartureAirport": "LFML",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.0558,
+    "landing": 1
+  }
+]
