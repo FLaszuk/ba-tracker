@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "44058f",
+    "callsign": "GAC227R",
+    "firstSeen": 1780919676,
+    "lastSeen": 1780923590,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LFKD",
+    "flight_hours": 1.0872,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cc",
+    "callsign": "VUAVT",
+    "firstSeen": 1780922544,
+    "lastSeen": 1780924210,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4628,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1780922094,
+    "lastSeen": 1780923524,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "K38J",
+    "flight_hours": 0.3972,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS18",
+    "firstSeen": 1780919150,
+    "lastSeen": 1780924958,
+    "estDepartureAirport": "KCMH",
+    "estArrivalAirport": "MY13",
+    "flight_hours": 1.6133,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c3da",
+    "callsign": "N2777R",
+    "firstSeen": 1780900949,
+    "lastSeen": 1780923735,
+    "estDepartureAirport": "YSSY",
+    "estArrivalAirport": "WRLM",
+    "flight_hours": 6.3294,
+    "landing": 1
+  },
+  {
+    "icao24": "a389de",
+    "callsign": "N327RX",
+    "firstSeen": 1780914882,
+    "lastSeen": 1780925637,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.9875,
+    "landing": 1
+  }
+]
