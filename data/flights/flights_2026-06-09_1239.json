@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "343183",
+    "callsign": "INI222H",
+    "firstSeen": 1781007858,
+    "lastSeen": 1781012260,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 1.2228,
+    "landing": 1
+  },
+  {
+    "icao24": "a3874a",
+    "callsign": "WWI32",
+    "firstSeen": 1781009057,
+    "lastSeen": 1781011604,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7075,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "N951QS",
+    "firstSeen": 1781007417,
+    "lastSeen": 1781010065,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "EDVN",
+    "flight_hours": 0.7356,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f8d",
+    "callsign": "PPJJA",
+    "firstSeen": 1781005676,
+    "lastSeen": 1781008251,
+    "estDepartureAirport": "SDBN",
+    "estArrivalAirport": "SJHN",
+    "flight_hours": 0.7153,
+    "landing": 1
+  }
+]
