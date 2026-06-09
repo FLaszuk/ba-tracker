@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a3874a",
+    "callsign": "WWI32",
+    "firstSeen": 1781020166,
+    "lastSeen": 1781021268,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.3061,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1781021132,
+    "lastSeen": 1781022782,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.4583,
+    "landing": 1
+  },
+  {
+    "icao24": "a82215",
+    "callsign": "N623HD",
+    "firstSeen": 1781013243,
+    "lastSeen": 1781020894,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 2.1253,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4b2a",
+    "callsign": "N827DC",
+    "firstSeen": 1781020166,
+    "lastSeen": 1781022430,
+    "estDepartureAirport": "KRAL",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.6289,
+    "landing": 1
+  }
+]
