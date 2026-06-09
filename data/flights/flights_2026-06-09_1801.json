@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1780994012,
+    "lastSeen": 1781031003,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 10.2753,
+    "landing": 1
+  },
+  {
+    "icao24": "a63562",
+    "callsign": "XFL227",
+    "firstSeen": 1781019005,
+    "lastSeen": 1781028135,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "AZ86",
+    "flight_hours": 2.5361,
+    "landing": 1
+  },
+  {
+    "icao24": "a68a81",
+    "callsign": "N520SC",
+    "firstSeen": 1781029664,
+    "lastSeen": 1781030803,
+    "estDepartureAirport": "CYHM",
+    "estArrivalAirport": "KDTW",
+    "flight_hours": 0.3164,
+    "landing": 1
+  }
+]
