@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1781123049,
+    "lastSeen": 1781126353,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.9178,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1439",
+    "callsign": "N749CP",
+    "firstSeen": 1781123148,
+    "lastSeen": 1781131431,
+    "estDepartureAirport": "KLNK",
+    "estArrivalAirport": "KASH",
+    "flight_hours": 2.3008,
+    "landing": 1
+  }
+]
