@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a21fbb",
+    "callsign": "KFB236",
+    "firstSeen": 1781092245,
+    "lastSeen": 1781104822,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 3.4936,
+    "landing": 1
+  },
+  {
+    "icao24": "e485c6",
+    "callsign": "PRWBW",
+    "firstSeen": 1781100627,
+    "lastSeen": 1781101997,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJJR",
+    "flight_hours": 0.3806,
+    "landing": 1
+  }
+]
