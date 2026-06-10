@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4d029d",
+    "callsign": "JFA97Z",
+    "firstSeen": 1781111405,
+    "lastSeen": 1781115759,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.2094,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1781109783,
+    "lastSeen": 1781112766,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "19OR",
+    "flight_hours": 0.8286,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1781111364,
+    "lastSeen": 1781113613,
+    "estDepartureAirport": "KAUW",
+    "estArrivalAirport": "KSTP",
+    "flight_hours": 0.6247,
+    "landing": 1
+  },
+  {
+    "icao24": "a6617c",
+    "callsign": "TWY510",
+    "firstSeen": 1781099067,
+    "lastSeen": 1781112743,
+    "estDepartureAirport": "KFTT",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7989,
+    "landing": 1
+  },
+  {
+    "icao24": "a805f0",
+    "callsign": "EJM616",
+    "firstSeen": 1781100736,
+    "lastSeen": 1781116027,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": null,
+    "flight_hours": 4.2475,
+    "landing": 1
+  },
+  {
+    "icao24": "a9b339",
+    "callsign": "N724JJ",
+    "firstSeen": 1781111863,
+    "lastSeen": 1781115700,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.0658,
+    "landing": 1
+  },
+  {
+    "icao24": "acb29f",
+    "callsign": "LXJ490",
+    "firstSeen": 1781111081,
+    "lastSeen": 1781112100,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.2831,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1781112474,
+    "lastSeen": 1781115448,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.8261,
+    "landing": 1
+  }
+]
