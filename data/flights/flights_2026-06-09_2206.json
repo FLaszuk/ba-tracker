@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c6ce8",
+    "callsign": "VSQ",
+    "firstSeen": 1781039978,
+    "lastSeen": 1781043501,
+    "estDepartureAirport": "YMOR",
+    "estArrivalAirport": "YTEM",
+    "flight_hours": 0.9786,
+    "landing": 1
+  },
+  {
+    "icao24": "a03fe1",
+    "callsign": "N115MH",
+    "firstSeen": 1781044427,
+    "lastSeen": 1781047654,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.8964,
+    "landing": 1
+  },
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1781042440,
+    "lastSeen": 1781046071,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KE34",
+    "flight_hours": 1.0086,
+    "landing": 1
+  },
+  {
+    "icao24": "a54957",
+    "callsign": "LJY241",
+    "firstSeen": 1781032426,
+    "lastSeen": 1781043319,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.0258,
+    "landing": 1
+  }
+]
