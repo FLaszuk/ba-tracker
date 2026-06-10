@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d07fc",
+    "callsign": "XAEMM",
+    "firstSeen": 1781061343,
+    "lastSeen": 1781064498,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8764,
+    "landing": 1
+  },
+  {
+    "icao24": "a62665",
+    "callsign": "N496AC",
+    "firstSeen": 1781024968,
+    "lastSeen": 1781062636,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 10.4633,
+    "landing": 1
+  }
+]
