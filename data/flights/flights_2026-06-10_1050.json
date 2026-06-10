@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a6630f",
+    "callsign": "N510SR",
+    "firstSeen": 1781087792,
+    "lastSeen": 1781090223,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": "LOWL",
+    "flight_hours": 0.6753,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a8b",
+    "callsign": "PRGCR",
+    "firstSeen": 1781085828,
+    "lastSeen": 1781090529,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SSMD",
+    "flight_hours": 1.3058,
+    "landing": 1
+  }
+]

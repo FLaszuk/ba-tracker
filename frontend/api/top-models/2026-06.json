@@ -28,8 +28,8 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 21.5,
-      "total_landings": 8
+      "total_hours": 22.1,
+      "total_landings": 9
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -50,15 +50,15 @@
       "total_landings": 5
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 9.2,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 300",
       "total_hours": 6.3,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 14.3,
       "total_landings": 4
     }
   ]
