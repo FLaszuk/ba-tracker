@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2564e",
+    "callsign": "DLX25",
+    "firstSeen": 1781106688,
+    "lastSeen": 1781121157,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "K8U2",
+    "flight_hours": 4.0192,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1781123049,
+    "lastSeen": 1781126353,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.9178,
+    "landing": 1
+  },
+  {
+    "icao24": "c016be",
+    "callsign": "CFIPX",
+    "firstSeen": 1781098842,
+    "lastSeen": 1781123940,
+    "estDepartureAirport": "CYKF",
+    "estArrivalAirport": "LPFR",
+    "flight_hours": 6.9717,
+    "landing": 1
+  }
+]
