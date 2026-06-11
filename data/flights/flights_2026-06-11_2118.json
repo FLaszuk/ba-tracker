@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "343183",
+    "callsign": "INI243H",
+    "firstSeen": 1781212123,
+    "lastSeen": 1781214740,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LE83",
+    "flight_hours": 0.7269,
+    "landing": 1
+  },
+  {
+    "icao24": "a22f79",
+    "callsign": "NUS24",
+    "firstSeen": 1781212086,
+    "lastSeen": 1781215032,
+    "estDepartureAirport": "KTYQ",
+    "estArrivalAirport": "KGLR",
+    "flight_hours": 0.8183,
+    "landing": 1
+  },
+  {
+    "icao24": "a34bb6",
+    "callsign": "N311NB",
+    "firstSeen": 1781205898,
+    "lastSeen": 1781213148,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.0139,
+    "landing": 1
+  },
+  {
+    "icao24": "aad24a",
+    "callsign": "N797CT",
+    "firstSeen": 1781208409,
+    "lastSeen": 1781214510,
+    "estDepartureAirport": "KAFW",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6947,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6f77",
+    "callsign": "N900D",
+    "firstSeen": 1781211425,
+    "lastSeen": 1781214518,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8592,
+    "landing": 1
+  }
+]
