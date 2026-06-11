@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a413cb",
+    "callsign": "XSR362",
+    "firstSeen": 1781193634,
+    "lastSeen": 1781199209,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.5486,
+    "landing": 1
+  },
+  {
+    "icao24": "a83b67",
+    "callsign": "N63AD",
+    "firstSeen": 1781200339,
+    "lastSeen": 1781201368,
+    "estDepartureAirport": "UT83",
+    "estArrivalAirport": "KU14",
+    "flight_hours": 0.2858,
+    "landing": 1
+  },
+  {
+    "icao24": "abe1ad",
+    "callsign": "N865CS",
+    "firstSeen": 1781199396,
+    "lastSeen": 1781200248,
+    "estDepartureAirport": "KSCK",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.2367,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3ff3",
+    "callsign": "HNW900",
+    "firstSeen": 1781198431,
+    "lastSeen": 1781203671,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 1.4556,
+    "landing": 1
+  }
+]
