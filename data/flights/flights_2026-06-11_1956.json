@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU876D",
+    "firstSeen": 1781208079,
+    "lastSeen": 1781210676,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LFKF",
+    "flight_hours": 0.7214,
+    "landing": 1
+  },
+  {
+    "icao24": "a0669e",
+    "callsign": "N690TW",
+    "firstSeen": 1781210298,
+    "lastSeen": 1781211200,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KGNB",
+    "flight_hours": 0.2506,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "CNS719",
+    "firstSeen": 1781200020,
+    "lastSeen": 1781209961,
+    "estDepartureAirport": "KLCI",
+    "estArrivalAirport": "MO78",
+    "flight_hours": 2.7614,
+    "landing": 1
+  },
+  {
+    "icao24": "a50fe7",
+    "callsign": "N425TM",
+    "firstSeen": 1781198068,
+    "lastSeen": 1781209014,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KRIW",
+    "flight_hours": 3.0406,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ce07",
+    "callsign": "N5379F",
+    "firstSeen": 1781210475,
+    "lastSeen": 1781211649,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.3261,
+    "landing": 1
+  },
+  {
+    "icao24": "ab7e33",
+    "callsign": "N84HD",
+    "firstSeen": 1781207477,
+    "lastSeen": 1781209361,
+    "estDepartureAirport": "KEWR",
+    "estArrivalAirport": "CT20",
+    "flight_hours": 0.5233,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a8b",
+    "callsign": "PRGCR",
+    "firstSeen": 1781208000,
+    "lastSeen": 1781208636,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1767,
+    "landing": 1
+  },
+  {
+    "icao24": "e49269",
+    "callsign": "PRVEN",
+    "firstSeen": 1781198880,
+    "lastSeen": 1781207326,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3461,
+    "landing": 1
+  }
+]
