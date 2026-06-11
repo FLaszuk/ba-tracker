@@ -1,0 +1,122 @@
+[
+  {
+    "icao24": "0d0098",
+    "callsign": "XAVLA",
+    "firstSeen": 1781187327,
+    "lastSeen": 1781189996,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMJC",
+    "flight_hours": 0.7414,
+    "landing": 1
+  },
+  {
+    "icao24": "343183",
+    "callsign": "INI241H",
+    "firstSeen": 1781189603,
+    "lastSeen": 1781190532,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LE83",
+    "flight_hours": 0.2581,
+    "landing": 1
+  },
+  {
+    "icao24": "49328a",
+    "callsign": "NJE208M",
+    "firstSeen": 1781187663,
+    "lastSeen": 1781190781,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8661,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3415",
+    "firstSeen": 1781180481,
+    "lastSeen": 1781190326,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7347,
+    "landing": 1
+  },
+  {
+    "icao24": "8a0447",
+    "callsign": "PKTFS",
+    "firstSeen": 1781191895,
+    "lastSeen": 1781192248,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.0981,
+    "landing": 1
+  },
+  {
+    "icao24": "a0af44",
+    "callsign": "N143QS",
+    "firstSeen": 1781183637,
+    "lastSeen": 1781190295,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "MYAT",
+    "flight_hours": 1.8494,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1781184498,
+    "lastSeen": 1781189198,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "6CO0",
+    "flight_hours": 1.3056,
+    "landing": 1
+  },
+  {
+    "icao24": "a99f14",
+    "callsign": "N719SH",
+    "firstSeen": 1781188332,
+    "lastSeen": 1781189536,
+    "estDepartureAirport": "FAOR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3344,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1781185761,
+    "lastSeen": 1781188960,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8886,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1781189595,
+    "lastSeen": 1781191678,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KORH",
+    "flight_hours": 0.5786,
+    "landing": 1
+  },
+  {
+    "icao24": "c05df9",
+    "callsign": "CGJPG",
+    "firstSeen": 1781189103,
+    "lastSeen": 1781190716,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "KBFI",
+    "flight_hours": 0.4481,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1781189343,
+    "lastSeen": 1781190875,
+    "estDepartureAirport": "SBJD",
+    "estArrivalAirport": "SILI",
+    "flight_hours": 0.4256,
+    "landing": 1
+  }
+]
