@@ -38,16 +38,16 @@
       "total_landings": 10
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 5.2,
+      "total_landings": 9
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 9.7,
       "total_landings": 9
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 4.8,
-      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Embraer",
