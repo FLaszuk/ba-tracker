@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW1511",
+    "firstSeen": 1781281787,
+    "lastSeen": 1781289505,
+    "estDepartureAirport": "MMTJ",
+    "estArrivalAirport": "73TX",
+    "flight_hours": 2.1439,
+    "landing": 1
+  },
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5973",
+    "firstSeen": 1781287234,
+    "lastSeen": 1781288272,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2883,
+    "landing": 1
+  },
+  {
+    "icao24": "491312",
+    "callsign": "NJE973G",
+    "firstSeen": 1781284709,
+    "lastSeen": 1781288592,
+    "estDepartureAirport": "EGJJ",
+    "estArrivalAirport": "LEPP",
+    "flight_hours": 1.0786,
+    "landing": 1
+  },
+  {
+    "icao24": "a10dd5",
+    "callsign": "TIV167",
+    "firstSeen": 1781284373,
+    "lastSeen": 1781287818,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "NV16",
+    "flight_hours": 0.9569,
+    "landing": 1
+  },
+  {
+    "icao24": "a18d54",
+    "callsign": "N2AC",
+    "firstSeen": 1781286395,
+    "lastSeen": 1781287526,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "K06U",
+    "flight_hours": 0.3142,
+    "landing": 1
+  },
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1781284532,
+    "lastSeen": 1781288272,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "NM32",
+    "flight_hours": 1.0389,
+    "landing": 1
+  },
+  {
+    "icao24": "a36588",
+    "callsign": "N318LE",
+    "firstSeen": 1781286978,
+    "lastSeen": 1781288356,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "K8M8",
+    "flight_hours": 0.3828,
+    "landing": 1
+  },
+  {
+    "icao24": "a638e4",
+    "callsign": "N50PH",
+    "firstSeen": 1781284701,
+    "lastSeen": 1781289296,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "OK40",
+    "flight_hours": 1.2764,
+    "landing": 1
+  },
+  {
+    "icao24": "ac380d",
+    "callsign": "N887CE",
+    "firstSeen": 1781284854,
+    "lastSeen": 1781291754,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 1.9167,
+    "landing": 1
+  }
+]
