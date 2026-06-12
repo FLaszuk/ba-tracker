@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "424625",
+    "callsign": "VPBLU",
+    "firstSeen": 1781265387,
+    "lastSeen": 1781269483,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.1378,
+    "landing": 1
+  },
+  {
+    "icao24": "43c8d7",
+    "callsign": "SCPTR1",
+    "firstSeen": 1781265951,
+    "lastSeen": 1781269089,
+    "estDepartureAirport": "EGYD",
+    "estArrivalAirport": "EGYO",
+    "flight_hours": 0.8717,
+    "landing": 1
+  },
+  {
+    "icao24": "440465",
+    "callsign": "GDK74A",
+    "firstSeen": 1781265614,
+    "lastSeen": 1781270592,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "LFTP",
+    "flight_hours": 1.3828,
+    "landing": 1
+  },
+  {
+    "icao24": "494106",
+    "callsign": "NJE967G",
+    "firstSeen": 1781264612,
+    "lastSeen": 1781269873,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4614,
+    "landing": 1
+  },
+  {
+    "icao24": "a1be80",
+    "callsign": "N211PB",
+    "firstSeen": 1781255789,
+    "lastSeen": 1781267949,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "WY34",
+    "flight_hours": 3.3778,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1781271659,
+    "lastSeen": 1781274232,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.7147,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3bc6",
+    "callsign": "KFB8228",
+    "firstSeen": 1781266387,
+    "lastSeen": 1781269871,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 0.9678,
+    "landing": 1
+  },
+  {
+    "icao24": "e48fd2",
+    "callsign": "PPIBR",
+    "firstSeen": 1781262921,
+    "lastSeen": 1781270821,
+    "estDepartureAirport": "SJSF",
+    "estArrivalAirport": "SNPF",
+    "flight_hours": 2.1944,
+    "landing": 1
+  }
+]
