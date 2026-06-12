@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "491d99",
+    "callsign": "NJE450Y",
+    "firstSeen": 1781252824,
+    "lastSeen": 1781256817,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "GMMT",
+    "flight_hours": 1.1092,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1781253515,
+    "lastSeen": 1781258482,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.3797,
+    "landing": 1
+  },
+  {
+    "icao24": "a0be20",
+    "callsign": "EJA147",
+    "firstSeen": 1781261420,
+    "lastSeen": 1781263704,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.6344,
+    "landing": 1
+  }
+]
