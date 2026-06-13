@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d07a6",
+    "callsign": "XARUA",
+    "firstSeen": 1781352941,
+    "lastSeen": 1781354934,
+    "estDepartureAirport": "MMVR",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.5536,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT3471",
+    "firstSeen": 1781355443,
+    "lastSeen": 1781357587,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": "EYSA",
+    "flight_hours": 0.5956,
+    "landing": 1
+  }
+]
