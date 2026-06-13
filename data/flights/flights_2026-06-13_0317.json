@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a00468",
+    "callsign": "N10X",
+    "firstSeen": 1781317747,
+    "lastSeen": 1781321458,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KBUR",
+    "flight_hours": 1.0308,
+    "landing": 1
+  },
+  {
+    "icao24": "a10967",
+    "callsign": "EJA166",
+    "firstSeen": 1781308835,
+    "lastSeen": 1781320660,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 3.2847,
+    "landing": 1
+  },
+  {
+    "icao24": "ab012b",
+    "callsign": "N808SF",
+    "firstSeen": 1781311549,
+    "lastSeen": 1781322775,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 3.1183,
+    "landing": 1
+  }
+]
