@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d212d",
+    "callsign": "VJT938",
+    "firstSeen": 1781433771,
+    "lastSeen": 1781449798,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 4.4519,
+    "landing": 1
+  },
+  {
+    "icao24": "a058f1",
+    "callsign": "TWY42",
+    "firstSeen": 1781439397,
+    "lastSeen": 1781451985,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.4967,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b65d",
+    "callsign": "TWY28",
+    "firstSeen": 1781445341,
+    "lastSeen": 1781450159,
+    "estDepartureAirport": "KOAR",
+    "estArrivalAirport": "ID52",
+    "flight_hours": 1.3383,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1781444209,
+    "lastSeen": 1781449855,
+    "estDepartureAirport": "KAUW",
+    "estArrivalAirport": "01NE",
+    "flight_hours": 1.5683,
+    "landing": 1
+  }
+]
