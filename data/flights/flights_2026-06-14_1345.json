@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d0227",
+    "callsign": "SVW24JM",
+    "firstSeen": 1781441389,
+    "lastSeen": 1781445911,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2561,
+    "landing": 1
+  },
+  {
+    "icao24": "a27a5c",
+    "callsign": "EJA259",
+    "firstSeen": 1781436176,
+    "lastSeen": 1781445128,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4867,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "N982QS",
+    "firstSeen": 1781438882,
+    "lastSeen": 1781445291,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "EGNM",
+    "flight_hours": 1.7803,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1781444044,
+    "lastSeen": 1781445651,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SAAJ",
+    "flight_hours": 0.4464,
+    "landing": 1
+  }
+]
