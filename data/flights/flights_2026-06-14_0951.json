@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "47929b",
+    "callsign": "RTG8010",
+    "firstSeen": 1781430348,
+    "lastSeen": 1781432681,
+    "estDepartureAirport": "ENGM",
+    "estArrivalAirport": "ENVA",
+    "flight_hours": 0.6481,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2102",
+    "callsign": "VJT492",
+    "firstSeen": 1781428867,
+    "lastSeen": 1781432638,
+    "estDepartureAirport": "LFRM",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 1.0475,
+    "landing": 1
+  }
+]
