@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "a00084",
+    "callsign": "N1FE",
+    "firstSeen": 1781366073,
+    "lastSeen": 1781388263,
+    "estDepartureAirport": "MS00",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.1639,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c95c",
+    "callsign": "RNI41",
+    "firstSeen": 1781372678,
+    "lastSeen": 1781388049,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": "KBPI",
+    "flight_hours": 4.2697,
+    "landing": 1
+  },
+  {
+    "icao24": "a23127",
+    "callsign": "N240MW",
+    "firstSeen": 1781388960,
+    "lastSeen": 1781392379,
+    "estDepartureAirport": "KHEF",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.9497,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1781368974,
+    "lastSeen": 1781388788,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 5.5039,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "CNS719",
+    "firstSeen": 1781388955,
+    "lastSeen": 1781390801,
+    "estDepartureAirport": "KACK",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 0.5128,
+    "landing": 1
+  },
+  {
+    "icao24": "a413cb",
+    "callsign": "XSR362",
+    "firstSeen": 1781386773,
+    "lastSeen": 1781392387,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "KDFW",
+    "flight_hours": 1.5594,
+    "landing": 1
+  },
+  {
+    "icao24": "a4eb4e",
+    "callsign": "N416KC",
+    "firstSeen": 1781386072,
+    "lastSeen": 1781388675,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KU78",
+    "flight_hours": 0.7231,
+    "landing": 1
+  },
+  {
+    "icao24": "a55b7f",
+    "callsign": "N444WT",
+    "firstSeen": 1781383243,
+    "lastSeen": 1781389310,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSAN",
+    "flight_hours": 1.6853,
+    "landing": 1
+  },
+  {
+    "icao24": "a600e3",
+    "callsign": "TWY48",
+    "firstSeen": 1781373972,
+    "lastSeen": 1781392350,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 5.105,
+    "landing": 1
+  },
+  {
+    "icao24": "e0340c",
+    "callsign": "LVCPL",
+    "firstSeen": 1781390580,
+    "lastSeen": 1781391706,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3128,
+    "landing": 1
+  }
+]

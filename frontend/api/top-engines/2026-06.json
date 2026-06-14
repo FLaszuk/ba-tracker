@@ -4,14 +4,14 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 104.1,
-      "total_landings": 33
+      "total_hours": 115.8,
+      "total_landings": 35
     },
     {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 39.1,
-      "total_landings": 29
+      "total_hours": 40.2,
+      "total_landings": 31
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -20,16 +20,28 @@
       "total_landings": 13
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 29.2,
+      "total_landings": 20
+    },
+    {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
       "total_hours": 25.0,
       "total_landings": 21
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 21.8,
+      "total_landings": 11
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW308C",
-      "total_hours": 24.9,
-      "total_landings": 19
+      "engine_model": "PW535",
+      "total_hours": 18.3,
+      "total_landings": 11
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -38,28 +50,16 @@
       "total_landings": 5
     },
     {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW535",
-      "total_hours": 16.7,
-      "total_landings": 10
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "Tay 611-8C",
-      "total_hours": 16.6,
-      "total_landings": 10
-    },
-    {
       "engine_manufacturer": "GE Aviation",
       "engine_model": "Passport 20",
-      "total_hours": 12.9,
-      "total_landings": 4
+      "total_hours": 14.6,
+      "total_landings": 5
     },
     {
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
-      "total_hours": 9.7,
-      "total_landings": 9
+      "total_hours": 11.2,
+      "total_landings": 11
     }
   ]
 }
