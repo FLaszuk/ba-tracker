@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3463",
+    "firstSeen": 1781522324,
+    "lastSeen": 1781535848,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": "DTNH",
+    "flight_hours": 3.7567,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1781529576,
+    "lastSeen": 1781530820,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "CO81",
+    "flight_hours": 0.3456,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1781531811,
+    "lastSeen": 1781535438,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 1.0075,
+    "landing": 1
+  },
+  {
+    "icao24": "a828ea",
+    "callsign": "N625BA",
+    "firstSeen": 1781529281,
+    "lastSeen": 1781531164,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.5231,
+    "landing": 1
+  }
+]
