@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "39aded",
+    "callsign": "FHLPN",
+    "firstSeen": 1781503063,
+    "lastSeen": 1781510887,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1733,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE974",
+    "firstSeen": 1781508933,
+    "lastSeen": 1781510160,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3408,
+    "landing": 1
+  }
+]
