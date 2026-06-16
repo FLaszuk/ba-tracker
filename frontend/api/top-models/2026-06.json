@@ -10,8 +10,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 34.5,
-      "total_landings": 23
+      "total_hours": 34.8,
+      "total_landings": 24
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -56,10 +56,10 @@
       "total_landings": 11
     },
     {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 100",
-      "total_hours": 13.3,
-      "total_landings": 8
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 38.1,
+      "total_landings": 9
     }
   ]
 }
