@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cf774",
+    "callsign": "BTX3C",
+    "firstSeen": 1781710100,
+    "lastSeen": 1781712747,
+    "estDepartureAirport": "EDVE",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.7353,
+    "landing": 1
+  },
+  {
+    "icao24": "440465",
+    "callsign": "GDK74A",
+    "firstSeen": 1781708806,
+    "lastSeen": 1781711615,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.7803,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad8e",
+    "callsign": "TCKLN",
+    "firstSeen": 1781711491,
+    "lastSeen": 1781714067,
+    "estDepartureAirport": "LTFM",
+    "estArrivalAirport": "LTBM",
+    "flight_hours": 0.7156,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "N268QS",
+    "firstSeen": 1781704776,
+    "lastSeen": 1781712040,
+    "estDepartureAirport": "KEWR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0178,
+    "landing": 1
+  },
+  {
+    "icao24": "a6fdb6",
+    "callsign": "GLF13",
+    "firstSeen": 1781711787,
+    "lastSeen": 1781713032,
+    "estDepartureAirport": "KATW",
+    "estArrivalAirport": "1MI4",
+    "flight_hours": 0.3458,
+    "landing": 1
+  },
+  {
+    "icao24": "a996c1",
+    "callsign": "N717HD",
+    "firstSeen": 1781703239,
+    "lastSeen": 1781711797,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "MYX4",
+    "flight_hours": 2.3772,
+    "landing": 1
+  },
+  {
+    "icao24": "abf7ac",
+    "callsign": "N870PS",
+    "firstSeen": 1781705933,
+    "lastSeen": 1781711210,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4658,
+    "landing": 1
+  }
+]
