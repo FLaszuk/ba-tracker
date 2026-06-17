@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1781645241,
+    "lastSeen": 1781647628,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "5XS2",
+    "flight_hours": 0.6631,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1781649912,
+    "lastSeen": 1781652327,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "79XS",
+    "flight_hours": 0.6708,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1781634240,
+    "lastSeen": 1781649146,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": null,
+    "flight_hours": 4.1406,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2eaa",
+    "callsign": "N884WE",
+    "firstSeen": 1781635526,
+    "lastSeen": 1781652142,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.6156,
+    "landing": 1
+  }
+]
