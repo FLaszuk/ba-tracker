@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d0290",
+    "callsign": "LRQ253C",
+    "firstSeen": 1781700256,
+    "lastSeen": 1781701702,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFLY",
+    "flight_hours": 0.4017,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d0",
+    "callsign": "VJT884",
+    "firstSeen": 1781698775,
+    "lastSeen": 1781702147,
+    "estDepartureAirport": "EYVI",
+    "estArrivalAirport": "EPKK",
+    "flight_hours": 0.9367,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b200",
+    "callsign": "SCA53",
+    "firstSeen": 1781701959,
+    "lastSeen": 1781704045,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.5794,
+    "landing": 1
+  }
+]
