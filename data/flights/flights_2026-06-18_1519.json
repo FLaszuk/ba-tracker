@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR8PR",
+    "firstSeen": 1781793785,
+    "lastSeen": 1781796699,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8094,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1781795356,
+    "lastSeen": 1781798697,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9281,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS727",
+    "firstSeen": 1781792445,
+    "lastSeen": 1781795813,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "MS83",
+    "flight_hours": 0.9356,
+    "landing": 1
+  },
+  {
+    "icao24": "a3783b",
+    "callsign": "N3221B",
+    "firstSeen": 1781793998,
+    "lastSeen": 1781800133,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.7042,
+    "landing": 1
+  }
+]
