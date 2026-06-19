@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a4dd86",
+    "callsign": "N412WD",
+    "firstSeen": 1781902041,
+    "lastSeen": 1781904799,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSMX",
+    "flight_hours": 0.7661,
+    "landing": 1
+  },
+  {
+    "icao24": "a9802f",
+    "callsign": "WSN50",
+    "firstSeen": 1781901106,
+    "lastSeen": 1781902163,
+    "estDepartureAirport": "KHHR",
+    "estArrivalAirport": "KLGB",
+    "flight_hours": 0.2936,
+    "landing": 1
+  }
+]
