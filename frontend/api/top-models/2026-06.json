@@ -28,8 +28,8 @@
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 19.1,
-      "total_landings": 15
+      "total_hours": 20.6,
+      "total_landings": 16
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -39,15 +39,15 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 31.8,
+      "aircraft_model": "G450",
+      "total_hours": 27.7,
       "total_landings": 14
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 26.9,
-      "total_landings": 13
+      "aircraft_model": "G650",
+      "total_hours": 31.8,
+      "total_landings": 14
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -58,8 +58,8 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 38.1,
-      "total_landings": 9
+      "total_hours": 39.1,
+      "total_landings": 10
     }
   ]
 }

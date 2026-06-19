@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a31f94",
+    "callsign": "N300CR",
+    "firstSeen": 1781820757,
+    "lastSeen": 1781824000,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9008,
+    "landing": 1
+  },
+  {
+    "icao24": "aa918c",
+    "callsign": "N780LM",
+    "firstSeen": 1781815748,
+    "lastSeen": 1781823735,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 2.2186,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2737",
+    "callsign": "N818BK",
+    "firstSeen": 1781819983,
+    "lastSeen": 1781822963,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "0ID0",
+    "flight_hours": 0.8278,
+    "landing": 1
+  },
+  {
+    "icao24": "ac145b",
+    "callsign": "TWY800",
+    "firstSeen": 1781819228,
+    "lastSeen": 1781822657,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KFIG",
+    "flight_hours": 0.9525,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1781819689,
+    "lastSeen": 1781825221,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "9CA7",
+    "flight_hours": 1.5367,
+    "landing": 1
+  }
+]
