@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a44078",
+    "callsign": "N373RS",
+    "firstSeen": 1781885743,
+    "lastSeen": 1781892546,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KTVC",
+    "flight_hours": 1.8897,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1ca5",
+    "callsign": "TWY94",
+    "firstSeen": 1781878857,
+    "lastSeen": 1781891894,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 3.6214,
+    "landing": 1
+  }
+]
