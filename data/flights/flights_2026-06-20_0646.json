@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "491312",
+    "callsign": "NJE431R",
+    "firstSeen": 1781932200,
+    "lastSeen": 1781937445,
+    "estDepartureAirport": "LRCL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4569,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR62WX",
+    "firstSeen": 1781938949,
+    "lastSeen": 1781940370,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3947,
+    "landing": 1
+  }
+]
