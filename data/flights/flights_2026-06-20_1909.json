@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "N130QS",
+    "firstSeen": 1781980907,
+    "lastSeen": 1781982217,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "MYAN",
+    "flight_hours": 0.3639,
+    "landing": 1
+  },
+  {
+    "icao24": "a114c9",
+    "callsign": "N169TC",
+    "firstSeen": 1781955380,
+    "lastSeen": 1781982261,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.4669,
+    "landing": 1
+  },
+  {
+    "icao24": "a34e9b",
+    "callsign": "TWY11",
+    "firstSeen": 1781982574,
+    "lastSeen": 1781985763,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.8858,
+    "landing": 1
+  },
+  {
+    "icao24": "a40a65",
+    "callsign": "N36EP",
+    "firstSeen": 1781978501,
+    "lastSeen": 1781984145,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KTVC",
+    "flight_hours": 1.5678,
+    "landing": 1
+  }
+]
