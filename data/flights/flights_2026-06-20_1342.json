@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ1523",
+    "firstSeen": 1781962118,
+    "lastSeen": 1781963656,
+    "estDepartureAirport": "EKCH",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4272,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1781960919,
+    "lastSeen": 1781962935,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 0.56,
+    "landing": 1
+  },
+  {
+    "icao24": "a790c3",
+    "callsign": "N587JT",
+    "firstSeen": 1781961256,
+    "lastSeen": 1781963966,
+    "estDepartureAirport": "KHGR",
+    "estArrivalAirport": "K7W6",
+    "flight_hours": 0.7528,
+    "landing": 1
+  }
+]
