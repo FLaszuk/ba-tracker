@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1781967363,
+    "lastSeen": 1781971496,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 1.1481,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS36",
+    "firstSeen": 1781964424,
+    "lastSeen": 1781971160,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 1.8711,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3866",
+    "callsign": "N822BD",
+    "firstSeen": 1781970358,
+    "lastSeen": 1781971107,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.2081,
+    "landing": 1
+  },
+  {
+    "icao24": "ac78ce",
+    "callsign": "N902YP",
+    "firstSeen": 1781960989,
+    "lastSeen": 1781969325,
+    "estDepartureAirport": "FL99",
+    "estArrivalAirport": "KY89",
+    "flight_hours": 2.3156,
+    "landing": 1
+  },
+  {
+    "icao24": "ad3629",
+    "callsign": "N950RL",
+    "firstSeen": 1781964205,
+    "lastSeen": 1781970971,
+    "estDepartureAirport": "KILN",
+    "estArrivalAirport": "KFMY",
+    "flight_hours": 1.8794,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1781967557,
+    "lastSeen": 1781970883,
+    "estDepartureAirport": "KDTS",
+    "estArrivalAirport": "3LA4",
+    "flight_hours": 0.9239,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9746",
+    "callsign": "CYO975",
+    "firstSeen": 1781959078,
+    "lastSeen": 1781969726,
+    "estDepartureAirport": "KMTH",
+    "estArrivalAirport": "KE34",
+    "flight_hours": 2.9578,
+    "landing": 1
+  }
+]
