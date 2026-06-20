@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR7PD",
+    "firstSeen": 1781970657,
+    "lastSeen": 1781977106,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7914,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1781973377,
+    "lastSeen": 1781977902,
+    "estDepartureAirport": "KL22",
+    "estArrivalAirport": "2CL3",
+    "flight_hours": 1.2569,
+    "landing": 1
+  },
+  {
+    "icao24": "a0c1d7",
+    "callsign": "EJA148",
+    "firstSeen": 1781974514,
+    "lastSeen": 1781975711,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.3325,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1781971142,
+    "lastSeen": 1781976599,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "KPUB",
+    "flight_hours": 1.5158,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1781968981,
+    "lastSeen": 1781976483,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0839,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f063",
+    "callsign": "N610SW",
+    "firstSeen": 1781971623,
+    "lastSeen": 1781975220,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.9992,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1781973817,
+    "lastSeen": 1781976599,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.7728,
+    "landing": 1
+  },
+  {
+    "icao24": "a98efb",
+    "callsign": "N715DR",
+    "firstSeen": 1781974687,
+    "lastSeen": 1781978386,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "MYGD",
+    "flight_hours": 1.0275,
+    "landing": 1
+  },
+  {
+    "icao24": "e8095a",
+    "callsign": "CCAND",
+    "firstSeen": 1781974569,
+    "lastSeen": 1781975374,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "SCET",
+    "flight_hours": 0.2236,
+    "landing": 1
+  }
+]
