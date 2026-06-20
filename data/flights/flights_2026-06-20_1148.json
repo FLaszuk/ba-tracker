@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c7583",
+    "callsign": "BVR505",
+    "firstSeen": 1781953449,
+    "lastSeen": 1781958913,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.5178,
+    "landing": 1
+  },
+  {
+    "icao24": "a141f6",
+    "callsign": "EJM180",
+    "firstSeen": 1781951701,
+    "lastSeen": 1781957788,
+    "estDepartureAirport": "LICC",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.6908,
+    "landing": 1
+  }
+]
