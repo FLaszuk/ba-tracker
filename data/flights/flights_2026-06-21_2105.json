@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1782075920,
+    "lastSeen": 1782076831,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2531,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9746",
+    "callsign": "CYO975",
+    "firstSeen": 1782074740,
+    "lastSeen": 1782076478,
+    "estDepartureAirport": "WY60",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4828,
+    "landing": 1
+  },
+  {
+    "icao24": "c03f27",
+    "callsign": "CFXXU",
+    "firstSeen": 1782047908,
+    "lastSeen": 1782075973,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.7958,
+    "landing": 1
+  }
+]
