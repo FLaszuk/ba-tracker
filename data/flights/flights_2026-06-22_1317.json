@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3cc1db",
+    "callsign": "SFG55C",
+    "firstSeen": 1782125369,
+    "lastSeen": 1782134823,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6261,
+    "landing": 1
+  },
+  {
+    "icao24": "493289",
+    "callsign": "NJE6XK",
+    "firstSeen": 1782131628,
+    "lastSeen": 1782135204,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "LFBL",
+    "flight_hours": 0.9933,
+    "landing": 1
+  },
+  {
+    "icao24": "a08dfd",
+    "callsign": "N135CG",
+    "firstSeen": 1782130307,
+    "lastSeen": 1782133696,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9414,
+    "landing": 1
+  },
+  {
+    "icao24": "a0da7a",
+    "callsign": "N154QS",
+    "firstSeen": 1782122787,
+    "lastSeen": 1782133836,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": "RCTP",
+    "flight_hours": 3.0692,
+    "landing": 1
+  },
+  {
+    "icao24": "a66da8",
+    "callsign": "N513MA",
+    "firstSeen": 1782129996,
+    "lastSeen": 1782134338,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2061,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1782134363,
+    "lastSeen": 1782136751,
+    "estDepartureAirport": "KBGR",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.6633,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d53",
+    "callsign": "E55P",
+    "firstSeen": 1782134950,
+    "lastSeen": 1782137015,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SITT",
+    "flight_hours": 0.5736,
+    "landing": 1
+  },
+  {
+    "icao24": "e49279",
+    "callsign": "PRHRO",
+    "firstSeen": 1782132909,
+    "lastSeen": 1782133709,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2222,
+    "landing": 1
+  }
+]
