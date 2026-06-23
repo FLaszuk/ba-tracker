@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "493289",
+    "callsign": "NJE548E",
+    "firstSeen": 1782212797,
+    "lastSeen": 1782225792,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LGMK",
+    "flight_hours": 3.6097,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ876",
+    "firstSeen": 1782223048,
+    "lastSeen": 1782227058,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LB11",
+    "flight_hours": 1.1139,
+    "landing": 1
+  },
+  {
+    "icao24": "a01ec0",
+    "callsign": "N107AL",
+    "firstSeen": 1782222892,
+    "lastSeen": 1782228283,
+    "estDepartureAirport": "KLNS",
+    "estArrivalAirport": "KOXB",
+    "flight_hours": 1.4975,
+    "landing": 1
+  },
+  {
+    "icao24": "a19466",
+    "callsign": "N2000L",
+    "firstSeen": 1782223848,
+    "lastSeen": 1782225026,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.3272,
+    "landing": 1
+  },
+  {
+    "icao24": "a98efb",
+    "callsign": "N715DR",
+    "firstSeen": 1782222733,
+    "lastSeen": 1782226575,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "MYA0",
+    "flight_hours": 1.0672,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4147",
+    "callsign": "N824S",
+    "firstSeen": 1782222989,
+    "lastSeen": 1782227734,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "K0R1",
+    "flight_hours": 1.3181,
+    "landing": 1
+  }
+]
