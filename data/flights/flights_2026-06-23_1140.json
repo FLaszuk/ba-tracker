@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "33ffc0",
+    "callsign": "IAM3101",
+    "firstSeen": 1782207553,
+    "lastSeen": 1782216526,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4925,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1782210819,
+    "lastSeen": 1782216640,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.6169,
+    "landing": 1
+  },
+  {
+    "icao24": "49130b",
+    "callsign": "NJE455G",
+    "firstSeen": 1782212144,
+    "lastSeen": 1782216411,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.1853,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1267",
+    "callsign": "N941RS",
+    "firstSeen": 1782216575,
+    "lastSeen": 1782219869,
+    "estDepartureAirport": "LIRZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.915,
+    "landing": 1
+  }
+]
