@@ -45,6 +45,12 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 43.6,
+      "total_landings": 16
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
       "total_hours": 35.4,
       "total_landings": 16
@@ -53,12 +59,6 @@
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 21.9,
-      "total_landings": 15
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 42.7,
       "total_landings": 15
     }
   ]

@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ4DY",
+    "firstSeen": 1782274286,
+    "lastSeen": 1782277433,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LYPO",
+    "flight_hours": 0.8742,
+    "landing": 1
+  },
+  {
+    "icao24": "a369e2",
+    "callsign": "LVA319",
+    "firstSeen": 1782273833,
+    "lastSeen": 1782277313,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 0.9667,
+    "landing": 1
+  }
+]
