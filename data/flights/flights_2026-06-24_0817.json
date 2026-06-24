@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1782284259,
+    "lastSeen": 1782288773,
+    "estDepartureAirport": "EDDN",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.2539,
+    "landing": 1
+  },
+  {
+    "icao24": "a817e4",
+    "callsign": "N620SY",
+    "firstSeen": 1782266747,
+    "lastSeen": 1782291694,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 6.9297,
+    "landing": 1
+  }
+]
