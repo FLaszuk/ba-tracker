@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP402",
+    "firstSeen": 1782317752,
+    "lastSeen": 1782320362,
+    "estDepartureAirport": "LEMP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.725,
+    "landing": 1
+  },
+  {
+    "icao24": "3c1c82",
+    "callsign": "VJH758",
+    "firstSeen": 1782316896,
+    "lastSeen": 1782319872,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8267,
+    "landing": 1
+  },
+  {
+    "icao24": "a38bc1",
+    "callsign": "N3278",
+    "firstSeen": 1782323695,
+    "lastSeen": 1782324496,
+    "estDepartureAirport": "KSMX",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.2225,
+    "landing": 1
+  },
+  {
+    "icao24": "a63db5",
+    "callsign": "N501AP",
+    "firstSeen": 1782318403,
+    "lastSeen": 1782319919,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "1ID9",
+    "flight_hours": 0.4211,
+    "landing": 1
+  },
+  {
+    "icao24": "aa463e",
+    "callsign": "N761LE",
+    "firstSeen": 1782322573,
+    "lastSeen": 1782323745,
+    "estDepartureAirport": "KPNE",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.3256,
+    "landing": 1
+  }
+]
