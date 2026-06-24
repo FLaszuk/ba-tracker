@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1782307326,
+    "lastSeen": 1782311204,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.0772,
+    "landing": 1
+  },
+  {
+    "icao24": "493283",
+    "callsign": "NJE957E",
+    "firstSeen": 1782302828,
+    "lastSeen": 1782310670,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.1783,
+    "landing": 1
+  },
+  {
+    "icao24": "a130e6",
+    "callsign": "N176QS",
+    "firstSeen": 1782292508,
+    "lastSeen": 1782314779,
+    "estDepartureAirport": "EGLC",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.1864,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1782314058,
+    "lastSeen": 1782315647,
+    "estDepartureAirport": "KMKV",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.4414,
+    "landing": 1
+  },
+  {
+    "icao24": "a9247d",
+    "callsign": "TWY57",
+    "firstSeen": 1782308287,
+    "lastSeen": 1782309888,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4447,
+    "landing": 1
+  }
+]
