@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0ab8d",
+    "callsign": "EJA142",
+    "firstSeen": 1782414361,
+    "lastSeen": 1782417201,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.7889,
+    "landing": 1
+  },
+  {
+    "icao24": "a68704",
+    "callsign": "JLC170",
+    "firstSeen": 1782407801,
+    "lastSeen": 1782415865,
+    "estDepartureAirport": "KTIW",
+    "estArrivalAirport": "CO43",
+    "flight_hours": 2.24,
+    "landing": 1
+  },
+  {
+    "icao24": "a950b2",
+    "callsign": "N7JP",
+    "firstSeen": 1782414248,
+    "lastSeen": 1782415541,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "MYAN",
+    "flight_hours": 0.3592,
+    "landing": 1
+  },
+  {
+    "icao24": "a99087",
+    "callsign": "TIV715",
+    "firstSeen": 1782404601,
+    "lastSeen": 1782416289,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "3MI2",
+    "flight_hours": 3.2467,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1782407127,
+    "lastSeen": 1782415801,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "KTVC",
+    "flight_hours": 2.4094,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1782415700,
+    "lastSeen": 1782417682,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "K8D3",
+    "flight_hours": 0.5506,
+    "landing": 1
+  }
+]
