@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4badcb",
+    "callsign": "TCKNK",
+    "firstSeen": 1782401412,
+    "lastSeen": 1782404074,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LTAY",
+    "flight_hours": 0.7394,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1782400564,
+    "lastSeen": 1782401585,
+    "estDepartureAirport": "KGRR",
+    "estArrivalAirport": "KGOV",
+    "flight_hours": 0.2836,
+    "landing": 1
+  },
+  {
+    "icao24": "c06de2",
+    "callsign": "",
+    "firstSeen": 1782403023,
+    "lastSeen": 1782403035,
+    "estDepartureAirport": "CKD7",
+    "estArrivalAirport": "CKD7",
+    "flight_hours": 0.0033,
+    "landing": 1
+  }
+]
