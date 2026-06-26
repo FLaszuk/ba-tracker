@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc319",
+    "callsign": "DCBEN",
+    "firstSeen": 1782449135,
+    "lastSeen": 1782450656,
+    "estDepartureAirport": "EDTY",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.4225,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1782430117,
+    "lastSeen": 1782451856,
+    "estDepartureAirport": "KHIO",
+    "estArrivalAirport": "MMMA",
+    "flight_hours": 6.0386,
+    "landing": 1
+  }
+]
