@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "a05347",
+    "callsign": "N12VU",
+    "firstSeen": 1782495448,
+    "lastSeen": 1782505843,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "KHIG",
+    "flight_hours": 2.8875,
+    "landing": 1
+  },
+  {
+    "icao24": "a0c6c6",
+    "callsign": "DCM2492",
+    "firstSeen": 1782495745,
+    "lastSeen": 1782505958,
+    "estDepartureAirport": "XS39",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8369,
+    "landing": 1
+  },
+  {
+    "icao24": "a1d80b",
+    "callsign": "N218JJ",
+    "firstSeen": 1782473983,
+    "lastSeen": 1782508566,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 9.6064,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1782501984,
+    "lastSeen": 1782504759,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7708,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f808",
+    "callsign": "LXJ484",
+    "firstSeen": 1782504559,
+    "lastSeen": 1782506961,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "WY38",
+    "flight_hours": 0.6672,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1d23",
+    "callsign": "TWY944",
+    "firstSeen": 1782492206,
+    "lastSeen": 1782505530,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7011,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1782488024,
+    "lastSeen": 1782505272,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 4.7911,
+    "landing": 1
+  },
+  {
+    "icao24": "c06a7c",
+    "callsign": "SYB021",
+    "firstSeen": 1782500432,
+    "lastSeen": 1782504304,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 1.0756,
+    "landing": 1
+  }
+]
