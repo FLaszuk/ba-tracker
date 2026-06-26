@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1782492041,
+    "lastSeen": 1782499013,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "4NE8",
+    "flight_hours": 1.9367,
+    "landing": 1
+  },
+  {
+    "icao24": "a3a21d",
+    "callsign": "N333MX",
+    "firstSeen": 1782493365,
+    "lastSeen": 1782498975,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KS34",
+    "flight_hours": 1.5583,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1782494794,
+    "lastSeen": 1782499837,
+    "estDepartureAirport": "KBLV",
+    "estArrivalAirport": "KDFW",
+    "flight_hours": 1.4008,
+    "landing": 1
+  },
+  {
+    "icao24": "ab57fc",
+    "callsign": "KPO83",
+    "firstSeen": 1782477611,
+    "lastSeen": 1782499737,
+    "estDepartureAirport": "EGPH",
+    "estArrivalAirport": "CNF8",
+    "flight_hours": 6.1461,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a8b",
+    "callsign": "PRGCR",
+    "firstSeen": 1782498528,
+    "lastSeen": 1782499409,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2447,
+    "landing": 1
+  }
+]
