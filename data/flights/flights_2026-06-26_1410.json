@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "494106",
+    "callsign": "NJE477P",
+    "firstSeen": 1782480812,
+    "lastSeen": 1782483628,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.7822,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e93c",
+    "callsign": "N222JE",
+    "firstSeen": 1782482966,
+    "lastSeen": 1782484154,
+    "estDepartureAirport": "KBIV",
+    "estArrivalAirport": "KY89",
+    "flight_hours": 0.33,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1782482341,
+    "lastSeen": 1782485675,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.9261,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "CNS1224",
+    "firstSeen": 1782483558,
+    "lastSeen": 1782487054,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 0.9711,
+    "landing": 1
+  }
+]
