@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0698",
+    "callsign": "XABEG",
+    "firstSeen": 1782510943,
+    "lastSeen": 1782515189,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMMV",
+    "flight_hours": 1.1794,
+    "landing": 1
+  },
+  {
+    "icao24": "a724bd",
+    "callsign": "N56BU",
+    "firstSeen": 1782503285,
+    "lastSeen": 1782511494,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "04MN",
+    "flight_hours": 2.2803,
+    "landing": 1
+  }
+]
