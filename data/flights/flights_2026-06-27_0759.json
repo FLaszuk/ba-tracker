@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW162",
+    "firstSeen": 1782547205,
+    "lastSeen": 1782549363,
+    "estDepartureAirport": "LIEO",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.5994,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU4395",
+    "firstSeen": 1782535049,
+    "lastSeen": 1782547772,
+    "estDepartureAirport": "LFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 3.5342,
+    "landing": 1
+  },
+  {
+    "icao24": "44058f",
+    "callsign": "GAC096B",
+    "firstSeen": 1782543728,
+    "lastSeen": 1782546652,
+    "estDepartureAirport": "LOWL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8122,
+    "landing": 1
+  },
+  {
+    "icao24": "493281",
+    "callsign": "NJE887H",
+    "firstSeen": 1782546958,
+    "lastSeen": 1782549976,
+    "estDepartureAirport": "LIPR",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.8383,
+    "landing": 1
+  }
+]
