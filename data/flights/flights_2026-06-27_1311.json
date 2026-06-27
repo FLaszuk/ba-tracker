@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WZZ5495",
+    "firstSeen": 1782563874,
+    "lastSeen": 1782568038,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1567,
+    "landing": 1
+  },
+  {
+    "icao24": "50007b",
+    "callsign": "TSM605",
+    "firstSeen": 1782563859,
+    "lastSeen": 1782566208,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6525,
+    "landing": 1
+  },
+  {
+    "icao24": "a45931",
+    "callsign": "N38CP",
+    "firstSeen": 1782565266,
+    "lastSeen": 1782568404,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "6MI0",
+    "flight_hours": 0.8717,
+    "landing": 1
+  }
+]
