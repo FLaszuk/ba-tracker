@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc9e7",
+    "callsign": "DCDTN",
+    "firstSeen": 1782550732,
+    "lastSeen": 1782553768,
+    "estDepartureAirport": "EDRZ",
+    "estArrivalAirport": "EDDB",
+    "flight_hours": 0.8433,
+    "landing": 1
+  },
+  {
+    "icao24": "3cce03",
+    "callsign": "DWW554",
+    "firstSeen": 1782553374,
+    "lastSeen": 1782555201,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5075,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02a1",
+    "callsign": "JFA99X",
+    "firstSeen": 1782551467,
+    "lastSeen": 1782555319,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.07,
+    "landing": 1
+  },
+  {
+    "icao24": "5000f1",
+    "callsign": "DWC003",
+    "firstSeen": 1782551443,
+    "lastSeen": 1782552826,
+    "estDepartureAirport": "VOBL",
+    "estArrivalAirport": "VOTR",
+    "flight_hours": 0.3842,
+    "landing": 1
+  }
+]
