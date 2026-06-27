@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0c169",
+    "callsign": "N148LG",
+    "firstSeen": 1782579004,
+    "lastSeen": 1782581079,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLAR",
+    "flight_hours": 0.5764,
+    "landing": 1
+  },
+  {
+    "icao24": "a674f4",
+    "callsign": "N515KS",
+    "firstSeen": 1782580609,
+    "lastSeen": 1782582176,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "MO23",
+    "flight_hours": 0.4353,
+    "landing": 1
+  },
+  {
+    "icao24": "a70016",
+    "callsign": "N550GW",
+    "firstSeen": 1782562334,
+    "lastSeen": 1782580344,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 5.0028,
+    "landing": 1
+  },
+  {
+    "icao24": "ac444b",
+    "callsign": "N89PL",
+    "firstSeen": 1782575404,
+    "lastSeen": 1782580163,
+    "estDepartureAirport": "KECP",
+    "estArrivalAirport": "MYAN",
+    "flight_hours": 1.3219,
+    "landing": 1
+  }
+]
