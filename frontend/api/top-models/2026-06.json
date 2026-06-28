@@ -10,8 +10,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 62.4,
-      "total_landings": 45
+      "total_hours": 62.8,
+      "total_landings": 46
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -39,6 +39,12 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 51.8,
+      "total_landings": 20
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
       "total_hours": 39.7,
       "total_landings": 20
@@ -51,15 +57,9 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 51.2,
-      "total_landings": 19
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
-      "total_hours": 36.8,
-      "total_landings": 17
+      "total_hours": 41.2,
+      "total_landings": 18
     }
   ]
 }

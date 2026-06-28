@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4b1999",
+    "callsign": "HBJSB",
+    "firstSeen": 1782677747,
+    "lastSeen": 1782679122,
+    "estDepartureAirport": "HE46",
+    "estArrivalAirport": "HESC",
+    "flight_hours": 0.3819,
+    "landing": 1
+  },
+  {
+    "icao24": "a020a1",
+    "callsign": "N107VS",
+    "firstSeen": 1782675368,
+    "lastSeen": 1782677608,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KSLK",
+    "flight_hours": 0.6222,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e99d",
+    "callsign": "N222NB",
+    "firstSeen": 1782663068,
+    "lastSeen": 1782679071,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 4.4453,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1782669588,
+    "lastSeen": 1782678408,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.45,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f8d",
+    "callsign": "PPJJA",
+    "firstSeen": 1782664394,
+    "lastSeen": 1782676540,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": null,
+    "flight_hours": 3.3739,
+    "landing": 1
+  }
+]
