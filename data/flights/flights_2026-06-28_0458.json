@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4403ec",
+    "callsign": "OEGRB",
+    "firstSeen": 1782623035,
+    "lastSeen": 1782626925,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "EDDB",
+    "flight_hours": 1.0806,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3415",
+    "firstSeen": 1782621943,
+    "lastSeen": 1782622941,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2772,
+    "landing": 1
+  }
+]
