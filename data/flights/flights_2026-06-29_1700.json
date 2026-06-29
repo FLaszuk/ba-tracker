@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a005c9",
+    "callsign": "N100MB",
+    "firstSeen": 1782749675,
+    "lastSeen": 1782753764,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "28MI",
+    "flight_hours": 1.1358,
+    "landing": 1
+  },
+  {
+    "icao24": "a0723d",
+    "callsign": "N128JL",
+    "firstSeen": 1782746223,
+    "lastSeen": 1782752527,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "MYA0",
+    "flight_hours": 1.7511,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "N130QS",
+    "firstSeen": 1782723856,
+    "lastSeen": 1782753776,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "KTWM",
+    "flight_hours": 8.3111,
+    "landing": 1
+  },
+  {
+    "icao24": "a34498",
+    "callsign": "N31BG",
+    "firstSeen": 1782742988,
+    "lastSeen": 1782752249,
+    "estDepartureAirport": "KRYY",
+    "estArrivalAirport": "0CO2",
+    "flight_hours": 2.5725,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ae0",
+    "callsign": "N315RE",
+    "firstSeen": 1782749227,
+    "lastSeen": 1782752708,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "WS06",
+    "flight_hours": 0.9669,
+    "landing": 1
+  },
+  {
+    "icao24": "a95d3d",
+    "callsign": "N702NW",
+    "firstSeen": 1782742597,
+    "lastSeen": 1782751916,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 2.5886,
+    "landing": 1
+  }
+]
