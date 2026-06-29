@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU48MR",
+    "firstSeen": 1782753302,
+    "lastSeen": 1782761418,
+    "estDepartureAirport": "LFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2544,
+    "landing": 1
+  },
+  {
+    "icao24": "a10967",
+    "callsign": "N166QS",
+    "firstSeen": 1782736617,
+    "lastSeen": 1782762332,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "PANC",
+    "flight_hours": 7.1431,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a6e",
+    "callsign": "N504ST",
+    "firstSeen": 1782759124,
+    "lastSeen": 1782761664,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 0.7056,
+    "landing": 1
+  },
+  {
+    "icao24": "aae2b5",
+    "callsign": "N800JR",
+    "firstSeen": 1782755319,
+    "lastSeen": 1782760226,
+    "estDepartureAirport": "7NK1",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3631,
+    "landing": 1
+  },
+  {
+    "icao24": "ad81a1",
+    "callsign": "EJM200",
+    "firstSeen": 1782752118,
+    "lastSeen": 1782764766,
+    "estDepartureAirport": "K6S8",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 3.5133,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1782759001,
+    "lastSeen": 1782760322,
+    "estDepartureAirport": "CYQB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3669,
+    "landing": 1
+  }
+]
