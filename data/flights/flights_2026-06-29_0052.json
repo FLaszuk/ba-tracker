@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a001bd",
+    "callsign": "N1TT",
+    "firstSeen": 1782690322,
+    "lastSeen": 1782694923,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "51CO",
+    "flight_hours": 1.2781,
+    "landing": 1
+  },
+  {
+    "icao24": "a8dbd3",
+    "callsign": "N670BB",
+    "firstSeen": 1782672015,
+    "lastSeen": 1782696130,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.6986,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf47b",
+    "callsign": "N805AL",
+    "firstSeen": 1782666917,
+    "lastSeen": 1782696922,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 8.3347,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC3855",
+    "firstSeen": 1782688375,
+    "lastSeen": 1782694876,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8058,
+    "landing": 1
+  }
+]
