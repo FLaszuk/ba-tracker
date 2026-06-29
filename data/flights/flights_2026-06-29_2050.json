@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1782764310,
+    "lastSeen": 1782766947,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7325,
+    "landing": 1
+  },
+  {
+    "icao24": "a44dd3",
+    "callsign": "DCM4087",
+    "firstSeen": 1782768306,
+    "lastSeen": 1782769820,
+    "estDepartureAirport": "KMKV",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.4206,
+    "landing": 1
+  },
+  {
+    "icao24": "a924e4",
+    "callsign": "N689CM",
+    "firstSeen": 1782765279,
+    "lastSeen": 1782767268,
+    "estDepartureAirport": "KCWA",
+    "estArrivalAirport": "KRST",
+    "flight_hours": 0.5525,
+    "landing": 1
+  },
+  {
+    "icao24": "a94d16",
+    "callsign": "KFB699",
+    "firstSeen": 1782754784,
+    "lastSeen": 1782767410,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 3.5072,
+    "landing": 1
+  },
+  {
+    "icao24": "aa69ee",
+    "callsign": "N770KF",
+    "firstSeen": 1782761067,
+    "lastSeen": 1782769946,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KDMO",
+    "flight_hours": 2.4664,
+    "landing": 1
+  },
+  {
+    "icao24": "aab2c0",
+    "callsign": "XEN89",
+    "firstSeen": 1782762405,
+    "lastSeen": 1782768260,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.6264,
+    "landing": 1
+  }
+]
