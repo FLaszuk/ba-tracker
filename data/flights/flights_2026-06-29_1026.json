@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3003d0",
+    "callsign": "SSR84CN",
+    "firstSeen": 1782729197,
+    "lastSeen": 1782731187,
+    "estDepartureAirport": "LICC",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.5528,
+    "landing": 1
+  },
+  {
+    "icao24": "300500",
+    "callsign": "CPI293",
+    "firstSeen": 1782723677,
+    "lastSeen": 1782730106,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "EPRZ",
+    "flight_hours": 1.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1782729588,
+    "lastSeen": 1782731151,
+    "estDepartureAirport": "LGSA",
+    "estArrivalAirport": "LGMK",
+    "flight_hours": 0.4342,
+    "landing": 1
+  },
+  {
+    "icao24": "a141f6",
+    "callsign": "EJM180",
+    "firstSeen": 1782720106,
+    "lastSeen": 1782729704,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 2.6661,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1782728366,
+    "lastSeen": 1782730855,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.6914,
+    "landing": 1
+  }
+]
