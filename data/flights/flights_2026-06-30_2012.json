@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI602",
+    "firstSeen": 1782845041,
+    "lastSeen": 1782851434,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7758,
+    "landing": 1
+  },
+  {
+    "icao24": "a180d5",
+    "callsign": "N1960H",
+    "firstSeen": 1782846725,
+    "lastSeen": 1782851894,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 1.4358,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b9a",
+    "callsign": "N247SK",
+    "firstSeen": 1782851751,
+    "lastSeen": 1782851883,
+    "estDepartureAirport": "IN58",
+    "estArrivalAirport": "KVNW",
+    "flight_hours": 0.0367,
+    "landing": 1
+  }
+]
