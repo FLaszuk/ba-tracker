@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a19040",
+    "callsign": "N20G",
+    "firstSeen": 1782827279,
+    "lastSeen": 1782828804,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "KCAK",
+    "flight_hours": 0.4236,
+    "landing": 1
+  },
+  {
+    "icao24": "a20ddb",
+    "callsign": "N231SV",
+    "firstSeen": 1782828419,
+    "lastSeen": 1782831258,
+    "estDepartureAirport": "TN98",
+    "estArrivalAirport": "KHXD",
+    "flight_hours": 0.7886,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1782828196,
+    "lastSeen": 1782830960,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "32OR",
+    "flight_hours": 0.7678,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e47d",
+    "callsign": "N479W",
+    "firstSeen": 1782830293,
+    "lastSeen": 1782831090,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2214,
+    "landing": 1
+  },
+  {
+    "icao24": "a88ddf",
+    "callsign": "N650MT",
+    "firstSeen": 1782824793,
+    "lastSeen": 1782829984,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4419,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b914",
+    "callsign": "N661MS",
+    "firstSeen": 1782827434,
+    "lastSeen": 1782832740,
+    "estDepartureAirport": "KBMQ",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 1.4739,
+    "landing": 1
+  },
+  {
+    "icao24": "adc30c",
+    "callsign": "N986SP",
+    "firstSeen": 1782806749,
+    "lastSeen": 1782833162,
+    "estDepartureAirport": "EDDS",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.3369,
+    "landing": 1
+  }
+]
