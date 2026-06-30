@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d06ad",
+    "callsign": "XAIBC",
+    "firstSeen": 1782840716,
+    "lastSeen": 1782847854,
+    "estDepartureAirport": "MMUN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9828,
+    "landing": 1
+  },
+  {
+    "icao24": "a049ef",
+    "callsign": "N118AD",
+    "firstSeen": 1782840322,
+    "lastSeen": 1782845367,
+    "estDepartureAirport": "KBFM",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4014,
+    "landing": 1
+  },
+  {
+    "icao24": "a26b80",
+    "callsign": "EJA255",
+    "firstSeen": 1782836161,
+    "lastSeen": 1782845901,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KSHL",
+    "flight_hours": 2.7056,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1782834869,
+    "lastSeen": 1782847301,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.4533,
+    "landing": 1
+  }
+]
