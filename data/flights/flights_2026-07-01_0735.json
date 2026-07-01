@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4bccef",
+    "callsign": "TCSGO",
+    "firstSeen": 1782886628,
+    "lastSeen": 1782892496,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LZIB",
+    "flight_hours": 1.63,
+    "landing": 1
+  },
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1782886246,
+    "lastSeen": 1782893401,
+    "estDepartureAirport": "EBAW",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.9875,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cd",
+    "callsign": "VJT796",
+    "firstSeen": 1782889262,
+    "lastSeen": 1782892182,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.8111,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1782883683,
+    "lastSeen": 1782895302,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 3.2275,
+    "landing": 1
+  }
+]

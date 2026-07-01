@@ -39,7 +39,8 @@
     "2026-03",
     "2026-04",
     "2026-05",
-    "2026-06"
+    "2026-06",
+    "2026-07"
   ],
   "manufacturers": {
     "Rolls-Royce": {
@@ -202,6 +203,10 @@
       "2026-06": {
         "hours": 350.3,
         "landings": 160
+      },
+      "2026-07": {
+        "hours": 0.8,
+        "landings": 1
       }
     },
     "Pratt & Whitney Canada": {
@@ -364,6 +369,10 @@
       "2026-06": {
         "hours": 187.2,
         "landings": 138
+      },
+      "2026-07": {
+        "hours": 1.6,
+        "landings": 1
       }
     },
     "Honeywell": {
@@ -526,6 +535,10 @@
       "2026-06": {
         "hours": 154.3,
         "landings": 94
+      },
+      "2026-07": {
+        "hours": 3.2,
+        "landings": 1
       }
     },
     "Williams International": {
@@ -688,6 +701,10 @@
       "2026-06": {
         "hours": 31.5,
         "landings": 27
+      },
+      "2026-07": {
+        "hours": 2.0,
+        "landings": 1
       }
     },
     "GE Aviation": {

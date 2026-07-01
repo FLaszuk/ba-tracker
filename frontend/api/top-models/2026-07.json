@@ -1,0 +1,29 @@
+{
+  "month": "2026-07",
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 0.8,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 3.2,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation CJ3",
+      "total_hours": 2.0,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 1.6,
+      "total_landings": 1
+    }
+  ]
+}
