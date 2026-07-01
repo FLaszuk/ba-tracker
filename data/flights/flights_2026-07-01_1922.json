@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1782931969,
+    "lastSeen": 1782934794,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "K6S5",
+    "flight_hours": 0.7847,
+    "landing": 1
+  },
+  {
+    "icao24": "a34b61",
+    "callsign": "N311JS",
+    "firstSeen": 1782937530,
+    "lastSeen": 1782939527,
+    "estDepartureAirport": "KSAC",
+    "estArrivalAirport": "KPAO",
+    "flight_hours": 0.5547,
+    "landing": 1
+  },
+  {
+    "icao24": "a50c3d",
+    "callsign": "N424U",
+    "firstSeen": 1782927726,
+    "lastSeen": 1782937245,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 2.6442,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1782928791,
+    "lastSeen": 1782935521,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8694,
+    "landing": 1
+  },
+  {
+    "icao24": "acc334",
+    "callsign": "N921PP",
+    "firstSeen": 1782924963,
+    "lastSeen": 1782936694,
+    "estDepartureAirport": "JY04",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.2586,
+    "landing": 1
+  },
+  {
+    "icao24": "adf4bf",
+    "callsign": "N999GY",
+    "firstSeen": 1782930227,
+    "lastSeen": 1782935283,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4044,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1782932256,
+    "lastSeen": 1782933530,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3539,
+    "landing": 1
+  }
+]
