@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "total": 4,
+  "total": 6,
   "offset": 0,
-  "limit": 4,
+  "limit": 6,
   "data": [
     {
       "aircraft_manufacturer": "Bombardier",
@@ -11,8 +11,18 @@
       "engine_model": "TFE731",
       "total_hours": 3.2,
       "total_landings": 1,
-      "aircraft_market_share": 42.17,
-      "engine_market_share": 42.17
+      "aircraft_market_share": 29.42,
+      "engine_market_share": 33.06
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 2.3,
+      "total_landings": 3,
+      "aircraft_market_share": 21.04,
+      "engine_market_share": 33.97
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -21,8 +31,8 @@
       "engine_model": "FJ44",
       "total_hours": 2.0,
       "total_landings": 1,
-      "aircraft_market_share": 25.98,
-      "engine_market_share": 25.98
+      "aircraft_market_share": 18.12,
+      "engine_market_share": 18.12
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -31,18 +41,28 @@
       "engine_model": "PW308C",
       "total_hours": 1.6,
       "total_landings": 1,
-      "aircraft_market_share": 21.28,
-      "engine_market_share": 21.28
+      "aircraft_market_share": 14.85,
+      "engine_market_share": 14.85
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
       "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710",
-      "total_hours": 0.8,
+      "engine_model": "AE 3007",
+      "total_hours": 1.4,
       "total_landings": 1,
-      "aircraft_market_share": 10.57,
-      "engine_market_share": 10.57
+      "aircraft_market_share": 12.93,
+      "engine_market_share": 33.97
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 0.4,
+      "total_landings": 1,
+      "aircraft_market_share": 3.64,
+      "engine_market_share": 33.06
     }
   ]
 }

@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1782920358,
+    "lastSeen": 1782924420,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "KH21",
+    "flight_hours": 1.1283,
+    "landing": 1
+  },
+  {
+    "icao24": "a0be20",
+    "callsign": "N147QS",
+    "firstSeen": 1782919686,
+    "lastSeen": 1782921018,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "MYBC",
+    "flight_hours": 0.37,
+    "landing": 1
+  },
+  {
+    "icao24": "ac4660",
+    "callsign": "N890LT",
+    "firstSeen": 1782921182,
+    "lastSeen": 1782922613,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": "KFOZ",
+    "flight_hours": 0.3975,
+    "landing": 1
+  },
+  {
+    "icao24": "adf45a",
+    "callsign": "EJM999",
+    "firstSeen": 1782917763,
+    "lastSeen": 1782922864,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4169,
+    "landing": 1
+  }
+]
