@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1782859178,
+    "lastSeen": 1782862124,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8183,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cc3c",
+    "callsign": "N666TR",
+    "firstSeen": 1782857217,
+    "lastSeen": 1782859608,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "ME33",
+    "flight_hours": 0.6642,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1782854290,
+    "lastSeen": 1782856902,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.7256,
+    "landing": 1
+  }
+]
