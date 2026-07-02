@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4a5243",
+    "callsign": "TOY204",
+    "firstSeen": 1782991108,
+    "lastSeen": 1782998349,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0114,
+    "landing": 1
+  },
+  {
+    "icao24": "a0005e",
+    "callsign": "N1DS",
+    "firstSeen": 1782998406,
+    "lastSeen": 1783000162,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.4878,
+    "landing": 1
+  },
+  {
+    "icao24": "a04e6f",
+    "callsign": "VJA119",
+    "firstSeen": 1782989883,
+    "lastSeen": 1782997556,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1314,
+    "landing": 1
+  },
+  {
+    "icao24": "a801d7",
+    "callsign": "N615FJ",
+    "firstSeen": 1782993443,
+    "lastSeen": 1782998243,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 1.3333,
+    "landing": 1
+  },
+  {
+    "icao24": "e40172",
+    "callsign": "ENSAIO75",
+    "firstSeen": 1782996772,
+    "lastSeen": 1782997306,
+    "estDepartureAirport": "SDZZ",
+    "estArrivalAirport": "SDNH",
+    "flight_hours": 0.1483,
+    "landing": 1
+  }
+]
