@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0698",
+    "callsign": "XABEG",
+    "firstSeen": 1783007667,
+    "lastSeen": 1783009099,
+    "estDepartureAirport": "MMMY",
+    "estArrivalAirport": "MMMA",
+    "flight_hours": 0.3978,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c95c",
+    "callsign": "RNI41",
+    "firstSeen": 1783004964,
+    "lastSeen": 1783006707,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4842,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1783008671,
+    "lastSeen": 1783009749,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": "CYXC",
+    "flight_hours": 0.2994,
+    "landing": 1
+  }
+]
