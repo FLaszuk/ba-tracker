@@ -8,22 +8,34 @@
       "total_landings": 6
     },
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "total_hours": 5.5,
+      "total_landings": 6
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 8.1,
       "total_landings": 5
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 900",
-      "total_hours": 5.0,
-      "total_landings": 5
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 4.6,
+      "total_landings": 4
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2.3,
+      "total_landings": 3
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 4.1,
-      "total_landings": 3
+      "aircraft_model": "Challenger 605",
+      "total_hours": 5.9,
+      "total_landings": 2
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -44,21 +56,9 @@
       "total_landings": 2
     },
     {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 1.6,
-      "total_landings": 2
-    },
-    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 300",
       "total_hours": 2.0,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 605",
-      "total_hours": 5.9,
       "total_landings": 1
     }
   ]

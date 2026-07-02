@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "a20ddb",
+    "callsign": "N231SV",
+    "firstSeen": 1783022822,
+    "lastSeen": 1783025445,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "CO95",
+    "flight_hours": 0.7286,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1783001713,
+    "lastSeen": 1783022900,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 5.8853,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1783023658,
+    "lastSeen": 1783023658,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a432a5",
+    "callsign": "N37NG",
+    "firstSeen": 1783007327,
+    "lastSeen": 1783023327,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "11CL",
+    "flight_hours": 4.4444,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a809",
+    "callsign": "N4BA",
+    "firstSeen": 1783022404,
+    "lastSeen": 1783023343,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2608,
+    "landing": 1
+  },
+  {
+    "icao24": "a69068",
+    "callsign": "N522AM",
+    "firstSeen": 1783020506,
+    "lastSeen": 1783023989,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9675,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1783025050,
+    "lastSeen": 1783026658,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4467,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3fb0",
+    "callsign": "N76FD",
+    "firstSeen": 1783021149,
+    "lastSeen": 1783023026,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.5214,
+    "landing": 1
+  }
+]
