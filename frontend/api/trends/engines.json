@@ -205,8 +205,8 @@
         "landings": 160
       },
       "2026-07": {
-        "hours": 12.3,
-        "landings": 9
+        "hours": 19.0,
+        "landings": 11
       }
     },
     "Pratt & Whitney Canada": {
@@ -371,8 +371,8 @@
         "landings": 138
       },
       "2026-07": {
-        "hours": 11.5,
-        "landings": 8
+        "hours": 15.0,
+        "landings": 10
       }
     },
     "Honeywell": {
@@ -537,8 +537,8 @@
         "landings": 94
       },
       "2026-07": {
-        "hours": 10.9,
-        "landings": 8
+        "hours": 11.2,
+        "landings": 9
       }
     },
     "Williams International": {
@@ -703,8 +703,8 @@
         "landings": 27
       },
       "2026-07": {
-        "hours": 2.0,
-        "landings": 1
+        "hours": 3.6,
+        "landings": 3
       }
     },
     "GE Aviation": {
@@ -867,6 +867,10 @@
       "2026-06": {
         "hours": 51.8,
         "landings": 20
+      },
+      "2026-07": {
+        "hours": 5.9,
+        "landings": 1
       }
     }
   }

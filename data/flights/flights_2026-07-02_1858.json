@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4d2168",
+    "callsign": "WMT4ZT",
+    "firstSeen": 1783015071,
+    "lastSeen": 1783019761,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3028,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS1200",
+    "firstSeen": 1783018898,
+    "lastSeen": 1783020396,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 0.4161,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1783001713,
+    "lastSeen": 1783022900,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 5.8853,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a809",
+    "callsign": "N4BA",
+    "firstSeen": 1783022404,
+    "lastSeen": 1783023343,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2608,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1782999014,
+    "lastSeen": 1783018386,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "TUPA",
+    "flight_hours": 5.3811,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1783013368,
+    "lastSeen": 1783019215,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.6242,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6c6a",
+    "callsign": "N7707X",
+    "firstSeen": 1783013527,
+    "lastSeen": 1783020378,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KS34",
+    "flight_hours": 1.9031,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1783014994,
+    "lastSeen": 1783019231,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1769,
+    "landing": 1
+  }
+]
