@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5351",
+    "firstSeen": 1782950721,
+    "lastSeen": 1782954321,
+    "estDepartureAirport": "MMIO",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 1.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fa8b",
+    "callsign": "N162QS",
+    "firstSeen": 1782936918,
+    "lastSeen": 1782952917,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 4.4442,
+    "landing": 1
+  },
+  {
+    "icao24": "ad7e2e",
+    "callsign": "N969GC",
+    "firstSeen": 1782945504,
+    "lastSeen": 1782953270,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.1572,
+    "landing": 1
+  }
+]

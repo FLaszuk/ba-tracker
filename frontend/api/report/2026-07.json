@@ -3,19 +3,19 @@
     "current_month": "2026-07",
     "previous_month": "2026-06",
     "flight_hours": {
-      "current": 21.8,
+      "current": 29.4,
       "previous": 775.2,
-      "change_pct": -97.2
+      "change_pct": -96.2
     },
     "landings": {
-      "current": 15,
+      "current": 18,
       "previous": 439,
-      "change_pct": -96.6
+      "change_pct": -95.9
     },
     "aircraft": {
-      "current": 15,
+      "current": 18,
       "previous": 348,
-      "change_pct": -95.7
+      "change_pct": -94.8
     }
   }
 }

@@ -1,9 +1,19 @@
 {
   "month": "2026-07",
-  "total": 7,
+  "total": 9,
   "offset": 0,
-  "limit": 7,
+  "limit": 9,
   "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 6.8,
+      "total_landings": 4,
+      "aircraft_market_share": 22.93,
+      "engine_market_share": 32.51
+    },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
@@ -11,8 +21,8 @@
       "engine_model": "PW308C",
       "total_hours": 4.3,
       "total_landings": 3,
-      "aircraft_market_share": 19.6,
-      "engine_market_share": 34.52
+      "aircraft_market_share": 14.54,
+      "engine_market_share": 36.35
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -21,8 +31,8 @@
       "engine_model": "TFE731",
       "total_hours": 4.1,
       "total_landings": 3,
-      "aircraft_market_share": 18.96,
-      "engine_market_share": 32.88
+      "aircraft_market_share": 14.06,
+      "engine_market_share": 24.39
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -31,8 +41,8 @@
       "engine_model": "PW307A",
       "total_hours": 3.3,
       "total_landings": 1,
-      "aircraft_market_share": 14.93,
-      "engine_market_share": 34.52
+      "aircraft_market_share": 11.07,
+      "engine_market_share": 36.35
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -41,8 +51,8 @@
       "engine_model": "TFE731",
       "total_hours": 3.0,
       "total_landings": 2,
-      "aircraft_market_share": 13.92,
-      "engine_market_share": 32.88
+      "aircraft_market_share": 10.33,
+      "engine_market_share": 24.39
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -51,18 +61,18 @@
       "engine_model": "AE 3007",
       "total_hours": 2.8,
       "total_landings": 2,
-      "aircraft_market_share": 12.91,
-      "engine_market_share": 23.49
+      "aircraft_market_share": 9.58,
+      "engine_market_share": 32.51
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710",
-      "total_hours": 2.3,
-      "total_landings": 3,
-      "aircraft_market_share": 10.58,
-      "engine_market_share": 23.49
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535",
+      "total_hours": 2.2,
+      "total_landings": 1,
+      "aircraft_market_share": 7.34,
+      "engine_market_share": 36.35
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -71,8 +81,18 @@
       "engine_model": "FJ44",
       "total_hours": 2.0,
       "total_landings": 1,
-      "aircraft_market_share": 9.11,
-      "engine_market_share": 9.11
+      "aircraft_market_share": 6.76,
+      "engine_market_share": 6.76
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Latitude",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW306D1",
+      "total_hours": 1.0,
+      "total_landings": 1,
+      "aircraft_market_share": 3.4,
+      "engine_market_share": 36.35
     }
   ]
 }
