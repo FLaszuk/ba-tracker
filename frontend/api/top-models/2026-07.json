@@ -2,15 +2,15 @@
   "month": "2026-07",
   "data": [
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 8.4,
+      "total_landings": 7
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 17.2,
-      "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 6.7,
       "total_landings": 6
     },
     {
@@ -26,16 +26,16 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 605",
+      "total_hours": 7.0,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 2.3,
       "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 605",
-      "total_hours": 5.9,
-      "total_landings": 2
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",

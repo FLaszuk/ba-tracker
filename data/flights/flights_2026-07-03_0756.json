@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "484f50",
+    "callsign": "FYG61V",
+    "firstSeen": 1783059437,
+    "lastSeen": 1783065512,
+    "estDepartureAirport": "EBAW",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.6875,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1783061808,
+    "lastSeen": 1783065888,
+    "estDepartureAirport": "EBAW",
+    "estArrivalAirport": "EGNT",
+    "flight_hours": 1.1333,
+    "landing": 1
+  }
+]
