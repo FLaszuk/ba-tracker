@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1783084283,
+    "lastSeen": 1783085707,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.3956,
+    "landing": 1
+  },
+  {
+    "icao24": "3434ce",
+    "callsign": "GES401V",
+    "firstSeen": 1783076840,
+    "lastSeen": 1783085362,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3672,
+    "landing": 1
+  },
+  {
+    "icao24": "39ae37",
+    "callsign": "FHLRX",
+    "firstSeen": 1783078654,
+    "lastSeen": 1783085581,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9242,
+    "landing": 1
+  },
+  {
+    "icao24": "4068f0",
+    "callsign": "LNX23JG",
+    "firstSeen": 1783084912,
+    "lastSeen": 1783088360,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.9578,
+    "landing": 1
+  },
+  {
+    "icao24": "50020c",
+    "callsign": "T7AYA",
+    "firstSeen": 1783083228,
+    "lastSeen": 1783085922,
+    "estDepartureAirport": "LDZA",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 0.7483,
+    "landing": 1
+  },
+  {
+    "icao24": "a29251",
+    "callsign": "N265HT",
+    "firstSeen": 1783078894,
+    "lastSeen": 1783085468,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8261,
+    "landing": 1
+  },
+  {
+    "icao24": "e48eb7",
+    "callsign": "PSGMJ",
+    "firstSeen": 1783075707,
+    "lastSeen": 1783087072,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SWBE",
+    "flight_hours": 3.1569,
+    "landing": 1
+  }
+]
