@@ -2,6 +2,12 @@
   "month": "2026-07",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 17.2,
+      "total_landings": 6
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 6.7,
@@ -12,12 +18,6 @@
       "aircraft_model": "Falcon 900",
       "total_hours": 5.5,
       "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 8.1,
-      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Bombardier",
