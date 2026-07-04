@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cfdec",
+    "callsign": "VJH334",
+    "firstSeen": 1783192927,
+    "lastSeen": 1783199047,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.7,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b125",
+    "callsign": "VJA401",
+    "firstSeen": 1783194288,
+    "lastSeen": 1783199584,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.4711,
+    "landing": 1
+  }
+]

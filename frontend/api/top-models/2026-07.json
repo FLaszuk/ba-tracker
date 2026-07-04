@@ -32,9 +32,21 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 4.5,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 6.3,
+      "total_landings": 3
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 9.0,
       "total_landings": 3
     },
     {
@@ -45,20 +57,8 @@
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 2.8,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation XLS",
       "total_hours": 5.6,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 5.2,
       "total_landings": 2
     }
   ]
