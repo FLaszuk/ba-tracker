@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU4343",
+    "firstSeen": 1783140528,
+    "lastSeen": 1783149137,
+    "estDepartureAirport": "LFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3914,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7fd4",
+    "callsign": "SUI556",
+    "firstSeen": 1783145081,
+    "lastSeen": 1783150479,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "BKPR",
+    "flight_hours": 1.4994,
+    "landing": 1
+  },
+  {
+    "icao24": "a48e35",
+    "callsign": "N393CW",
+    "firstSeen": 1783111351,
+    "lastSeen": 1783153303,
+    "estDepartureAirport": "LFML",
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 11.6533,
+    "landing": 1
+  }
+]
