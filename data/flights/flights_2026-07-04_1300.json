@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4badcb",
+    "callsign": "TCKNK",
+    "firstSeen": 1783169490,
+    "lastSeen": 1783170320,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": "LTAY",
+    "flight_hours": 0.2306,
+    "landing": 1
+  },
+  {
+    "icao24": "50018a",
+    "callsign": "T7ELL",
+    "firstSeen": 1783160641,
+    "lastSeen": 1783170058,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "OS70",
+    "flight_hours": 2.6158,
+    "landing": 1
+  },
+  {
+    "icao24": "c06de2",
+    "callsign": "CGPPX",
+    "firstSeen": 1783171427,
+    "lastSeen": 1783172197,
+    "estDepartureAirport": "CKD7",
+    "estArrivalAirport": "CKD7",
+    "flight_hours": 0.2139,
+    "landing": 1
+  },
+  {
+    "icao24": "e48b77",
+    "callsign": "PTHRI",
+    "firstSeen": 1783169501,
+    "lastSeen": 1783172150,
+    "estDepartureAirport": "SBSJ",
+    "estArrivalAirport": "SWXD",
+    "flight_hours": 0.7358,
+    "landing": 1
+  }
+]
