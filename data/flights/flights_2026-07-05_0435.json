@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT503",
+    "firstSeen": 1783223159,
+    "lastSeen": 1783225654,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6931,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1783226315,
+    "lastSeen": 1783227617,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3617,
+    "landing": 1
+  }
+]
