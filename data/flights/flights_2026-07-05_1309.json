@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0d07a6",
+    "callsign": "XARUA",
+    "firstSeen": 1783254926,
+    "lastSeen": 1783256849,
+    "estDepartureAirport": "MMVR",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.5342,
+    "landing": 1
+  },
+  {
+    "icao24": "440591",
+    "callsign": "GAC283W",
+    "firstSeen": 1783254151,
+    "lastSeen": 1783258377,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.1739,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS10",
+    "firstSeen": 1783253924,
+    "lastSeen": 1783257494,
+    "estDepartureAirport": "K61B",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.9917,
+    "landing": 1
+  },
+  {
+    "icao24": "a16941",
+    "callsign": "N190MC",
+    "firstSeen": 1783253632,
+    "lastSeen": 1783258327,
+    "estDepartureAirport": "KTTA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3042,
+    "landing": 1
+  },
+  {
+    "icao24": "a178fb",
+    "callsign": "N194W",
+    "firstSeen": 1783258040,
+    "lastSeen": 1783260199,
+    "estDepartureAirport": "KMVY",
+    "estArrivalAirport": "KEPM",
+    "flight_hours": 0.5997,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1783258439,
+    "lastSeen": 1783259211,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 0.2144,
+    "landing": 1
+  },
+  {
+    "icao24": "a44078",
+    "callsign": "N373RS",
+    "firstSeen": 1783252720,
+    "lastSeen": 1783258012,
+    "estDepartureAirport": "KAZO",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 1.47,
+    "landing": 1
+  },
+  {
+    "icao24": "a724bd",
+    "callsign": "N56BU",
+    "firstSeen": 1783250075,
+    "lastSeen": 1783259371,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5822,
+    "landing": 1
+  }
+]
