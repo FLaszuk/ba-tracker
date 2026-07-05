@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a07f5a",
+    "callsign": "N131EP",
+    "firstSeen": 1783270914,
+    "lastSeen": 1783275203,
+    "estDepartureAirport": "TN73",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 1.1914,
+    "landing": 1
+  },
+  {
+    "icao24": "a89442",
+    "callsign": "EJM652",
+    "firstSeen": 1783259886,
+    "lastSeen": 1783272492,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KBFI",
+    "flight_hours": 3.5017,
+    "landing": 1
+  }
+]
