@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1783250651,
+    "lastSeen": 1783252387,
+    "estDepartureAirport": "LFLB",
+    "estArrivalAirport": "LFFR",
+    "flight_hours": 0.4822,
+    "landing": 1
+  },
+  {
+    "icao24": "a817e4",
+    "callsign": "N620SY",
+    "firstSeen": 1783250297,
+    "lastSeen": 1783252780,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.6897,
+    "landing": 1
+  }
+]
