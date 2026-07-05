@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cf68e",
+    "callsign": "ADN64E",
+    "firstSeen": 1783242562,
+    "lastSeen": 1783245783,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ7WD",
+    "firstSeen": 1783241449,
+    "lastSeen": 1783245773,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 1.2011,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3518",
+    "firstSeen": 1783241765,
+    "lastSeen": 1783246959,
+    "estDepartureAirport": "LYNK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4428,
+    "landing": 1
+  },
+  {
+    "icao24": "505dac",
+    "callsign": "ELJ402",
+    "firstSeen": 1783240290,
+    "lastSeen": 1783243118,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LD57",
+    "flight_hours": 0.7856,
+    "landing": 1
+  }
+]
