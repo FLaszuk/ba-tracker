@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1783349486,
+    "lastSeen": 1783352620,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8706,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2089",
+    "callsign": "VJT741",
+    "firstSeen": 1783331222,
+    "lastSeen": 1783352253,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 5.8419,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ae0a",
+    "callsign": "N272BG",
+    "firstSeen": 1783352614,
+    "lastSeen": 1783358456,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.6228,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ff6c",
+    "callsign": "N550AA",
+    "firstSeen": 1783338519,
+    "lastSeen": 1783352732,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.9481,
+    "landing": 1
+  },
+  {
+    "icao24": "a70016",
+    "callsign": "N550GW",
+    "firstSeen": 1783340632,
+    "lastSeen": 1783354695,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.9064,
+    "landing": 1
+  },
+  {
+    "icao24": "a83080",
+    "callsign": "N627CR",
+    "firstSeen": 1783353264,
+    "lastSeen": 1783355408,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 0.5956,
+    "landing": 1
+  },
+  {
+    "icao24": "a9f0bf",
+    "callsign": "N74FS",
+    "firstSeen": 1783345964,
+    "lastSeen": 1783351786,
+    "estDepartureAirport": "EGTK",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.6172,
+    "landing": 1
+  }
+]
