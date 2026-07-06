@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1783305730,
+    "lastSeen": 1783307266,
+    "estDepartureAirport": "YWLM",
+    "estArrivalAirport": "YKEL",
+    "flight_hours": 0.4267,
+    "landing": 1
+  },
+  {
+    "icao24": "883801",
+    "callsign": "RTN2113",
+    "firstSeen": 1783306350,
+    "lastSeen": 1783308262,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": "VTSE",
+    "flight_hours": 0.5311,
+    "landing": 1
+  }
+]
