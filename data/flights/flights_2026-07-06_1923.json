@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1783355040,
+    "lastSeen": 1783366934,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORF",
+    "flight_hours": 3.3039,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1783367301,
+    "lastSeen": 1783368713,
+    "estDepartureAirport": "KLFT",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.3922,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC383",
+    "firstSeen": 1783361343,
+    "lastSeen": 1783366535,
+    "estDepartureAirport": "CYQB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4422,
+    "landing": 1
+  }
+]
