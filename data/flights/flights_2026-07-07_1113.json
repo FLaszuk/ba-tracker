@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c080d",
+    "callsign": "DASBG",
+    "firstSeen": 1783421852,
+    "lastSeen": 1783426897,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.4014,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f9",
+    "callsign": "VJT809",
+    "firstSeen": 1783397854,
+    "lastSeen": 1783423249,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 7.0542,
+    "landing": 1
+  },
+  {
+    "icao24": "c06de2",
+    "callsign": "CGPPX",
+    "firstSeen": 1783423741,
+    "lastSeen": 1783424010,
+    "estDepartureAirport": "CJS7",
+    "estArrivalAirport": "CKD7",
+    "flight_hours": 0.0747,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1783425768,
+    "lastSeen": 1783427735,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SIFU",
+    "flight_hours": 0.5464,
+    "landing": 1
+  }
+]
