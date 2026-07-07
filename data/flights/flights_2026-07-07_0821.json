@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "00a272",
+    "callsign": "G02C",
+    "firstSeen": 1783411473,
+    "lastSeen": 1783412731,
+    "estDepartureAirport": "FAWK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3494,
+    "landing": 1
+  },
+  {
+    "icao24": "39aded",
+    "callsign": "FHLPN",
+    "firstSeen": 1783409722,
+    "lastSeen": 1783412331,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7247,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU46CE",
+    "firstSeen": 1783403390,
+    "lastSeen": 1783412618,
+    "estDepartureAirport": "LFPG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5633,
+    "landing": 1
+  }
+]
