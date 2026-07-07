@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a665ff",
+    "callsign": "N511JS",
+    "firstSeen": 1783443727,
+    "lastSeen": 1783457363,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 3.7878,
+    "landing": 1
+  },
+  {
+    "icao24": "aab75b",
+    "callsign": "N79TF",
+    "firstSeen": 1783451251,
+    "lastSeen": 1783454896,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "NM17",
+    "flight_hours": 1.0125,
+    "landing": 1
+  },
+  {
+    "icao24": "aaeeb7",
+    "callsign": "N803TM",
+    "firstSeen": 1783447896,
+    "lastSeen": 1783457730,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "KPHL",
+    "flight_hours": 2.7317,
+    "landing": 1
+  },
+  {
+    "icao24": "ac21c3",
+    "callsign": "N881CE",
+    "firstSeen": 1783438055,
+    "lastSeen": 1783454936,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": "KMEV",
+    "flight_hours": 4.6892,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1783446339,
+    "lastSeen": 1783455293,
+    "estDepartureAirport": "6XS9",
+    "estArrivalAirport": "K1D7",
+    "flight_hours": 2.4872,
+    "landing": 1
+  },
+  {
+    "icao24": "e47e14",
+    "callsign": "PTWUM",
+    "firstSeen": 1783459079,
+    "lastSeen": 1783460089,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJVL",
+    "flight_hours": 0.2806,
+    "landing": 1
+  }
+]
