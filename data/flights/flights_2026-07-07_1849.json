@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0d30c",
+    "callsign": "EJA152",
+    "firstSeen": 1783447033,
+    "lastSeen": 1783450361,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KGNG",
+    "flight_hours": 0.9244,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1783433779,
+    "lastSeen": 1783449585,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KJER",
+    "flight_hours": 4.3906,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1783435214,
+    "lastSeen": 1783453098,
+    "estDepartureAirport": "KPNE",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 4.9678,
+    "landing": 1
+  },
+  {
+    "icao24": "aa7548",
+    "callsign": "EJM773",
+    "firstSeen": 1783434687,
+    "lastSeen": 1783451680,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 4.7203,
+    "landing": 1
+  }
+]
