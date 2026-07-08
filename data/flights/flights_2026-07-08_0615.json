@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bd2c8",
+    "callsign": "BKI602",
+    "firstSeen": 1783487714,
+    "lastSeen": 1783491290,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 0.9933,
+    "landing": 1
+  },
+  {
+    "icao24": "a9ca9d",
+    "callsign": "N73VR",
+    "firstSeen": 1783492173,
+    "lastSeen": 1783493173,
+    "estDepartureAirport": "FAOR",
+    "estArrivalAirport": "FAMJ",
+    "flight_hours": 0.2778,
+    "landing": 1
+  }
+]
