@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a2564e",
+    "callsign": "DLX25",
+    "firstSeen": 1783521111,
+    "lastSeen": 1783526864,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "05ID",
+    "flight_hours": 1.5981,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1783520282,
+    "lastSeen": 1783525932,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.5694,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1783519605,
+    "lastSeen": 1783524080,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "1ID7",
+    "flight_hours": 1.2431,
+    "landing": 1
+  },
+  {
+    "icao24": "aa918c",
+    "callsign": "N780LM",
+    "firstSeen": 1783523464,
+    "lastSeen": 1783527768,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1956,
+    "landing": 1
+  },
+  {
+    "icao24": "add7e6",
+    "callsign": "NUS991",
+    "firstSeen": 1783523186,
+    "lastSeen": 1783526206,
+    "estDepartureAirport": "CYFJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.8389,
+    "landing": 1
+  }
+]

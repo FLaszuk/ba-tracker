@@ -16,8 +16,14 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 17.0,
-      "total_landings": 14
+      "total_hours": 18.6,
+      "total_landings": 15
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 8.0,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -26,9 +32,9 @@
       "total_landings": 8
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 6.8,
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 11.0,
       "total_landings": 7
     },
     {
@@ -38,9 +44,9 @@
       "total_landings": 6
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 9.8,
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 10.8,
       "total_landings": 6
     },
     {
@@ -48,12 +54,6 @@
       "aircraft_model": "G650",
       "total_hours": 28.6,
       "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 9.2,
-      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Pilatus",
