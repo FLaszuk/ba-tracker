@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "477ff7",
+    "callsign": "HUF534",
+    "firstSeen": 1783490558,
+    "lastSeen": 1783501143,
+    "estDepartureAirport": "LHKE",
+    "estArrivalAirport": "ESUK",
+    "flight_hours": 2.9403,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE930",
+    "firstSeen": 1783500731,
+    "lastSeen": 1783502255,
+    "estDepartureAirport": "YGIL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4233,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4d1b",
+    "callsign": "N827Z",
+    "firstSeen": 1783472648,
+    "lastSeen": 1783501575,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 8.0353,
+    "landing": 1
+  }
+]
