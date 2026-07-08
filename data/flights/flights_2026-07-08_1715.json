@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU18NE",
+    "firstSeen": 1783521845,
+    "lastSeen": 1783531252,
+    "estDepartureAirport": "LFPG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6131,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS94",
+    "firstSeen": 1783529179,
+    "lastSeen": 1783532541,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "16KY",
+    "flight_hours": 0.9339,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "CNS27",
+    "firstSeen": 1783525547,
+    "lastSeen": 1783533909,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "KMQS",
+    "flight_hours": 2.3228,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f9e2",
+    "callsign": "N4840W",
+    "firstSeen": 1783528762,
+    "lastSeen": 1783530582,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "SC70",
+    "flight_hours": 0.5056,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a867",
+    "callsign": "N721MS",
+    "firstSeen": 1783502679,
+    "lastSeen": 1783535186,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 9.0297,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf47b",
+    "callsign": "N805AL",
+    "firstSeen": 1783512518,
+    "lastSeen": 1783530758,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 5.0667,
+    "landing": 1
+  }
+]
