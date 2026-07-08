@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a7b13f",
+    "callsign": "N595P",
+    "firstSeen": 1783457539,
+    "lastSeen": 1783469178,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": null,
+    "flight_hours": 3.2331,
+    "landing": 1
+  },
+  {
+    "icao24": "a88dbb",
+    "callsign": "N650LG",
+    "firstSeen": 1783467025,
+    "lastSeen": 1783469895,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7972,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6449",
+    "callsign": "N833JB",
+    "firstSeen": 1783465383,
+    "lastSeen": 1783468965,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.995,
+    "landing": 1
+  },
+  {
+    "icao24": "ac1c16",
+    "callsign": "DOW88",
+    "firstSeen": 1783457738,
+    "lastSeen": 1783469587,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 3.2914,
+    "landing": 1
+  }
+]
