@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "49130a",
+    "callsign": "NJE407R",
+    "firstSeen": 1783502169,
+    "lastSeen": 1783505804,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.0097,
+    "landing": 1
+  },
+  {
+    "icao24": "49130b",
+    "callsign": "NJE097L",
+    "firstSeen": 1783499773,
+    "lastSeen": 1783508070,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3047,
+    "landing": 1
+  },
+  {
+    "icao24": "493284",
+    "callsign": "NJE384V",
+    "firstSeen": 1783501930,
+    "lastSeen": 1783505575,
+    "estDepartureAirport": "LBSF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0125,
+    "landing": 1
+  },
+  {
+    "icao24": "a178fb",
+    "callsign": "N194W",
+    "firstSeen": 1783506080,
+    "lastSeen": 1783508970,
+    "estDepartureAirport": "KSWF",
+    "estArrivalAirport": "KPNN",
+    "flight_hours": 0.8028,
+    "landing": 1
+  },
+  {
+    "icao24": "a4acbd",
+    "callsign": "N400BC",
+    "firstSeen": 1783506294,
+    "lastSeen": 1783508101,
+    "estDepartureAirport": "EIDW",
+    "estArrivalAirport": "EICK",
+    "flight_hours": 0.5019,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1783507931,
+    "lastSeen": 1783508598,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SDIH",
+    "flight_hours": 0.1853,
+    "landing": 1
+  }
+]
