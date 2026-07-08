@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a4bf68",
+    "callsign": "N405CB",
+    "firstSeen": 1783460051,
+    "lastSeen": 1783481801,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 6.0417,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1783468736,
+    "lastSeen": 1783484790,
+    "estDepartureAirport": "PHNL",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 4.4594,
+    "landing": 1
+  }
+]
