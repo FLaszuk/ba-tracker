@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "49130a",
+    "callsign": "NJE909P",
+    "firstSeen": 1783599159,
+    "lastSeen": 1783602420,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9058,
+    "landing": 1
+  },
+  {
+    "icao24": "4b18f0",
+    "callsign": "NUM721",
+    "firstSeen": 1783600292,
+    "lastSeen": 1783603985,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.0258,
+    "landing": 1
+  },
+  {
+    "icao24": "a00d65",
+    "callsign": "N102NY",
+    "firstSeen": 1783600784,
+    "lastSeen": 1783603592,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.78,
+    "landing": 1
+  },
+  {
+    "icao24": "a141f6",
+    "callsign": "EJM180",
+    "firstSeen": 1783594918,
+    "lastSeen": 1783600593,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.5764,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1783601208,
+    "lastSeen": 1783602325,
+    "estDepartureAirport": "KGRR",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.3103,
+    "landing": 1
+  },
+  {
+    "icao24": "a54f31",
+    "callsign": "EJM441",
+    "firstSeen": 1783599423,
+    "lastSeen": 1783602325,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "MI60",
+    "flight_hours": 0.8061,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d745",
+    "callsign": "N54TJ",
+    "firstSeen": 1783601215,
+    "lastSeen": 1783603876,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MY13",
+    "flight_hours": 0.7392,
+    "landing": 1
+  },
+  {
+    "icao24": "e49279",
+    "callsign": "PRHRO",
+    "firstSeen": 1783599688,
+    "lastSeen": 1783600821,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.3147,
+    "landing": 1
+  }
+]
