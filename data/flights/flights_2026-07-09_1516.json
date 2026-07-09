@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1783605978,
+    "lastSeen": 1783610859,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.3558,
+    "landing": 1
+  },
+  {
+    "icao24": "a011d4",
+    "callsign": "N103WG",
+    "firstSeen": 1783604933,
+    "lastSeen": 1783611744,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "K2W5",
+    "flight_hours": 1.8919,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c8be",
+    "callsign": "N600RH",
+    "firstSeen": 1783604992,
+    "lastSeen": 1783612211,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0053,
+    "landing": 1
+  },
+  {
+    "icao24": "aa86cf",
+    "callsign": "MVJ78",
+    "firstSeen": 1783602604,
+    "lastSeen": 1783611317,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.4203,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c8f",
+    "callsign": "PPWMA",
+    "firstSeen": 1783609332,
+    "lastSeen": 1783611854,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SDCU",
+    "flight_hours": 0.7006,
+    "landing": 1
+  }
+]
