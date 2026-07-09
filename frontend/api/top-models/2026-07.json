@@ -22,7 +22,13 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 33.8,
+      "total_hours": 35.2,
+      "total_landings": 10
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 13.6,
       "total_landings": 9
     },
     {
@@ -41,12 +47,6 @@
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 9.7,
-      "total_landings": 8
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 12.5,
       "total_landings": 8
     },
     {

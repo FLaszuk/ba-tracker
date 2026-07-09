@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "43ea97",
+    "callsign": "MMSVI",
+    "firstSeen": 1783581022,
+    "lastSeen": 1783590590,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 2.6578,
+    "landing": 1
+  },
+  {
+    "icao24": "440550",
+    "callsign": "OEINK",
+    "firstSeen": 1783589688,
+    "lastSeen": 1783590307,
+    "estDepartureAirport": "EGJB",
+    "estArrivalAirport": "EGJB",
+    "flight_hours": 0.1719,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1783590711,
+    "lastSeen": 1783595855,
+    "estDepartureAirport": "EDDL",
+    "estArrivalAirport": "LHBP",
+    "flight_hours": 1.4289,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR55NA",
+    "firstSeen": 1783588461,
+    "lastSeen": 1783592328,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0742,
+    "landing": 1
+  }
+]
