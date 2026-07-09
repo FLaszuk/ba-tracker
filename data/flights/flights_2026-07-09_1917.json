@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1783622773,
+    "lastSeen": 1783624813,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.5667,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1783621920,
+    "lastSeen": 1783625513,
+    "estDepartureAirport": "KROC",
+    "estArrivalAirport": "KJFZ",
+    "flight_hours": 0.9981,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "N299AF",
+    "firstSeen": 1783621322,
+    "lastSeen": 1783625931,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2803,
+    "landing": 1
+  },
+  {
+    "icao24": "a55b7f",
+    "callsign": "N444WT",
+    "firstSeen": 1783618858,
+    "lastSeen": 1783624607,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.5969,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c30f",
+    "callsign": "N6FE",
+    "firstSeen": 1783599320,
+    "lastSeen": 1783628188,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KRST",
+    "flight_hours": 8.0189,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1783624124,
+    "lastSeen": 1783624965,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "CYQM",
+    "flight_hours": 0.2336,
+    "landing": 1
+  }
+]
