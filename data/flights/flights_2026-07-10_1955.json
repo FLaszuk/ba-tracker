@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a37b0a",
+    "callsign": "N323SE",
+    "firstSeen": 1783706969,
+    "lastSeen": 1783713505,
+    "estDepartureAirport": "KUOX",
+    "estArrivalAirport": "MN00",
+    "flight_hours": 1.8156,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1783710328,
+    "lastSeen": 1783714084,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KACV",
+    "flight_hours": 1.0433,
+    "landing": 1
+  }
+]
