@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c2d57",
+    "callsign": "QGA45A",
+    "firstSeen": 1783704242,
+    "lastSeen": 1783705347,
+    "estDepartureAirport": "EDMO",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.3069,
+    "landing": 1
+  },
+  {
+    "icao24": "4075d3",
+    "callsign": "GSPTX",
+    "firstSeen": 1783698426,
+    "lastSeen": 1783702956,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 1.2583,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1783703532,
+    "lastSeen": 1783704899,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "KHYW",
+    "flight_hours": 0.3797,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1783695071,
+    "lastSeen": 1783702776,
+    "estDepartureAirport": "KLSB",
+    "estArrivalAirport": "K2S7",
+    "flight_hours": 2.1403,
+    "landing": 1
+  },
+  {
+    "icao24": "a54beb",
+    "callsign": "PJC40",
+    "firstSeen": 1783696857,
+    "lastSeen": 1783700367,
+    "estDepartureAirport": "KPJC",
+    "estArrivalAirport": "KEWN",
+    "flight_hours": 0.975,
+    "landing": 1
+  }
+]
