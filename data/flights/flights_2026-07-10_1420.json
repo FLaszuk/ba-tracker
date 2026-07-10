@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1783692007,
+    "lastSeen": 1783696691,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.3011,
+    "landing": 1
+  },
+  {
+    "icao24": "a0c806",
+    "callsign": "N15BY",
+    "firstSeen": 1783682046,
+    "lastSeen": 1783695581,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "KGNB",
+    "flight_hours": 3.7597,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a8a2",
+    "callsign": "N4HD",
+    "firstSeen": 1783690798,
+    "lastSeen": 1783693950,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.8756,
+    "landing": 1
+  },
+  {
+    "icao24": "a661bd",
+    "callsign": "N510DC",
+    "firstSeen": 1783689444,
+    "lastSeen": 1783695882,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.7883,
+    "landing": 1
+  },
+  {
+    "icao24": "a88ddf",
+    "callsign": "N650MT",
+    "firstSeen": 1783693971,
+    "lastSeen": 1783696285,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.6428,
+    "landing": 1
+  },
+  {
+    "icao24": "ac152d",
+    "callsign": "N878MM",
+    "firstSeen": 1783691824,
+    "lastSeen": 1783693257,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "MYNN",
+    "flight_hours": 0.3981,
+    "landing": 1
+  }
+]
