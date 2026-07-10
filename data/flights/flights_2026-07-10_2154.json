@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1783715512,
+    "lastSeen": 1783720795,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.4675,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1783708203,
+    "lastSeen": 1783721358,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KROC",
+    "flight_hours": 3.6542,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ae0",
+    "callsign": "N315RE",
+    "firstSeen": 1783716429,
+    "lastSeen": 1783723410,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "4WI2",
+    "flight_hours": 1.9392,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3c5a",
+    "callsign": "N888JE",
+    "firstSeen": 1783721365,
+    "lastSeen": 1783722455,
+    "estDepartureAirport": "KCNO",
+    "estArrivalAirport": "KTRM",
+    "flight_hours": 0.3028,
+    "landing": 1
+  }
+]
