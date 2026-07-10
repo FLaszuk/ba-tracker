@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3ebe12",
+    "callsign": "GAF613",
+    "firstSeen": 1783665438,
+    "lastSeen": 1783674271,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4536,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1783647410,
+    "lastSeen": 1783671757,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "ESSA",
+    "flight_hours": 6.7631,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE921",
+    "firstSeen": 1783669718,
+    "lastSeen": 1783671882,
+    "estDepartureAirport": "YKEL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6011,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b31c",
+    "callsign": "APCMP",
+    "firstSeen": 1783672212,
+    "lastSeen": 1783674137,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OPMT",
+    "flight_hours": 0.5347,
+    "landing": 1
+  }
+]
