@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU86AF",
+    "firstSeen": 1783756637,
+    "lastSeen": 1783761019,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2172,
+    "landing": 1
+  },
+  {
+    "icao24": "491306",
+    "callsign": "NJE996N",
+    "firstSeen": 1783762453,
+    "lastSeen": 1783763702,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.3469,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d9",
+    "callsign": "VJT426",
+    "firstSeen": 1783757577,
+    "lastSeen": 1783760165,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7189,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1783732478,
+    "lastSeen": 1783759816,
+    "estDepartureAirport": "KBLM",
+    "estArrivalAirport": null,
+    "flight_hours": 7.5939,
+    "landing": 1
+  }
+]
