@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT3471",
+    "firstSeen": 1783776853,
+    "lastSeen": 1783788266,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1703,
+    "landing": 1
+  },
+  {
+    "icao24": "a141f6",
+    "callsign": "EJM180",
+    "firstSeen": 1783787098,
+    "lastSeen": 1783789538,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.6778,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1783784380,
+    "lastSeen": 1783789228,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3467,
+    "landing": 1
+  },
+  {
+    "icao24": "adce1b",
+    "callsign": "SVL6",
+    "firstSeen": 1783782081,
+    "lastSeen": 1783790005,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "KHHF",
+    "flight_hours": 2.2011,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1783788322,
+    "lastSeen": 1783789063,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "SCVJ",
+    "flight_hours": 0.2058,
+    "landing": 1
+  }
+]
