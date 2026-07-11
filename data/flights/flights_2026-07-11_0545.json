@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU17FU",
+    "firstSeen": 1783745185,
+    "lastSeen": 1783750321,
+    "estDepartureAirport": "LFPG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4267,
+    "landing": 1
+  },
+  {
+    "icao24": "49130b",
+    "callsign": "NJE332G",
+    "firstSeen": 1783744352,
+    "lastSeen": 1783749676,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4789,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ49DP",
+    "firstSeen": 1783742926,
+    "lastSeen": 1783750934,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.2244,
+    "landing": 1
+  }
+]
