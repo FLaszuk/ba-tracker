@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cc1c8",
+    "callsign": "AWH24E",
+    "firstSeen": 1783778480,
+    "lastSeen": 1783783546,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "ENSD",
+    "flight_hours": 1.4072,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR3297",
+    "firstSeen": 1783780034,
+    "lastSeen": 1783783307,
+    "estDepartureAirport": "LIMF",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.9092,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1783780652,
+    "lastSeen": 1783783232,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGPA",
+    "flight_hours": 0.7167,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1783779413,
+    "lastSeen": 1783783668,
+    "estDepartureAirport": "5KY4",
+    "estArrivalAirport": "KY65",
+    "flight_hours": 1.1819,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d6b3",
+    "callsign": "N604GB",
+    "firstSeen": 1783757885,
+    "lastSeen": 1783782208,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": null,
+    "flight_hours": 6.7564,
+    "landing": 1
+  }
+]
