@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT9ZH",
+    "firstSeen": 1783775829,
+    "lastSeen": 1783778488,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7386,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1783776550,
+    "lastSeen": 1783778853,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6397,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ef31",
+    "callsign": "TWY22",
+    "firstSeen": 1783775239,
+    "lastSeen": 1783777198,
+    "estDepartureAirport": "KHTO",
+    "estArrivalAirport": "ME33",
+    "flight_hours": 0.5442,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7033",
+    "callsign": "N900LN",
+    "firstSeen": 1783776990,
+    "lastSeen": 1783778439,
+    "estDepartureAirport": "KEFD",
+    "estArrivalAirport": "LS90",
+    "flight_hours": 0.4025,
+    "landing": 1
+  }
+]
