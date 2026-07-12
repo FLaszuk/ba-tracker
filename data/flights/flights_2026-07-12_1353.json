@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1783863054,
+    "lastSeen": 1783865247,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DAON",
+    "flight_hours": 0.6092,
+    "landing": 1
+  },
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1783865896,
+    "lastSeen": 1783867433,
+    "estDepartureAirport": "DAON",
+    "estArrivalAirport": "DA15",
+    "flight_hours": 0.4269,
+    "landing": 1
+  },
+  {
+    "icao24": "493033",
+    "callsign": "NJE429Y",
+    "firstSeen": 1783861987,
+    "lastSeen": 1783864512,
+    "estDepartureAirport": "LSZA",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.7014,
+    "landing": 1
+  },
+  {
+    "icao24": "49328b",
+    "callsign": "NJE371T",
+    "firstSeen": 1783862371,
+    "lastSeen": 1783867566,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "EHTW",
+    "flight_hours": 1.4431,
+    "landing": 1
+  },
+  {
+    "icao24": "a814f2",
+    "callsign": "N62LV",
+    "firstSeen": 1783857622,
+    "lastSeen": 1783864725,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.9731,
+    "landing": 1
+  },
+  {
+    "icao24": "add7e6",
+    "callsign": "NUS991",
+    "firstSeen": 1783866591,
+    "lastSeen": 1783869473,
+    "estDepartureAirport": "CYFJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.8006,
+    "landing": 1
+  },
+  {
+    "icao24": "e48812",
+    "callsign": "PRFOR",
+    "firstSeen": 1783862559,
+    "lastSeen": 1783864052,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 0.4147,
+    "landing": 1
+  }
+]
