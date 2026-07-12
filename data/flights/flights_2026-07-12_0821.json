@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "458d6b",
+    "callsign": "BBB76",
+    "firstSeen": 1783837659,
+    "lastSeen": 1783847691,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7867,
+    "landing": 1
+  },
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1783844595,
+    "lastSeen": 1783846497,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.5283,
+    "landing": 1
+  },
+  {
+    "icao24": "7c6ce8",
+    "callsign": "VSQ",
+    "firstSeen": 1783842200,
+    "lastSeen": 1783845378,
+    "estDepartureAirport": "YBMC",
+    "estArrivalAirport": "YMOR",
+    "flight_hours": 0.8828,
+    "landing": 1
+  },
+  {
+    "icao24": "ac15a1",
+    "callsign": "N878SC",
+    "firstSeen": 1783819750,
+    "lastSeen": 1783844534,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 6.8844,
+    "landing": 1
+  }
+]
