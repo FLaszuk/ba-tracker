@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ65GB",
+    "firstSeen": 1783865870,
+    "lastSeen": 1783875300,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6194,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1783872742,
+    "lastSeen": 1783877247,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "UT42",
+    "flight_hours": 1.2514,
+    "landing": 1
+  },
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1783873097,
+    "lastSeen": 1783876169,
+    "estDepartureAirport": "3NK5",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 0.8533,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1783873805,
+    "lastSeen": 1783878281,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 1.2433,
+    "landing": 1
+  },
+  {
+    "icao24": "a99719",
+    "callsign": "TWY717",
+    "firstSeen": 1783867690,
+    "lastSeen": 1783876322,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "OMU9",
+    "flight_hours": 2.3978,
+    "landing": 1
+  },
+  {
+    "icao24": "e48419",
+    "callsign": "",
+    "firstSeen": 1783871846,
+    "lastSeen": 1783876677,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SNQS",
+    "flight_hours": 1.3419,
+    "landing": 1
+  }
+]
