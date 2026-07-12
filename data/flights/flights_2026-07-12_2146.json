@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a12595",
+    "callsign": "N173NY",
+    "firstSeen": 1783890209,
+    "lastSeen": 1783895060,
+    "estDepartureAirport": "KFAR",
+    "estArrivalAirport": "KHDN",
+    "flight_hours": 1.3475,
+    "landing": 1
+  },
+  {
+    "icao24": "a5723c",
+    "callsign": "N450BG",
+    "firstSeen": 1783892342,
+    "lastSeen": 1783896015,
+    "estDepartureAirport": "KOTH",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 1.0203,
+    "landing": 1
+  },
+  {
+    "icao24": "c0590f",
+    "callsign": "CGHSW",
+    "firstSeen": 1783889324,
+    "lastSeen": 1783892728,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "KU05",
+    "flight_hours": 0.9456,
+    "landing": 1
+  }
+]
