@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "493283",
+    "callsign": "NJE001M",
+    "firstSeen": 1783850455,
+    "lastSeen": 1783855810,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": "EPKT",
+    "flight_hours": 1.4875,
+    "landing": 1
+  },
+  {
+    "icao24": "748053",
+    "callsign": "CDX552",
+    "firstSeen": 1783840630,
+    "lastSeen": 1783853755,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 3.6458,
+    "landing": 1
+  }
+]
