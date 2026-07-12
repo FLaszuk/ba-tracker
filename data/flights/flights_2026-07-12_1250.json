@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1783863054,
+    "lastSeen": 1783865247,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DAON",
+    "flight_hours": 0.6092,
+    "landing": 1
+  },
+  {
+    "icao24": "440135",
+    "callsign": "MOZ98",
+    "firstSeen": 1783855472,
+    "lastSeen": 1783860618,
+    "estDepartureAirport": "LOWG",
+    "estArrivalAirport": "EDDG",
+    "flight_hours": 1.4294,
+    "landing": 1
+  },
+  {
+    "icao24": "440834",
+    "callsign": "GCK18",
+    "firstSeen": 1783856123,
+    "lastSeen": 1783860164,
+    "estDepartureAirport": "EGGD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1225,
+    "landing": 1
+  },
+  {
+    "icao24": "50007b",
+    "callsign": "TSM605",
+    "firstSeen": 1783860252,
+    "lastSeen": 1783863413,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8781,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e6bf",
+    "callsign": "N48FB",
+    "firstSeen": 1783855338,
+    "lastSeen": 1783861714,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7711,
+    "landing": 1
+  },
+  {
+    "icao24": "a70016",
+    "callsign": "N550GW",
+    "firstSeen": 1783847394,
+    "lastSeen": 1783861792,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KU36",
+    "flight_hours": 3.9994,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6d79",
+    "callsign": "N771HM",
+    "firstSeen": 1783859475,
+    "lastSeen": 1783860482,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KMQS",
+    "flight_hours": 0.2797,
+    "landing": 1
+  },
+  {
+    "icao24": "add3bc",
+    "callsign": "N990MF",
+    "firstSeen": 1783860491,
+    "lastSeen": 1783863634,
+    "estDepartureAirport": "KDAY",
+    "estArrivalAirport": "1MI3",
+    "flight_hours": 0.8731,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC375",
+    "firstSeen": 1783854720,
+    "lastSeen": 1783861270,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8194,
+    "landing": 1
+  },
+  {
+    "icao24": "e48812",
+    "callsign": "PRFOR",
+    "firstSeen": 1783862559,
+    "lastSeen": 1783864052,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 0.4147,
+    "landing": 1
+  }
+]
