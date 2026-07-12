@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "a0312f",
+    "callsign": "N111P",
+    "firstSeen": 1783873181,
+    "lastSeen": 1783891536,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 5.0986,
+    "landing": 1
+  },
+  {
+    "icao24": "a0f31d",
+    "callsign": "EJA160",
+    "firstSeen": 1783880631,
+    "lastSeen": 1783889280,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 2.4025,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1783880186,
+    "lastSeen": 1783888790,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 2.39,
+    "landing": 1
+  },
+  {
+    "icao24": "a5723c",
+    "callsign": "N450BG",
+    "firstSeen": 1783875880,
+    "lastSeen": 1783888448,
+    "estDepartureAirport": "KISW",
+    "estArrivalAirport": "95OR",
+    "flight_hours": 3.4911,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a12",
+    "callsign": "N504PA",
+    "firstSeen": 1783885222,
+    "lastSeen": 1783890314,
+    "estDepartureAirport": "KSBD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4144,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3591",
+    "callsign": "LXJ757",
+    "firstSeen": 1783887146,
+    "lastSeen": 1783889542,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 0.6656,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1783889792,
+    "lastSeen": 1783890545,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2092,
+    "landing": 1
+  },
+  {
+    "icao24": "ac705b",
+    "callsign": "N900NC",
+    "firstSeen": 1783880165,
+    "lastSeen": 1783891060,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 3.0264,
+    "landing": 1
+  },
+  {
+    "icao24": "adf1a2",
+    "callsign": "N998PB",
+    "firstSeen": 1783879664,
+    "lastSeen": 1783891377,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "4MS5",
+    "flight_hours": 3.2536,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c8f",
+    "callsign": "PPWMA",
+    "firstSeen": 1783888085,
+    "lastSeen": 1783890417,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6478,
+    "landing": 1
+  }
+]
