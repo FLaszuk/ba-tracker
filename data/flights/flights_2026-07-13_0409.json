@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1783916438,
+    "lastSeen": 1783917793,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": "YKYB",
+    "flight_hours": 0.3764,
+    "landing": 1
+  },
+  {
+    "icao24": "a63db5",
+    "callsign": "N501AP",
+    "firstSeen": 1783917010,
+    "lastSeen": 1783919497,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "KSGU",
+    "flight_hours": 0.6908,
+    "landing": 1
+  }
+]
