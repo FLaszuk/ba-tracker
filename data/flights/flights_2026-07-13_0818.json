@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "48d961",
+    "callsign": "PLF106",
+    "firstSeen": 1783929408,
+    "lastSeen": 1783933579,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 1.1586,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1783930297,
+    "lastSeen": 1783933158,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LSME",
+    "flight_hours": 0.7947,
+    "landing": 1
+  }
+]
