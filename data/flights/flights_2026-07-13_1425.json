@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1783952285,
+    "lastSeen": 1783954508,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.6175,
+    "landing": 1
+  },
+  {
+    "icao24": "3004b8",
+    "callsign": "ITL801",
+    "firstSeen": 1783948987,
+    "lastSeen": 1783952216,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIBD",
+    "flight_hours": 0.8969,
+    "landing": 1
+  },
+  {
+    "icao24": "4b1536",
+    "callsign": "HBIAW",
+    "firstSeen": 1783954932,
+    "lastSeen": 1783957699,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7686,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1783953520,
+    "lastSeen": 1783956541,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "0SD6",
+    "flight_hours": 0.8392,
+    "landing": 1
+  },
+  {
+    "icao24": "a70016",
+    "callsign": "N550GW",
+    "firstSeen": 1783941445,
+    "lastSeen": 1783953488,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KGEY",
+    "flight_hours": 3.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "aab2c0",
+    "callsign": "XEN89",
+    "firstSeen": 1783953068,
+    "lastSeen": 1783955097,
+    "estDepartureAirport": "KACK",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 0.5636,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "EJA978",
+    "firstSeen": 1783950952,
+    "lastSeen": 1783953245,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "KESN",
+    "flight_hours": 0.6369,
+    "landing": 1
+  },
+  {
+    "icao24": "e48c82",
+    "callsign": "PTSTU",
+    "firstSeen": 1783951660,
+    "lastSeen": 1783952705,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBGW",
+    "flight_hours": 0.2903,
+    "landing": 1
+  }
+]
