@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1783974431,
+    "lastSeen": 1783975138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.1964,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1783972186,
+    "lastSeen": 1783973220,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2872,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1783967925,
+    "lastSeen": 1783973156,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 1.4531,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1783975025,
+    "lastSeen": 1783976237,
+    "estDepartureAirport": "KNEW",
+    "estArrivalAirport": "LA40",
+    "flight_hours": 0.3367,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1783964946,
+    "lastSeen": 1783972991,
+    "estDepartureAirport": "52NE",
+    "estArrivalAirport": "NM69",
+    "flight_hours": 2.2347,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d3a9",
+    "callsign": "XSR346",
+    "firstSeen": 1783970385,
+    "lastSeen": 1783972578,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "K33K",
+    "flight_hours": 0.6092,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ff7f",
+    "callsign": "N550AV",
+    "firstSeen": 1783967319,
+    "lastSeen": 1783972810,
+    "estDepartureAirport": "3AR3",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 1.5253,
+    "landing": 1
+  },
+  {
+    "icao24": "a704d2",
+    "callsign": "N551TG",
+    "firstSeen": 1783974675,
+    "lastSeen": 1783975828,
+    "estDepartureAirport": "MS82",
+    "estArrivalAirport": "MS50",
+    "flight_hours": 0.3203,
+    "landing": 1
+  },
+  {
+    "icao24": "a94fe3",
+    "callsign": "N7AG",
+    "firstSeen": 1783970784,
+    "lastSeen": 1783971849,
+    "estDepartureAirport": "IA59",
+    "estArrivalAirport": "KJEF",
+    "flight_hours": 0.2958,
+    "landing": 1
+  }
+]
