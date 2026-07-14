@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1783985572,
+    "lastSeen": 1783988226,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7372,
+    "landing": 1
+  },
+  {
+    "icao24": "a68a81",
+    "callsign": "N520SC",
+    "firstSeen": 1783982765,
+    "lastSeen": 1783988630,
+    "estDepartureAirport": "KAZO",
+    "estArrivalAirport": "90ME",
+    "flight_hours": 1.6292,
+    "landing": 1
+  }
+]
