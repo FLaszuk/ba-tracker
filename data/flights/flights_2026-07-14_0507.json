@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH47T",
+    "firstSeen": 1783999774,
+    "lastSeen": 1784005992,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7272,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b31c",
+    "callsign": "APCMP",
+    "firstSeen": 1784006001,
+    "lastSeen": 1784007741,
+    "estDepartureAirport": "OPLA",
+    "estArrivalAirport": "OP18",
+    "flight_hours": 0.4833,
+    "landing": 1
+  }
+]
