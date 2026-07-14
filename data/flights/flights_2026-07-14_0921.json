@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "49130d",
+    "callsign": "NJE626Y",
+    "firstSeen": 1784017092,
+    "lastSeen": 1784021761,
+    "estDepartureAirport": "LROP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2969,
+    "landing": 1
+  },
+  {
+    "icao24": "4a5243",
+    "callsign": "TOY228",
+    "firstSeen": 1784017697,
+    "lastSeen": 1784023194,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.5269,
+    "landing": 1
+  }
+]
