@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "300635",
+    "callsign": "SIO501",
+    "firstSeen": 1784129679,
+    "lastSeen": 1784132470,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.7753,
+    "landing": 1
+  },
+  {
+    "icao24": "4d022a",
+    "callsign": "SVW88AV",
+    "firstSeen": 1784127599,
+    "lastSeen": 1784128874,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.3542,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1784127270,
+    "lastSeen": 1784133707,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.7881,
+    "landing": 1
+  },
+  {
+    "icao24": "a500c5",
+    "callsign": "EJM21",
+    "firstSeen": 1784127019,
+    "lastSeen": 1784130051,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "KHPN",
+    "flight_hours": 0.8422,
+    "landing": 1
+  },
+  {
+    "icao24": "a745e9",
+    "callsign": "N568PB",
+    "firstSeen": 1784125044,
+    "lastSeen": 1784129595,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "K6L4",
+    "flight_hours": 1.2642,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d2a3",
+    "callsign": "N603CN",
+    "firstSeen": 1784125686,
+    "lastSeen": 1784128580,
+    "estDepartureAirport": "KADH",
+    "estArrivalAirport": "MS71",
+    "flight_hours": 0.8039,
+    "landing": 1
+  }
+]
