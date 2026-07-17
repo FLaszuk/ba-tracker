@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS727",
+    "firstSeen": 1784306000,
+    "lastSeen": 1784308318,
+    "estDepartureAirport": "KTOL",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.6439,
+    "landing": 1
+  },
+  {
+    "icao24": "a361f0",
+    "callsign": "N317ML",
+    "firstSeen": 1784304762,
+    "lastSeen": 1784311094,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.7589,
+    "landing": 1
+  },
+  {
+    "icao24": "a500c5",
+    "callsign": "EJM21",
+    "firstSeen": 1784302225,
+    "lastSeen": 1784308447,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.7283,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1784308701,
+    "lastSeen": 1784314109,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 1.5022,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2a72",
+    "callsign": "N883RA",
+    "firstSeen": 1784307220,
+    "lastSeen": 1784308339,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3108,
+    "landing": 1
+  }
+]
