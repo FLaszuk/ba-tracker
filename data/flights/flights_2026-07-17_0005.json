@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1784244777,
+    "lastSeen": 1784249555,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.3272,
+    "landing": 1
+  },
+  {
+    "icao24": "a05347",
+    "callsign": "N12VU",
+    "firstSeen": 1784239244,
+    "lastSeen": 1784249970,
+    "estDepartureAirport": "KPEA",
+    "estArrivalAirport": "KGEG",
+    "flight_hours": 2.9794,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1784239864,
+    "lastSeen": 1784250084,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLAF",
+    "flight_hours": 2.8389,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b82a",
+    "callsign": "N661CH",
+    "firstSeen": 1784220943,
+    "lastSeen": 1784247212,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 7.2969,
+    "landing": 1
+  }
+]
