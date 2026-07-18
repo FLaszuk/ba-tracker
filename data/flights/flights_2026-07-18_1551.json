@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619A",
+    "firstSeen": 1784389786,
+    "lastSeen": 1784395368,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5506,
+    "landing": 1
+  },
+  {
+    "icao24": "a01b78",
+    "callsign": "N106EX",
+    "firstSeen": 1784373663,
+    "lastSeen": 1784393334,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.4642,
+    "landing": 1
+  },
+  {
+    "icao24": "a57281",
+    "callsign": "N450EA",
+    "firstSeen": 1784390622,
+    "lastSeen": 1784391175,
+    "estDepartureAirport": "KLZU",
+    "estArrivalAirport": "KLZU",
+    "flight_hours": 0.1536,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1784391346,
+    "lastSeen": 1784394014,
+    "estDepartureAirport": "3IN7",
+    "estArrivalAirport": "33NR",
+    "flight_hours": 0.7411,
+    "landing": 1
+  }
+]
