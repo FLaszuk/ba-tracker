@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1784505813,
+    "lastSeen": 1784507355,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4283,
+    "landing": 1
+  },
+  {
+    "icao24": "a0af44",
+    "callsign": "EJA143",
+    "firstSeen": 1784505277,
+    "lastSeen": 1784507620,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6508,
+    "landing": 1
+  }
+]
