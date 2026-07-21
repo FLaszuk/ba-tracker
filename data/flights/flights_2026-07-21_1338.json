@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1349d",
+    "callsign": "N177QS",
+    "firstSeen": 1784641695,
+    "lastSeen": 1784642862,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3242,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e6cc",
+    "callsign": "TWY41",
+    "firstSeen": 1784640879,
+    "lastSeen": 1784643941,
+    "estDepartureAirport": "KSMF",
+    "estArrivalAirport": "KU03",
+    "flight_hours": 0.8506,
+    "landing": 1
+  },
+  {
+    "icao24": "a953e4",
+    "callsign": "N70TF",
+    "firstSeen": 1784636973,
+    "lastSeen": 1784643451,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "WY11",
+    "flight_hours": 1.7994,
+    "landing": 1
+  }
+]
