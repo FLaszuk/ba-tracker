@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3180",
+    "firstSeen": 1784613539,
+    "lastSeen": 1784615318,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4942,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1784613308,
+    "lastSeen": 1784614188,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2444,
+    "landing": 1
+  }
+]
