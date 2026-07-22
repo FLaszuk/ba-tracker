@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "493035",
+    "callsign": "NJE372R",
+    "firstSeen": 1784714676,
+    "lastSeen": 1784726507,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "LGTS",
+    "flight_hours": 3.2864,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "CNS121",
+    "firstSeen": 1784726884,
+    "lastSeen": 1784729804,
+    "estDepartureAirport": "KMEV",
+    "estArrivalAirport": "KGNG",
+    "flight_hours": 0.8111,
+    "landing": 1
+  },
+  {
+    "icao24": "a28e0b",
+    "callsign": "N264C",
+    "firstSeen": 1784727645,
+    "lastSeen": 1784728915,
+    "estDepartureAirport": "KVRB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3528,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa26",
+    "callsign": "FFL1197",
+    "firstSeen": 1784726108,
+    "lastSeen": 1784728176,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.5744,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4cf1",
+    "callsign": "N956WM",
+    "firstSeen": 1784721574,
+    "lastSeen": 1784727240,
+    "estDepartureAirport": "KOJC",
+    "estArrivalAirport": "5CO8",
+    "flight_hours": 1.5739,
+    "landing": 1
+  }
+]
