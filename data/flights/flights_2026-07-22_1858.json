@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a00192",
+    "callsign": "N1S",
+    "firstSeen": 1784743749,
+    "lastSeen": 1784747914,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1569,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1784741577,
+    "lastSeen": 1784747730,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "AZ21",
+    "flight_hours": 1.7092,
+    "landing": 1
+  },
+  {
+    "icao24": "a1dca0",
+    "callsign": "N219TF",
+    "firstSeen": 1784741150,
+    "lastSeen": 1784748283,
+    "estDepartureAirport": "CYWG",
+    "estArrivalAirport": "CYRT",
+    "flight_hours": 1.9814,
+    "landing": 1
+  },
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1784743360,
+    "lastSeen": 1784749380,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.6722,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1784741319,
+    "lastSeen": 1784750384,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "SKCG",
+    "flight_hours": 2.5181,
+    "landing": 1
+  }
+]
