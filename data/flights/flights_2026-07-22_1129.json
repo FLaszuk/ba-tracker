@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d02a1",
+    "callsign": "JFA99X",
+    "firstSeen": 1784718431,
+    "lastSeen": 1784723073,
+    "estDepartureAirport": "EGLC",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.2894,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA70U",
+    "firstSeen": 1784715583,
+    "lastSeen": 1784720056,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.2425,
+    "landing": 1
+  },
+  {
+    "icao24": "710031",
+    "callsign": "HZSK3",
+    "firstSeen": 1784718832,
+    "lastSeen": 1784719511,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.1886,
+    "landing": 1
+  },
+  {
+    "icao24": "aafc2c",
+    "callsign": "N807DC",
+    "firstSeen": 1784716565,
+    "lastSeen": 1784719452,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.8019,
+    "landing": 1
+  }
+]
