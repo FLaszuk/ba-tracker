@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "300575",
+    "callsign": "IXPRA",
+    "firstSeen": 1784731134,
+    "lastSeen": 1784733223,
+    "estDepartureAirport": "LIMP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5803,
+    "landing": 1
+  },
+  {
+    "icao24": "3442c9",
+    "callsign": "GES091F",
+    "firstSeen": 1784725425,
+    "lastSeen": 1784735826,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 2.8892,
+    "landing": 1
+  },
+  {
+    "icao24": "4403ec",
+    "callsign": "OEGRB",
+    "firstSeen": 1784733668,
+    "lastSeen": 1784737253,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.9958,
+    "landing": 1
+  },
+  {
+    "icao24": "48448e",
+    "callsign": "JAG1314",
+    "firstSeen": 1784735201,
+    "lastSeen": 1784735460,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OOLK",
+    "flight_hours": 0.0719,
+    "landing": 1
+  },
+  {
+    "icao24": "a16a85",
+    "callsign": "N1900B",
+    "firstSeen": 1784727546,
+    "lastSeen": 1784732462,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.3656,
+    "landing": 1
+  },
+  {
+    "icao24": "a19d2e",
+    "callsign": "N203AF",
+    "firstSeen": 1784725602,
+    "lastSeen": 1784732654,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.9589,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1784731937,
+    "lastSeen": 1784732596,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "74AZ",
+    "flight_hours": 0.1831,
+    "landing": 1
+  },
+  {
+    "icao24": "a41f78",
+    "callsign": "N365GC",
+    "firstSeen": 1784734378,
+    "lastSeen": 1784736979,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 0.7225,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a14",
+    "callsign": "N500BL",
+    "firstSeen": 1784729802,
+    "lastSeen": 1784732514,
+    "estDepartureAirport": "KASG",
+    "estArrivalAirport": "KM51",
+    "flight_hours": 0.7533,
+    "landing": 1
+  },
+  {
+    "icao24": "a835af",
+    "callsign": "N628TS",
+    "firstSeen": 1784730377,
+    "lastSeen": 1784733094,
+    "estDepartureAirport": "KHHR",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7547,
+    "landing": 1
+  }
+]
