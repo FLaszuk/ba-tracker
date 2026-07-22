@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20ec",
+    "callsign": "VJT850",
+    "firstSeen": 1784748671,
+    "lastSeen": 1784750401,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.4806,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "CNS121",
+    "firstSeen": 1784743237,
+    "lastSeen": 1784750199,
+    "estDepartureAirport": "KDEN",
+    "estArrivalAirport": "K87I",
+    "flight_hours": 1.9339,
+    "landing": 1
+  },
+  {
+    "icao24": "a6617c",
+    "callsign": "TWY510",
+    "firstSeen": 1784739358,
+    "lastSeen": 1784753376,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "1PS4",
+    "flight_hours": 3.8939,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1784741319,
+    "lastSeen": 1784750384,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "SKCG",
+    "flight_hours": 2.5181,
+    "landing": 1
+  }
+]
