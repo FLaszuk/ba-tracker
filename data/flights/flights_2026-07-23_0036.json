@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0be20",
+    "callsign": "EJA147",
+    "firstSeen": 1784758082,
+    "lastSeen": 1784767801,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 2.6997,
+    "landing": 1
+  },
+  {
+    "icao24": "a12fb0",
+    "callsign": "XEN76",
+    "firstSeen": 1784758485,
+    "lastSeen": 1784768978,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KORF",
+    "flight_hours": 2.9147,
+    "landing": 1
+  },
+  {
+    "icao24": "a835af",
+    "callsign": "N628TS",
+    "firstSeen": 1784761418,
+    "lastSeen": 1784768275,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.9047,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1784763011,
+    "lastSeen": 1784770107,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.9711,
+    "landing": 1
+  },
+  {
+    "icao24": "adf1a2",
+    "callsign": "N998PB",
+    "firstSeen": 1784768625,
+    "lastSeen": 1784769397,
+    "estDepartureAirport": "NTAA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2144,
+    "landing": 1
+  }
+]
