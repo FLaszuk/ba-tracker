@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a13060",
+    "callsign": "N176KH",
+    "firstSeen": 1784820147,
+    "lastSeen": 1784833096,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "K6S3",
+    "flight_hours": 3.5969,
+    "landing": 1
+  },
+  {
+    "icao24": "a48e35",
+    "callsign": "N393CW",
+    "firstSeen": 1784807116,
+    "lastSeen": 1784833271,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 7.2653,
+    "landing": 1
+  },
+  {
+    "icao24": "a597ee",
+    "callsign": "N46GX",
+    "firstSeen": 1784829392,
+    "lastSeen": 1784834270,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": null,
+    "flight_hours": 1.355,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a26",
+    "callsign": "N500CD",
+    "firstSeen": 1784827177,
+    "lastSeen": 1784833350,
+    "estDepartureAirport": "KL77",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.7147,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6449",
+    "callsign": "N833JB",
+    "firstSeen": 1784829747,
+    "lastSeen": 1784833708,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "ID56",
+    "flight_hours": 1.1003,
+    "landing": 1
+  }
+]
