@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3cf42d",
+    "callsign": "EUL3T",
+    "firstSeen": 1784794416,
+    "lastSeen": 1784799532,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.4211,
+    "landing": 1
+  },
+  {
+    "icao24": "469469",
+    "callsign": "FLTCHK1",
+    "firstSeen": 1784799139,
+    "lastSeen": 1784800474,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LG56",
+    "flight_hours": 0.3708,
+    "landing": 1
+  },
+  {
+    "icao24": "493281",
+    "callsign": "NJE455K",
+    "firstSeen": 1784795676,
+    "lastSeen": 1784797738,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LEMR",
+    "flight_hours": 0.5728,
+    "landing": 1
+  },
+  {
+    "icao24": "494101",
+    "callsign": "NJE361H",
+    "firstSeen": 1784792970,
+    "lastSeen": 1784798163,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LEVT",
+    "flight_hours": 1.4425,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1784790103,
+    "lastSeen": 1784797004,
+    "estDepartureAirport": "ESGG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9169,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE976",
+    "firstSeen": 1784794947,
+    "lastSeen": 1784796931,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YWEL",
+    "flight_hours": 0.5511,
+    "landing": 1
+  }
+]
