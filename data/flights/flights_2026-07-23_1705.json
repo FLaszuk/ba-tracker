@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a05269",
+    "callsign": "N12LX",
+    "firstSeen": 1784820683,
+    "lastSeen": 1784827359,
+    "estDepartureAirport": "KACY",
+    "estArrivalAirport": "4WN3",
+    "flight_hours": 1.8544,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a226",
+    "callsign": "N462MK",
+    "firstSeen": 1784821809,
+    "lastSeen": 1784827594,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6069,
+    "landing": 1
+  },
+  {
+    "icao24": "a91664",
+    "callsign": "N685GD",
+    "firstSeen": 1784824696,
+    "lastSeen": 1784826496,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "WY30",
+    "flight_hours": 0.5,
+    "landing": 1
+  },
+  {
+    "icao24": "aa29b8",
+    "callsign": "754JLZ",
+    "firstSeen": 1784825815,
+    "lastSeen": 1784828935,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8667,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6449",
+    "callsign": "N833JB",
+    "firstSeen": 1784824371,
+    "lastSeen": 1784827352,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8281,
+    "landing": 1
+  }
+]
