@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0c1d7",
+    "callsign": "EJA148",
+    "firstSeen": 1784813328,
+    "lastSeen": 1784814380,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.2922,
+    "landing": 1
+  },
+  {
+    "icao24": "a8c811",
+    "callsign": "N665P",
+    "firstSeen": 1784813619,
+    "lastSeen": 1784819298,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.5775,
+    "landing": 1
+  }
+]
