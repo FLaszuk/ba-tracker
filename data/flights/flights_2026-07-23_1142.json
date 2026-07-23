@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3181",
+    "firstSeen": 1784809611,
+    "lastSeen": 1784811771,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIBG",
+    "flight_hours": 0.6,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d5",
+    "callsign": "VJT813",
+    "firstSeen": 1784805998,
+    "lastSeen": 1784808444,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6de9",
+    "callsign": "N90MC",
+    "firstSeen": 1784808067,
+    "lastSeen": 1784811118,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.8475,
+    "landing": 1
+  },
+  {
+    "icao24": "aca8dc",
+    "callsign": "N9147H",
+    "firstSeen": 1784803716,
+    "lastSeen": 1784807362,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 1.0128,
+    "landing": 1
+  }
+]
