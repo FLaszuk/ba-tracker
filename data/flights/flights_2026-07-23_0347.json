@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH52A",
+    "firstSeen": 1784779816,
+    "lastSeen": 1784781153,
+    "estDepartureAirport": "LFML",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.3714,
+    "landing": 1
+  },
+  {
+    "icao24": "aa5d7f",
+    "callsign": "N767WB",
+    "firstSeen": 1784760088,
+    "lastSeen": 1784781321,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 5.8981,
+    "landing": 1
+  }
+]
