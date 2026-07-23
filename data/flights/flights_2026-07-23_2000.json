@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "a0c1d7",
+    "callsign": "EJA148",
+    "firstSeen": 1784834852,
+    "lastSeen": 1784838703,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 1.0697,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e03",
+    "callsign": "STT68",
+    "firstSeen": 1784835315,
+    "lastSeen": 1784837025,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "05ID",
+    "flight_hours": 0.475,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1784830980,
+    "lastSeen": 1784837666,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 1.8572,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1784829388,
+    "lastSeen": 1784841164,
+    "estDepartureAirport": "23MI",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 3.2711,
+    "landing": 1
+  },
+  {
+    "icao24": "a57247",
+    "callsign": "XEN45",
+    "firstSeen": 1784834076,
+    "lastSeen": 1784838944,
+    "estDepartureAirport": "KDEN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3522,
+    "landing": 1
+  },
+  {
+    "icao24": "a5738b",
+    "callsign": "EJM450",
+    "firstSeen": 1784831020,
+    "lastSeen": 1784836666,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "ID72",
+    "flight_hours": 1.5683,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c1ab",
+    "callsign": "N728EC",
+    "firstSeen": 1784832111,
+    "lastSeen": 1784837602,
+    "estDepartureAirport": "KHUM",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 1.5253,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1784832528,
+    "lastSeen": 1784840714,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.2739,
+    "landing": 1
+  },
+  {
+    "icao24": "ab7dbe",
+    "callsign": "N84CM",
+    "firstSeen": 1784835624,
+    "lastSeen": 1784839782,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "6MI0",
+    "flight_hours": 1.155,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1784836324,
+    "lastSeen": 1784841341,
+    "estDepartureAirport": "KABE",
+    "estArrivalAirport": "KY93",
+    "flight_hours": 1.3936,
+    "landing": 1
+  }
+]
