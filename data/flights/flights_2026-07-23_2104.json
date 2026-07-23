@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "a37644",
+    "callsign": "N322FJ",
+    "firstSeen": 1784835205,
+    "lastSeen": 1784845274,
+    "estDepartureAirport": "KMDT",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 2.7969,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1784829388,
+    "lastSeen": 1784841164,
+    "estDepartureAirport": "23MI",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 3.2711,
+    "landing": 1
+  },
+  {
+    "icao24": "a642a3",
+    "callsign": "N502P",
+    "firstSeen": 1784836049,
+    "lastSeen": 1784843644,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 2.1097,
+    "landing": 1
+  },
+  {
+    "icao24": "a8665f",
+    "callsign": "N640MS",
+    "firstSeen": 1784842379,
+    "lastSeen": 1784843540,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3225,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1784829506,
+    "lastSeen": 1784843654,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 3.93,
+    "landing": 1
+  },
+  {
+    "icao24": "ab1257",
+    "callsign": "N812RX",
+    "firstSeen": 1784832528,
+    "lastSeen": 1784840714,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.2739,
+    "landing": 1
+  },
+  {
+    "icao24": "ab5c9e",
+    "callsign": "JAS302",
+    "firstSeen": 1784842998,
+    "lastSeen": 1784844004,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2794,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6343",
+    "callsign": "N898CE",
+    "firstSeen": 1784831915,
+    "lastSeen": 1784841860,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KAOC",
+    "flight_hours": 2.7625,
+    "landing": 1
+  },
+  {
+    "icao24": "ac705a",
+    "callsign": "JAS99",
+    "firstSeen": 1784832762,
+    "lastSeen": 1784840271,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.0858,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1784836324,
+    "lastSeen": 1784841341,
+    "estDepartureAirport": "KABE",
+    "estArrivalAirport": "KY93",
+    "flight_hours": 1.3936,
+    "landing": 1
+  }
+]
