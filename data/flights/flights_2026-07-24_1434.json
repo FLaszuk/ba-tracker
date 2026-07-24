@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1784906234,
+    "lastSeen": 1784907818,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "KPHH",
+    "flight_hours": 0.44,
+    "landing": 1
+  },
+  {
+    "icao24": "a0da7a",
+    "callsign": "N154QS",
+    "firstSeen": 1784871236,
+    "lastSeen": 1784903352,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 8.9211,
+    "landing": 1
+  },
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1784898817,
+    "lastSeen": 1784903872,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "CO11",
+    "flight_hours": 1.4042,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1784897637,
+    "lastSeen": 1784905403,
+    "estDepartureAirport": "KVPZ",
+    "estArrivalAirport": "96WY",
+    "flight_hours": 2.1572,
+    "landing": 1
+  },
+  {
+    "icao24": "a6fdb6",
+    "callsign": "N55GP",
+    "firstSeen": 1784903547,
+    "lastSeen": 1784905084,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.4269,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa26",
+    "callsign": "FFL1197",
+    "firstSeen": 1784905409,
+    "lastSeen": 1784906620,
+    "estDepartureAirport": "KATW",
+    "estArrivalAirport": "3MI2",
+    "flight_hours": 0.3364,
+    "landing": 1
+  },
+  {
+    "icao24": "adda5f",
+    "callsign": "N992DC",
+    "firstSeen": 1784898753,
+    "lastSeen": 1784903762,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.3914,
+    "landing": 1
+  }
+]
