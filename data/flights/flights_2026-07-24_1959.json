@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU910",
+    "firstSeen": 1784919535,
+    "lastSeen": 1784924921,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4961,
+    "landing": 1
+  },
+  {
+    "icao24": "a39e5c",
+    "callsign": "N332MM",
+    "firstSeen": 1784921954,
+    "lastSeen": 1784924883,
+    "estDepartureAirport": "KSAC",
+    "estArrivalAirport": "45CL",
+    "flight_hours": 0.8136,
+    "landing": 1
+  },
+  {
+    "icao24": "a80689",
+    "callsign": "JENA616",
+    "firstSeen": 1784915989,
+    "lastSeen": 1784923662,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KMTN",
+    "flight_hours": 2.1314,
+    "landing": 1
+  },
+  {
+    "icao24": "a96483",
+    "callsign": "N704MF",
+    "firstSeen": 1784919248,
+    "lastSeen": 1784923845,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "51CO",
+    "flight_hours": 1.2769,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6de9",
+    "callsign": "N90MC",
+    "firstSeen": 1784924019,
+    "lastSeen": 1784926104,
+    "estDepartureAirport": "KJFK",
+    "estArrivalAirport": "KPHL",
+    "flight_hours": 0.5792,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7049",
+    "callsign": "N900MK",
+    "firstSeen": 1784915731,
+    "lastSeen": 1784922921,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KRIW",
+    "flight_hours": 1.9972,
+    "landing": 1
+  },
+  {
+    "icao24": "ad6821",
+    "callsign": "N963JP",
+    "firstSeen": 1784912111,
+    "lastSeen": 1784926555,
+    "estDepartureAirport": "MA72",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 4.0122,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1784918713,
+    "lastSeen": 1784923558,
+    "estDepartureAirport": "KABE",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 1.3458,
+    "landing": 1
+  },
+  {
+    "icao24": "ada65c",
+    "callsign": "N979PC",
+    "firstSeen": 1784915421,
+    "lastSeen": 1784923361,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CNF8",
+    "flight_hours": 2.2056,
+    "landing": 1
+  }
+]
