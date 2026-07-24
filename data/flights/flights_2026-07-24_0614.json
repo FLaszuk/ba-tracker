@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1784871449,
+    "lastSeen": 1784873224,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4931,
+    "landing": 1
+  },
+  {
+    "icao24": "800b94",
+    "callsign": "VTOMM",
+    "firstSeen": 1784873191,
+    "lastSeen": 1784874084,
+    "estDepartureAirport": "VAJJ",
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 0.2481,
+    "landing": 1
+  }
+]
