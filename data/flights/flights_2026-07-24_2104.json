@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU896H",
+    "firstSeen": 1784925871,
+    "lastSeen": 1784929915,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LICG",
+    "flight_hours": 1.1233,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1784926756,
+    "lastSeen": 1784929721,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "K2E5",
+    "flight_hours": 0.8236,
+    "landing": 1
+  },
+  {
+    "icao24": "ad6821",
+    "callsign": "N963JP",
+    "firstSeen": 1784912111,
+    "lastSeen": 1784926555,
+    "estDepartureAirport": "MA72",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 4.0122,
+    "landing": 1
+  }
+]
