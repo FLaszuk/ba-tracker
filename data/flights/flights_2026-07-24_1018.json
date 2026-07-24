@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "48d961",
+    "callsign": "PLF106",
+    "firstSeen": 1784888227,
+    "lastSeen": 1784891704,
+    "estDepartureAirport": "EPSC",
+    "estArrivalAirport": "EPRZ",
+    "flight_hours": 0.9658,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE921",
+    "firstSeen": 1784889330,
+    "lastSeen": 1784890570,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.3444,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cb",
+    "callsign": "VUAVS",
+    "firstSeen": 1784882154,
+    "lastSeen": 1784887958,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6122,
+    "landing": 1
+  },
+  {
+    "icao24": "800661",
+    "callsign": "VTSNP",
+    "firstSeen": 1784890477,
+    "lastSeen": 1784891206,
+    "estDepartureAirport": "VOBG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2025,
+    "landing": 1
+  }
+]
