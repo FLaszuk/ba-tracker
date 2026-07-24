@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1784906895,
+    "lastSeen": 1784911508,
+    "estDepartureAirport": "KPXE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2814,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b7e6",
+    "callsign": "LXJ468",
+    "firstSeen": 1784904942,
+    "lastSeen": 1784910608,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KS34",
+    "flight_hours": 1.5739,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1784910074,
+    "lastSeen": 1784910948,
+    "estDepartureAirport": "CYHZ",
+    "estArrivalAirport": "CRM4",
+    "flight_hours": 0.2428,
+    "landing": 1
+  }
+]
