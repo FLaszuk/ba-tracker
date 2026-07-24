@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "401057",
+    "callsign": "GTAYC",
+    "firstSeen": 1784889965,
+    "lastSeen": 1784900776,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGHH",
+    "flight_hours": 3.0031,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2747",
+    "callsign": "N818CA",
+    "firstSeen": 1784897004,
+    "lastSeen": 1784899152,
+    "estDepartureAirport": "SKBQ",
+    "estArrivalAirport": "SKAM",
+    "flight_hours": 0.5967,
+    "landing": 1
+  },
+  {
+    "icao24": "e490d9",
+    "callsign": "PTGMU",
+    "firstSeen": 1784883301,
+    "lastSeen": 1784896809,
+    "estDepartureAirport": "KMCO",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7522,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1784894490,
+    "lastSeen": 1784897477,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.8297,
+    "landing": 1
+  }
+]
