@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1784906945,
+    "lastSeen": 1784916897,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.7644,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fd3e",
+    "callsign": "N163EG",
+    "firstSeen": 1784916329,
+    "lastSeen": 1784920189,
+    "estDepartureAirport": "KPIE",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.0722,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1784913730,
+    "lastSeen": 1784918848,
+    "estDepartureAirport": "KAAO",
+    "estArrivalAirport": "73CO",
+    "flight_hours": 1.4217,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1784912576,
+    "lastSeen": 1784919305,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "K7S0",
+    "flight_hours": 1.8692,
+    "landing": 1
+  },
+  {
+    "icao24": "a57412",
+    "callsign": "N450WB",
+    "firstSeen": 1784911488,
+    "lastSeen": 1784918176,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "MT03",
+    "flight_hours": 1.8578,
+    "landing": 1
+  },
+  {
+    "icao24": "a724bd",
+    "callsign": "N56BU",
+    "firstSeen": 1784908881,
+    "lastSeen": 1784917786,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4736,
+    "landing": 1
+  },
+  {
+    "icao24": "aae9b4",
+    "callsign": "N802EE",
+    "firstSeen": 1784909322,
+    "lastSeen": 1784917486,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2678,
+    "landing": 1
+  }
+]
