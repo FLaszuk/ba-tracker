@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d05eb",
+    "callsign": "XACHC",
+    "firstSeen": 1785015054,
+    "lastSeen": 1785016459,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": "MMMA",
+    "flight_hours": 0.3903,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1784986329,
+    "lastSeen": 1785019017,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "PANC",
+    "flight_hours": 9.08,
+    "landing": 1
+  },
+  {
+    "icao24": "4d211b",
+    "callsign": "VJT929",
+    "firstSeen": 1785015061,
+    "lastSeen": 1785016742,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.4669,
+    "landing": 1
+  }
+]

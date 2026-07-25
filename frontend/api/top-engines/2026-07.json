@@ -4,8 +4,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 222.2,
-      "total_landings": 93
+      "total_hours": 231.7,
+      "total_landings": 95
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -56,10 +56,10 @@
       "total_landings": 14
     },
     {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW545",
-      "total_hours": 15.8,
-      "total_landings": 11
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7000",
+      "total_hours": 16.0,
+      "total_landings": 12
     }
   ]
 }
