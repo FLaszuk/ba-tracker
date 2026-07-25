@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0ac15e",
+    "callsign": "HK4891",
+    "firstSeen": 1785008415,
+    "lastSeen": 1785009460,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2903,
+    "landing": 1
+  },
+  {
+    "icao24": "a1dca0",
+    "callsign": "N219TF",
+    "firstSeen": 1785002397,
+    "lastSeen": 1785009622,
+    "estDepartureAirport": "CYWG",
+    "estArrivalAirport": "CYRT",
+    "flight_hours": 2.0069,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ef3",
+    "callsign": "N501PG",
+    "firstSeen": 1784997647,
+    "lastSeen": 1785009941,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 3.415,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1785007235,
+    "lastSeen": 1785012403,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SAOD",
+    "flight_hours": 1.4356,
+    "landing": 1
+  }
+]
