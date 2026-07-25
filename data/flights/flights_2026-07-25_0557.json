@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0101d1",
+    "callsign": "SUBTV",
+    "firstSeen": 1784960343,
+    "lastSeen": 1784960991,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "HEAX",
+    "flight_hours": 0.18,
+    "landing": 1
+  },
+  {
+    "icao24": "710022",
+    "callsign": "MEDVC4C",
+    "firstSeen": 1784959354,
+    "lastSeen": 1784960270,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OETR",
+    "flight_hours": 0.2544,
+    "landing": 1
+  }
+]
