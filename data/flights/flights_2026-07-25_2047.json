@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1c616",
+    "callsign": "EJA213",
+    "firstSeen": 1785008121,
+    "lastSeen": 1785012980,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3497,
+    "landing": 1
+  },
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1785005142,
+    "lastSeen": 1785012364,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.0061,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2eaa",
+    "callsign": "N884WE",
+    "firstSeen": 1784996343,
+    "lastSeen": 1785014564,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "PHKO",
+    "flight_hours": 5.0614,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1785007235,
+    "lastSeen": 1785012403,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SAOD",
+    "flight_hours": 1.4356,
+    "landing": 1
+  }
+]
