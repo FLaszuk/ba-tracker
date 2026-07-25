@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49d0c6",
+    "callsign": "ABP711",
+    "firstSeen": 1784967426,
+    "lastSeen": 1784970558,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.87,
+    "landing": 1
+  },
+  {
+    "icao24": "4d208a",
+    "callsign": "VJT754",
+    "firstSeen": 1784947947,
+    "lastSeen": 1784971463,
+    "estDepartureAirport": "KJFK",
+    "estArrivalAirport": null,
+    "flight_hours": 6.5322,
+    "landing": 1
+  },
+  {
+    "icao24": "4d22f5",
+    "callsign": "VJT783",
+    "firstSeen": 1784962575,
+    "lastSeen": 1784969852,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 2.0214,
+    "landing": 1
+  }
+]
