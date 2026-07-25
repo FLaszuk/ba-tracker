@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2093",
+    "callsign": "AXY685M",
+    "firstSeen": 1784978376,
+    "lastSeen": 1784983828,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5144,
+    "landing": 1
+  },
+  {
+    "icao24": "4d210b",
+    "callsign": "VJT904",
+    "firstSeen": 1784977787,
+    "lastSeen": 1784987667,
+    "estDepartureAirport": "LICB",
+    "estArrivalAirport": "LPFR",
+    "flight_hours": 2.7444,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2159",
+    "callsign": "BRD999T",
+    "firstSeen": 1784982614,
+    "lastSeen": 1784985545,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "EDLW",
+    "flight_hours": 0.8142,
+    "landing": 1
+  },
+  {
+    "icao24": "a27189",
+    "callsign": "N257AK",
+    "firstSeen": 1784986582,
+    "lastSeen": 1784988006,
+    "estDepartureAirport": "2GA8",
+    "estArrivalAirport": "GA72",
+    "flight_hours": 0.3956,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df20",
+    "callsign": "N606SG",
+    "firstSeen": 1784984582,
+    "lastSeen": 1784985185,
+    "estDepartureAirport": "NX01",
+    "estArrivalAirport": "0AR1",
+    "flight_hours": 0.1675,
+    "landing": 1
+  }
+]
