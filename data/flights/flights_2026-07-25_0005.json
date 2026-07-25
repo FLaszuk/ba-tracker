@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1784940258,
+    "lastSeen": 1784941389,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3142,
+    "landing": 1
+  },
+  {
+    "icao24": "a0174d",
+    "callsign": "N105AF",
+    "firstSeen": 1784933034,
+    "lastSeen": 1784940701,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1297,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1784932255,
+    "lastSeen": 1784939824,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 2.1025,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cf06",
+    "callsign": "N667JD",
+    "firstSeen": 1784922252,
+    "lastSeen": 1784939402,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.7639,
+    "landing": 1
+  }
+]
