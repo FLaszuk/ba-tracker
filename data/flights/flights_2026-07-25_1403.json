@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "493289",
+    "callsign": "NJE990Q",
+    "firstSeen": 1784984291,
+    "lastSeen": 1784988150,
+    "estDepartureAirport": "LFMT",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.0719,
+    "landing": 1
+  },
+  {
+    "icao24": "4d210b",
+    "callsign": "VJT904",
+    "firstSeen": 1784977787,
+    "lastSeen": 1784987667,
+    "estDepartureAirport": "LICB",
+    "estArrivalAirport": "LPFR",
+    "flight_hours": 2.7444,
+    "landing": 1
+  },
+  {
+    "icao24": "a27189",
+    "callsign": "N257AK",
+    "firstSeen": 1784986582,
+    "lastSeen": 1784988006,
+    "estDepartureAirport": "2GA8",
+    "estArrivalAirport": "GA72",
+    "flight_hours": 0.3956,
+    "landing": 1
+  },
+  {
+    "icao24": "a5738b",
+    "callsign": "EJM450",
+    "firstSeen": 1784986964,
+    "lastSeen": 1784987753,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2192,
+    "landing": 1
+  }
+]
