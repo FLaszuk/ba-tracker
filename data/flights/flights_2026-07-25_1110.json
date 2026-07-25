@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440325",
+    "callsign": "GCK19X",
+    "firstSeen": 1784963498,
+    "lastSeen": 1784977501,
+    "estDepartureAirport": "LOKG",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8897,
+    "landing": 1
+  },
+  {
+    "icao24": "493283",
+    "callsign": "NJE992G",
+    "firstSeen": 1784968193,
+    "lastSeen": 1784978478,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8569,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad8e",
+    "callsign": "TCKLN",
+    "firstSeen": 1784978486,
+    "lastSeen": 1784978671,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.0514,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e8",
+    "callsign": "VJT486",
+    "firstSeen": 1784975115,
+    "lastSeen": 1784978637,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LINL",
+    "flight_hours": 0.9783,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1784978112,
+    "lastSeen": 1784981189,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.8547,
+    "landing": 1
+  }
+]
