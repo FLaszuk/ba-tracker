@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1785092833,
+    "lastSeen": 1785097730,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.3603,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ceb3",
+    "callsign": "VJA151",
+    "firstSeen": 1785090092,
+    "lastSeen": 1785095608,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "ID52",
+    "flight_hours": 1.5322,
+    "landing": 1
+  },
+  {
+    "icao24": "a638e4",
+    "callsign": "N50PH",
+    "firstSeen": 1785096450,
+    "lastSeen": 1785099412,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.8228,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a14",
+    "callsign": "N500BL",
+    "firstSeen": 1785096880,
+    "lastSeen": 1785099298,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 0.6717,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1785093710,
+    "lastSeen": 1785095564,
+    "estDepartureAirport": "KEGE",
+    "estArrivalAirport": "2NE7",
+    "flight_hours": 0.515,
+    "landing": 1
+  },
+  {
+    "icao24": "ad7d9b",
+    "callsign": "N969AF",
+    "firstSeen": 1785092655,
+    "lastSeen": 1785099022,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KMEV",
+    "flight_hours": 1.7686,
+    "landing": 1
+  }
+]
