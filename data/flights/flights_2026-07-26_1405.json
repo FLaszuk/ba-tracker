@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "440546",
+    "callsign": "OEELA",
+    "firstSeen": 1785070799,
+    "lastSeen": 1785079126,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LFFK",
+    "flight_hours": 2.3131,
+    "landing": 1
+  },
+  {
+    "icao24": "4bccef",
+    "callsign": "TCSGO",
+    "firstSeen": 1785070092,
+    "lastSeen": 1785074585,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2481,
+    "landing": 1
+  },
+  {
+    "icao24": "4d206d",
+    "callsign": "HYP001",
+    "firstSeen": 1785064211,
+    "lastSeen": 1785074604,
+    "estDepartureAirport": "UGSB",
+    "estArrivalAirport": "LIRI",
+    "flight_hours": 2.8869,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1785072781,
+    "lastSeen": 1785076607,
+    "estDepartureAirport": "LTBS",
+    "estArrivalAirport": "LBHT",
+    "flight_hours": 1.0628,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2120",
+    "callsign": "VJT408",
+    "firstSeen": 1785069041,
+    "lastSeen": 1785075652,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "GMFI",
+    "flight_hours": 1.8364,
+    "landing": 1
+  },
+  {
+    "icao24": "a15b12",
+    "callsign": "N187EA",
+    "firstSeen": 1785066681,
+    "lastSeen": 1785074247,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "KOKS",
+    "flight_hours": 2.1017,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1785073383,
+    "lastSeen": 1785074678,
+    "estDepartureAirport": "0MS2",
+    "estArrivalAirport": "K04M",
+    "flight_hours": 0.3597,
+    "landing": 1
+  },
+  {
+    "icao24": "a88e71",
+    "callsign": "N650TP",
+    "firstSeen": 1785072934,
+    "lastSeen": 1785074514,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.4389,
+    "landing": 1
+  }
+]
