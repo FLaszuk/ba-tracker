@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a16a85",
+    "callsign": "N1900B",
+    "firstSeen": 1785021443,
+    "lastSeen": 1785025782,
+    "estDepartureAirport": "KMEV",
+    "estArrivalAirport": "9CO9",
+    "flight_hours": 1.2053,
+    "landing": 1
+  },
+  {
+    "icao24": "a500fe",
+    "callsign": "N421SZ",
+    "firstSeen": 1784988948,
+    "lastSeen": 1785025158,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 10.0583,
+    "landing": 1
+  }
+]
