@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c2d57",
+    "callsign": "QGA45A",
+    "firstSeen": 1785041788,
+    "lastSeen": 1785046226,
+    "estDepartureAirport": "LEJR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2328,
+    "landing": 1
+  },
+  {
+    "icao24": "710022",
+    "callsign": "MEDVC4C",
+    "firstSeen": 1785045408,
+    "lastSeen": 1785046120,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1978,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1785045099,
+    "lastSeen": 1785046242,
+    "estDepartureAirport": "LFMT",
+    "estArrivalAirport": "LFTW",
+    "flight_hours": 0.3175,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1abe",
+    "callsign": "N750HF",
+    "firstSeen": 1785046006,
+    "lastSeen": 1785047213,
+    "estDepartureAirport": "LEAL",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.3353,
+    "landing": 1
+  }
+]
