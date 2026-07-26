@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1785061016,
+    "lastSeen": 1785063870,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7928,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH32B",
+    "firstSeen": 1785060356,
+    "lastSeen": 1785063274,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "EBBR",
+    "flight_hours": 0.8106,
+    "landing": 1
+  }
+]
