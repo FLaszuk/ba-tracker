@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU900",
+    "firstSeen": 1785094061,
+    "lastSeen": 1785099395,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4817,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1785096245,
+    "lastSeen": 1785099481,
+    "estDepartureAirport": "KSAC",
+    "estArrivalAirport": "1ID7",
+    "flight_hours": 0.8989,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1785081349,
+    "lastSeen": 1785102945,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 5.9989,
+    "landing": 1
+  },
+  {
+    "icao24": "a638e4",
+    "callsign": "N50PH",
+    "firstSeen": 1785096450,
+    "lastSeen": 1785099412,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.8228,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a14",
+    "callsign": "N500BL",
+    "firstSeen": 1785096880,
+    "lastSeen": 1785099298,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 0.6717,
+    "landing": 1
+  },
+  {
+    "icao24": "ad7d9b",
+    "callsign": "N969AF",
+    "firstSeen": 1785092655,
+    "lastSeen": 1785099022,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KMEV",
+    "flight_hours": 1.7686,
+    "landing": 1
+  }
+]
