@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE976",
+    "firstSeen": 1785037802,
+    "lastSeen": 1785038233,
+    "estDepartureAirport": "YSTW",
+    "estArrivalAirport": "YDNR",
+    "flight_hours": 0.1197,
+    "landing": 1
+  },
+  {
+    "icao24": "86375c",
+    "callsign": "JA680C",
+    "firstSeen": 1785038173,
+    "lastSeen": 1785041029,
+    "estDepartureAirport": "RJFT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7933,
+    "landing": 1
+  }
+]
