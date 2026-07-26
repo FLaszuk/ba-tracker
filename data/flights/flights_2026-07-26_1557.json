@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cc7fe",
+    "callsign": "DWW260",
+    "firstSeen": 1785079934,
+    "lastSeen": 1785083411,
+    "estDepartureAirport": "LPCS",
+    "estArrivalAirport": "LELN",
+    "flight_hours": 0.9658,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1785080673,
+    "lastSeen": 1785083367,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.7483,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "CNS422",
+    "firstSeen": 1785082498,
+    "lastSeen": 1785085199,
+    "estDepartureAirport": "KHYA",
+    "estArrivalAirport": "KMLT",
+    "flight_hours": 0.7503,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1785085488,
+    "lastSeen": 1785087388,
+    "estDepartureAirport": "4WI4",
+    "estArrivalAirport": "KSTP",
+    "flight_hours": 0.5278,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1785081151,
+    "lastSeen": 1785086311,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "MS39",
+    "flight_hours": 1.4333,
+    "landing": 1
+  },
+  {
+    "icao24": "a98bb3",
+    "callsign": "N714JB",
+    "firstSeen": 1785073587,
+    "lastSeen": 1785085250,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": "03NC",
+    "flight_hours": 3.2397,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1785080462,
+    "lastSeen": 1785082871,
+    "estDepartureAirport": "KMEV",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.6692,
+    "landing": 1
+  }
+]
