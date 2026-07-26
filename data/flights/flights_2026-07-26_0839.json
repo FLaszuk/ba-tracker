@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1785052973,
+    "lastSeen": 1785055566,
+    "estDepartureAirport": "LFLB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7203,
+    "landing": 1
+  },
+  {
+    "icao24": "49d4cf",
+    "callsign": "QAV30E",
+    "firstSeen": 1785048609,
+    "lastSeen": 1785054628,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LB11",
+    "flight_hours": 1.6719,
+    "landing": 1
+  },
+  {
+    "icao24": "4b186f",
+    "callsign": "PJZ238",
+    "firstSeen": 1785050552,
+    "lastSeen": 1785054738,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1628,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f9",
+    "callsign": "VJT809",
+    "firstSeen": 1785019757,
+    "lastSeen": 1785055565,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "LFKO",
+    "flight_hours": 9.9467,
+    "landing": 1
+  },
+  {
+    "icao24": "8962ea",
+    "callsign": "GWC3",
+    "firstSeen": 1785052463,
+    "lastSeen": 1785055076,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "HE42",
+    "flight_hours": 0.7258,
+    "landing": 1
+  }
+]
