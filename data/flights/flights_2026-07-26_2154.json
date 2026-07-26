@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "a00181",
+    "callsign": "N1RH",
+    "firstSeen": 1785106784,
+    "lastSeen": 1785109031,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "NC13",
+    "flight_hours": 0.6242,
+    "landing": 1
+  },
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1785098439,
+    "lastSeen": 1785103016,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "51CO",
+    "flight_hours": 1.2714,
+    "landing": 1
+  },
+  {
+    "icao24": "a2fe57",
+    "callsign": "EJA292",
+    "firstSeen": 1785101814,
+    "lastSeen": 1785104753,
+    "estDepartureAirport": "KBPI",
+    "estArrivalAirport": "KANK",
+    "flight_hours": 0.8164,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1785104101,
+    "lastSeen": 1785107670,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KM45",
+    "flight_hours": 0.9914,
+    "landing": 1
+  },
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1785101829,
+    "lastSeen": 1785105801,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.1033,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1785081349,
+    "lastSeen": 1785102945,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 5.9989,
+    "landing": 1
+  },
+  {
+    "icao24": "a66da8",
+    "callsign": "N513MA",
+    "firstSeen": 1785099305,
+    "lastSeen": 1785104200,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.3597,
+    "landing": 1
+  },
+  {
+    "icao24": "ad7d9b",
+    "callsign": "N969AF",
+    "firstSeen": 1785101342,
+    "lastSeen": 1785106149,
+    "estDepartureAirport": "KTVL",
+    "estArrivalAirport": "K6S8",
+    "flight_hours": 1.3353,
+    "landing": 1
+  }
+]
