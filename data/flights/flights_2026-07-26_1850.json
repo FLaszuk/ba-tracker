@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a05269",
+    "callsign": "N12LX",
+    "firstSeen": 1785081358,
+    "lastSeen": 1785092307,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "WI42",
+    "flight_hours": 3.0414,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c0a3",
+    "callsign": "EJA405",
+    "firstSeen": 1785084967,
+    "lastSeen": 1785093152,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 2.2736,
+    "landing": 1
+  },
+  {
+    "icao24": "a5723c",
+    "callsign": "N450BG",
+    "firstSeen": 1785084093,
+    "lastSeen": 1785091510,
+    "estDepartureAirport": "KMWH",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 2.0603,
+    "landing": 1
+  },
+  {
+    "icao24": "a58dc8",
+    "callsign": "N457TB",
+    "firstSeen": 1785086226,
+    "lastSeen": 1785091772,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "K32A",
+    "flight_hours": 1.5406,
+    "landing": 1
+  },
+  {
+    "icao24": "a638e4",
+    "callsign": "N50PH",
+    "firstSeen": 1785087813,
+    "lastSeen": 1785094225,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 1.7811,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1785089202,
+    "lastSeen": 1785091894,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.7478,
+    "landing": 1
+  }
+]
