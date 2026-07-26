@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a18d69",
+    "callsign": "CXF2",
+    "firstSeen": 1785073658,
+    "lastSeen": 1785086191,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4814,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS3",
+    "firstSeen": 1785081699,
+    "lastSeen": 1785088581,
+    "estDepartureAirport": "WY60",
+    "estArrivalAirport": "KSMO",
+    "flight_hours": 1.9117,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1785085488,
+    "lastSeen": 1785087388,
+    "estDepartureAirport": "4WI4",
+    "estArrivalAirport": "KSTP",
+    "flight_hours": 0.5278,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1785081151,
+    "lastSeen": 1785086311,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "MS39",
+    "flight_hours": 1.4333,
+    "landing": 1
+  },
+  {
+    "icao24": "a98bb3",
+    "callsign": "N714JB",
+    "firstSeen": 1785073587,
+    "lastSeen": 1785085250,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": "03NC",
+    "flight_hours": 3.2397,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4c9e",
+    "callsign": "N827U",
+    "firstSeen": 1785085664,
+    "lastSeen": 1785087712,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "WI42",
+    "flight_hours": 0.5689,
+    "landing": 1
+  },
+  {
+    "icao24": "ac9576",
+    "callsign": "PRD91",
+    "firstSeen": 1785082688,
+    "lastSeen": 1785086744,
+    "estDepartureAirport": "K5B2",
+    "estArrivalAirport": "KAPN",
+    "flight_hours": 1.1267,
+    "landing": 1
+  }
+]
