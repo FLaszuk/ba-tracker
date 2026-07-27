@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1785169500,
+    "lastSeen": 1785173413,
+    "estDepartureAirport": "EDDS",
+    "estArrivalAirport": "EPPO",
+    "flight_hours": 1.0869,
+    "landing": 1
+  },
+  {
+    "icao24": "a0036e",
+    "callsign": "N10M",
+    "firstSeen": 1785168385,
+    "lastSeen": 1785171842,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.9603,
+    "landing": 1
+  },
+  {
+    "icao24": "a03fe1",
+    "callsign": "N115MH",
+    "firstSeen": 1785167806,
+    "lastSeen": 1785168806,
+    "estDepartureAirport": "KHWD",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.2778,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1785167343,
+    "lastSeen": 1785169517,
+    "estDepartureAirport": "73CA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS415",
+    "firstSeen": 1785162452,
+    "lastSeen": 1785170321,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.1858,
+    "landing": 1
+  },
+  {
+    "icao24": "a6331a",
+    "callsign": "GDG49",
+    "firstSeen": 1785157562,
+    "lastSeen": 1785169724,
+    "estDepartureAirport": "KBKL",
+    "estArrivalAirport": "KP23",
+    "flight_hours": 3.3783,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1785167389,
+    "lastSeen": 1785169301,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.5311,
+    "landing": 1
+  },
+  {
+    "icao24": "a97659",
+    "callsign": "N709DS",
+    "firstSeen": 1785168188,
+    "lastSeen": 1785169711,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "6NE9",
+    "flight_hours": 0.4231,
+    "landing": 1
+  },
+  {
+    "icao24": "c04e20",
+    "callsign": "CGDPF",
+    "firstSeen": 1785167047,
+    "lastSeen": 1785168627,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "CSH2",
+    "flight_hours": 0.4389,
+    "landing": 1
+  }
+]
