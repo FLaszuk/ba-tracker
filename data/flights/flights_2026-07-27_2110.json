@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a37b0a",
+    "callsign": "N323SE",
+    "firstSeen": 1785184247,
+    "lastSeen": 1785188783,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "K5C3",
+    "flight_hours": 1.26,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f06e",
+    "callsign": "N482EC",
+    "firstSeen": 1785174702,
+    "lastSeen": 1785188588,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.8572,
+    "landing": 1
+  }
+]
