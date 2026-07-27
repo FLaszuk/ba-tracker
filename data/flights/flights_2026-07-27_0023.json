@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d203d",
+    "callsign": "CHZ4996",
+    "firstSeen": 1785114765,
+    "lastSeen": 1785116999,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "OMDW",
+    "flight_hours": 0.6206,
+    "landing": 1
+  },
+  {
+    "icao24": "a114c9",
+    "callsign": "N169TC",
+    "firstSeen": 1785109725,
+    "lastSeen": 1785112753,
+    "estDepartureAirport": "KBGR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8411,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a6b4",
+    "callsign": "N528AP",
+    "firstSeen": 1785105448,
+    "lastSeen": 1785115522,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "4CL4",
+    "flight_hours": 2.7983,
+    "landing": 1
+  },
+  {
+    "icao24": "a929f8",
+    "callsign": "N69SL",
+    "firstSeen": 1785108611,
+    "lastSeen": 1785115624,
+    "estDepartureAirport": "KCLM",
+    "estArrivalAirport": "1WA6",
+    "flight_hours": 1.9481,
+    "landing": 1
+  }
+]
