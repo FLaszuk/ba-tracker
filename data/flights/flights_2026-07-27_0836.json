@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c4ccc",
+    "callsign": "MMD6151",
+    "firstSeen": 1785137923,
+    "lastSeen": 1785142793,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.3528,
+    "landing": 1
+  },
+  {
+    "icao24": "3c7583",
+    "callsign": "BVR505",
+    "firstSeen": 1785136410,
+    "lastSeen": 1785141948,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LSZC",
+    "flight_hours": 1.5383,
+    "landing": 1
+  },
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1785139134,
+    "lastSeen": 1785140971,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5103,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1785143107,
+    "lastSeen": 1785147231,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 1.1456,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1785138455,
+    "lastSeen": 1785142371,
+    "estDepartureAirport": "ESOE",
+    "estArrivalAirport": "ESNJ",
+    "flight_hours": 1.0878,
+    "landing": 1
+  }
+]
