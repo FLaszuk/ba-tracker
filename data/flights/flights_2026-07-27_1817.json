@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1785171276,
+    "lastSeen": 1785176937,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5725,
+    "landing": 1
+  },
+  {
+    "icao24": "a39e5c",
+    "callsign": "N332MM",
+    "firstSeen": 1785180226,
+    "lastSeen": 1785181636,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.3917,
+    "landing": 1
+  },
+  {
+    "icao24": "a5941e",
+    "callsign": "LXJ459",
+    "firstSeen": 1785169344,
+    "lastSeen": 1785176850,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K87I",
+    "flight_hours": 2.085,
+    "landing": 1
+  }
+]
