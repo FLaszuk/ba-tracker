@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4910f7",
+    "callsign": "VVV131",
+    "firstSeen": 1785218419,
+    "lastSeen": 1785220984,
+    "estDepartureAirport": "LGKV",
+    "estArrivalAirport": "LGTL",
+    "flight_hours": 0.7125,
+    "landing": 1
+  },
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1785221631,
+    "lastSeen": 1785222754,
+    "estDepartureAirport": "YBLT",
+    "estArrivalAirport": "YELM",
+    "flight_hours": 0.3119,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1785218145,
+    "lastSeen": 1785221413,
+    "estDepartureAirport": "YPMQ",
+    "estArrivalAirport": "YCBB",
+    "flight_hours": 0.9078,
+    "landing": 1
+  }
+]
