@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "00878f",
+    "callsign": "GCM922",
+    "firstSeen": 1785225654,
+    "lastSeen": 1785231470,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": "FACL",
+    "flight_hours": 1.6156,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1785232823,
+    "lastSeen": 1785235977,
+    "estDepartureAirport": "EPSC",
+    "estArrivalAirport": "EPRZ",
+    "flight_hours": 0.8761,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1785232241,
+    "lastSeen": 1785233201,
+    "estDepartureAirport": "LSZA",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.2667,
+    "landing": 1
+  },
+  {
+    "icao24": "a500fe",
+    "callsign": "N421SZ",
+    "firstSeen": 1785228924,
+    "lastSeen": 1785232259,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LICG",
+    "flight_hours": 0.9264,
+    "landing": 1
+  }
+]
