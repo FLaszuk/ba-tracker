@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0a005f",
+    "callsign": "7TVCX",
+    "firstSeen": 1785243304,
+    "lastSeen": 1785243975,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1864,
+    "landing": 1
+  },
+  {
+    "icao24": "4241db",
+    "callsign": "VPCIO",
+    "firstSeen": 1785233436,
+    "lastSeen": 1785241831,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3319,
+    "landing": 1
+  },
+  {
+    "icao24": "494103",
+    "callsign": "NJE901Q",
+    "firstSeen": 1785240498,
+    "lastSeen": 1785245478,
+    "estDepartureAirport": "ELLX",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3833,
+    "landing": 1
+  },
+  {
+    "icao24": "494107",
+    "callsign": "NJE920G",
+    "firstSeen": 1785241994,
+    "lastSeen": 1785244535,
+    "estDepartureAirport": "LFMV",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.7058,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0293",
+    "callsign": "LRQ329J",
+    "firstSeen": 1785234384,
+    "lastSeen": 1785238947,
+    "estDepartureAirport": "LGZA",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 1.2675,
+    "landing": 1
+  },
+  {
+    "icao24": "c059cb",
+    "callsign": "CGIAC",
+    "firstSeen": 1785240000,
+    "lastSeen": 1785241843,
+    "estDepartureAirport": "CYEG",
+    "estArrivalAirport": "CYYC",
+    "flight_hours": 0.5119,
+    "landing": 1
+  }
+]
