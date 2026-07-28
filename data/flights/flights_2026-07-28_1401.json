@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44033f",
+    "callsign": "ELG2R",
+    "firstSeen": 1785238895,
+    "lastSeen": 1785247591,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4156,
+    "landing": 1
+  },
+  {
+    "icao24": "a24a70",
+    "callsign": "N247EM",
+    "firstSeen": 1785248310,
+    "lastSeen": 1785248975,
+    "estDepartureAirport": "TJSJ",
+    "estArrivalAirport": "PR20",
+    "flight_hours": 0.1847,
+    "landing": 1
+  },
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1785247575,
+    "lastSeen": 1785248481,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.2517,
+    "landing": 1
+  }
+]
