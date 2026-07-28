@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a573f8",
+    "callsign": "N450VA",
+    "firstSeen": 1785254022,
+    "lastSeen": 1785257018,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8322,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1785253590,
+    "lastSeen": 1785258093,
+    "estDepartureAirport": "KRDM",
+    "estArrivalAirport": "KBTF",
+    "flight_hours": 1.2508,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1785254714,
+    "lastSeen": 1785258295,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KCCR",
+    "flight_hours": 0.9947,
+    "landing": 1
+  }
+]
