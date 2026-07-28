@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU908",
+    "firstSeen": 1785264684,
+    "lastSeen": 1785270403,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5886,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a6e",
+    "callsign": "N504ST",
+    "firstSeen": 1785267823,
+    "lastSeen": 1785269858,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 0.5653,
+    "landing": 1
+  },
+  {
+    "icao24": "a9247d",
+    "callsign": "TWY57",
+    "firstSeen": 1785271908,
+    "lastSeen": 1785274463,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.7097,
+    "landing": 1
+  }
+]
