@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1785276515,
+    "lastSeen": 1785277451,
+    "estDepartureAirport": "LTFJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.26,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1785275677,
+    "lastSeen": 1785281190,
+    "estDepartureAirport": "NM86",
+    "estArrivalAirport": "KSPZ",
+    "flight_hours": 1.5314,
+    "landing": 1
+  },
+  {
+    "icao24": "aa0d8c",
+    "callsign": "N747LG",
+    "firstSeen": 1785275992,
+    "lastSeen": 1785278672,
+    "estDepartureAirport": "K0M4",
+    "estArrivalAirport": "MS06",
+    "flight_hours": 0.7444,
+    "landing": 1
+  }
+]
