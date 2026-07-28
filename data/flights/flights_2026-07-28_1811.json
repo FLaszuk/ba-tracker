@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1785261134,
+    "lastSeen": 1785262315,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3281,
+    "landing": 1
+  },
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1785257565,
+    "lastSeen": 1785263492,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 1.6464,
+    "landing": 1
+  },
+  {
+    "icao24": "a98bb3",
+    "callsign": "N714JB",
+    "firstSeen": 1785257337,
+    "lastSeen": 1785262766,
+    "estDepartureAirport": "KMGW",
+    "estArrivalAirport": "72MI",
+    "flight_hours": 1.5081,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1785260158,
+    "lastSeen": 1785263791,
+    "estDepartureAirport": "KCCR",
+    "estArrivalAirport": "02ID",
+    "flight_hours": 1.0092,
+    "landing": 1
+  }
+]
