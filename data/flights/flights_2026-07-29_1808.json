@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4b8681",
+    "callsign": "TRK4",
+    "firstSeen": 1785349279,
+    "lastSeen": 1785349970,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1919,
+    "landing": 1
+  },
+  {
+    "icao24": "a0cb9e",
+    "callsign": "EJA150",
+    "firstSeen": 1785344857,
+    "lastSeen": 1785350792,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.6486,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1785341901,
+    "lastSeen": 1785349090,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K17M",
+    "flight_hours": 1.9969,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1785351591,
+    "lastSeen": 1785352913,
+    "estDepartureAirport": "KLUL",
+    "estArrivalAirport": "K04M",
+    "flight_hours": 0.3672,
+    "landing": 1
+  },
+  {
+    "icao24": "a375df",
+    "callsign": "N322BH",
+    "firstSeen": 1785349123,
+    "lastSeen": 1785350643,
+    "estDepartureAirport": "KLIU",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4222,
+    "landing": 1
+  },
+  {
+    "icao24": "a686d5",
+    "callsign": "CTF52",
+    "firstSeen": 1785344108,
+    "lastSeen": 1785349734,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "NV17",
+    "flight_hours": 1.5628,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1785344586,
+    "lastSeen": 1785350692,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "97NY",
+    "flight_hours": 1.6961,
+    "landing": 1
+  },
+  {
+    "icao24": "c061d5",
+    "callsign": "GXTST22",
+    "firstSeen": 1785348861,
+    "lastSeen": 1785348883,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K33K",
+    "flight_hours": 0.0061,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "AVANTTO",
+    "firstSeen": 1785345665,
+    "lastSeen": 1785350496,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3419,
+    "landing": 1
+  }
+]
