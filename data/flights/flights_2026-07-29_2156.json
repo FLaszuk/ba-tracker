@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1785353485,
+    "lastSeen": 1785363508,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 2.7842,
+    "landing": 1
+  },
+  {
+    "icao24": "a19d2e",
+    "callsign": "N203AF",
+    "firstSeen": 1785355154,
+    "lastSeen": 1785362629,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0764,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c8fe",
+    "callsign": "TWY429",
+    "firstSeen": 1785359363,
+    "lastSeen": 1785365966,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.8342,
+    "landing": 1
+  }
+]
