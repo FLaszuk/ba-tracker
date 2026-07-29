@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cdd32",
+    "callsign": "LHB2",
+    "firstSeen": 1785330768,
+    "lastSeen": 1785337545,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 1.8825,
+    "landing": 1
+  },
+  {
+    "icao24": "a2fe57",
+    "callsign": "EJA292",
+    "firstSeen": 1785332186,
+    "lastSeen": 1785334612,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": "KISQ",
+    "flight_hours": 0.6739,
+    "landing": 1
+  },
+  {
+    "icao24": "a98bb3",
+    "callsign": "N714JB",
+    "firstSeen": 1785329571,
+    "lastSeen": 1785335332,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "39MI",
+    "flight_hours": 1.6003,
+    "landing": 1
+  }
+]
