@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3c07fc",
+    "callsign": "VJH727",
+    "firstSeen": 1785323140,
+    "lastSeen": 1785325186,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.5683,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc1db",
+    "callsign": "SFG55C",
+    "firstSeen": 1785311863,
+    "lastSeen": 1785320602,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "ENSD",
+    "flight_hours": 2.4275,
+    "landing": 1
+  },
+  {
+    "icao24": "440325",
+    "callsign": "GCK19X",
+    "firstSeen": 1785305403,
+    "lastSeen": 1785318590,
+    "estDepartureAirport": "LOKG",
+    "estArrivalAirport": null,
+    "flight_hours": 3.6631,
+    "landing": 1
+  },
+  {
+    "icao24": "48d961",
+    "callsign": "PLF106",
+    "firstSeen": 1785317203,
+    "lastSeen": 1785320609,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "EDDH",
+    "flight_hours": 0.9461,
+    "landing": 1
+  },
+  {
+    "icao24": "49d56e",
+    "callsign": "AAN141",
+    "firstSeen": 1785312545,
+    "lastSeen": 1785319297,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8756,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE921",
+    "firstSeen": 1785318548,
+    "lastSeen": 1785320740,
+    "estDepartureAirport": "YSTW",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.6089,
+    "landing": 1
+  },
+  {
+    "icao24": "a500fe",
+    "callsign": "N421SZ",
+    "firstSeen": 1785316722,
+    "lastSeen": 1785320358,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 1.01,
+    "landing": 1
+  },
+  {
+    "icao24": "a9b274",
+    "callsign": "N724AM",
+    "firstSeen": 1785313577,
+    "lastSeen": 1785319934,
+    "estDepartureAirport": "LGKF",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.7658,
+    "landing": 1
+  }
+]
