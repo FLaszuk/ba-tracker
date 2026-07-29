@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "42413b",
+    "callsign": "TBJ62",
+    "firstSeen": 1785327939,
+    "lastSeen": 1785340414,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "RJOE",
+    "flight_hours": 3.4653,
+    "landing": 1
+  },
+  {
+    "icao24": "440866",
+    "callsign": "GAC555R",
+    "firstSeen": 1785338118,
+    "lastSeen": 1785340749,
+    "estDepartureAirport": "LFQQ",
+    "estArrivalAirport": "LFEH",
+    "flight_hours": 0.7308,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cc",
+    "callsign": "AXY627W",
+    "firstSeen": 1785338818,
+    "lastSeen": 1785341238,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LFTP",
+    "flight_hours": 0.6722,
+    "landing": 1
+  },
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1785328509,
+    "lastSeen": 1785341313,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.5567,
+    "landing": 1
+  },
+  {
+    "icao24": "a276a5",
+    "callsign": "EJA258",
+    "firstSeen": 1785328013,
+    "lastSeen": 1785341129,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "WY34",
+    "flight_hours": 3.6433,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1785337602,
+    "lastSeen": 1785341281,
+    "estDepartureAirport": "47TE",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 1.0219,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1785337079,
+    "lastSeen": 1785342622,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "II49",
+    "flight_hours": 1.5397,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "N299AF",
+    "firstSeen": 1785338610,
+    "lastSeen": 1785341668,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8494,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1785333841,
+    "lastSeen": 1785341258,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0603,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1785342379,
+    "lastSeen": 1785345382,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSUT",
+    "flight_hours": 0.8342,
+    "landing": 1
+  }
+]
