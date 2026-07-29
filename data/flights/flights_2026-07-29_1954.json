@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a02003",
+    "callsign": "N107PJ",
+    "firstSeen": 1785347124,
+    "lastSeen": 1785357250,
+    "estDepartureAirport": "KARW",
+    "estArrivalAirport": "KE34",
+    "flight_hours": 2.8128,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS5625",
+    "firstSeen": 1785348318,
+    "lastSeen": 1785355135,
+    "estDepartureAirport": "KSDM",
+    "estArrivalAirport": "76TA",
+    "flight_hours": 1.8936,
+    "landing": 1
+  },
+  {
+    "icao24": "a71295",
+    "callsign": "N555GA",
+    "firstSeen": 1785351540,
+    "lastSeen": 1785357528,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KD07",
+    "flight_hours": 1.6633,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa26",
+    "callsign": "FFL1197",
+    "firstSeen": 1785347602,
+    "lastSeen": 1785358732,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "K8M8",
+    "flight_hours": 3.0917,
+    "landing": 1
+  },
+  {
+    "icao24": "a817e4",
+    "callsign": "N620SY",
+    "firstSeen": 1785358473,
+    "lastSeen": 1785359638,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.3236,
+    "landing": 1
+  }
+]
