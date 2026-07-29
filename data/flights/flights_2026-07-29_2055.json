@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1785353485,
+    "lastSeen": 1785363508,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 2.7842,
+    "landing": 1
+  },
+  {
+    "icao24": "a7d2a3",
+    "callsign": "N603CN",
+    "firstSeen": 1785355323,
+    "lastSeen": 1785358355,
+    "estDepartureAirport": "KADH",
+    "estArrivalAirport": "KUOX",
+    "flight_hours": 0.8422,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fa26",
+    "callsign": "FFL1197",
+    "firstSeen": 1785347602,
+    "lastSeen": 1785358732,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "K8M8",
+    "flight_hours": 3.0917,
+    "landing": 1
+  },
+  {
+    "icao24": "a817e4",
+    "callsign": "N620SY",
+    "firstSeen": 1785358473,
+    "lastSeen": 1785359638,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.3236,
+    "landing": 1
+  }
+]
