@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "494107",
+    "callsign": "NJE021T",
+    "firstSeen": 1785307096,
+    "lastSeen": 1785311362,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFHM",
+    "flight_hours": 1.185,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA85J",
+    "firstSeen": 1785306476,
+    "lastSeen": 1785309890,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9483,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ca",
+    "callsign": "VJT570",
+    "firstSeen": 1785313918,
+    "lastSeen": 1785314326,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1133,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cbf0",
+    "callsign": "N28DC",
+    "firstSeen": 1785309572,
+    "lastSeen": 1785313868,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.1933,
+    "landing": 1
+  }
+]
