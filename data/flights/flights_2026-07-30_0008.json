@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1785370837,
+    "lastSeen": 1785373451,
+    "estDepartureAirport": "KCVG",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 0.7261,
+    "landing": 1
+  },
+  {
+    "icao24": "a642a3",
+    "callsign": "N502P",
+    "firstSeen": 1785360283,
+    "lastSeen": 1785372746,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4619,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "N940QS",
+    "firstSeen": 1785366923,
+    "lastSeen": 1785372138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 1.4486,
+    "landing": 1
+  }
+]
