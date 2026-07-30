@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS6",
+    "firstSeen": 1785442819,
+    "lastSeen": 1785445319,
+    "estDepartureAirport": "KGVL",
+    "estArrivalAirport": "KTUP",
+    "flight_hours": 0.6944,
+    "landing": 1
+  },
+  {
+    "icao24": "a16534",
+    "callsign": "GLH2",
+    "firstSeen": 1785444541,
+    "lastSeen": 1785445007,
+    "estDepartureAirport": "KCLL",
+    "estArrivalAirport": "KCLL",
+    "flight_hours": 0.1294,
+    "landing": 1
+  },
+  {
+    "icao24": "a24bf8",
+    "callsign": "N247WD",
+    "firstSeen": 1785444156,
+    "lastSeen": 1785447733,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KATS",
+    "flight_hours": 0.9936,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS13",
+    "firstSeen": 1785444188,
+    "lastSeen": 1785445704,
+    "estDepartureAirport": "KMVY",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 0.4211,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4b2a",
+    "callsign": "N827DC",
+    "firstSeen": 1785444330,
+    "lastSeen": 1785445713,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "28MT",
+    "flight_hours": 0.3842,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5b5a",
+    "callsign": "N96RX",
+    "firstSeen": 1785444564,
+    "lastSeen": 1785447341,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.7714,
+    "landing": 1
+  }
+]
