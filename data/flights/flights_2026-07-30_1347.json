@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2171",
+    "callsign": "EAU029",
+    "firstSeen": 1785407390,
+    "lastSeen": 1785418989,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "OLRA",
+    "flight_hours": 3.2219,
+    "landing": 1
+  },
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1785414140,
+    "lastSeen": 1785422771,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 2.3975,
+    "landing": 1
+  },
+  {
+    "icao24": "a25849",
+    "callsign": "TWY20",
+    "firstSeen": 1785417540,
+    "lastSeen": 1785420621,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8558,
+    "landing": 1
+  },
+  {
+    "icao24": "a88ede",
+    "callsign": "N650XY",
+    "firstSeen": 1785419341,
+    "lastSeen": 1785420342,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": "KUXL",
+    "flight_hours": 0.2781,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1815",
+    "callsign": "N75EA",
+    "firstSeen": 1785417566,
+    "lastSeen": 1785418950,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3844,
+    "landing": 1
+  }
+]
