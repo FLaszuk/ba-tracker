@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP412",
+    "firstSeen": 1785425787,
+    "lastSeen": 1785427318,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4253,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1785423003,
+    "lastSeen": 1785426539,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9822,
+    "landing": 1
+  },
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1785426069,
+    "lastSeen": 1785429169,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8611,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1785426779,
+    "lastSeen": 1785428042,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3508,
+    "landing": 1
+  }
+]
