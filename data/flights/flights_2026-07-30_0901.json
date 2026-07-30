@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "42418f",
+    "callsign": "VPCPT",
+    "firstSeen": 1785399844,
+    "lastSeen": 1785401982,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5939,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU69XP",
+    "firstSeen": 1785388479,
+    "lastSeen": 1785402332,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "GCTS",
+    "flight_hours": 3.8481,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1785400919,
+    "lastSeen": 1785405604,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 1.3014,
+    "landing": 1
+  }
+]
