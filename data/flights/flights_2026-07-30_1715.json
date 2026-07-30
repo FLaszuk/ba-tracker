@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1785430431,
+    "lastSeen": 1785432768,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.6492,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1785423831,
+    "lastSeen": 1785431256,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 2.0625,
+    "landing": 1
+  }
+]
