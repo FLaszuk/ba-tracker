@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44b2ad",
+    "callsign": "BAF92",
+    "firstSeen": 1785412549,
+    "lastSeen": 1785415927,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "EDVE",
+    "flight_hours": 0.9383,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1785380080,
+    "lastSeen": 1785411657,
+    "estDepartureAirport": "RCSS",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 8.7714,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1785415819,
+    "lastSeen": 1785417653,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "CO95",
+    "flight_hours": 0.5094,
+    "landing": 1
+  }
+]
