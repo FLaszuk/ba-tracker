@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "300619",
+    "callsign": "ULC25",
+    "firstSeen": 1785515395,
+    "lastSeen": 1785518046,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.7364,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1785519131,
+    "lastSeen": 1785521687,
+    "estDepartureAirport": "47TE",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.71,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1785512134,
+    "lastSeen": 1785517655,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 1.5336,
+    "landing": 1
+  },
+  {
+    "icao24": "a50ed9",
+    "callsign": "TIV425",
+    "firstSeen": 1785518654,
+    "lastSeen": 1785519962,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3633,
+    "landing": 1
+  },
+  {
+    "icao24": "a53720",
+    "callsign": "EJM435",
+    "firstSeen": 1785505264,
+    "lastSeen": 1785520594,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "KU07",
+    "flight_hours": 4.2583,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1785519644,
+    "lastSeen": 1785520862,
+    "estDepartureAirport": "6CL4",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3383,
+    "landing": 1
+  },
+  {
+    "icao24": "aa0198",
+    "callsign": "N744C",
+    "firstSeen": 1785519373,
+    "lastSeen": 1785522198,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 0.7847,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1785512467,
+    "lastSeen": 1785517872,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KCCR",
+    "flight_hours": 1.5014,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f71",
+    "callsign": "PRNOC",
+    "firstSeen": 1785508356,
+    "lastSeen": 1785517650,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SWBE",
+    "flight_hours": 2.5817,
+    "landing": 1
+  }
+]
