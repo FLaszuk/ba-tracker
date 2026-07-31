@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1785477217,
+    "lastSeen": 1785486369,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5422,
+    "landing": 1
+  },
+  {
+    "icao24": "8805b0",
+    "callsign": "MTL084",
+    "firstSeen": 1785486435,
+    "lastSeen": 1785488411,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": "VTUJ",
+    "flight_hours": 0.5489,
+    "landing": 1
+  }
+]
