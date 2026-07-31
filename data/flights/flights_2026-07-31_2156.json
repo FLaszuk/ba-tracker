@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU896H",
+    "firstSeen": 1785532051,
+    "lastSeen": 1785536034,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LICG",
+    "flight_hours": 1.1064,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1785493461,
+    "lastSeen": 1785535332,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 11.6308,
+    "landing": 1
+  },
+  {
+    "icao24": "a570cd",
+    "callsign": "SVX52",
+    "firstSeen": 1785533169,
+    "lastSeen": 1785538451,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4672,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d06",
+    "callsign": "EJM657",
+    "firstSeen": 1785521766,
+    "lastSeen": 1785534426,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": null,
+    "flight_hours": 3.5167,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11be",
+    "callsign": "N748RE",
+    "firstSeen": 1785533892,
+    "lastSeen": 1785535744,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KRHI",
+    "flight_hours": 0.5144,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6923",
+    "callsign": "N770BC",
+    "firstSeen": 1785531646,
+    "lastSeen": 1785537883,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "MT52",
+    "flight_hours": 1.7325,
+    "landing": 1
+  }
+]
