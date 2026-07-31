@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1785502622,
+    "lastSeen": 1785512206,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 2.6622,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1785510913,
+    "lastSeen": 1785512354,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4003,
+    "landing": 1
+  },
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1785507739,
+    "lastSeen": 1785511441,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "NM76",
+    "flight_hours": 1.0283,
+    "landing": 1
+  }
+]
