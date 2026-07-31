@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a049ef",
+    "callsign": "N118AD",
+    "firstSeen": 1785526351,
+    "lastSeen": 1785531406,
+    "estDepartureAirport": "KBFM",
+    "estArrivalAirport": "WV77",
+    "flight_hours": 1.4042,
+    "landing": 1
+  },
+  {
+    "icao24": "a18143",
+    "callsign": "N1963N",
+    "firstSeen": 1785530087,
+    "lastSeen": 1785531049,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2672,
+    "landing": 1
+  },
+  {
+    "icao24": "a70007",
+    "callsign": "N550GF",
+    "firstSeen": 1785514840,
+    "lastSeen": 1785527939,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 3.6386,
+    "landing": 1
+  },
+  {
+    "icao24": "a70100",
+    "callsign": "N550SE",
+    "firstSeen": 1785526775,
+    "lastSeen": 1785529803,
+    "estDepartureAirport": "KMYF",
+    "estArrivalAirport": "KSMX",
+    "flight_hours": 0.8411,
+    "landing": 1
+  }
+]
