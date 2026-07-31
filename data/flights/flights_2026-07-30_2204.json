@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1785448798,
+    "lastSeen": 1785450741,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5397,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1785450918,
+    "lastSeen": 1785453165,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "63CO",
+    "flight_hours": 0.6242,
+    "landing": 1
+  }
+]
