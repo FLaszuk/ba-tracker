@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3004b8",
+    "callsign": "ITL801",
+    "firstSeen": 1785493461,
+    "lastSeen": 1785496185,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.7567,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1785498392,
+    "lastSeen": 1785500153,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 0.4892,
+    "landing": 1
+  }
+]
