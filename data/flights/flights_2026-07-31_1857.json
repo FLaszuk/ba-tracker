@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4405da",
+    "callsign": "GAC484V",
+    "firstSeen": 1785524091,
+    "lastSeen": 1785526596,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LICT",
+    "flight_hours": 0.6958,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f1d2",
+    "callsign": "N224WA",
+    "firstSeen": 1785523100,
+    "lastSeen": 1785524574,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "K3F2",
+    "flight_hours": 0.4094,
+    "landing": 1
+  },
+  {
+    "icao24": "a34498",
+    "callsign": "N31BG",
+    "firstSeen": 1785511000,
+    "lastSeen": 1785527668,
+    "estDepartureAirport": "KRYY",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 4.63,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1785523472,
+    "lastSeen": 1785525736,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.6289,
+    "landing": 1
+  },
+  {
+    "icao24": "a59de5",
+    "callsign": "LXJ461",
+    "firstSeen": 1785509210,
+    "lastSeen": 1785523697,
+    "estDepartureAirport": "KHVN",
+    "estArrivalAirport": "CO95",
+    "flight_hours": 4.0242,
+    "landing": 1
+  },
+  {
+    "icao24": "a70100",
+    "callsign": "N550SE",
+    "firstSeen": 1785526775,
+    "lastSeen": 1785529803,
+    "estDepartureAirport": "KMYF",
+    "estArrivalAirport": "KSMX",
+    "flight_hours": 0.8411,
+    "landing": 1
+  },
+  {
+    "icao24": "ab97f3",
+    "callsign": "N846UP",
+    "firstSeen": 1785525485,
+    "lastSeen": 1785527422,
+    "estDepartureAirport": "KHQM",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 0.5381,
+    "landing": 1
+  }
+]
