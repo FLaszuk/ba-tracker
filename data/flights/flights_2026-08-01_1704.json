@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1785604462,
+    "lastSeen": 1785605681,
+    "estDepartureAirport": "NC03",
+    "estArrivalAirport": "SC94",
+    "flight_hours": 0.3386,
+    "landing": 1
+  },
+  {
+    "icao24": "a2770a",
+    "callsign": "N258UT",
+    "firstSeen": 1785597126,
+    "lastSeen": 1785603787,
+    "estDepartureAirport": "35TX",
+    "estArrivalAirport": "51CO",
+    "flight_hours": 1.8503,
+    "landing": 1
+  },
+  {
+    "icao24": "a35d5b",
+    "callsign": "N316CP",
+    "firstSeen": 1785596612,
+    "lastSeen": 1785604870,
+    "estDepartureAirport": "KFYV",
+    "estArrivalAirport": "CD32",
+    "flight_hours": 2.2939,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1785606396,
+    "lastSeen": 1785608216,
+    "estDepartureAirport": "KDTW",
+    "estArrivalAirport": "KY94",
+    "flight_hours": 0.5056,
+    "landing": 1
+  },
+  {
+    "icao24": "a9905a",
+    "callsign": "N715TS",
+    "firstSeen": 1785590362,
+    "lastSeen": 1785603316,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.5983,
+    "landing": 1
+  },
+  {
+    "icao24": "ac11a8",
+    "callsign": "N877PM",
+    "firstSeen": 1785602801,
+    "lastSeen": 1785604520,
+    "estDepartureAirport": "KEDC",
+    "estArrivalAirport": "4TS8",
+    "flight_hours": 0.4775,
+    "landing": 1
+  }
+]

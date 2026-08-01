@@ -4,14 +4,20 @@
     {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
-      "total_hours": 5.9,
-      "total_landings": 5
+      "total_hours": 7.8,
+      "total_landings": 6
     },
     {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
       "total_hours": 5.8,
       "total_landings": 4
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 4.8,
+      "total_landings": 3
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -27,6 +33,12 @@
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW610F",
+      "total_hours": 2.8,
+      "total_landings": 2
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW617",
       "total_hours": 2.8,
       "total_landings": 1
@@ -39,27 +51,15 @@
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 2.2,
+      "total_landings": 5
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW307A",
       "total_hours": 2.0,
       "total_landings": 2
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW308C",
-      "total_hours": 1.9,
-      "total_landings": 4
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "HTF7000",
-      "total_hours": 1.3,
-      "total_landings": 1
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW306C",
-      "total_hours": 1.3,
-      "total_landings": 1
     }
   ]
 }
