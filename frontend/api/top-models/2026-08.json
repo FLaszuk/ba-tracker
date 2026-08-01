@@ -4,19 +4,19 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 350",
-      "total_hours": 3.7,
-      "total_landings": 3
+      "total_hours": 5.8,
+      "total_landings": 4
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 1.9,
+      "total_landings": 4
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 3.2,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 1.8,
       "total_landings": 3
     },
     {

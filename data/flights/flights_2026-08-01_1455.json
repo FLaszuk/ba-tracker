@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT131",
+    "firstSeen": 1785589426,
+    "lastSeen": 1785596809,
+    "estDepartureAirport": "EDFH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0508,
+    "landing": 1
+  },
+  {
+    "icao24": "8005cf",
+    "callsign": "VTAYV",
+    "firstSeen": 1785595871,
+    "lastSeen": 1785596371,
+    "estDepartureAirport": "VABB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.1389,
+    "landing": 1
+  }
+]
