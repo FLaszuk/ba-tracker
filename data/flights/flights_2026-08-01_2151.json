@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a266e0",
+    "callsign": "N254FJ",
+    "firstSeen": 1785611225,
+    "lastSeen": 1785621060,
+    "estDepartureAirport": "KSDM",
+    "estArrivalAirport": "K3R4",
+    "flight_hours": 2.7319,
+    "landing": 1
+  },
+  {
+    "icao24": "a570cd",
+    "callsign": "SVX52",
+    "firstSeen": 1785621276,
+    "lastSeen": 1785623696,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6722,
+    "landing": 1
+  }
+]
