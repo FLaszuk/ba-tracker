@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1785577259,
+    "lastSeen": 1785579586,
+    "estDepartureAirport": "LIPY",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.6464,
+    "landing": 1
+  },
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC281",
+    "firstSeen": 1785576616,
+    "lastSeen": 1785579621,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8347,
+    "landing": 1
+  },
+  {
+    "icao24": "a9f103",
+    "callsign": "EJM136",
+    "firstSeen": 1785578278,
+    "lastSeen": 1785583082,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3344,
+    "landing": 1
+  }
+]
