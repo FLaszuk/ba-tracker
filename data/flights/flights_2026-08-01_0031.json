@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0e59f",
+    "callsign": "N157QS",
+    "firstSeen": 1785519301,
+    "lastSeen": 1785545744,
+    "estDepartureAirport": "KSGF",
+    "estArrivalAirport": null,
+    "flight_hours": 7.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1785546489,
+    "lastSeen": 1785548503,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KGJT",
+    "flight_hours": 0.5594,
+    "landing": 1
+  },
+  {
+    "icao24": "c059cb",
+    "callsign": "CGIAC",
+    "firstSeen": 1785535429,
+    "lastSeen": 1785547530,
+    "estDepartureAirport": "13NC",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.3614,
+    "landing": 1
+  }
+]

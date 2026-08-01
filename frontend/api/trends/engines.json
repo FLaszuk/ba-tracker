@@ -40,7 +40,8 @@
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
   "manufacturers": {
     "Rolls-Royce": {
@@ -205,8 +206,8 @@
         "landings": 160
       },
       "2026-07": {
-        "hours": 578.9,
-        "landings": 286
+        "hours": 589.6,
+        "landings": 288
       }
     },
     "Pratt & Whitney Canada": {
@@ -539,6 +540,10 @@
       "2026-07": {
         "hours": 170.6,
         "landings": 122
+      },
+      "2026-08": {
+        "hours": 0.6,
+        "landings": 1
       }
     },
     "Williams International": {

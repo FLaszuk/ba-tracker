@@ -40,7 +40,8 @@
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
   "manufacturers": {
     "Gulfstream": {
@@ -205,8 +206,8 @@
         "landings": 67
       },
       "2026-07": {
-        "hours": 286.6,
-        "landings": 144
+        "hours": 289.9,
+        "landings": 145
       }
     },
     "Dassault": {
@@ -703,8 +704,12 @@
         "landings": 119
       },
       "2026-07": {
-        "hours": 356.9,
-        "landings": 181
+        "hours": 364.2,
+        "landings": 182
+      },
+      "2026-08": {
+        "hours": 0.6,
+        "landings": 1
       }
     },
     "Embraer": {
