@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1785586443,
+    "lastSeen": 1785590755,
+    "estDepartureAirport": "EDFH",
+    "estArrivalAirport": "EGJB",
+    "flight_hours": 1.1978,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cf",
+    "callsign": "VJT453",
+    "firstSeen": 1785581604,
+    "lastSeen": 1785589400,
+    "estDepartureAirport": "EGTK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1656,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1785588110,
+    "lastSeen": 1785590858,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7633,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1785580246,
+    "lastSeen": 1785588783,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 2.3714,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1785588640,
+    "lastSeen": 1785590354,
+    "estDepartureAirport": "KEKM",
+    "estArrivalAirport": "KACB",
+    "flight_hours": 0.4761,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1785586472,
+    "lastSeen": 1785591770,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4717,
+    "landing": 1
+  }
+]

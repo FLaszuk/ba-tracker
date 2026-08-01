@@ -2,22 +2,22 @@
   "month": "2026-08",
   "data": [
     {
+      "engine_manufacturer": "Honeywell",
+      "total_hours": 11.7,
+      "total_landings": 10,
+      "market_share_pct": 49.4
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "total_hours": 7.9,
       "total_landings": 7,
-      "market_share_pct": 51.7
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "total_hours": 5.0,
-      "total_landings": 6,
-      "market_share_pct": 32.4
+      "market_share_pct": 33.3
     },
     {
       "engine_manufacturer": "Rolls-Royce",
-      "total_hours": 2.4,
-      "total_landings": 3,
-      "market_share_pct": 15.9
+      "total_hours": 4.1,
+      "total_landings": 5,
+      "market_share_pct": 17.3
     }
   ]
 }
