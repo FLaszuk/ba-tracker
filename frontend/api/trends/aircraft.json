@@ -208,6 +208,10 @@
       "2026-07": {
         "hours": 289.9,
         "landings": 145
+      },
+      "2026-08": {
+        "hours": 0.1,
+        "landings": 1
       }
     },
     "Dassault": {
@@ -374,6 +378,10 @@
       "2026-07": {
         "hours": 290.6,
         "landings": 194
+      },
+      "2026-08": {
+        "hours": 0.9,
+        "landings": 1
       }
     },
     "Cessna (Textron)": {
@@ -542,8 +550,8 @@
         "landings": 107
       },
       "2026-08": {
-        "hours": 0.9,
-        "landings": 1
+        "hours": 2.2,
+        "landings": 2
       }
     },
     "Bombardier": {

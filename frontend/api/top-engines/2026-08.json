@@ -8,9 +8,27 @@
       "total_landings": 2
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 1.3,
+      "total_landings": 1
+    },
+    {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW308C",
+      "total_hours": 0.9,
+      "total_landings": 1
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW545",
       "total_hours": 0.9,
+      "total_landings": 1
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 0.1,
       "total_landings": 1
     }
   ]

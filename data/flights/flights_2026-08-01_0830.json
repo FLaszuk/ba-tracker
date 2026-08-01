@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3003f5",
+    "callsign": "SIO615",
+    "firstSeen": 1785571280,
+    "lastSeen": 1785574507,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8964,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1785568014,
+    "lastSeen": 1785572696,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3006,
+    "landing": 1
+  },
+  {
+    "icao24": "7808d8",
+    "callsign": "B8260",
+    "firstSeen": 1785572698,
+    "lastSeen": 1785573243,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 0.1514,
+    "landing": 1
+  }
+]
