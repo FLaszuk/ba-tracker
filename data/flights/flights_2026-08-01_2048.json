@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4400c7",
+    "callsign": "ELG9M",
+    "firstSeen": 1785616735,
+    "lastSeen": 1785618622,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5242,
+    "landing": 1
+  },
+  {
+    "icao24": "a266e0",
+    "callsign": "N254FJ",
+    "firstSeen": 1785611225,
+    "lastSeen": 1785621060,
+    "estDepartureAirport": "KSDM",
+    "estArrivalAirport": "K3R4",
+    "flight_hours": 2.7319,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1785611496,
+    "lastSeen": 1785617021,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "WY60",
+    "flight_hours": 1.5347,
+    "landing": 1
+  }
+]
