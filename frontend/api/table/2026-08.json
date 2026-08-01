@@ -1,9 +1,19 @@
 {
   "month": "2026-08",
-  "total": 1,
+  "total": 2,
   "offset": 0,
-  "limit": 1,
+  "limit": 2,
   "data": [
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545",
+      "total_hours": 0.9,
+      "total_landings": 1,
+      "aircraft_market_share": 60.84,
+      "engine_market_share": 60.84
+    },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
@@ -11,8 +21,8 @@
       "engine_model": "TFE731",
       "total_hours": 0.6,
       "total_landings": 1,
-      "aircraft_market_share": 100.0,
-      "engine_market_share": 100.0
+      "aircraft_market_share": 39.16,
+      "engine_market_share": 39.16
     }
   ]
 }

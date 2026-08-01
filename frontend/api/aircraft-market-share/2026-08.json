@@ -2,10 +2,16 @@
   "month": "2026-08",
   "data": [
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "total_hours": 0.9,
+      "total_landings": 1,
+      "market_share_pct": 60.8
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "total_hours": 0.6,
       "total_landings": 1,
-      "market_share_pct": 100.0
+      "market_share_pct": 39.2
     }
   ]
 }

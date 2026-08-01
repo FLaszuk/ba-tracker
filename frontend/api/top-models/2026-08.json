@@ -6,6 +6,12 @@
       "aircraft_model": "Learjet",
       "total_hours": 0.6,
       "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation XLS",
+      "total_hours": 0.9,
+      "total_landings": 1
     }
   ]
 }
