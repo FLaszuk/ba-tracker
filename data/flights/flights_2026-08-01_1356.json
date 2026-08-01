@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "49130a",
+    "callsign": "NJE822D",
+    "firstSeen": 1785590995,
+    "lastSeen": 1785593623,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.73,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT2321",
+    "firstSeen": 1785584007,
+    "lastSeen": 1785594099,
+    "estDepartureAirport": "EYVI",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8033,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fd3e",
+    "callsign": "N163EG",
+    "firstSeen": 1785591094,
+    "lastSeen": 1785594965,
+    "estDepartureAirport": "KMSY",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 1.0753,
+    "landing": 1
+  },
+  {
+    "icao24": "a402d1",
+    "callsign": "N358DA",
+    "firstSeen": 1785593245,
+    "lastSeen": 1785594740,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4153,
+    "landing": 1
+  }
+]
