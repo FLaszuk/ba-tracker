@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "71c299",
+    "callsign": "HL8299",
+    "firstSeen": 1785591360,
+    "lastSeen": 1785612760,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 5.9444,
+    "landing": 1
+  },
+  {
+    "icao24": "a05347",
+    "callsign": "N12VU",
+    "firstSeen": 1785606452,
+    "lastSeen": 1785611685,
+    "estDepartureAirport": "KPEA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4536,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1785610342,
+    "lastSeen": 1785611508,
+    "estDepartureAirport": "KGRR",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.3239,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1785609495,
+    "lastSeen": 1785611400,
+    "estDepartureAirport": "KVIS",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.5292,
+    "landing": 1
+  },
+  {
+    "icao24": "a657e4",
+    "callsign": "N508CK",
+    "firstSeen": 1785604692,
+    "lastSeen": 1785610295,
+    "estDepartureAirport": "KU12",
+    "estArrivalAirport": "KCCR",
+    "flight_hours": 1.5564,
+    "landing": 1
+  }
+]
