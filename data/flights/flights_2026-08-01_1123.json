@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1785582347,
+    "lastSeen": 1785583913,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.435,
+    "landing": 1
+  },
+  {
+    "icao24": "300500",
+    "callsign": "CPI283",
+    "firstSeen": 1785584801,
+    "lastSeen": 1785586872,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEA",
+    "flight_hours": 0.5753,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH36S",
+    "firstSeen": 1785579848,
+    "lastSeen": 1785584460,
+    "estDepartureAirport": "LFLP",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 1.2811,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU64LG",
+    "firstSeen": 1785579196,
+    "lastSeen": 1785583685,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIBD",
+    "flight_hours": 1.2469,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU827X",
+    "firstSeen": 1785581421,
+    "lastSeen": 1785584965,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9844,
+    "landing": 1
+  },
+  {
+    "icao24": "490d05",
+    "callsign": "NJE674V",
+    "firstSeen": 1785579997,
+    "lastSeen": 1785582830,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LEJR",
+    "flight_hours": 0.7869,
+    "landing": 1
+  },
+  {
+    "icao24": "49d4cf",
+    "callsign": "QAV30E",
+    "firstSeen": 1785578788,
+    "lastSeen": 1785587677,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 2.4692,
+    "landing": 1
+  },
+  {
+    "icao24": "a9f103",
+    "callsign": "EJM136",
+    "firstSeen": 1785578278,
+    "lastSeen": 1785583082,
+    "estDepartureAirport": "ESSB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3344,
+    "landing": 1
+  }
+]
