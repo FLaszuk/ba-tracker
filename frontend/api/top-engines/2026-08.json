@@ -2,15 +2,15 @@
   "month": "2026-08",
   "data": [
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 1.5,
+      "total_landings": 2
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW545",
       "total_hours": 0.9,
-      "total_landings": 1
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "TFE731",
-      "total_hours": 0.6,
       "total_landings": 1
     }
   ]
