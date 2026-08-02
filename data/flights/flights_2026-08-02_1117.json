@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "40686b",
+    "callsign": "LNX05AL",
+    "firstSeen": 1785664245,
+    "lastSeen": 1785670794,
+    "estDepartureAirport": "LSZM",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8192,
+    "landing": 1
+  },
+  {
+    "icao24": "493283",
+    "callsign": "NJE867C",
+    "firstSeen": 1785664159,
+    "lastSeen": 1785669219,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4056,
+    "landing": 1
+  }
+]
