@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "424799",
+    "callsign": "VPCKV",
+    "firstSeen": 1785673091,
+    "lastSeen": 1785676247,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8767,
+    "landing": 1
+  },
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1785672277,
+    "lastSeen": 1785675337,
+    "estDepartureAirport": "EDFH",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.85,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2093",
+    "callsign": "AXY391M",
+    "firstSeen": 1785667085,
+    "lastSeen": 1785675482,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 2.3325,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bdf9",
+    "callsign": "GLF95",
+    "firstSeen": 1785680238,
+    "lastSeen": 1785681266,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 0.2856,
+    "landing": 1
+  },
+  {
+    "icao24": "a43430",
+    "callsign": "N370EA",
+    "firstSeen": 1785675470,
+    "lastSeen": 1785676562,
+    "estDepartureAirport": "KOGD",
+    "estArrivalAirport": "K1U7",
+    "flight_hours": 0.3033,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3983",
+    "callsign": "N822NP",
+    "firstSeen": 1785673066,
+    "lastSeen": 1785677710,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 1.29,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1785673813,
+    "lastSeen": 1785678354,
+    "estDepartureAirport": "KOFP",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.2614,
+    "landing": 1
+  },
+  {
+    "icao24": "ad326b",
+    "callsign": "N95BD",
+    "firstSeen": 1785674786,
+    "lastSeen": 1785676503,
+    "estDepartureAirport": "KMBS",
+    "estArrivalAirport": "KESC",
+    "flight_hours": 0.4769,
+    "landing": 1
+  }
+]

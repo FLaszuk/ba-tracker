@@ -4,7 +4,13 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 8.8,
+      "total_hours": 10.1,
+      "total_landings": 8
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "total_hours": 8.1,
       "total_landings": 7
     },
     {
@@ -14,9 +20,9 @@
       "total_landings": 5
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 900",
-      "total_hours": 6.8,
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 10.9,
       "total_landings": 5
     },
     {
@@ -32,6 +38,12 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 4.8,
+      "total_landings": 4
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 3.8,
@@ -44,21 +56,9 @@
       "total_landings": 3
     },
     {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "Eclipse 500",
-      "total_hours": 4.5,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 2.5,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 9.8,
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 4.8,
       "total_landings": 3
     }
   ]
