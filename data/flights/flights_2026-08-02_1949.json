@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4403ff",
+    "callsign": "LOD51V",
+    "firstSeen": 1785696882,
+    "lastSeen": 1785700381,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 0.9719,
+    "landing": 1
+  },
+  {
+    "icao24": "a35764",
+    "callsign": "N314TP",
+    "firstSeen": 1785675409,
+    "lastSeen": 1785703610,
+    "estDepartureAirport": "LFBT",
+    "estArrivalAirport": "KDLH",
+    "flight_hours": 7.8336,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a78",
+    "callsign": "N504TC",
+    "firstSeen": 1785693353,
+    "lastSeen": 1785699947,
+    "estDepartureAirport": "47TE",
+    "estArrivalAirport": "KI58",
+    "flight_hours": 1.8317,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1785698755,
+    "lastSeen": 1785701689,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KMEV",
+    "flight_hours": 0.815,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "N966QS",
+    "firstSeen": 1785698038,
+    "lastSeen": 1785700904,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2TX0",
+    "flight_hours": 0.7961,
+    "landing": 1
+  }
+]
