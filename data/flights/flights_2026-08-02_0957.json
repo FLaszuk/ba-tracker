@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cd32a",
+    "callsign": "DCHGS",
+    "firstSeen": 1785662134,
+    "lastSeen": 1785665818,
+    "estDepartureAirport": "EDSB",
+    "estArrivalAirport": "LD57",
+    "flight_hours": 1.0233,
+    "landing": 1
+  },
+  {
+    "icao24": "405fd0",
+    "callsign": "SXN45G",
+    "firstSeen": 1785656758,
+    "lastSeen": 1785664992,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 2.2872,
+    "landing": 1
+  }
+]
