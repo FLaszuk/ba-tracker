@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "0d06d5",
+    "callsign": "XAARO",
+    "firstSeen": 1785686197,
+    "lastSeen": 1785696981,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 2.9956,
+    "landing": 1
+  },
+  {
+    "icao24": "43ea87",
+    "callsign": "MCNZI",
+    "firstSeen": 1785696100,
+    "lastSeen": 1785698629,
+    "estDepartureAirport": "LEGE",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.7025,
+    "landing": 1
+  },
+  {
+    "icao24": "49d56e",
+    "callsign": "AAN141",
+    "firstSeen": 1785688782,
+    "lastSeen": 1785696836,
+    "estDepartureAirport": "LSZA",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.2372,
+    "landing": 1
+  },
+  {
+    "icao24": "a05c75",
+    "callsign": "N122PR",
+    "firstSeen": 1785694246,
+    "lastSeen": 1785696512,
+    "estDepartureAirport": "MT03",
+    "estArrivalAirport": "KSUN",
+    "flight_hours": 0.6294,
+    "landing": 1
+  },
+  {
+    "icao24": "a3a21d",
+    "callsign": "N333MX",
+    "firstSeen": 1785685202,
+    "lastSeen": 1785696474,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "MT88",
+    "flight_hours": 3.1311,
+    "landing": 1
+  },
+  {
+    "icao24": "a40460",
+    "callsign": "N358V",
+    "firstSeen": 1785695812,
+    "lastSeen": 1785699452,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 1.0111,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1785696424,
+    "lastSeen": 1785697428,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2789,
+    "landing": 1
+  },
+  {
+    "icao24": "a65054",
+    "callsign": "XFL115",
+    "firstSeen": 1785686854,
+    "lastSeen": 1785696776,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "K1V0",
+    "flight_hours": 2.7561,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8a8e",
+    "callsign": "N779AZ",
+    "firstSeen": 1785695430,
+    "lastSeen": 1785696741,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.3642,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8fc1",
+    "callsign": "N78SD",
+    "firstSeen": 1785693994,
+    "lastSeen": 1785697518,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.9789,
+    "landing": 1
+  }
+]
