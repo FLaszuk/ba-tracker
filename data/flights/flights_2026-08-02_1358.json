@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "491316",
+    "callsign": "NJE930D",
+    "firstSeen": 1785677273,
+    "lastSeen": 1785679983,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.7528,
+    "landing": 1
+  },
+  {
+    "icao24": "a114c9",
+    "callsign": "N169TC",
+    "firstSeen": 1785655576,
+    "lastSeen": 1785682190,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.3928,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bdf9",
+    "callsign": "GLF95",
+    "firstSeen": 1785680238,
+    "lastSeen": 1785681266,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 0.2856,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3866",
+    "callsign": "N822BD",
+    "firstSeen": 1785679057,
+    "lastSeen": 1785679955,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSEZ",
+    "flight_hours": 0.2494,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1785679881,
+    "lastSeen": 1785682737,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7933,
+    "landing": 1
+  }
+]
