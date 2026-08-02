@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d04bb",
+    "callsign": "XADST",
+    "firstSeen": 1785683094,
+    "lastSeen": 1785684486,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3867,
+    "landing": 1
+  },
+  {
+    "icao24": "a101f9",
+    "callsign": "EJA164",
+    "firstSeen": 1785682312,
+    "lastSeen": 1785684609,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.6381,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c95c",
+    "callsign": "RNI41",
+    "firstSeen": 1785681963,
+    "lastSeen": 1785684467,
+    "estDepartureAirport": "K0A9",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.6956,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a840",
+    "callsign": "N4DF",
+    "firstSeen": 1785666613,
+    "lastSeen": 1785687409,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.7767,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1785679881,
+    "lastSeen": 1785682737,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7933,
+    "landing": 1
+  }
+]
