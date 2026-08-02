@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c08bb",
+    "callsign": "PAV1",
+    "firstSeen": 1785657049,
+    "lastSeen": 1785659982,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LTBM",
+    "flight_hours": 0.8147,
+    "landing": 1
+  },
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1785657526,
+    "lastSeen": 1785659503,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5492,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT8EM",
+    "firstSeen": 1785645344,
+    "lastSeen": 1785659394,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": "GCTS",
+    "flight_hours": 3.9028,
+    "landing": 1
+  }
+]
