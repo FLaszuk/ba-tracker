@@ -210,8 +210,8 @@
         "landings": 145
       },
       "2026-08": {
-        "hours": 25.8,
-        "landings": 15
+        "hours": 29.2,
+        "landings": 18
       }
     },
     "Dassault": {
@@ -380,8 +380,8 @@
         "landings": 194
       },
       "2026-08": {
-        "hours": 27.0,
-        "landings": 20
+        "hours": 29.2,
+        "landings": 22
       }
     },
     "Cessna (Textron)": {
@@ -1058,6 +1058,10 @@
       "2026-07": {
         "hours": 38.7,
         "landings": 37
+      },
+      "2026-08": {
+        "hours": 1.1,
+        "landings": 1
       }
     },
     "Eclipse Aerospace": {

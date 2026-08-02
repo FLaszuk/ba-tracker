@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a030b1",
+    "callsign": "N111HZ",
+    "firstSeen": 1785684248,
+    "lastSeen": 1785691320,
+    "estDepartureAirport": "KGYY",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.9644,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "EJA268",
+    "firstSeen": 1785692083,
+    "lastSeen": 1785693098,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "KI35",
+    "flight_hours": 0.2819,
+    "landing": 1
+  },
+  {
+    "icao24": "a4d5a1",
+    "callsign": "N410RK",
+    "firstSeen": 1785687252,
+    "lastSeen": 1785691288,
+    "estDepartureAirport": "KLPR",
+    "estArrivalAirport": "KY55",
+    "flight_hours": 1.1211,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e6cc",
+    "callsign": "TWY41",
+    "firstSeen": 1785683585,
+    "lastSeen": 1785689494,
+    "estDepartureAirport": "9CO9",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.6414,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1785686974,
+    "lastSeen": 1785692049,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.4097,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e790",
+    "callsign": "N48PL",
+    "firstSeen": 1785689166,
+    "lastSeen": 1785690622,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "K4SD",
+    "flight_hours": 0.4044,
+    "landing": 1
+  }
+]
