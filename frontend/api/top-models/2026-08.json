@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 5.0,
-      "total_landings": 6
+      "total_hours": 8.8,
+      "total_landings": 7
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -38,6 +38,12 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 2.3,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "Eclipse 500",
       "total_hours": 4.5,
@@ -54,12 +60,6 @@
       "aircraft_model": "G650",
       "total_hours": 9.8,
       "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 4.7,
-      "total_landings": 2
     }
   ]
 }

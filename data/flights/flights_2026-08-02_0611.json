@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0101d1",
+    "callsign": "SUBTV",
+    "firstSeen": 1785649910,
+    "lastSeen": 1785651085,
+    "estDepartureAirport": "HE42",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3264,
+    "landing": 1
+  },
+  {
+    "icao24": "a6895e",
+    "callsign": "N520EM",
+    "firstSeen": 1785620852,
+    "lastSeen": 1785651080,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 8.3967,
+    "landing": 1
+  },
+  {
+    "icao24": "aae09f",
+    "callsign": "N80MH",
+    "firstSeen": 1785638265,
+    "lastSeen": 1785651993,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8133,
+    "landing": 1
+  }
+]
