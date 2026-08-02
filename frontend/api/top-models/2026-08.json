@@ -28,14 +28,20 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 13.6,
-      "total_landings": 7
+      "total_hours": 13.8,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
       "total_hours": 12.0,
       "total_landings": 6
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 6.6,
+      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -53,12 +59,6 @@
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "Eclipse 500",
       "total_hours": 6.7,
-      "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 7.8,
       "total_landings": 5
     }
   ]

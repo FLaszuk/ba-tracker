@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU900",
+    "firstSeen": 1785700039,
+    "lastSeen": 1785705719,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5778,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fa8b",
+    "callsign": "EJA162",
+    "firstSeen": 1785701379,
+    "lastSeen": 1785703378,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "NV17",
+    "flight_hours": 0.5553,
+    "landing": 1
+  },
+  {
+    "icao24": "a35764",
+    "callsign": "N314TP",
+    "firstSeen": 1785675409,
+    "lastSeen": 1785703610,
+    "estDepartureAirport": "LFBT",
+    "estArrivalAirport": "KDLH",
+    "flight_hours": 7.8336,
+    "landing": 1
+  },
+  {
+    "icao24": "a70174",
+    "callsign": "N550WW",
+    "firstSeen": 1785702539,
+    "lastSeen": 1785703388,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.2358,
+    "landing": 1
+  }
+]
