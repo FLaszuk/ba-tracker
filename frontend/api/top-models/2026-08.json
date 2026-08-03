@@ -38,6 +38,12 @@
       "total_landings": 7
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 10.2,
+      "total_landings": 6
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 6.6,
@@ -53,12 +59,6 @@
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 7.0,
-      "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "Eclipse 500",
-      "total_hours": 6.7,
       "total_landings": 5
     }
   ]
