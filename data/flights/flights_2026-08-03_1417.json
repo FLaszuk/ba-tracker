@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20d1",
+    "callsign": "VJT401",
+    "firstSeen": 1785756694,
+    "lastSeen": 1785768855,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": null,
+    "flight_hours": 3.3781,
+    "landing": 1
+  },
+  {
+    "icao24": "a53341",
+    "callsign": "N434PB",
+    "firstSeen": 1785754865,
+    "lastSeen": 1785766271,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1683,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b200",
+    "callsign": "SCA53",
+    "firstSeen": 1785763212,
+    "lastSeen": 1785766230,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 0.8383,
+    "landing": 1
+  },
+  {
+    "icao24": "a77398",
+    "callsign": "RJC188",
+    "firstSeen": 1785766384,
+    "lastSeen": 1785766819,
+    "estDepartureAirport": "NK17",
+    "estArrivalAirport": "KK09",
+    "flight_hours": 0.1208,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2747",
+    "callsign": "N818CA",
+    "firstSeen": 1785763731,
+    "lastSeen": 1785767057,
+    "estDepartureAirport": "SKBQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9239,
+    "landing": 1
+  }
+]
