@@ -2,28 +2,28 @@
   "month": "2026-08",
   "data": [
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 32.8,
+      "total_landings": 19
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 28.9,
+      "total_landings": 12
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
       "total_hours": 28.7,
       "total_landings": 15
     },
     {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR710",
-      "total_hours": 28.6,
-      "total_landings": 17
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR725",
-      "total_hours": 27.1,
-      "total_landings": 11
-    },
-    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW308C",
-      "total_hours": 18.1,
-      "total_landings": 15
+      "total_hours": 20.8,
+      "total_landings": 16
     },
     {
       "engine_manufacturer": "Rolls-Royce",

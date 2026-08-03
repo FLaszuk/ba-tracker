@@ -4,19 +4,19 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 18.1,
-      "total_landings": 15
+      "total_hours": 20.8,
+      "total_landings": 16
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 28.9,
+      "total_landings": 12
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
       "total_hours": 14.4,
-      "total_landings": 11
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 27.1,
       "total_landings": 11
     },
     {
@@ -38,6 +38,12 @@
       "total_landings": 8
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 10.8,
+      "total_landings": 7
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 8.9,
@@ -54,12 +60,6 @@
       "aircraft_model": "Phenom 300",
       "total_hours": 10.2,
       "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 350",
-      "total_hours": 9.1,
-      "total_landings": 5
     }
   ]
 }

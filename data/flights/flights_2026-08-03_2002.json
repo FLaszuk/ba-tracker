@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU906",
+    "firstSeen": 1785783831,
+    "lastSeen": 1785789166,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4819,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1785785652,
+    "lastSeen": 1785788433,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "2TA3",
+    "flight_hours": 0.7725,
+    "landing": 1
+  },
+  {
+    "icao24": "a1ca0d",
+    "callsign": "N214TF",
+    "firstSeen": 1785778710,
+    "lastSeen": 1785788469,
+    "estDepartureAirport": "KPVD",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.7108,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1785776400,
+    "lastSeen": 1785789868,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "CD99",
+    "flight_hours": 3.7411,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1785775637,
+    "lastSeen": 1785788121,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4678,
+    "landing": 1
+  },
+  {
+    "icao24": "a88ddf",
+    "callsign": "N650MT",
+    "firstSeen": 1785781666,
+    "lastSeen": 1785788177,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.8086,
+    "landing": 1
+  }
+]
