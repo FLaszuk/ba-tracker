@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1785743105,
+    "lastSeen": 1785747372,
+    "estDepartureAirport": "ESOE",
+    "estArrivalAirport": "ESNJ",
+    "flight_hours": 1.1853,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6b9f",
+    "callsign": "N835HC",
+    "firstSeen": 1785715850,
+    "lastSeen": 1785746898,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 8.6244,
+    "landing": 1
+  }
+]
