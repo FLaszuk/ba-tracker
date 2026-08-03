@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a39e5c",
+    "callsign": "N332MM",
+    "firstSeen": 1785778393,
+    "lastSeen": 1785779745,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.3756,
+    "landing": 1
+  },
+  {
+    "icao24": "a5941e",
+    "callsign": "LXJ459",
+    "firstSeen": 1785773209,
+    "lastSeen": 1785775275,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KBFA",
+    "flight_hours": 0.5739,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1785766633,
+    "lastSeen": 1785777036,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "K2E5",
+    "flight_hours": 2.8897,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1785767321,
+    "lastSeen": 1785775513,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 2.2756,
+    "landing": 1
+  }
+]
