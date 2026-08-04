@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a570cd",
+    "callsign": "SVX52",
+    "firstSeen": 1785858317,
+    "lastSeen": 1785860808,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6919,
+    "landing": 1
+  },
+  {
+    "icao24": "a5cca6",
+    "callsign": "N473EC",
+    "firstSeen": 1785858425,
+    "lastSeen": 1785859522,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "KLNP",
+    "flight_hours": 0.3047,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e790",
+    "callsign": "N48PL",
+    "firstSeen": 1785853411,
+    "lastSeen": 1785859006,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.5542,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1785858679,
+    "lastSeen": 1785860635,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.5433,
+    "landing": 1
+  }
+]
