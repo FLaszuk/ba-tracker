@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "491306",
+    "callsign": "NJE163Y",
+    "firstSeen": 1785831378,
+    "lastSeen": 1785832186,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.2244,
+    "landing": 1
+  },
+  {
+    "icao24": "494104",
+    "callsign": "NJE699L",
+    "firstSeen": 1785830719,
+    "lastSeen": 1785832914,
+    "estDepartureAirport": "EDRY",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.6097,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0297",
+    "callsign": "LXA32B",
+    "firstSeen": 1785832237,
+    "lastSeen": 1785836778,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.2614,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d0",
+    "callsign": "VJT470Q",
+    "firstSeen": 1785802130,
+    "lastSeen": 1785834639,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 9.0303,
+    "landing": 1
+  }
+]
