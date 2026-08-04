@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1785867208,
+    "lastSeen": 1785869217,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EPRZ",
+    "flight_hours": 0.5581,
+    "landing": 1
+  },
+  {
+    "icao24": "a5cca6",
+    "callsign": "N473EC",
+    "firstSeen": 1785862387,
+    "lastSeen": 1785866445,
+    "estDepartureAirport": "KTRI",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 1.1272,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1785864430,
+    "lastSeen": 1785865695,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 0.3514,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b49a",
+    "callsign": "N660DX",
+    "firstSeen": 1785866953,
+    "lastSeen": 1785869800,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 0.7908,
+    "landing": 1
+  }
+]
