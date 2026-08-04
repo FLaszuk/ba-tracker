@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1785848976,
+    "lastSeen": 1785851018,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 0.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS13",
+    "firstSeen": 1785852842,
+    "lastSeen": 1785853575,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KCON",
+    "flight_hours": 0.2036,
+    "landing": 1
+  }
+]
