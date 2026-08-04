@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS719",
+    "firstSeen": 1785876466,
+    "lastSeen": 1785880244,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 1.0494,
+    "landing": 1
+  },
+  {
+    "icao24": "a217e2",
+    "callsign": "N234FJ",
+    "firstSeen": 1785873255,
+    "lastSeen": 1785876776,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.9781,
+    "landing": 1
+  },
+  {
+    "icao24": "ab349e",
+    "callsign": "N821AM",
+    "firstSeen": 1785873081,
+    "lastSeen": 1785880495,
+    "estDepartureAirport": "KBHB",
+    "estArrivalAirport": "KGRB",
+    "flight_hours": 2.0594,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1785871948,
+    "lastSeen": 1785877279,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "8VA4",
+    "flight_hours": 1.4808,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1785872197,
+    "lastSeen": 1785877900,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SSVI",
+    "flight_hours": 1.5842,
+    "landing": 1
+  }
+]
