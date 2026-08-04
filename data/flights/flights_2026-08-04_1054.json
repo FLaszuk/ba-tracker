@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4b1999",
+    "callsign": "HBJSB",
+    "firstSeen": 1785840948,
+    "lastSeen": 1785844823,
+    "estDepartureAirport": "LIEO",
+    "estArrivalAirport": "LSGL",
+    "flight_hours": 1.0764,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1785834115,
+    "lastSeen": 1785842199,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 2.2456,
+    "landing": 1
+  },
+  {
+    "icao24": "a992ff",
+    "callsign": "N716GT",
+    "firstSeen": 1785842187,
+    "lastSeen": 1785842503,
+    "estDepartureAirport": "LDDU",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 0.0878,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11be",
+    "callsign": "N748RE",
+    "firstSeen": 1785842052,
+    "lastSeen": 1785843882,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "WS78",
+    "flight_hours": 0.5083,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1785835875,
+    "lastSeen": 1785840781,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3628,
+    "landing": 1
+  }
+]
