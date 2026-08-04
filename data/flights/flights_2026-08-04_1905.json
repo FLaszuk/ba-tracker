@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2fe57",
+    "callsign": "EJA292",
+    "firstSeen": 1785868531,
+    "lastSeen": 1785870378,
+    "estDepartureAirport": "4CO0",
+    "estArrivalAirport": "KLAM",
+    "flight_hours": 0.5131,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b49a",
+    "callsign": "N660DX",
+    "firstSeen": 1785866953,
+    "lastSeen": 1785869800,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 0.7908,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b914",
+    "callsign": "N661MS",
+    "firstSeen": 1785870405,
+    "lastSeen": 1785871478,
+    "estDepartureAirport": "KBMQ",
+    "estArrivalAirport": "KSAT",
+    "flight_hours": 0.2981,
+    "landing": 1
+  }
+]
