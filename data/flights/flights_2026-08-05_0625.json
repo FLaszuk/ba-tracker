@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cefc0",
+    "callsign": "PVD482Z",
+    "firstSeen": 1785910377,
+    "lastSeen": 1785911547,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.325,
+    "landing": 1
+  },
+  {
+    "icao24": "4407d6",
+    "callsign": "LDX18",
+    "firstSeen": 1785908556,
+    "lastSeen": 1785912794,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1772,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02c4",
+    "callsign": "JFA25E",
+    "firstSeen": 1785908149,
+    "lastSeen": 1785911029,
+    "estDepartureAirport": "ELLX",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.8,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1785909214,
+    "lastSeen": 1785912127,
+    "estDepartureAirport": "YKMP",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.8092,
+    "landing": 1
+  }
+]
