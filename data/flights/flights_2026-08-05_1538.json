@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1785941479,
+    "lastSeen": 1785945899,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.2278,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1785939747,
+    "lastSeen": 1785944100,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.2092,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1785943016,
+    "lastSeen": 1785944951,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "CD99",
+    "flight_hours": 0.5375,
+    "landing": 1
+  },
+  {
+    "icao24": "a63db5",
+    "callsign": "N501AP",
+    "firstSeen": 1785945124,
+    "lastSeen": 1785948884,
+    "estDepartureAirport": "LEJR",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.0444,
+    "landing": 1
+  },
+  {
+    "icao24": "a88b4d",
+    "callsign": "N65KL",
+    "firstSeen": 1785936393,
+    "lastSeen": 1785946804,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 2.8919,
+    "landing": 1
+  }
+]
