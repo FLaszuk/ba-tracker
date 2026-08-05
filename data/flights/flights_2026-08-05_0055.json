@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1785884738,
+    "lastSeen": 1785892165,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 2.0631,
+    "landing": 1
+  },
+  {
+    "icao24": "abd2c2",
+    "callsign": "CBC861",
+    "firstSeen": 1785884587,
+    "lastSeen": 1785890766,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "73CO",
+    "flight_hours": 1.7164,
+    "landing": 1
+  }
+]
