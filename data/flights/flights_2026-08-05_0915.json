@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3b77e5",
+    "callsign": "CTM1282",
+    "firstSeen": 1785920278,
+    "lastSeen": 1785922231,
+    "estDepartureAirport": "LFRZ",
+    "estArrivalAirport": "LFRZ",
+    "flight_hours": 0.5425,
+    "landing": 1
+  },
+  {
+    "icao24": "406560",
+    "callsign": "GSVNX",
+    "firstSeen": 1785909995,
+    "lastSeen": 1785921163,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 3.1022,
+    "landing": 1
+  },
+  {
+    "icao24": "493281",
+    "callsign": "NJE709E",
+    "firstSeen": 1785912224,
+    "lastSeen": 1785920786,
+    "estDepartureAirport": "LPPT",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 2.3783,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1785918980,
+    "lastSeen": 1785922578,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 0.9994,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1785918599,
+    "lastSeen": 1785922242,
+    "estDepartureAirport": "LG55",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0119,
+    "landing": 1
+  }
+]
