@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1785963752,
+    "lastSeen": 1785967390,
+    "estDepartureAirport": "MMPB",
+    "estArrivalAirport": "MM17",
+    "flight_hours": 1.0106,
+    "landing": 1
+  },
+  {
+    "icao24": "a58cb0",
+    "callsign": "LXJ457",
+    "firstSeen": 1785961242,
+    "lastSeen": 1785966899,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MO77",
+    "flight_hours": 1.5714,
+    "landing": 1
+  },
+  {
+    "icao24": "a704d2",
+    "callsign": "N551TG",
+    "firstSeen": 1785966872,
+    "lastSeen": 1785968075,
+    "estDepartureAirport": "KROG",
+    "estArrivalAirport": "07AR",
+    "flight_hours": 0.3342,
+    "landing": 1
+  },
+  {
+    "icao24": "a76644",
+    "callsign": "FDY308",
+    "firstSeen": 1785965081,
+    "lastSeen": 1785967042,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "KBFD",
+    "flight_hours": 0.5447,
+    "landing": 1
+  },
+  {
+    "icao24": "a9be40",
+    "callsign": "N727HD",
+    "firstSeen": 1785964060,
+    "lastSeen": 1785967542,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "WA74",
+    "flight_hours": 0.9672,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1785966402,
+    "lastSeen": 1785969478,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.8544,
+    "landing": 1
+  }
+]
