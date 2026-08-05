@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1785902300,
+    "lastSeen": 1785903546,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.3461,
+    "landing": 1
+  },
+  {
+    "icao24": "ac38f5",
+    "callsign": "XEN88",
+    "firstSeen": 1785901129,
+    "lastSeen": 1785903969,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.7889,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7402",
+    "callsign": "TWY901",
+    "firstSeen": 1785904035,
+    "lastSeen": 1785905424,
+    "estDepartureAirport": "KMCC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3858,
+    "landing": 1
+  }
+]
