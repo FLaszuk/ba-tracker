@@ -4,8 +4,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 58.2,
-      "total_landings": 27
+      "total_hours": 59.1,
+      "total_landings": 28
     },
     {
       "engine_manufacturer": "Honeywell",
@@ -44,6 +44,12 @@
       "total_landings": 7
     },
     {
+      "engine_manufacturer": "GE Aviation",
+      "engine_model": "CF34-3B",
+      "total_hours": 9.7,
+      "total_landings": 5
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
       "total_hours": 9.1,
@@ -54,12 +60,6 @@
       "engine_model": "PW307A",
       "total_hours": 8.9,
       "total_landings": 6
-    },
-    {
-      "engine_manufacturer": "GE Aviation",
-      "engine_model": "Passport 20",
-      "total_hours": 8.4,
-      "total_landings": 1
     }
   ]
 }

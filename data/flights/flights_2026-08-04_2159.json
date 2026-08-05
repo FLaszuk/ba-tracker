@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1785877639,
+    "lastSeen": 1785880989,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2TA3",
+    "flight_hours": 0.9306,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS719",
+    "firstSeen": 1785876466,
+    "lastSeen": 1785880244,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 1.0494,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1785870867,
+    "lastSeen": 1785883006,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KORL",
+    "flight_hours": 3.3719,
+    "landing": 1
+  },
+  {
+    "icao24": "ab349e",
+    "callsign": "N821AM",
+    "firstSeen": 1785873081,
+    "lastSeen": 1785880495,
+    "estDepartureAirport": "KBHB",
+    "estArrivalAirport": "KGRB",
+    "flight_hours": 2.0594,
+    "landing": 1
+  }
+]
