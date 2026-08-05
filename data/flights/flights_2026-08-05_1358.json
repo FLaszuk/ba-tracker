@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440592",
+    "callsign": "GAC393Z",
+    "firstSeen": 1785935968,
+    "lastSeen": 1785939589,
+    "estDepartureAirport": "EDSB",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 1.0058,
+    "landing": 1
+  },
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1785934337,
+    "lastSeen": 1785939985,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "2NE4",
+    "flight_hours": 1.5689,
+    "landing": 1
+  }
+]
