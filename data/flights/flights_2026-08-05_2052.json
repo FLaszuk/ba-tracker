@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a58cb0",
+    "callsign": "LXJ457",
+    "firstSeen": 1785961242,
+    "lastSeen": 1785966899,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MO77",
+    "flight_hours": 1.5714,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3bc6",
+    "callsign": "N8228N",
+    "firstSeen": 1785942365,
+    "lastSeen": 1785963110,
+    "estDepartureAirport": "KMVY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 5.7625,
+    "landing": 1
+  }
+]
