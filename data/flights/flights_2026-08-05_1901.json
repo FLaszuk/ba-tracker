@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1785948983,
+    "lastSeen": 1785958374,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 2.6086,
+    "landing": 1
+  },
+  {
+    "icao24": "a18845",
+    "callsign": "N1980K",
+    "firstSeen": 1785955543,
+    "lastSeen": 1785957970,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6742,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1785955230,
+    "lastSeen": 1785959053,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 1.0619,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c0a3",
+    "callsign": "EJA405",
+    "firstSeen": 1785950221,
+    "lastSeen": 1785955948,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSMO",
+    "flight_hours": 1.5908,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1785947708,
+    "lastSeen": 1785957037,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 2.5914,
+    "landing": 1
+  },
+  {
+    "icao24": "a58cb0",
+    "callsign": "LXJ457",
+    "firstSeen": 1785954229,
+    "lastSeen": 1785958231,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "KGGE",
+    "flight_hours": 1.1117,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1785953605,
+    "lastSeen": 1785961588,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 2.2175,
+    "landing": 1
+  }
+]
