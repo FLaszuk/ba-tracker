@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d0515",
+    "callsign": "XADLA",
+    "firstSeen": 1785941497,
+    "lastSeen": 1785950048,
+    "estDepartureAirport": "KLRD",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 2.3753,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1785949067,
+    "lastSeen": 1785950169,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3061,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1785952656,
+    "lastSeen": 1785953511,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2375,
+    "landing": 1
+  },
+  {
+    "icao24": "48d960",
+    "callsign": "PLF105",
+    "firstSeen": 1785953570,
+    "lastSeen": 1785955397,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "EPRZ",
+    "flight_hours": 0.5075,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1785949459,
+    "lastSeen": 1785954210,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "47MO",
+    "flight_hours": 1.3197,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1785942754,
+    "lastSeen": 1785950594,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "WY38",
+    "flight_hours": 2.1778,
+    "landing": 1
+  },
+  {
+    "icao24": "a724ce",
+    "callsign": "N56CL",
+    "firstSeen": 1785947674,
+    "lastSeen": 1785950679,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "3SD3",
+    "flight_hours": 0.8347,
+    "landing": 1
+  }
+]
