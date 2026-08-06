@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "009ee0",
+    "callsign": "GCM108",
+    "firstSeen": 1786018025,
+    "lastSeen": 1786019248,
+    "estDepartureAirport": "FALA",
+    "estArrivalAirport": "FABH",
+    "flight_hours": 0.3397,
+    "landing": 1
+  },
+  {
+    "icao24": "3003d0",
+    "callsign": "SSR96MS",
+    "firstSeen": 1786010502,
+    "lastSeen": 1786019091,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3858,
+    "landing": 1
+  }
+]
