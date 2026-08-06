@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR5SG",
+    "firstSeen": 1785994542,
+    "lastSeen": 1785997609,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 0.8519,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE976",
+    "firstSeen": 1785996736,
+    "lastSeen": 1785998762,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YCTM",
+    "flight_hours": 0.5628,
+    "landing": 1
+  }
+]
