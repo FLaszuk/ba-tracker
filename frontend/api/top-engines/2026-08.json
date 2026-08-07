@@ -22,8 +22,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
-      "total_hours": 32.5,
-      "total_landings": 16
+      "total_hours": 36.5,
+      "total_landings": 18
     },
     {
       "engine_manufacturer": "Rolls-Royce",
@@ -44,16 +44,16 @@
       "total_landings": 10
     },
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 14.2,
+      "total_landings": 10
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW535",
       "total_hours": 13.9,
       "total_landings": 12
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "HTF7350",
-      "total_hours": 13.1,
-      "total_landings": 9
     },
     {
       "engine_manufacturer": "GE Aviation",
