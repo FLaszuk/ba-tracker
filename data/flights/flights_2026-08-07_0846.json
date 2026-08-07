@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1786090687,
+    "lastSeen": 1786092238,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.4308,
+    "landing": 1
+  },
+  {
+    "icao24": "4d206d",
+    "callsign": "HYP001",
+    "firstSeen": 1786091456,
+    "lastSeen": 1786093556,
+    "estDepartureAirport": "LEVC",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 0.5833,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e8",
+    "callsign": "VJT486",
+    "firstSeen": 1786090549,
+    "lastSeen": 1786091782,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3425,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2134",
+    "callsign": "VJT437",
+    "firstSeen": 1786086679,
+    "lastSeen": 1786092445,
+    "estDepartureAirport": "LEMH",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6017,
+    "landing": 1
+  },
+  {
+    "icao24": "780926",
+    "callsign": "BDJ382",
+    "firstSeen": 1786075968,
+    "lastSeen": 1786098630,
+    "estDepartureAirport": "ZGSZ",
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 6.295,
+    "landing": 1
+  }
+]
