@@ -10,8 +10,8 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 47.9,
-      "total_landings": 22
+      "total_hours": 50.1,
+      "total_landings": 23
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -46,8 +46,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 11.4,
-      "total_landings": 14
+      "total_hours": 11.9,
+      "total_landings": 15
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -56,10 +56,10 @@
       "total_landings": 12
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 350",
-      "total_hours": 14.2,
-      "total_landings": 10
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 7X",
+      "total_hours": 16.4,
+      "total_landings": 11
     }
   ]
 }

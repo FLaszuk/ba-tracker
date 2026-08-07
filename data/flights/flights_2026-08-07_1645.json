@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1786121334,
+    "lastSeen": 1786122904,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4361,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad07",
+    "callsign": "TCKHG",
+    "firstSeen": 1786114104,
+    "lastSeen": 1786121910,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LTBM",
+    "flight_hours": 2.1683,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR7FU",
+    "firstSeen": 1786118283,
+    "lastSeen": 1786121188,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8069,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1786118808,
+    "lastSeen": 1786121251,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6786,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1786122317,
+    "lastSeen": 1786124114,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4992,
+    "landing": 1
+  },
+  {
+    "icao24": "c061d5",
+    "callsign": "GXTST24",
+    "firstSeen": 1786118072,
+    "lastSeen": 1786121409,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "1KS5",
+    "flight_hours": 0.9269,
+    "landing": 1
+  }
+]
