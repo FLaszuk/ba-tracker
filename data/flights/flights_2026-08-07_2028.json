@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU910",
+    "firstSeen": 1786130126,
+    "lastSeen": 1786135569,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5119,
+    "landing": 1
+  },
+  {
+    "icao24": "a98efb",
+    "callsign": "N715DR",
+    "firstSeen": 1786132480,
+    "lastSeen": 1786135281,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.7781,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7112",
+    "callsign": "TWY3",
+    "firstSeen": 1786134722,
+    "lastSeen": 1786135828,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.3072,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC383",
+    "firstSeen": 1786129368,
+    "lastSeen": 1786134417,
+    "estDepartureAirport": "CYQB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4025,
+    "landing": 1
+  }
+]
