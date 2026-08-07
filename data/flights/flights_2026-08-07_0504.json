@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "440590",
+    "callsign": "GAC872P",
+    "firstSeen": 1786078593,
+    "lastSeen": 1786080656,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 0.5731,
+    "landing": 1
+  },
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1786080085,
+    "lastSeen": 1786081329,
+    "estDepartureAirport": "YBLT",
+    "estArrivalAirport": "YBMM",
+    "flight_hours": 0.3456,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE980",
+    "firstSeen": 1786077529,
+    "lastSeen": 1786079134,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YCUA",
+    "flight_hours": 0.4458,
+    "landing": 1
+  }
+]
