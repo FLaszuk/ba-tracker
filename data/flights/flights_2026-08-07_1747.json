@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0f31d",
+    "callsign": "EJA160",
+    "firstSeen": 1786121297,
+    "lastSeen": 1786124801,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 0.9733,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1786123294,
+    "lastSeen": 1786124283,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "AZ86",
+    "flight_hours": 0.2747,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1786126214,
+    "lastSeen": 1786127008,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "KF62",
+    "flight_hours": 0.2206,
+    "landing": 1
+  },
+  {
+    "icao24": "ab58c1",
+    "callsign": "N830EC",
+    "firstSeen": 1786114011,
+    "lastSeen": 1786125299,
+    "estDepartureAirport": "TX09",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1356,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1786125192,
+    "lastSeen": 1786126668,
+    "estDepartureAirport": "KMKE",
+    "estArrivalAirport": "28MI",
+    "flight_hours": 0.41,
+    "landing": 1
+  }
+]
