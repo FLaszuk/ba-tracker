@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cf42d",
+    "callsign": "EUL3T",
+    "firstSeen": 1786087543,
+    "lastSeen": 1786089036,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.4147,
+    "landing": 1
+  },
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1786078448,
+    "lastSeen": 1786085739,
+    "estDepartureAirport": "EHRD",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 2.0253,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ba69",
+    "callsign": "N146QS",
+    "firstSeen": 1786061770,
+    "lastSeen": 1786088979,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 7.5581,
+    "landing": 1
+  }
+]
