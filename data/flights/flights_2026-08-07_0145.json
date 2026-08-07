@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE980",
+    "firstSeen": 1786066419,
+    "lastSeen": 1786068188,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YSCB",
+    "flight_hours": 0.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "a50bd6",
+    "callsign": "N424PX",
+    "firstSeen": 1786063168,
+    "lastSeen": 1786068038,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.3528,
+    "landing": 1
+  }
+]
