@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1786090687,
+    "lastSeen": 1786092238,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.4308,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1786088094,
+    "lastSeen": 1786090248,
+    "estDepartureAirport": "LGPA",
+    "estArrivalAirport": "LGRP",
+    "flight_hours": 0.5983,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf42d",
+    "callsign": "EUL3T",
+    "firstSeen": 1786087543,
+    "lastSeen": 1786089036,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.4147,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ba69",
+    "callsign": "N146QS",
+    "firstSeen": 1786061770,
+    "lastSeen": 1786088979,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LIRZ",
+    "flight_hours": 7.5581,
+    "landing": 1
+  }
+]
