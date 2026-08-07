@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1786096997,
+    "lastSeen": 1786099250,
+    "estDepartureAirport": "LSMP",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.6258,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20b6",
+    "callsign": "VCJ1MA",
+    "firstSeen": 1786096525,
+    "lastSeen": 1786099213,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 0.7467,
+    "landing": 1
+  },
+  {
+    "icao24": "780926",
+    "callsign": "BDJ382",
+    "firstSeen": 1786075968,
+    "lastSeen": 1786098630,
+    "estDepartureAirport": "ZGSZ",
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 6.295,
+    "landing": 1
+  }
+]
