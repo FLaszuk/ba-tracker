@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1786113361,
+    "lastSeen": 1786114703,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KPMD",
+    "flight_hours": 0.3728,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC381",
+    "firstSeen": 1786109540,
+    "lastSeen": 1786115575,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6764,
+    "landing": 1
+  }
+]

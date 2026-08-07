@@ -14,15 +14,15 @@
       "total_landings": 22
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 24.9,
+      "total_landings": 19
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 29.4,
-      "total_landings": 18
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 24.6,
       "total_landings": 18
     },
     {
@@ -40,8 +40,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 32.6,
-      "total_landings": 14
+      "total_hours": 34.3,
+      "total_landings": 15
     },
     {
       "aircraft_manufacturer": "Bombardier",
