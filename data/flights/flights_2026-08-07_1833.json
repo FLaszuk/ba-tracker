@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1786122014,
+    "lastSeen": 1786132158,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 2.8178,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2a93",
+    "callsign": "N883SJ",
+    "firstSeen": 1786106042,
+    "lastSeen": 1786130931,
+    "estDepartureAirport": "RJTT",
+    "estArrivalAirport": "PAFA",
+    "flight_hours": 6.9136,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1786120620,
+    "lastSeen": 1786128210,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": "MYGM",
+    "flight_hours": 2.1083,
+    "landing": 1
+  }
+]
