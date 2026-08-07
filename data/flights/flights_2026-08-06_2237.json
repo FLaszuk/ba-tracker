@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a12491",
+    "callsign": "N173CN",
+    "firstSeen": 1786049911,
+    "lastSeen": 1786056406,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "K5N2",
+    "flight_hours": 1.8042,
+    "landing": 1
+  },
+  {
+    "icao24": "a176b1",
+    "callsign": "N1937V",
+    "firstSeen": 1786055724,
+    "lastSeen": 1786058293,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7136,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1786053604,
+    "lastSeen": 1786057037,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSTF",
+    "flight_hours": 0.9536,
+    "landing": 1
+  },
+  {
+    "icao24": "a6fdb6",
+    "callsign": "N55GP",
+    "firstSeen": 1786050810,
+    "lastSeen": 1786056126,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "MI24",
+    "flight_hours": 1.4767,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1786051985,
+    "lastSeen": 1786059549,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "CCS5",
+    "flight_hours": 2.1011,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d53",
+    "callsign": "E55P",
+    "firstSeen": 1786058181,
+    "lastSeen": 1786060531,
+    "estDepartureAirport": "SNDD",
+    "estArrivalAirport": "SWGN",
+    "flight_hours": 0.6528,
+    "landing": 1
+  }
+]
