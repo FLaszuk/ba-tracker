@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1786096997,
+    "lastSeen": 1786099250,
+    "estDepartureAirport": "LSMP",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.6258,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20b6",
+    "callsign": "VCJ1MA",
+    "firstSeen": 1786096525,
+    "lastSeen": 1786099213,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": "LDRO",
+    "flight_hours": 0.7467,
+    "landing": 1
+  },
+  {
+    "icao24": "a98efb",
+    "callsign": "N715DR",
+    "firstSeen": 1786099860,
+    "lastSeen": 1786102802,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KORL",
+    "flight_hours": 0.8172,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f62",
+    "callsign": "PRRNY",
+    "firstSeen": 1786098780,
+    "lastSeen": 1786102672,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 1.0811,
+    "landing": 1
+  }
+]
