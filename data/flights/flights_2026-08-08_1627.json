@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS94",
+    "firstSeen": 1786203779,
+    "lastSeen": 1786209211,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KU81",
+    "flight_hours": 1.5089,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e822",
+    "callsign": "EJM15",
+    "firstSeen": 1786197546,
+    "lastSeen": 1786206590,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5122,
+    "landing": 1
+  },
+  {
+    "icao24": "a9ca9d",
+    "callsign": "N73VR",
+    "firstSeen": 1786199210,
+    "lastSeen": 1786207621,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.3364,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "EJA946",
+    "firstSeen": 1786207540,
+    "lastSeen": 1786209812,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "9WI9",
+    "flight_hours": 0.6311,
+    "landing": 1
+  },
+  {
+    "icao24": "e47ffc",
+    "callsign": "PPBCR",
+    "firstSeen": 1786204325,
+    "lastSeen": 1786205932,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSOI",
+    "flight_hours": 0.4464,
+    "landing": 1
+  }
+]
