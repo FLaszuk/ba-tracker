@@ -44,6 +44,12 @@
       "total_landings": 11
     },
     {
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44",
+      "total_hours": 14.4,
+      "total_landings": 18
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7350",
       "total_hours": 14.2,
@@ -54,12 +60,6 @@
       "engine_model": "PW535",
       "total_hours": 13.9,
       "total_landings": 12
-    },
-    {
-      "engine_manufacturer": "Williams International",
-      "engine_model": "FJ44",
-      "total_hours": 13.7,
-      "total_landings": 17
     }
   ]
 }
