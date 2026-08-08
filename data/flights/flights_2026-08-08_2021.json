@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1786219068,
+    "lastSeen": 1786222941,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KPHX",
+    "flight_hours": 1.0758,
+    "landing": 1
+  },
+  {
+    "icao24": "a65054",
+    "callsign": "XFL115",
+    "firstSeen": 1786206508,
+    "lastSeen": 1786222173,
+    "estDepartureAirport": "MA72",
+    "estArrivalAirport": "K7S7",
+    "flight_hours": 4.3514,
+    "landing": 1
+  },
+  {
+    "icao24": "a6e111",
+    "callsign": "N542TP",
+    "firstSeen": 1786216373,
+    "lastSeen": 1786221470,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "CYPR",
+    "flight_hours": 1.4158,
+    "landing": 1
+  },
+  {
+    "icao24": "ac703b",
+    "callsign": "N900LW",
+    "firstSeen": 1786218853,
+    "lastSeen": 1786220316,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.4064,
+    "landing": 1
+  }
+]
