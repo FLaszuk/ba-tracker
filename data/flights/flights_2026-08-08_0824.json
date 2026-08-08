@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619",
+    "firstSeen": 1786178743,
+    "lastSeen": 1786180185,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.4006,
+    "landing": 1
+  },
+  {
+    "icao24": "a6895e",
+    "callsign": "N520EM",
+    "firstSeen": 1786177037,
+    "lastSeen": 1786183562,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.8125,
+    "landing": 1
+  }
+]
