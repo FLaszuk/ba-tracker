@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a29e03",
+    "callsign": "STT68",
+    "firstSeen": 1786215269,
+    "lastSeen": 1786216783,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4206,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fae8",
+    "callsign": "N42ST",
+    "firstSeen": 1786211687,
+    "lastSeen": 1786216425,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 1.3161,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3bd8",
+    "callsign": "N888D",
+    "firstSeen": 1786205358,
+    "lastSeen": 1786217314,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 3.3211,
+    "landing": 1
+  },
+  {
+    "icao24": "ac703b",
+    "callsign": "N900LW",
+    "firstSeen": 1786218853,
+    "lastSeen": 1786220316,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.4064,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1786216664,
+    "lastSeen": 1786218684,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "28MI",
+    "flight_hours": 0.5611,
+    "landing": 1
+  }
+]
