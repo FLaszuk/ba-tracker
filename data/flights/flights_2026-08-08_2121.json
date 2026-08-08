@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d208a",
+    "callsign": "VJT754",
+    "firstSeen": 1786187864,
+    "lastSeen": 1786226949,
+    "estDepartureAirport": "RCSS",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 10.8569,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1786213591,
+    "lastSeen": 1786227340,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 3.8192,
+    "landing": 1
+  }
+]
