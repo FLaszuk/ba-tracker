@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20fe",
+    "callsign": "VJT981",
+    "firstSeen": 1786175055,
+    "lastSeen": 1786181625,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 1.825,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2134",
+    "callsign": "VJT437",
+    "firstSeen": 1786180881,
+    "lastSeen": 1786184827,
+    "estDepartureAirport": "EDMO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0961,
+    "landing": 1
+  },
+  {
+    "icao24": "a6895e",
+    "callsign": "N520EM",
+    "firstSeen": 1786177037,
+    "lastSeen": 1786183562,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.8125,
+    "landing": 1
+  }
+]
