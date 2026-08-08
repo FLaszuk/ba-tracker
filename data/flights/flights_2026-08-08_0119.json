@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a4b125",
+    "callsign": "VJA401",
+    "firstSeen": 1786147353,
+    "lastSeen": 1786152792,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5108,
+    "landing": 1
+  },
+  {
+    "icao24": "a53341",
+    "callsign": "N434PB",
+    "firstSeen": 1786141370,
+    "lastSeen": 1786152723,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1536,
+    "landing": 1
+  },
+  {
+    "icao24": "a95cbd",
+    "callsign": "N702HT",
+    "firstSeen": 1786148280,
+    "lastSeen": 1786155025,
+    "estDepartureAirport": "KSUX",
+    "estArrivalAirport": "KPUC",
+    "flight_hours": 1.8736,
+    "landing": 1
+  }
+]
