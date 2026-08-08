@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a06328",
+    "callsign": "N124GD",
+    "firstSeen": 1786135714,
+    "lastSeen": 1786146260,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 2.9294,
+    "landing": 1
+  },
+  {
+    "icao24": "a9247d",
+    "callsign": "TWY57",
+    "firstSeen": 1786143394,
+    "lastSeen": 1786144930,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.4267,
+    "landing": 1
+  }
+]
