@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1786211479,
+    "lastSeen": 1786212722,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "a12fb0",
+    "callsign": "XEN76",
+    "firstSeen": 1786207547,
+    "lastSeen": 1786215196,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KBYI",
+    "flight_hours": 2.1247,
+    "landing": 1
+  },
+  {
+    "icao24": "a43289",
+    "callsign": "000N37MD",
+    "firstSeen": 1786201387,
+    "lastSeen": 1786214953,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": "K4V0",
+    "flight_hours": 3.7683,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fae8",
+    "callsign": "N42ST",
+    "firstSeen": 1786211687,
+    "lastSeen": 1786216425,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 1.3161,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1786211464,
+    "lastSeen": 1786214214,
+    "estDepartureAirport": "3IN7",
+    "estArrivalAirport": "KLNP",
+    "flight_hours": 0.7639,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3bc6",
+    "callsign": "N8228N",
+    "firstSeen": 1786208211,
+    "lastSeen": 1786212974,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "96WY",
+    "flight_hours": 1.3231,
+    "landing": 1
+  }
+]
