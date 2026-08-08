@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1786211479,
+    "lastSeen": 1786212722,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3453,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "CNS117",
+    "firstSeen": 1786202305,
+    "lastSeen": 1786212393,
+    "estDepartureAirport": "KECG",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 2.8022,
+    "landing": 1
+  },
+  {
+    "icao24": "a588f9",
+    "callsign": "LXJ456",
+    "firstSeen": 1786205585,
+    "lastSeen": 1786210234,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KJER",
+    "flight_hours": 1.2914,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1786202844,
+    "lastSeen": 1786210080,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.01,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "EJA946",
+    "firstSeen": 1786207540,
+    "lastSeen": 1786209812,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "9WI9",
+    "flight_hours": 0.6311,
+    "landing": 1
+  }
+]
