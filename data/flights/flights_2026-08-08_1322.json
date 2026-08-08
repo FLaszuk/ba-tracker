@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7b013",
+    "callsign": "N595B",
+    "firstSeen": 1786186974,
+    "lastSeen": 1786195253,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2997,
+    "landing": 1
+  },
+  {
+    "icao24": "a9ca9d",
+    "callsign": "N73VR",
+    "firstSeen": 1786193020,
+    "lastSeen": 1786198072,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 1.4033,
+    "landing": 1
+  }
+]
