@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1786280641,
+    "lastSeen": 1786292750,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 3.3636,
+    "landing": 1
+  },
+  {
+    "icao24": "a06020",
+    "callsign": "N123PD",
+    "firstSeen": 1786273524,
+    "lastSeen": 1786294959,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.9542,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1786293368,
+    "lastSeen": 1786295926,
+    "estDepartureAirport": "KCHA",
+    "estArrivalAirport": "KPHH",
+    "flight_hours": 0.7106,
+    "landing": 1
+  },
+  {
+    "icao24": "a18da2",
+    "callsign": "N2DF",
+    "firstSeen": 1786292259,
+    "lastSeen": 1786293582,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "K8M8",
+    "flight_hours": 0.3675,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a63b",
+    "callsign": "N27XL",
+    "firstSeen": 1786292796,
+    "lastSeen": 1786294112,
+    "estDepartureAirport": "KMHR",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.3656,
+    "landing": 1
+  },
+  {
+    "icao24": "a57dd4",
+    "callsign": "LXJ453",
+    "firstSeen": 1786276642,
+    "lastSeen": 1786294286,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 4.9011,
+    "landing": 1
+  },
+  {
+    "icao24": "a5ece3",
+    "callsign": "LXJ481",
+    "firstSeen": 1786295471,
+    "lastSeen": 1786297147,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4656,
+    "landing": 1
+  },
+  {
+    "icao24": "a98bb3",
+    "callsign": "N714JB",
+    "firstSeen": 1786291194,
+    "lastSeen": 1786295140,
+    "estDepartureAirport": "2FL0",
+    "estArrivalAirport": "KEBD",
+    "flight_hours": 1.0961,
+    "landing": 1
+  }
+]
