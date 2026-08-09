@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU34ED",
+    "firstSeen": 1786286905,
+    "lastSeen": 1786291067,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1561,
+    "landing": 1
+  },
+  {
+    "icao24": "49d013",
+    "callsign": "ABP813",
+    "firstSeen": 1786288082,
+    "lastSeen": 1786290471,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6636,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1786284563,
+    "lastSeen": 1786291617,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "ID56",
+    "flight_hours": 1.9594,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e03",
+    "callsign": "STT68",
+    "firstSeen": 1786288367,
+    "lastSeen": 1786290635,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.63,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a63b",
+    "callsign": "N27XL",
+    "firstSeen": 1786292796,
+    "lastSeen": 1786294112,
+    "estDepartureAirport": "KMHR",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.3656,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cf6a",
+    "callsign": "EJA280",
+    "firstSeen": 1786280345,
+    "lastSeen": 1786289048,
+    "estDepartureAirport": "KMSY",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.4175,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786284925,
+    "lastSeen": 1786289856,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3697,
+    "landing": 1
+  },
+  {
+    "icao24": "a40ccc",
+    "callsign": "DOW36",
+    "firstSeen": 1786288897,
+    "lastSeen": 1786290099,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KPKF",
+    "flight_hours": 0.3339,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6c2c",
+    "callsign": "N9TJ",
+    "firstSeen": 1786289635,
+    "lastSeen": 1786290942,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3631,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5b5a",
+    "callsign": "N96RX",
+    "firstSeen": 1786288662,
+    "lastSeen": 1786290739,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "86FD",
+    "flight_hours": 0.5769,
+    "landing": 1
+  }
+]
