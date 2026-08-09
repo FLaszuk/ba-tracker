@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC281",
+    "firstSeen": 1786270739,
+    "lastSeen": 1786273268,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7025,
+    "landing": 1
+  },
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1786266327,
+    "lastSeen": 1786271409,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.4117,
+    "landing": 1
+  }
+]
