@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac7154",
+    "callsign": "N900YB",
+    "firstSeen": 1786217385,
+    "lastSeen": 1786234379,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 4.7206,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1786229987,
+    "lastSeen": 1786231140,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3203,
+    "landing": 1
+  }
+]
