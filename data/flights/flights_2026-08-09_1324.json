@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ce3b3",
+    "callsign": "SCR239",
+    "firstSeen": 1786273560,
+    "lastSeen": 1786282723,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 2.5453,
+    "landing": 1
+  },
+  {
+    "icao24": "a82540",
+    "callsign": "N624BP",
+    "firstSeen": 1786280767,
+    "lastSeen": 1786283392,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.7292,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1786282643,
+    "lastSeen": 1786283555,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SNAO",
+    "flight_hours": 0.2533,
+    "landing": 1
+  }
+]
