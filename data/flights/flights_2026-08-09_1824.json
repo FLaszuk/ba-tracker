@@ -1,0 +1,132 @@
+[
+  {
+    "icao24": "39c82b",
+    "callsign": "PEA501",
+    "firstSeen": 1786296747,
+    "lastSeen": 1786299752,
+    "estDepartureAirport": "LIEO",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.8347,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE975V",
+    "firstSeen": 1786295913,
+    "lastSeen": 1786299986,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.1314,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT7026",
+    "firstSeen": 1786289682,
+    "lastSeen": 1786300472,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9972,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT7920",
+    "firstSeen": 1786296899,
+    "lastSeen": 1786300630,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0364,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1786295446,
+    "lastSeen": 1786299563,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.1436,
+    "landing": 1
+  },
+  {
+    "icao24": "a17c62",
+    "callsign": "N195SV",
+    "firstSeen": 1786292844,
+    "lastSeen": 1786299910,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.9628,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a63b",
+    "callsign": "N27XL",
+    "firstSeen": 1786296085,
+    "lastSeen": 1786299390,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "OR42",
+    "flight_hours": 0.9181,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cba6",
+    "callsign": "TWY84",
+    "firstSeen": 1786298260,
+    "lastSeen": 1786301060,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.7778,
+    "landing": 1
+  },
+  {
+    "icao24": "a351fd",
+    "callsign": "N313AG",
+    "firstSeen": 1786282998,
+    "lastSeen": 1786300250,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 4.7922,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1786295394,
+    "lastSeen": 1786301739,
+    "estDepartureAirport": "KAUO",
+    "estArrivalAirport": "KAAO",
+    "flight_hours": 1.7625,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1786296935,
+    "lastSeen": 1786301424,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.2469,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f76",
+    "callsign": "PRNAK",
+    "firstSeen": 1786300531,
+    "lastSeen": 1786301677,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBFZ",
+    "flight_hours": 0.3183,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1786300770,
+    "lastSeen": 1786301245,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSBL",
+    "flight_hours": 0.1319,
+    "landing": 1
+  }
+]
