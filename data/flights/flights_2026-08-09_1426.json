@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44002e",
+    "callsign": "FSE1B",
+    "firstSeen": 1786285554,
+    "lastSeen": 1786287475,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LPFR",
+    "flight_hours": 0.5336,
+    "landing": 1
+  },
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1786284849,
+    "lastSeen": 1786287498,
+    "estDepartureAirport": "LFIX",
+    "estArrivalAirport": "LEGE",
+    "flight_hours": 0.7358,
+    "landing": 1
+  },
+  {
+    "icao24": "a17049",
+    "callsign": "N192HA",
+    "firstSeen": 1786285326,
+    "lastSeen": 1786285991,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "5TN9",
+    "flight_hours": 0.1847,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "N299AF",
+    "firstSeen": 1786283105,
+    "lastSeen": 1786287506,
+    "estDepartureAirport": "KBLM",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 1.2225,
+    "landing": 1
+  },
+  {
+    "icao24": "a724bd",
+    "callsign": "N56BU",
+    "firstSeen": 1786273875,
+    "lastSeen": 1786285673,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "MY49",
+    "flight_hours": 3.2772,
+    "landing": 1
+  }
+]
