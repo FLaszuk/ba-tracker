@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a2f5d0",
+    "callsign": "N290DL",
+    "firstSeen": 1786292774,
+    "lastSeen": 1786310452,
+    "estDepartureAirport": "MYGD",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 4.9106,
+    "landing": 1
+  },
+  {
+    "icao24": "a431c3",
+    "callsign": "N37DF",
+    "firstSeen": 1786301445,
+    "lastSeen": 1786311556,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "K32A",
+    "flight_hours": 2.8086,
+    "landing": 1
+  },
+  {
+    "icao24": "aa4089",
+    "callsign": "N76PW",
+    "firstSeen": 1786309525,
+    "lastSeen": 1786314436,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.3642,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1786306121,
+    "lastSeen": 1786310965,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.3456,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9224",
+    "callsign": "N780SP",
+    "firstSeen": 1786309751,
+    "lastSeen": 1786312255,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.6956,
+    "landing": 1
+  },
+  {
+    "icao24": "ac11a8",
+    "callsign": "N877PM",
+    "firstSeen": 1786309490,
+    "lastSeen": 1786312320,
+    "estDepartureAirport": "KEDC",
+    "estArrivalAirport": "KUXL",
+    "flight_hours": 0.7861,
+    "landing": 1
+  }
+]
