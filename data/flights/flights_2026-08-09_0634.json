@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT1395",
+    "firstSeen": 1786255348,
+    "lastSeen": 1786257536,
+    "estDepartureAirport": "LIPY",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6078,
+    "landing": 1
+  },
+  {
+    "icao24": "899126",
+    "callsign": "SJX801",
+    "firstSeen": 1786253854,
+    "lastSeen": 1786263061,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5575,
+    "landing": 1
+  }
+]
