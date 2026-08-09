@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "39c82b",
+    "callsign": "PEA501",
+    "firstSeen": 1786296747,
+    "lastSeen": 1786299752,
+    "estDepartureAirport": "LIEO",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.8347,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1786293368,
+    "lastSeen": 1786295926,
+    "estDepartureAirport": "KCHA",
+    "estArrivalAirport": "KPHH",
+    "flight_hours": 0.7106,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a63b",
+    "callsign": "N27XL",
+    "firstSeen": 1786296085,
+    "lastSeen": 1786299390,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "OR42",
+    "flight_hours": 0.9181,
+    "landing": 1
+  },
+  {
+    "icao24": "a2b560",
+    "callsign": "LN274AH",
+    "firstSeen": 1786290322,
+    "lastSeen": 1786299160,
+    "estDepartureAirport": "87VA",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 2.455,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cba6",
+    "callsign": "TWY84",
+    "firstSeen": 1786298260,
+    "lastSeen": 1786301060,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.7778,
+    "landing": 1
+  },
+  {
+    "icao24": "a351fd",
+    "callsign": "N313AG",
+    "firstSeen": 1786282998,
+    "lastSeen": 1786300250,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 4.7922,
+    "landing": 1
+  },
+  {
+    "icao24": "a5ece3",
+    "callsign": "LXJ481",
+    "firstSeen": 1786295471,
+    "lastSeen": 1786297147,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4656,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cf06",
+    "callsign": "N667JD",
+    "firstSeen": 1786286234,
+    "lastSeen": 1786295870,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.6767,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1786295201,
+    "lastSeen": 1786297762,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K9S4",
+    "flight_hours": 0.7114,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC679",
+    "firstSeen": 1786292864,
+    "lastSeen": 1786297491,
+    "estDepartureAirport": "CYQB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2853,
+    "landing": 1
+  }
+]
