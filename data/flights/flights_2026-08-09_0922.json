@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3ce3b3",
+    "callsign": "SCR239",
+    "firstSeen": 1786265990,
+    "lastSeen": 1786268686,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.7489,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU32DZ",
+    "firstSeen": 1786262665,
+    "lastSeen": 1786268290,
+    "estDepartureAirport": "LPPS",
+    "estArrivalAirport": "LPAV",
+    "flight_hours": 1.5625,
+    "landing": 1
+  },
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1786264970,
+    "lastSeen": 1786266920,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5417,
+    "landing": 1
+  },
+  {
+    "icao24": "a1fc0d",
+    "callsign": "N227LS",
+    "firstSeen": 1786265869,
+    "lastSeen": 1786269108,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8997,
+    "landing": 1
+  }
+]
