@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU900",
+    "firstSeen": 1786303800,
+    "lastSeen": 1786309360,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5444,
+    "landing": 1
+  },
+  {
+    "icao24": "a10967",
+    "callsign": "EJA166",
+    "firstSeen": 1786298773,
+    "lastSeen": 1786308847,
+    "estDepartureAirport": "KBTV",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 2.7983,
+    "landing": 1
+  },
+  {
+    "icao24": "a22327",
+    "callsign": "N237GR",
+    "firstSeen": 1786306163,
+    "lastSeen": 1786309026,
+    "estDepartureAirport": "KDAY",
+    "estArrivalAirport": "KBFA",
+    "flight_hours": 0.7953,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1786307621,
+    "lastSeen": 1786309164,
+    "estDepartureAirport": "37CN",
+    "estArrivalAirport": "KMEV",
+    "flight_hours": 0.4286,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c0a3",
+    "callsign": "EJA405",
+    "firstSeen": 1786301901,
+    "lastSeen": 1786307358,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.5158,
+    "landing": 1
+  },
+  {
+    "icao24": "a63b6e",
+    "callsign": "N500RG",
+    "firstSeen": 1786306485,
+    "lastSeen": 1786309198,
+    "estDepartureAirport": "80TX",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.7536,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1786306121,
+    "lastSeen": 1786310965,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.3456,
+    "landing": 1
+  }
+]
