@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1786274254,
+    "lastSeen": 1786276188,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5372,
+    "landing": 1
+  },
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1786277554,
+    "lastSeen": 1786279480,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LTBO",
+    "flight_hours": 0.535,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cd",
+    "callsign": "VJT796",
+    "firstSeen": 1786272998,
+    "lastSeen": 1786276694,
+    "estDepartureAirport": "LIEO",
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 1.0267,
+    "landing": 1
+  }
+]
