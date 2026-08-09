@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "899126",
+    "callsign": "SJX801",
+    "firstSeen": 1786253854,
+    "lastSeen": 1786263061,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5575,
+    "landing": 1
+  },
+  {
+    "icao24": "a7b013",
+    "callsign": "N595B",
+    "firstSeen": 1786256038,
+    "lastSeen": 1786264271,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2869,
+    "landing": 1
+  }
+]
