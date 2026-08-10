@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20cc",
+    "callsign": "AXY704G",
+    "firstSeen": 1786369097,
+    "lastSeen": 1786373443,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2072,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1786364972,
+    "lastSeen": 1786374914,
+    "estDepartureAirport": "LGKF",
+    "estArrivalAirport": "LEXJ",
+    "flight_hours": 2.7617,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT7YE",
+    "firstSeen": 1786368566,
+    "lastSeen": 1786373432,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LEBG",
+    "flight_hours": 1.3517,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1786365823,
+    "lastSeen": 1786373637,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1706,
+    "landing": 1
+  },
+  {
+    "icao24": "ac70be",
+    "callsign": "N900SB",
+    "firstSeen": 1786372434,
+    "lastSeen": 1786373793,
+    "estDepartureAirport": "KLBB",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.3775,
+    "landing": 1
+  }
+]

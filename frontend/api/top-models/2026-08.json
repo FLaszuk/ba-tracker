@@ -22,8 +22,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 44.3,
-      "total_landings": 28
+      "total_hours": 44.6,
+      "total_landings": 29
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -56,9 +56,9 @@
       "total_landings": 19
     },
     {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 7X",
-      "total_hours": 28.9,
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 350",
+      "total_hours": 20.8,
       "total_landings": 17
     }
   ]
