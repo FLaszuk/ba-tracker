@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1786315903,
+    "lastSeen": 1786317052,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3192,
+    "landing": 1
+  },
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5010",
+    "firstSeen": 1786315308,
+    "lastSeen": 1786316808,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4167,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2065",
+    "callsign": "VJT719",
+    "firstSeen": 1786316224,
+    "lastSeen": 1786318371,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KTPA",
+    "flight_hours": 0.5964,
+    "landing": 1
+  }
+]

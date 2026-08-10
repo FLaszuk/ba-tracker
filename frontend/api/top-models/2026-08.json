@@ -20,6 +20,12 @@
       "total_landings": 31
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 61.1,
+      "total_landings": 27
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 43.6,
@@ -30,12 +36,6 @@
       "aircraft_model": "G550",
       "total_hours": 62.0,
       "total_landings": 27
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 60.5,
-      "total_landings": 26
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -52,8 +52,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 14.1,
-      "total_landings": 17
+      "total_hours": 14.4,
+      "total_landings": 18
     },
     {
       "aircraft_manufacturer": "Bombardier",
