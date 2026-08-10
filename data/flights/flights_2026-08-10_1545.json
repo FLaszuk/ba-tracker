@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20d1",
+    "callsign": "VJT401",
+    "firstSeen": 1786374273,
+    "lastSeen": 1786377336,
+    "estDepartureAirport": "LIEE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8508,
+    "landing": 1
+  },
+  {
+    "icao24": "aadf08",
+    "callsign": "N8VB",
+    "firstSeen": 1786361358,
+    "lastSeen": 1786379344,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 4.9961,
+    "landing": 1
+  }
+]
