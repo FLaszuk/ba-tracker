@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cf774",
+    "callsign": "BTX3C",
+    "firstSeen": 1786352383,
+    "lastSeen": 1786358901,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "ENOV",
+    "flight_hours": 1.8106,
+    "landing": 1
+  },
+  {
+    "icao24": "43ea5b",
+    "callsign": "MSKYF",
+    "firstSeen": 1786348307,
+    "lastSeen": 1786359291,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": null,
+    "flight_hours": 3.0511,
+    "landing": 1
+  },
+  {
+    "icao24": "4403c9",
+    "callsign": "OEFWH",
+    "firstSeen": 1786353213,
+    "lastSeen": 1786358836,
+    "estDepartureAirport": "EDNY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5619,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ba22",
+    "callsign": "N275M",
+    "firstSeen": 1786360171,
+    "lastSeen": 1786361601,
+    "estDepartureAirport": "8TN4",
+    "estArrivalAirport": "KCHA",
+    "flight_hours": 0.3972,
+    "landing": 1
+  }
+]
