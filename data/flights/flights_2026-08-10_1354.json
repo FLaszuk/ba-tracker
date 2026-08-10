@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc7fe",
+    "callsign": "DWW524",
+    "firstSeen": 1786368431,
+    "lastSeen": 1786369759,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.3689,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU37PQ",
+    "firstSeen": 1786365071,
+    "lastSeen": 1786370246,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.4375,
+    "landing": 1
+  },
+  {
+    "icao24": "a0174d",
+    "callsign": "N105AF",
+    "firstSeen": 1786363802,
+    "lastSeen": 1786370575,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.8814,
+    "landing": 1
+  },
+  {
+    "icao24": "a835af",
+    "callsign": "N628TS",
+    "firstSeen": 1786367178,
+    "lastSeen": 1786370516,
+    "estDepartureAirport": "KHHR",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.9272,
+    "landing": 1
+  }
+]
