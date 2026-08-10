@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0669e",
+    "callsign": "N690TW",
+    "firstSeen": 1786400555,
+    "lastSeen": 1786401181,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KGNB",
+    "flight_hours": 0.1739,
+    "landing": 1
+  },
+  {
+    "icao24": "a34bb6",
+    "callsign": "N311NB",
+    "firstSeen": 1786388527,
+    "lastSeen": 1786397669,
+    "estDepartureAirport": "K3F2",
+    "estArrivalAirport": "KBKE",
+    "flight_hours": 2.5394,
+    "landing": 1
+  },
+  {
+    "icao24": "e47e14",
+    "callsign": "PTWUM",
+    "firstSeen": 1786396062,
+    "lastSeen": 1786396853,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNPJ",
+    "flight_hours": 0.2197,
+    "landing": 1
+  }
+]
