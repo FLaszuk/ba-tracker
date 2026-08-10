@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1786348150,
+    "lastSeen": 1786353111,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": "YSBK",
+    "flight_hours": 1.3781,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cc",
+    "callsign": "VUAVT",
+    "firstSeen": 1786352375,
+    "lastSeen": 1786354254,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VICG",
+    "flight_hours": 0.5219,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ead9",
+    "callsign": "N416EL",
+    "firstSeen": 1786327952,
+    "lastSeen": 1786353850,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 7.1939,
+    "landing": 1
+  }
+]
