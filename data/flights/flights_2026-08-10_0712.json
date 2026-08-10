@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1786346005,
+    "lastSeen": 1786347523,
+    "estDepartureAirport": "LBSF",
+    "estArrivalAirport": "LAKU",
+    "flight_hours": 0.4217,
+    "landing": 1
+  },
+  {
+    "icao24": "43eaae",
+    "callsign": "GKY506",
+    "firstSeen": 1786346239,
+    "lastSeen": 1786349004,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7681,
+    "landing": 1
+  },
+  {
+    "icao24": "4689d2",
+    "callsign": "AEW1067",
+    "firstSeen": 1786347648,
+    "lastSeen": 1786349143,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 0.4153,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1786347907,
+    "lastSeen": 1786350396,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.6914,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE974",
+    "firstSeen": 1786347689,
+    "lastSeen": 1786350121,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6756,
+    "landing": 1
+  }
+]
