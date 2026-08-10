@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU906",
+    "firstSeen": 1786388839,
+    "lastSeen": 1786394661,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6172,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1786390952,
+    "lastSeen": 1786395018,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 1.1294,
+    "landing": 1
+  },
+  {
+    "icao24": "a8665f",
+    "callsign": "N640MS",
+    "firstSeen": 1786393819,
+    "lastSeen": 1786394944,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3125,
+    "landing": 1
+  },
+  {
+    "icao24": "e0340c",
+    "callsign": "LVCPL",
+    "firstSeen": 1786389974,
+    "lastSeen": 1786393755,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0503,
+    "landing": 1
+  },
+  {
+    "icao24": "e47e14",
+    "callsign": "PTWUM",
+    "firstSeen": 1786396062,
+    "lastSeen": 1786396853,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNPJ",
+    "flight_hours": 0.2197,
+    "landing": 1
+  }
+]
