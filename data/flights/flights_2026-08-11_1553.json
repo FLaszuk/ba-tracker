@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786462160,
+    "lastSeen": 1786466722,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K2E5",
+    "flight_hours": 1.2672,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d30c",
+    "callsign": "N152QS",
+    "firstSeen": 1786434163,
+    "lastSeen": 1786465908,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 8.8181,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1786462917,
+    "lastSeen": 1786466126,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.8914,
+    "landing": 1
+  },
+  {
+    "icao24": "a95cbd",
+    "callsign": "N702HT",
+    "firstSeen": 1786459908,
+    "lastSeen": 1786465512,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "KMLF",
+    "flight_hours": 1.5567,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1786459735,
+    "lastSeen": 1786463635,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K4SD",
+    "flight_hours": 1.0833,
+    "landing": 1
+  }
+]
