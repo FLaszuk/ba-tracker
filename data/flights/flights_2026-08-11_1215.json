@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3ceff1",
+    "callsign": "DCSEB",
+    "firstSeen": 1786439088,
+    "lastSeen": 1786450015,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "EFKE",
+    "flight_hours": 3.0353,
+    "landing": 1
+  },
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1786447436,
+    "lastSeen": 1786450082,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.735,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU73BR",
+    "firstSeen": 1786450089,
+    "lastSeen": 1786452131,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1786448349,
+    "lastSeen": 1786451112,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 0.7675,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1786447657,
+    "lastSeen": 1786452768,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KCXY",
+    "flight_hours": 1.4197,
+    "landing": 1
+  }
+]
