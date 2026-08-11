@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786462160,
+    "lastSeen": 1786466722,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K2E5",
+    "flight_hours": 1.2672,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786469840,
+    "lastSeen": 1786471778,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "5XS2",
+    "flight_hours": 0.5383,
+    "landing": 1
+  },
+  {
+    "icao24": "a5f7fe",
+    "callsign": "N484FM",
+    "firstSeen": 1786464211,
+    "lastSeen": 1786468665,
+    "estDepartureAirport": "1MT6",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 1.2372,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1786466123,
+    "lastSeen": 1786468054,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.5364,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1786465476,
+    "lastSeen": 1786467621,
+    "estDepartureAirport": "KO79",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.5958,
+    "landing": 1
+  }
+]
