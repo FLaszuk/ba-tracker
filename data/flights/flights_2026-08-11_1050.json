@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "00878f",
+    "callsign": "ZSCVU",
+    "firstSeen": 1786446909,
+    "lastSeen": 1786448379,
+    "estDepartureAirport": "FALA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4083,
+    "landing": 1
+  },
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1786445418,
+    "lastSeen": 1786446650,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3422,
+    "landing": 1
+  },
+  {
+    "icao24": "494107",
+    "callsign": "NJE624D",
+    "firstSeen": 1786439580,
+    "lastSeen": 1786446582,
+    "estDepartureAirport": "EIDW",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.945,
+    "landing": 1
+  },
+  {
+    "icao24": "4d211a",
+    "callsign": "VJT915",
+    "firstSeen": 1786443315,
+    "lastSeen": 1786446636,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.9225,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "AWG745",
+    "firstSeen": 1786441809,
+    "lastSeen": 1786444849,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8444,
+    "landing": 1
+  }
+]
