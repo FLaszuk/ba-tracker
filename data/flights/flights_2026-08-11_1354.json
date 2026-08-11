@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786459187,
+    "lastSeen": 1786461054,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 0.5186,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1786454495,
+    "lastSeen": 1786456291,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.4989,
+    "landing": 1
+  },
+  {
+    "icao24": "aad24a",
+    "callsign": "N797CT",
+    "firstSeen": 1786454716,
+    "lastSeen": 1786459717,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 1.3892,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "EJA978",
+    "firstSeen": 1786456797,
+    "lastSeen": 1786458778,
+    "estDepartureAirport": "KEEN",
+    "estArrivalAirport": "11NY",
+    "flight_hours": 0.5503,
+    "landing": 1
+  }
+]
