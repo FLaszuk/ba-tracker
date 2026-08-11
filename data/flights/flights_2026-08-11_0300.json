@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1786416795,
+    "lastSeen": 1786423172,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KLNS",
+    "flight_hours": 1.7714,
+    "landing": 1
+  },
+  {
+    "icao24": "aada4c",
+    "callsign": "N799JR",
+    "firstSeen": 1786420289,
+    "lastSeen": 1786420849,
+    "estDepartureAirport": "RODN",
+    "estArrivalAirport": "ROAH",
+    "flight_hours": 0.1556,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1786411063,
+    "lastSeen": 1786422726,
+    "estDepartureAirport": "KXNA",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 3.2397,
+    "landing": 1
+  }
+]
