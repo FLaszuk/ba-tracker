@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0d08b7",
+    "callsign": "XAUVJ",
+    "firstSeen": 1786473297,
+    "lastSeen": 1786473558,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMJC",
+    "flight_hours": 0.0725,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU63PU",
+    "firstSeen": 1786468157,
+    "lastSeen": 1786473234,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4103,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a456",
+    "callsign": "N140SX",
+    "firstSeen": 1786474079,
+    "lastSeen": 1786475960,
+    "estDepartureAirport": "KCXP",
+    "estArrivalAirport": "KDVO",
+    "flight_hours": 0.5225,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c51b",
+    "callsign": "N60CC",
+    "firstSeen": 1786451997,
+    "lastSeen": 1786477357,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.0444,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1786471948,
+    "lastSeen": 1786473731,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.4953,
+    "landing": 1
+  },
+  {
+    "icao24": "ac11a8",
+    "callsign": "N877PM",
+    "firstSeen": 1786475669,
+    "lastSeen": 1786478325,
+    "estDepartureAirport": "KEDC",
+    "estArrivalAirport": "KORG",
+    "flight_hours": 0.7378,
+    "landing": 1
+  },
+  {
+    "icao24": "ac703b",
+    "callsign": "N900LW",
+    "firstSeen": 1786472724,
+    "lastSeen": 1786474144,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.3944,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1786471544,
+    "lastSeen": 1786473342,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4994,
+    "landing": 1
+  }
+]
