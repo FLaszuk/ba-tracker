@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786459187,
+    "lastSeen": 1786461054,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KHRX",
+    "flight_hours": 0.5186,
+    "landing": 1
+  },
+  {
+    "icao24": "a6b200",
+    "callsign": "SCA53",
+    "firstSeen": 1786457419,
+    "lastSeen": 1786460352,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KPAN",
+    "flight_hours": 0.8147,
+    "landing": 1
+  },
+  {
+    "icao24": "aad24a",
+    "callsign": "N797CT",
+    "firstSeen": 1786454716,
+    "lastSeen": 1786459717,
+    "estDepartureAirport": "KPTK",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 1.3892,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1786459735,
+    "lastSeen": 1786463635,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K4SD",
+    "flight_hours": 1.0833,
+    "landing": 1
+  }
+]
