@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a0265d",
+    "callsign": "EDG109",
+    "firstSeen": 1786472213,
+    "lastSeen": 1786477541,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "MT52",
+    "flight_hours": 1.48,
+    "landing": 1
+  },
+  {
+    "icao24": "a06328",
+    "callsign": "N124GD",
+    "firstSeen": 1786467809,
+    "lastSeen": 1786478588,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 2.9942,
+    "landing": 1
+  },
+  {
+    "icao24": "a40ccc",
+    "callsign": "DOW36",
+    "firstSeen": 1786479105,
+    "lastSeen": 1786480373,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KPBH",
+    "flight_hours": 0.3522,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1786470928,
+    "lastSeen": 1786478765,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.1769,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c51b",
+    "callsign": "N60CC",
+    "firstSeen": 1786451997,
+    "lastSeen": 1786477357,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.0444,
+    "landing": 1
+  },
+  {
+    "icao24": "ac11a8",
+    "callsign": "N877PM",
+    "firstSeen": 1786475669,
+    "lastSeen": 1786478325,
+    "estDepartureAirport": "KEDC",
+    "estArrivalAirport": "KORG",
+    "flight_hours": 0.7378,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1786473092,
+    "lastSeen": 1786481082,
+    "estDepartureAirport": "KILG",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 2.2194,
+    "landing": 1
+  }
+]
