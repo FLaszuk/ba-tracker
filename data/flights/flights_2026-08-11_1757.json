@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786469840,
+    "lastSeen": 1786471778,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "5XS2",
+    "flight_hours": 0.5383,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a456",
+    "callsign": "N140SX",
+    "firstSeen": 1786474079,
+    "lastSeen": 1786475960,
+    "estDepartureAirport": "KCXP",
+    "estArrivalAirport": "KDVO",
+    "flight_hours": 0.5225,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c0a3",
+    "callsign": "EJA405",
+    "firstSeen": 1786458747,
+    "lastSeen": 1786471875,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 3.6467,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e47d",
+    "callsign": "N479W",
+    "firstSeen": 1786470531,
+    "lastSeen": 1786471797,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.3517,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1786471948,
+    "lastSeen": 1786473731,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.4953,
+    "landing": 1
+  },
+  {
+    "icao24": "ac703b",
+    "callsign": "N900LW",
+    "firstSeen": 1786472724,
+    "lastSeen": 1786474144,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "81NM",
+    "flight_hours": 0.3944,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1786471544,
+    "lastSeen": 1786473342,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4994,
+    "landing": 1
+  }
+]
