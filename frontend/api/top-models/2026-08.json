@@ -10,19 +10,19 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 94.0,
-      "total_landings": 39
+      "total_hours": 94.9,
+      "total_landings": 41
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 89.8,
+      "total_landings": 37
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
       "total_hours": 50.9,
-      "total_landings": 36
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 85.7,
       "total_landings": 36
     },
     {

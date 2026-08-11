@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0ab8d",
+    "callsign": "EJA142",
+    "firstSeen": 1786481978,
+    "lastSeen": 1786484137,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "KDFW",
+    "flight_hours": 0.5997,
+    "landing": 1
+  },
+  {
+    "icao24": "a34bb6",
+    "callsign": "N311NB",
+    "firstSeen": 1786484855,
+    "lastSeen": 1786485725,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "KBKE",
+    "flight_hours": 0.2417,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1786473558,
+    "lastSeen": 1786488084,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 4.035,
+    "landing": 1
+  },
+  {
+    "icao24": "a99f14",
+    "callsign": "N719SH",
+    "firstSeen": 1786476090,
+    "lastSeen": 1786483648,
+    "estDepartureAirport": "KCLL",
+    "estArrivalAirport": "KHYW",
+    "flight_hours": 2.0994,
+    "landing": 1
+  }
+]
