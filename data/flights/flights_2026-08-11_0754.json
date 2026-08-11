@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU72TC",
+    "firstSeen": 1786434306,
+    "lastSeen": 1786437228,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8117,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE921",
+    "firstSeen": 1786437004,
+    "lastSeen": 1786438138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YCNM",
+    "flight_hours": 0.315,
+    "landing": 1
+  }
+]
