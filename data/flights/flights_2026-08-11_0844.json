@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cfdec",
+    "callsign": "VJH334",
+    "firstSeen": 1786438871,
+    "lastSeen": 1786442499,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.0078,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE921",
+    "firstSeen": 1786437004,
+    "lastSeen": 1786438138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YCNM",
+    "flight_hours": 0.315,
+    "landing": 1
+  }
+]
