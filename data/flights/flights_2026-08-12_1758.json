@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a02fe9",
+    "callsign": "N111",
+    "firstSeen": 1786554118,
+    "lastSeen": 1786558646,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.2578,
+    "landing": 1
+  },
+  {
+    "icao24": "a3045c",
+    "callsign": "CNS10",
+    "firstSeen": 1786554841,
+    "lastSeen": 1786557679,
+    "estDepartureAirport": "KACK",
+    "estArrivalAirport": "NY71",
+    "flight_hours": 0.7883,
+    "landing": 1
+  },
+  {
+    "icao24": "a399d4",
+    "callsign": "N331DC",
+    "firstSeen": 1786552620,
+    "lastSeen": 1786560035,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "KLDM",
+    "flight_hours": 2.0597,
+    "landing": 1
+  },
+  {
+    "icao24": "a8665f",
+    "callsign": "N640MS",
+    "firstSeen": 1786557877,
+    "lastSeen": 1786558808,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2586,
+    "landing": 1
+  },
+  {
+    "icao24": "aad24a",
+    "callsign": "N797CT",
+    "firstSeen": 1786557769,
+    "lastSeen": 1786559754,
+    "estDepartureAirport": "0TS2",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.5514,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1786554756,
+    "lastSeen": 1786560125,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1786556826,
+    "lastSeen": 1786559473,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.7353,
+    "landing": 1
+  }
+]
