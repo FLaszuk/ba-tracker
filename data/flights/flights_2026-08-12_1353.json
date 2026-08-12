@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1786541514,
+    "lastSeen": 1786546411,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.3603,
+    "landing": 1
+  },
+  {
+    "icao24": "a0669e",
+    "callsign": "N690TW",
+    "firstSeen": 1786542436,
+    "lastSeen": 1786543056,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KGNB",
+    "flight_hours": 0.1722,
+    "landing": 1
+  },
+  {
+    "icao24": "a2dda0",
+    "callsign": "N284JA",
+    "firstSeen": 1786545173,
+    "lastSeen": 1786546822,
+    "estDepartureAirport": "KMQS",
+    "estArrivalAirport": "KTHV",
+    "flight_hours": 0.4581,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786539724,
+    "lastSeen": 1786542360,
+    "estDepartureAirport": "KCLE",
+    "estArrivalAirport": "KGLR",
+    "flight_hours": 0.7322,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1786538640,
+    "lastSeen": 1786543556,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 1.3656,
+    "landing": 1
+  },
+  {
+    "icao24": "c050a1",
+    "callsign": "CGENW",
+    "firstSeen": 1786536273,
+    "lastSeen": 1786542491,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "KDLH",
+    "flight_hours": 1.7272,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f63",
+    "callsign": "PPLEG",
+    "firstSeen": 1786541880,
+    "lastSeen": 1786542798,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.255,
+    "landing": 1
+  }
+]
