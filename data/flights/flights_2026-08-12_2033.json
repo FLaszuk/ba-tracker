@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "a4103a",
+    "callsign": "N361CE",
+    "firstSeen": 1786569737,
+    "lastSeen": 1786570059,
+    "estDepartureAirport": "KBDN",
+    "estArrivalAirport": "50OR",
+    "flight_hours": 0.0894,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1786558256,
+    "lastSeen": 1786569514,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 3.1272,
+    "landing": 1
+  },
+  {
+    "icao24": "a573f8",
+    "callsign": "N450VA",
+    "firstSeen": 1786563152,
+    "lastSeen": 1786569587,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "73CO",
+    "flight_hours": 1.7875,
+    "landing": 1
+  },
+  {
+    "icao24": "a57a1d",
+    "callsign": "LXJ452",
+    "firstSeen": 1786558364,
+    "lastSeen": 1786569981,
+    "estDepartureAirport": "0MT5",
+    "estArrivalAirport": "KBLM",
+    "flight_hours": 3.2269,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e6b1",
+    "callsign": "TWY60",
+    "firstSeen": 1786539943,
+    "lastSeen": 1786567783,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 7.7333,
+    "landing": 1
+  },
+  {
+    "icao24": "a95a3c",
+    "callsign": "N701WC",
+    "firstSeen": 1786554483,
+    "lastSeen": 1786569443,
+    "estDepartureAirport": "4NK1",
+    "estArrivalAirport": null,
+    "flight_hours": 4.1556,
+    "landing": 1
+  },
+  {
+    "icao24": "aad352",
+    "callsign": "N797PG",
+    "firstSeen": 1786558113,
+    "lastSeen": 1786570348,
+    "estDepartureAirport": "KBGR",
+    "estArrivalAirport": "7LA3",
+    "flight_hours": 3.3986,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1786561196,
+    "lastSeen": 1786567242,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1786562881,
+    "lastSeen": 1786566562,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0225,
+    "landing": 1
+  }
+]
