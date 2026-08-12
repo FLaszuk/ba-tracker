@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a16579",
+    "callsign": "N1897S",
+    "firstSeen": 1786558998,
+    "lastSeen": 1786564640,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "K00C",
+    "flight_hours": 1.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "a399d4",
+    "callsign": "N331DC",
+    "firstSeen": 1786552620,
+    "lastSeen": 1786560035,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "KLDM",
+    "flight_hours": 2.0597,
+    "landing": 1
+  },
+  {
+    "icao24": "a71295",
+    "callsign": "N555GA",
+    "firstSeen": 1786556279,
+    "lastSeen": 1786559979,
+    "estDepartureAirport": "KLNK",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.0278,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1786554756,
+    "lastSeen": 1786560125,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1786559081,
+    "lastSeen": 1786560083,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUAA",
+    "flight_hours": 0.2783,
+    "landing": 1
+  }
+]
