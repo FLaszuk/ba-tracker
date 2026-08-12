@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a835af",
+    "callsign": "N628TS",
+    "firstSeen": 1786482950,
+    "lastSeen": 1786492326,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 2.6044,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4454",
+    "callsign": "N954JJ",
+    "firstSeen": 1786488737,
+    "lastSeen": 1786491558,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.7836,
+    "landing": 1
+  }
+]
