@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a4103a",
+    "callsign": "N361CE",
+    "firstSeen": 1786569737,
+    "lastSeen": 1786570059,
+    "estDepartureAirport": "KBDN",
+    "estArrivalAirport": "50OR",
+    "flight_hours": 0.0894,
+    "landing": 1
+  },
+  {
+    "icao24": "a57a1d",
+    "callsign": "LXJ452",
+    "firstSeen": 1786558364,
+    "lastSeen": 1786569981,
+    "estDepartureAirport": "0MT5",
+    "estArrivalAirport": "KBLM",
+    "flight_hours": 3.2269,
+    "landing": 1
+  },
+  {
+    "icao24": "a95d3d",
+    "callsign": "N702NW",
+    "firstSeen": 1786563460,
+    "lastSeen": 1786570350,
+    "estDepartureAirport": "MSET",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9139,
+    "landing": 1
+  },
+  {
+    "icao24": "aad352",
+    "callsign": "N797PG",
+    "firstSeen": 1786558113,
+    "lastSeen": 1786570348,
+    "estDepartureAirport": "KBGR",
+    "estArrivalAirport": "7LA3",
+    "flight_hours": 3.3986,
+    "landing": 1
+  }
+]
