@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3182",
+    "firstSeen": 1786533774,
+    "lastSeen": 1786535603,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIBV",
+    "flight_hours": 0.5081,
+    "landing": 1
+  },
+  {
+    "icao24": "406b7e",
+    "callsign": "EDC7HM",
+    "firstSeen": 1786525436,
+    "lastSeen": 1786533310,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 2.1872,
+    "landing": 1
+  }
+]
