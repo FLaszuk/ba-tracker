@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1786541514,
+    "lastSeen": 1786546411,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.3603,
+    "landing": 1
+  },
+  {
+    "icao24": "493288",
+    "callsign": "NJE844Q",
+    "firstSeen": 1786544567,
+    "lastSeen": 1786548341,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.0483,
+    "landing": 1
+  },
+  {
+    "icao24": "a19d2e",
+    "callsign": "N203AF",
+    "firstSeen": 1786540177,
+    "lastSeen": 1786546585,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.78,
+    "landing": 1
+  },
+  {
+    "icao24": "a2dda0",
+    "callsign": "N284JA",
+    "firstSeen": 1786545173,
+    "lastSeen": 1786546822,
+    "estDepartureAirport": "KMQS",
+    "estArrivalAirport": "KTHV",
+    "flight_hours": 0.4581,
+    "landing": 1
+  },
+  {
+    "icao24": "a63251",
+    "callsign": "N499JB",
+    "firstSeen": 1786543733,
+    "lastSeen": 1786546720,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 0.8297,
+    "landing": 1
+  },
+  {
+    "icao24": "a70336",
+    "callsign": "N551AV",
+    "firstSeen": 1786543404,
+    "lastSeen": 1786551330,
+    "estDepartureAirport": "KMMU",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 2.2017,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1786542226,
+    "lastSeen": 1786547064,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "K46U",
+    "flight_hours": 1.3439,
+    "landing": 1
+  }
+]
