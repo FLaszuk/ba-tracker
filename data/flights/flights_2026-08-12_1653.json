@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "48448e",
+    "callsign": "JAG1332",
+    "firstSeen": 1786553086,
+    "lastSeen": 1786554220,
+    "estDepartureAirport": "OOYB",
+    "estArrivalAirport": "OOBR",
+    "flight_hours": 0.315,
+    "landing": 1
+  },
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1786548200,
+    "lastSeen": 1786553039,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KGUC",
+    "flight_hours": 1.3442,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a63b",
+    "callsign": "N27XL",
+    "firstSeen": 1786552706,
+    "lastSeen": 1786556461,
+    "estDepartureAirport": "KOTH",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.0431,
+    "landing": 1
+  },
+  {
+    "icao24": "a58190",
+    "callsign": "N454GB",
+    "firstSeen": 1786549471,
+    "lastSeen": 1786554941,
+    "estDepartureAirport": "KFCM",
+    "estArrivalAirport": "06CO",
+    "flight_hours": 1.5194,
+    "landing": 1
+  },
+  {
+    "icao24": "a7000f",
+    "callsign": "N550GP",
+    "firstSeen": 1786554266,
+    "lastSeen": 1786555331,
+    "estDepartureAirport": "NTAA",
+    "estArrivalAirport": "NTTR",
+    "flight_hours": 0.2958,
+    "landing": 1
+  },
+  {
+    "icao24": "aad352",
+    "callsign": "N797PG",
+    "firstSeen": 1786535321,
+    "lastSeen": 1786555497,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.6044,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4108",
+    "callsign": "N824PM",
+    "firstSeen": 1786554429,
+    "lastSeen": 1786555823,
+    "estDepartureAirport": "CYWG",
+    "estArrivalAirport": "KBDE",
+    "flight_hours": 0.3872,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1786549688,
+    "lastSeen": 1786556660,
+    "estDepartureAirport": "5MN7",
+    "estArrivalAirport": "KMMU",
+    "flight_hours": 1.9367,
+    "landing": 1
+  },
+  {
+    "icao24": "ad336a",
+    "callsign": "IJA95",
+    "firstSeen": 1786550432,
+    "lastSeen": 1786554159,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KDIJ",
+    "flight_hours": 1.0353,
+    "landing": 1
+  }
+]
