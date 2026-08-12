@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a16579",
+    "callsign": "N1897S",
+    "firstSeen": 1786558998,
+    "lastSeen": 1786564640,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "K00C",
+    "flight_hours": 1.5672,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1786563047,
+    "lastSeen": 1786563871,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.2289,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1786561196,
+    "lastSeen": 1786567242,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1786562881,
+    "lastSeen": 1786566562,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0225,
+    "landing": 1
+  }
+]
