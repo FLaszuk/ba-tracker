@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH97E",
+    "firstSeen": 1786495696,
+    "lastSeen": 1786503742,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "EGNT",
+    "flight_hours": 2.235,
+    "landing": 1
+  },
+  {
+    "icao24": "8403a4",
+    "callsign": "CKSTR10",
+    "firstSeen": 1786498814,
+    "lastSeen": 1786500078,
+    "estDepartureAirport": "RJGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3511,
+    "landing": 1
+  }
+]
