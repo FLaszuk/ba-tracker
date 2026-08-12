@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "490d05",
+    "callsign": "NJE9GP",
+    "firstSeen": 1786518748,
+    "lastSeen": 1786520133,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3847,
+    "landing": 1
+  },
+  {
+    "icao24": "78005c",
+    "callsign": "B8303",
+    "firstSeen": 1786518170,
+    "lastSeen": 1786519880,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 0.475,
+    "landing": 1
+  },
+  {
+    "icao24": "a0de31",
+    "callsign": "N155QS",
+    "firstSeen": 1786503249,
+    "lastSeen": 1786519308,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 4.4608,
+    "landing": 1
+  }
+]
