@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1786634954,
+    "lastSeen": 1786643463,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 2.3636,
+    "landing": 1
+  },
+  {
+    "icao24": "a40da9",
+    "callsign": "COL360",
+    "firstSeen": 1786629806,
+    "lastSeen": 1786648693,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.2464,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1786640987,
+    "lastSeen": 1786644404,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 0.9492,
+    "landing": 1
+  }
+]
