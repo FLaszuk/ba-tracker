@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a10dd5",
+    "callsign": "TIV167",
+    "firstSeen": 1786628273,
+    "lastSeen": 1786640976,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.5286,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1786634954,
+    "lastSeen": 1786643463,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 2.3636,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1896",
+    "callsign": "N75KE",
+    "firstSeen": 1786622125,
+    "lastSeen": 1786641955,
+    "estDepartureAirport": "HKNW",
+    "estArrivalAirport": null,
+    "flight_hours": 5.5083,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f76",
+    "callsign": "PRNAK",
+    "firstSeen": 1786634427,
+    "lastSeen": 1786640946,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.8108,
+    "landing": 1
+  }
+]
