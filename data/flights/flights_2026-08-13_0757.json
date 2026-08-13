@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20b6",
+    "callsign": "VCJ1MA",
+    "firstSeen": 1786604650,
+    "lastSeen": 1786608172,
+    "estDepartureAirport": "LOWG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9783,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT6002",
+    "firstSeen": 1786597774,
+    "lastSeen": 1786608433,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9608,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE994",
+    "firstSeen": 1786607107,
+    "lastSeen": 1786607993,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.2461,
+    "landing": 1
+  }
+]
