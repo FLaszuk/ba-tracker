@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a4bfa2",
+    "callsign": "N405EK",
+    "firstSeen": 1786635233,
+    "lastSeen": 1786638270,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KGJT",
+    "flight_hours": 0.8436,
+    "landing": 1
+  },
+  {
+    "icao24": "a980da",
+    "callsign": "N711MC",
+    "firstSeen": 1786631865,
+    "lastSeen": 1786636454,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "MT30",
+    "flight_hours": 1.2747,
+    "landing": 1
+  },
+  {
+    "icao24": "ad8dbc",
+    "callsign": "CITT85",
+    "firstSeen": 1786632846,
+    "lastSeen": 1786636205,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "K9K8",
+    "flight_hours": 0.9331,
+    "landing": 1
+  }
+]
