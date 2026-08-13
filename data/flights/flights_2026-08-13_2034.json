@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d09e3",
+    "callsign": "ACW1541",
+    "firstSeen": 1786652123,
+    "lastSeen": 1786653551,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3967,
+    "landing": 1
+  },
+  {
+    "icao24": "a12fb0",
+    "callsign": "XEN76",
+    "firstSeen": 1786645255,
+    "lastSeen": 1786656086,
+    "estDepartureAirport": "KBCT",
+    "estArrivalAirport": "NM76",
+    "flight_hours": 3.0086,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1786651596,
+    "lastSeen": 1786653490,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.5261,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1786651614,
+    "lastSeen": 1786654391,
+    "estDepartureAirport": "MM28",
+    "estArrivalAirport": "MMMA",
+    "flight_hours": 0.7714,
+    "landing": 1
+  },
+  {
+    "icao24": "a952bc",
+    "callsign": "N70FK",
+    "firstSeen": 1786647583,
+    "lastSeen": 1786656309,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "LS36",
+    "flight_hours": 2.4239,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2c4f",
+    "callsign": "EJA948",
+    "firstSeen": 1786651363,
+    "lastSeen": 1786654177,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.7817,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1786652723,
+    "lastSeen": 1786653246,
+    "estDepartureAirport": "SBSJ",
+    "estArrivalAirport": "SBSJ",
+    "flight_hours": 0.1453,
+    "landing": 1
+  }
+]
