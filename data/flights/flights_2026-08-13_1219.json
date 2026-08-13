@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "43ea15",
+    "callsign": "GZR614",
+    "firstSeen": 1786624335,
+    "lastSeen": 1786627390,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.8486,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1786619341,
+    "lastSeen": 1786624838,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LRIA",
+    "flight_hours": 1.5269,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1786621728,
+    "lastSeen": 1786623826,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "77AR",
+    "flight_hours": 0.5828,
+    "landing": 1
+  }
+]
