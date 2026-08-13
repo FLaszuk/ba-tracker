@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d05fc",
+    "callsign": "XALPK",
+    "firstSeen": 1786645421,
+    "lastSeen": 1786646790,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3803,
+    "landing": 1
+  },
+  {
+    "icao24": "4406cb",
+    "callsign": "OEHEY",
+    "firstSeen": 1786644025,
+    "lastSeen": 1786649503,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LOSM",
+    "flight_hours": 1.5217,
+    "landing": 1
+  },
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1786643762,
+    "lastSeen": 1786645818,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "CA70",
+    "flight_hours": 0.5711,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cbf0",
+    "callsign": "N28DC",
+    "firstSeen": 1786628471,
+    "lastSeen": 1786649193,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.7561,
+    "landing": 1
+  },
+  {
+    "icao24": "a40da9",
+    "callsign": "COL360",
+    "firstSeen": 1786629806,
+    "lastSeen": 1786648693,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.2464,
+    "landing": 1
+  },
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1786644044,
+    "lastSeen": 1786649968,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.6456,
+    "landing": 1
+  }
+]
