@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1786632580,
+    "lastSeen": 1786633649,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.2969,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE972D",
+    "firstSeen": 1786630104,
+    "lastSeen": 1786631429,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": "LG55",
+    "flight_hours": 0.3681,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786627641,
+    "lastSeen": 1786633521,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.6333,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1786625369,
+    "lastSeen": 1786629455,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KO79",
+    "flight_hours": 1.135,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1786624744,
+    "lastSeen": 1786628957,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "AZ77",
+    "flight_hours": 1.1703,
+    "landing": 1
+  },
+  {
+    "icao24": "a57247",
+    "callsign": "XEN45",
+    "firstSeen": 1786623556,
+    "lastSeen": 1786631415,
+    "estDepartureAirport": "KENW",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1831,
+    "landing": 1
+  }
+]
