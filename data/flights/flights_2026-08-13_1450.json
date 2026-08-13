@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1786632580,
+    "lastSeen": 1786633649,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.2969,
+    "landing": 1
+  },
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1786626777,
+    "lastSeen": 1786633100,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LGRP",
+    "flight_hours": 1.7564,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac9a1",
+    "callsign": "HCR10",
+    "firstSeen": 1786622828,
+    "lastSeen": 1786634243,
+    "estDepartureAirport": "BIRK",
+    "estArrivalAirport": "LEXJ",
+    "flight_hours": 3.1708,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1786631970,
+    "lastSeen": 1786633342,
+    "estDepartureAirport": "14MI",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.3811,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786627641,
+    "lastSeen": 1786633521,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.6333,
+    "landing": 1
+  },
+  {
+    "icao24": "ad8dbc",
+    "callsign": "CITT85",
+    "firstSeen": 1786632846,
+    "lastSeen": 1786636205,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "K9K8",
+    "flight_hours": 0.9331,
+    "landing": 1
+  }
+]
