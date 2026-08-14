@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE994",
+    "firstSeen": 1786671715,
+    "lastSeen": 1786673042,
+    "estDepartureAirport": "YWLM",
+    "estArrivalAirport": "YMDG",
+    "flight_hours": 0.3686,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1786666501,
+    "lastSeen": 1786674687,
+    "estDepartureAirport": "YBAF",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2739,
+    "landing": 1
+  },
+  {
+    "icao24": "a1828d",
+    "callsign": "LBQ197",
+    "firstSeen": 1786662309,
+    "lastSeen": 1786677847,
+    "estDepartureAirport": "KTVC",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 4.3161,
+    "landing": 1
+  },
+  {
+    "icao24": "a6368a",
+    "callsign": "N5PG",
+    "firstSeen": 1786671386,
+    "lastSeen": 1786674546,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.8778,
+    "landing": 1
+  },
+  {
+    "icao24": "e47f76",
+    "callsign": "PRCON",
+    "firstSeen": 1786673930,
+    "lastSeen": 1786676472,
+    "estDepartureAirport": "SBGL",
+    "estArrivalAirport": "SDCR",
+    "flight_hours": 0.7061,
+    "landing": 1
+  }
+]
