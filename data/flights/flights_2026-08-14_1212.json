@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "142332",
+    "callsign": "TIS9102",
+    "firstSeen": 1786705114,
+    "lastSeen": 1786709519,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "UUDL",
+    "flight_hours": 1.2236,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT503",
+    "firstSeen": 1786710482,
+    "lastSeen": 1786713225,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LTXE",
+    "flight_hours": 0.7619,
+    "landing": 1
+  },
+  {
+    "icao24": "a01500",
+    "callsign": "N104QT",
+    "firstSeen": 1786710931,
+    "lastSeen": 1786711866,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.2597,
+    "landing": 1
+  },
+  {
+    "icao24": "a20c6e",
+    "callsign": "N231CE",
+    "firstSeen": 1786706688,
+    "lastSeen": 1786711874,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KMQS",
+    "flight_hours": 1.4406,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1786704601,
+    "lastSeen": 1786711209,
+    "estDepartureAirport": "ME26",
+    "estArrivalAirport": "KAPN",
+    "flight_hours": 1.8356,
+    "landing": 1
+  }
+]
