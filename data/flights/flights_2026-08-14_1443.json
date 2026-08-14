@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA33Z",
+    "firstSeen": 1786712479,
+    "lastSeen": 1786719257,
+    "estDepartureAirport": "LIEE",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.8828,
+    "landing": 1
+  },
+  {
+    "icao24": "a6f149",
+    "callsign": "N5465M",
+    "firstSeen": 1786716709,
+    "lastSeen": 1786719425,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "KMMU",
+    "flight_hours": 0.7544,
+    "landing": 1
+  }
+]
