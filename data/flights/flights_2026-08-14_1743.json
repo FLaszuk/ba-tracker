@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1786723640,
+    "lastSeen": 1786729553,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6425,
+    "landing": 1
+  },
+  {
+    "icao24": "a04838",
+    "callsign": "N117WR",
+    "firstSeen": 1786731488,
+    "lastSeen": 1786732851,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1786723987,
+    "lastSeen": 1786729926,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.6497,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7154",
+    "callsign": "N900YB",
+    "firstSeen": 1786729070,
+    "lastSeen": 1786730936,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "KACY",
+    "flight_hours": 0.5183,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d53",
+    "callsign": "E55P",
+    "firstSeen": 1786731861,
+    "lastSeen": 1786733402,
+    "estDepartureAirport": "SNBI",
+    "estArrivalAirport": "SIUL",
+    "flight_hours": 0.4281,
+    "landing": 1
+  }
+]
