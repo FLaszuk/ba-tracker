@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1786739869,
+    "lastSeen": 1786740801,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MYGF",
+    "flight_hours": 0.2589,
+    "landing": 1
+  },
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1786730020,
+    "lastSeen": 1786739535,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "K06M",
+    "flight_hours": 2.6431,
+    "landing": 1
+  }
+]
