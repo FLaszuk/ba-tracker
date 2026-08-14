@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a04838",
+    "callsign": "N117WR",
+    "firstSeen": 1786731488,
+    "lastSeen": 1786732851,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d53",
+    "callsign": "E55P",
+    "firstSeen": 1786731861,
+    "lastSeen": 1786733402,
+    "estDepartureAirport": "SNBI",
+    "estArrivalAirport": "SIUL",
+    "flight_hours": 0.4281,
+    "landing": 1
+  }
+]
