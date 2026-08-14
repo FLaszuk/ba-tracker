@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "008887",
+    "callsign": "ZSDFI",
+    "firstSeen": 1786703679,
+    "lastSeen": 1786706315,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FADU",
+    "flight_hours": 0.7322,
+    "landing": 1
+  },
+  {
+    "icao24": "142332",
+    "callsign": "TIS9102",
+    "firstSeen": 1786705114,
+    "lastSeen": 1786709519,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "UUDL",
+    "flight_hours": 1.2236,
+    "landing": 1
+  }
+]
