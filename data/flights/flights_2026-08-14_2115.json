@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a316ef",
+    "callsign": "N299AF",
+    "firstSeen": 1786742371,
+    "lastSeen": 1786743403,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2867,
+    "landing": 1
+  },
+  {
+    "icao24": "a6fdb6",
+    "callsign": "N55GP",
+    "firstSeen": 1786745294,
+    "lastSeen": 1786746444,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "07TN",
+    "flight_hours": 0.3194,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1786742118,
+    "lastSeen": 1786744626,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.6967,
+    "landing": 1
+  }
+]

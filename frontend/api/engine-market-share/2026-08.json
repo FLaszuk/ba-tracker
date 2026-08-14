@@ -3,8 +3,8 @@
   "data": [
     {
       "engine_manufacturer": "Rolls-Royce",
-      "total_hours": 457.1,
-      "total_landings": 246,
+      "total_hours": 457.8,
+      "total_landings": 247,
       "market_share_pct": 45.5
     },
     {
@@ -17,7 +17,7 @@
       "engine_manufacturer": "Honeywell",
       "total_hours": 173.4,
       "total_landings": 128,
-      "market_share_pct": 17.3
+      "market_share_pct": 17.2
     },
     {
       "engine_manufacturer": "GE Aviation",
@@ -27,8 +27,8 @@
     },
     {
       "engine_manufacturer": "Williams International",
-      "total_hours": 40.8,
-      "total_landings": 42,
+      "total_hours": 41.4,
+      "total_landings": 44,
       "market_share_pct": 4.1
     }
   ]
