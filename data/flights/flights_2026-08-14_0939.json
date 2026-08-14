@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "440465",
+    "callsign": "GDK74A",
+    "firstSeen": 1786693255,
+    "lastSeen": 1786700611,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.0433,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1786693588,
+    "lastSeen": 1786700500,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.92,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1786698490,
+    "lastSeen": 1786702682,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.1644,
+    "landing": 1
+  }
+]
