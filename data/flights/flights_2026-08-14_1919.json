@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT7DL",
+    "firstSeen": 1786732175,
+    "lastSeen": 1786735589,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LDSH",
+    "flight_hours": 0.9483,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT6465",
+    "firstSeen": 1786730864,
+    "lastSeen": 1786735122,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1828,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c6e7",
+    "callsign": "N729VS",
+    "firstSeen": 1786734979,
+    "lastSeen": 1786737904,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 0.8125,
+    "landing": 1
+  }
+]
