@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1786766381,
+    "lastSeen": 1786767833,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4033,
+    "landing": 1
+  },
+  {
+    "icao24": "a901cd",
+    "callsign": "N68KP",
+    "firstSeen": 1786738849,
+    "lastSeen": 1786764363,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBFZ",
+    "flight_hours": 7.0872,
+    "landing": 1
+  }
+]
