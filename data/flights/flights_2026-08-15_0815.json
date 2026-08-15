@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c080d",
+    "callsign": "DASBG",
+    "firstSeen": 1786779289,
+    "lastSeen": 1786781661,
+    "estDepartureAirport": "EDTG",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 0.6589,
+    "landing": 1
+  },
+  {
+    "icao24": "a40460",
+    "callsign": "N358V",
+    "firstSeen": 1786780711,
+    "lastSeen": 1786781877,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3239,
+    "landing": 1
+  }
+]
