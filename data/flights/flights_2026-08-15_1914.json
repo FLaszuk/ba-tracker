@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1786817074,
+    "lastSeen": 1786823295,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.7281,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b2f7",
+    "callsign": "N66MD",
+    "firstSeen": 1786821124,
+    "lastSeen": 1786822597,
+    "estDepartureAirport": "KSAF",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.4092,
+    "landing": 1
+  },
+  {
+    "icao24": "ad527f",
+    "callsign": "N958BG",
+    "firstSeen": 1786805940,
+    "lastSeen": 1786821925,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 4.4403,
+    "landing": 1
+  }
+]
