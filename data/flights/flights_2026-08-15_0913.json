@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44b8b9",
+    "callsign": "OONEY",
+    "firstSeen": 1786775859,
+    "lastSeen": 1786785853,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.7761,
+    "landing": 1
+  },
+  {
+    "icao24": "493282",
+    "callsign": "NJE694G",
+    "firstSeen": 1786778441,
+    "lastSeen": 1786784644,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "LFNF",
+    "flight_hours": 1.7231,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e7",
+    "callsign": "VJT474",
+    "firstSeen": 1786785419,
+    "lastSeen": 1786786481,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGIO",
+    "flight_hours": 0.295,
+    "landing": 1
+  }
+]
