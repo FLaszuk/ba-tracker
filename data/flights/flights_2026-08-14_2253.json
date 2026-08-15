@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1786734400,
+    "lastSeen": 1786747795,
+    "estDepartureAirport": "KDBQ",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 3.7208,
+    "landing": 1
+  },
+  {
+    "icao24": "ac70ae",
+    "callsign": "N900RL",
+    "firstSeen": 1786748853,
+    "lastSeen": 1786749697,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.2344,
+    "landing": 1
+  }
+]
