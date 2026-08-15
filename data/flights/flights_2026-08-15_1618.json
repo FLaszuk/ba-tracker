@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a16a85",
+    "callsign": "N1900B",
+    "firstSeen": 1786807598,
+    "lastSeen": 1786811114,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 0.9767,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c2c2",
+    "callsign": "N6CC",
+    "firstSeen": 1786809499,
+    "lastSeen": 1786813597,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2KS3",
+    "flight_hours": 1.1383,
+    "landing": 1
+  },
+  {
+    "icao24": "ab08a0",
+    "callsign": "N81SN",
+    "firstSeen": 1786808622,
+    "lastSeen": 1786810873,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "TS65",
+    "flight_hours": 0.6253,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1786810999,
+    "lastSeen": 1786811963,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SNAO",
+    "flight_hours": 0.2678,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f71",
+    "callsign": "PRNOC",
+    "firstSeen": 1786802850,
+    "lastSeen": 1786810914,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SNPC",
+    "flight_hours": 2.24,
+    "landing": 1
+  }
+]
