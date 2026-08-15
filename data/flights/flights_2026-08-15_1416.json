@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a38961",
+    "callsign": "N327LX",
+    "firstSeen": 1786808013,
+    "lastSeen": 1786809240,
+    "estDepartureAirport": "KASH",
+    "estArrivalAirport": "KCEF",
+    "flight_hours": 0.3408,
+    "landing": 1
+  },
+  {
+    "icao24": "a43289",
+    "callsign": "000N37MD",
+    "firstSeen": 1786797417,
+    "lastSeen": 1786804672,
+    "estDepartureAirport": "KEDC",
+    "estArrivalAirport": "UT83",
+    "flight_hours": 2.0153,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e822",
+    "callsign": "EJM15",
+    "firstSeen": 1786801677,
+    "lastSeen": 1786803921,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.6233,
+    "landing": 1
+  },
+  {
+    "icao24": "a71295",
+    "callsign": "N555GA",
+    "firstSeen": 1786799322,
+    "lastSeen": 1786804262,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.3722,
+    "landing": 1
+  }
+]
