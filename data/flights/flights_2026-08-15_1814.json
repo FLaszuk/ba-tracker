@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1786817927,
+    "lastSeen": 1786819062,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3153,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5a5c",
+    "callsign": "EDG96",
+    "firstSeen": 1786814423,
+    "lastSeen": 1786818682,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1831,
+    "landing": 1
+  }
+]
