@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR728P",
+    "firstSeen": 1786806296,
+    "lastSeen": 1786808336,
+    "estDepartureAirport": "LICJ",
+    "estArrivalAirport": "LIBD",
+    "flight_hours": 0.5667,
+    "landing": 1
+  },
+  {
+    "icao24": "a0299e",
+    "callsign": "AXEL10",
+    "firstSeen": 1786807562,
+    "lastSeen": 1786808624,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.295,
+    "landing": 1
+  },
+  {
+    "icao24": "a16a85",
+    "callsign": "N1900B",
+    "firstSeen": 1786807598,
+    "lastSeen": 1786811114,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 0.9767,
+    "landing": 1
+  },
+  {
+    "icao24": "a38961",
+    "callsign": "N327LX",
+    "firstSeen": 1786808013,
+    "lastSeen": 1786809240,
+    "estDepartureAirport": "KASH",
+    "estArrivalAirport": "KCEF",
+    "flight_hours": 0.3408,
+    "landing": 1
+  }
+]
