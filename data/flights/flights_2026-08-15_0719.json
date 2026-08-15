@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c080d",
+    "callsign": "DASBG",
+    "firstSeen": 1786779289,
+    "lastSeen": 1786781661,
+    "estDepartureAirport": "EDTG",
+    "estArrivalAirport": "LOKF",
+    "flight_hours": 0.6589,
+    "landing": 1
+  },
+  {
+    "icao24": "451c0d",
+    "callsign": "LZTRH",
+    "firstSeen": 1786775531,
+    "lastSeen": 1786779474,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 1.0953,
+    "landing": 1
+  },
+  {
+    "icao24": "493035",
+    "callsign": "NJE061C",
+    "firstSeen": 1786776324,
+    "lastSeen": 1786779123,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LECF",
+    "flight_hours": 0.7775,
+    "landing": 1
+  }
+]
