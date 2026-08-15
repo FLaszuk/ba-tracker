@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "43ead2",
+    "callsign": "MLLIN",
+    "firstSeen": 1786762807,
+    "lastSeen": 1786773287,
+    "estDepartureAirport": "VTBD",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9111,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1786766381,
+    "lastSeen": 1786767833,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4033,
+    "landing": 1
+  }
+]
