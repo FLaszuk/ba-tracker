@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a03fe1",
+    "callsign": "N115MH",
+    "firstSeen": 1786746402,
+    "lastSeen": 1786762323,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.4225,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1786756092,
+    "lastSeen": 1786762808,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 1.8656,
+    "landing": 1
+  }
+]
