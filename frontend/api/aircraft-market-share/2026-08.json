@@ -5,13 +5,13 @@
       "aircraft_manufacturer": "Bombardier",
       "total_hours": 292.3,
       "total_landings": 163,
-      "market_share_pct": 27.9
+      "market_share_pct": 27.8
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "total_hours": 269.7,
-      "total_landings": 158,
-      "market_share_pct": 25.7
+      "total_hours": 271.5,
+      "total_landings": 159,
+      "market_share_pct": 25.9
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -41,7 +41,7 @@
       "aircraft_manufacturer": "Eclipse Aerospace",
       "total_hours": 19.4,
       "total_landings": 17,
-      "market_share_pct": 1.9
+      "market_share_pct": 1.8
     }
   ]
 }
