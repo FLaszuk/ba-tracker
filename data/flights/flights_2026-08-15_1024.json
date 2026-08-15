@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cd2d3",
+    "callsign": "SCR744",
+    "firstSeen": 1786790402,
+    "lastSeen": 1786792361,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.5442,
+    "landing": 1
+  },
+  {
+    "icao24": "4405b2",
+    "callsign": "LDX15",
+    "firstSeen": 1786783526,
+    "lastSeen": 1786790604,
+    "estDepartureAirport": "LRBC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9661,
+    "landing": 1
+  },
+  {
+    "icao24": "493282",
+    "callsign": "NJE841T",
+    "firstSeen": 1786789644,
+    "lastSeen": 1786792400,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7656,
+    "landing": 1
+  },
+  {
+    "icao24": "4b18d2",
+    "callsign": "HBJKK",
+    "firstSeen": 1786781185,
+    "lastSeen": 1786789383,
+    "estDepartureAirport": "LSZM",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2772,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1786788678,
+    "lastSeen": 1786790807,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LTBS",
+    "flight_hours": 0.5914,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1786779610,
+    "lastSeen": 1786791303,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 3.2481,
+    "landing": 1
+  },
+  {
+    "icao24": "a7b013",
+    "callsign": "N595B",
+    "firstSeen": 1786783451,
+    "lastSeen": 1786789292,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6225,
+    "landing": 1
+  }
+]
