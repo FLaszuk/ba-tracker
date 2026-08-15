@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT10TA",
+    "firstSeen": 1786821171,
+    "lastSeen": 1786825887,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.31,
+    "landing": 1
+  },
+  {
+    "icao24": "ad97a7",
+    "callsign": "EJA975",
+    "firstSeen": 1786819531,
+    "lastSeen": 1786826636,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KSAF",
+    "flight_hours": 1.9736,
+    "landing": 1
+  }
+]
