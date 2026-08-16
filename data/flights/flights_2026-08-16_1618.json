@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a21fbb",
+    "callsign": "N236KR",
+    "firstSeen": 1786893571,
+    "lastSeen": 1786896537,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.8239,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1786896335,
+    "lastSeen": 1786898817,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6894,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1786893177,
+    "lastSeen": 1786896714,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "04UT",
+    "flight_hours": 0.9825,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d9e0",
+    "callsign": "N540W",
+    "firstSeen": 1786897142,
+    "lastSeen": 1786902106,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.3789,
+    "landing": 1
+  }
+]
