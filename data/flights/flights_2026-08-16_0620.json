@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "009ee0",
+    "callsign": "GCM047",
+    "firstSeen": 1786860568,
+    "lastSeen": 1786862753,
+    "estDepartureAirport": "FAOR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6069,
+    "landing": 1
+  },
+  {
+    "icao24": "43ead2",
+    "callsign": "MLLIN",
+    "firstSeen": 1786864460,
+    "lastSeen": 1786865823,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 0.3786,
+    "landing": 1
+  }
+]
