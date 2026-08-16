@@ -4,26 +4,32 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 137.3,
-      "total_landings": 86
+      "total_hours": 152.0,
+      "total_landings": 90
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 148.1,
-      "total_landings": 60
+      "total_hours": 155.9,
+      "total_landings": 62
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 91.1,
-      "total_landings": 54
+      "total_hours": 91.4,
+      "total_landings": 55
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
-      "total_hours": 71.2,
-      "total_landings": 47
+      "total_hours": 74.8,
+      "total_landings": 49
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 112.2,
+      "total_landings": 49
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -33,33 +39,27 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 106.3,
-      "total_landings": 44
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 75.7,
-      "total_landings": 38
+      "total_hours": 77.7,
+      "total_landings": 39
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 35.8,
-      "total_landings": 36
+      "total_hours": 38.5,
+      "total_landings": 37
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 25.1,
-      "total_landings": 33
+      "total_hours": 25.4,
+      "total_landings": 34
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 33.3,
-      "total_landings": 29
+      "total_hours": 34.4,
+      "total_landings": 30
     }
   ]
 }
