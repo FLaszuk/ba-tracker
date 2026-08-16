@@ -34,8 +34,8 @@
     {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
-      "total_hours": 70.0,
-      "total_landings": 66
+      "total_hours": 71.4,
+      "total_landings": 67
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -56,10 +56,10 @@
       "total_landings": 32
     },
     {
-      "engine_manufacturer": "GE Aviation",
-      "engine_model": "CF34-3B",
-      "total_hours": 29.8,
-      "total_landings": 20
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7000",
+      "total_hours": 33.0,
+      "total_landings": 17
     }
   ]
 }

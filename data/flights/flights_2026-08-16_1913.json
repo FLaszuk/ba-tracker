@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU65YZ",
+    "firstSeen": 1786896277,
+    "lastSeen": 1786908192,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 3.3097,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1786903883,
+    "lastSeen": 1786908871,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "0ID4",
+    "flight_hours": 1.3856,
+    "landing": 1
+  }
+]
