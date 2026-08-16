@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cf774",
+    "callsign": "BTX3C",
+    "firstSeen": 1786860896,
+    "lastSeen": 1786864253,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.9325,
+    "landing": 1
+  },
+  {
+    "icao24": "43ead2",
+    "callsign": "MLLIN",
+    "firstSeen": 1786864460,
+    "lastSeen": 1786865823,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 0.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "494110",
+    "callsign": "NJE615A",
+    "firstSeen": 1786864905,
+    "lastSeen": 1786866153,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3467,
+    "landing": 1
+  }
+]
