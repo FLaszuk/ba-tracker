@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0e956",
+    "callsign": "EJA158",
+    "firstSeen": 1786910006,
+    "lastSeen": 1786913831,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 1.0625,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS1210",
+    "firstSeen": 1786902784,
+    "lastSeen": 1786912048,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KDYA",
+    "flight_hours": 2.5733,
+    "landing": 1
+  },
+  {
+    "icao24": "a4fce8",
+    "callsign": "JTL420",
+    "firstSeen": 1786909512,
+    "lastSeen": 1786913558,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 1.1239,
+    "landing": 1
+  },
+  {
+    "icao24": "abd2c2",
+    "callsign": "CBC861",
+    "firstSeen": 1786905932,
+    "lastSeen": 1786911910,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.6606,
+    "landing": 1
+  }
+]
