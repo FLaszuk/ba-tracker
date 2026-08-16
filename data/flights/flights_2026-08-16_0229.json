@@ -1,0 +1,142 @@
+[
+  {
+    "icao24": "4bda8e",
+    "callsign": "TCVTN",
+    "firstSeen": 1786844816,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8206,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0230",
+    "callsign": "SVW97YX",
+    "firstSeen": 1786823583,
+    "lastSeen": 1786847769,
+    "estDepartureAirport": "LSZM",
+    "estArrivalAirport": null,
+    "flight_hours": 6.7183,
+    "landing": 1
+  },
+  {
+    "icao24": "7c6d4c",
+    "callsign": "VVI",
+    "firstSeen": 1786842810,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": "YGFN",
+    "flight_hours": 1.3778,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ab8d",
+    "callsign": "EJA142",
+    "firstSeen": 1786840150,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K8K2",
+    "flight_hours": 2.1167,
+    "landing": 1
+  },
+  {
+    "icao24": "a32b32",
+    "callsign": "N303HM",
+    "firstSeen": 1786845104,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "3ID2",
+    "flight_hours": 0.7406,
+    "landing": 1
+  },
+  {
+    "icao24": "a6617c",
+    "callsign": "TWY510",
+    "firstSeen": 1786845335,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "KGSP",
+    "estArrivalAirport": "VA45",
+    "flight_hours": 0.6764,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c7a5",
+    "callsign": "N600EB",
+    "firstSeen": 1786846709,
+    "lastSeen": 1786847771,
+    "estDepartureAirport": "KLGA",
+    "estArrivalAirport": "CT43",
+    "flight_hours": 0.295,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f748",
+    "callsign": "N612MJ",
+    "firstSeen": 1786846945,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "KBWI",
+    "estArrivalAirport": "NJ64",
+    "flight_hours": 0.2292,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1786840155,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "3MS9",
+    "flight_hours": 2.1153,
+    "landing": 1
+  },
+  {
+    "icao24": "a98ed4",
+    "callsign": "N715CB",
+    "firstSeen": 1786846855,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "4TN2",
+    "flight_hours": 0.2542,
+    "landing": 1
+  },
+  {
+    "icao24": "a99719",
+    "callsign": "TWY717",
+    "firstSeen": 1786840167,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K33V",
+    "flight_hours": 2.1119,
+    "landing": 1
+  },
+  {
+    "icao24": "ac42f9",
+    "callsign": "N88999",
+    "firstSeen": 1786846867,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "RCSS",
+    "estArrivalAirport": "RCLG",
+    "flight_hours": 0.2508,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7fb7",
+    "callsign": "N904TF",
+    "firstSeen": 1786846671,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "KROG",
+    "estArrivalAirport": "0OK9",
+    "flight_hours": 0.3053,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa93",
+    "callsign": "N98UF",
+    "firstSeen": 1786845781,
+    "lastSeen": 1786847770,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "NE89",
+    "flight_hours": 0.5525,
+    "landing": 1
+  }
+]
