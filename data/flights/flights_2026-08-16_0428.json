@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1786854324,
+    "lastSeen": 1786855509,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3292,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WZZ354",
+    "firstSeen": 1786848549,
+    "lastSeen": 1786854744,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.7208,
+    "landing": 1
+  },
+  {
+    "icao24": "a6617c",
+    "callsign": "TWY510",
+    "firstSeen": 1786848531,
+    "lastSeen": 1786855641,
+    "estDepartureAirport": "KLKU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.975,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3591",
+    "callsign": "LXJ757",
+    "firstSeen": 1786851861,
+    "lastSeen": 1786857158,
+    "estDepartureAirport": "KALB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4714,
+    "landing": 1
+  },
+  {
+    "icao24": "ad97a7",
+    "callsign": "EJA975",
+    "firstSeen": 1786855621,
+    "lastSeen": 1786858584,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8231,
+    "landing": 1
+  }
+]
