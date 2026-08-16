@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR27ZZ",
+    "firstSeen": 1786890943,
+    "lastSeen": 1786895018,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LICG",
+    "flight_hours": 1.1319,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786890518,
+    "lastSeen": 1786893179,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.7392,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1786892893,
+    "lastSeen": 1786895853,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "KLNP",
+    "flight_hours": 0.8222,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC679",
+    "firstSeen": 1786888477,
+    "lastSeen": 1786893234,
+    "estDepartureAirport": "CYQB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3214,
+    "landing": 1
+  }
+]
