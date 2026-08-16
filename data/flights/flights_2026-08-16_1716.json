@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0b6b2",
+    "callsign": "EJA145",
+    "firstSeen": 1786898670,
+    "lastSeen": 1786903981,
+    "estDepartureAirport": "KBGR",
+    "estArrivalAirport": "00WV",
+    "flight_hours": 1.4753,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d9e0",
+    "callsign": "N540W",
+    "firstSeen": 1786897142,
+    "lastSeen": 1786902106,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.3789,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1786901097,
+    "lastSeen": 1786903487,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "TS20",
+    "flight_hours": 0.6639,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1786904966,
+    "lastSeen": 1786906495,
+    "estDepartureAirport": "KRPH",
+    "estArrivalAirport": "KDAL",
+    "flight_hours": 0.4247,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9dac",
+    "callsign": "SJE97",
+    "firstSeen": 1786897388,
+    "lastSeen": 1786900322,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.815,
+    "landing": 1
+  }
+]
