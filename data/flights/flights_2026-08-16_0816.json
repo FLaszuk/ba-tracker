@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "34318a",
+    "callsign": "GES121L",
+    "firstSeen": 1786866623,
+    "lastSeen": 1786868576,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LEMR",
+    "flight_hours": 0.5425,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc1c8",
+    "callsign": "AWH32A",
+    "firstSeen": 1786868509,
+    "lastSeen": 1786871033,
+    "estDepartureAirport": "EGKB",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 0.7011,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT8824",
+    "firstSeen": 1786866702,
+    "lastSeen": 1786873489,
+    "estDepartureAirport": "LGZA",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.8853,
+    "landing": 1
+  }
+]
