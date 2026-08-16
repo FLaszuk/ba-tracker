@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA201",
+    "firstSeen": 1786871582,
+    "lastSeen": 1786873189,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4464,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT8824",
+    "firstSeen": 1786866702,
+    "lastSeen": 1786873489,
+    "estDepartureAirport": "LGZA",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.8853,
+    "landing": 1
+  }
+]
