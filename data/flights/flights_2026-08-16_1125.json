@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440590",
+    "callsign": "GAC812J",
+    "firstSeen": 1786875842,
+    "lastSeen": 1786879851,
+    "estDepartureAirport": "LIPX",
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 1.1136,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA58M",
+    "firstSeen": 1786880212,
+    "lastSeen": 1786881437,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGIO",
+    "flight_hours": 0.3403,
+    "landing": 1
+  }
+]
