@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4405b2",
+    "callsign": "LDX15",
+    "firstSeen": 1786888041,
+    "lastSeen": 1786890669,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.73,
+    "landing": 1
+  },
+  {
+    "icao24": "a24a8d",
+    "callsign": "TWY247",
+    "firstSeen": 1786878932,
+    "lastSeen": 1786892473,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KDRO",
+    "flight_hours": 3.7614,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "EJA268",
+    "firstSeen": 1786887778,
+    "lastSeen": 1786889260,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4117,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1786889042,
+    "lastSeen": 1786890243,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.3336,
+    "landing": 1
+  },
+  {
+    "icao24": "a71948",
+    "callsign": "N5569",
+    "firstSeen": 1786887434,
+    "lastSeen": 1786892126,
+    "estDepartureAirport": "KMTH",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.3033,
+    "landing": 1
+  }
+]
