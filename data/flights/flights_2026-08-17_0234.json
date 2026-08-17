@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1786924040,
+    "lastSeen": 1786939095,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.1819,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "N978QS",
+    "firstSeen": 1786917936,
+    "lastSeen": 1786934053,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "MGGT",
+    "flight_hours": 4.4769,
+    "landing": 1
+  }
+]
