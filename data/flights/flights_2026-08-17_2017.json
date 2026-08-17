@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a101f9",
+    "callsign": "EJA164",
+    "firstSeen": 1786992746,
+    "lastSeen": 1786998248,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.5283,
+    "landing": 1
+  },
+  {
+    "icao24": "a2380f",
+    "callsign": "N242GM",
+    "firstSeen": 1786959012,
+    "lastSeen": 1786998011,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 10.8331,
+    "landing": 1
+  },
+  {
+    "icao24": "a2aa87",
+    "callsign": "TWY271",
+    "firstSeen": 1786995158,
+    "lastSeen": 1786998359,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 0.8892,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1786993352,
+    "lastSeen": 1786997536,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KRIW",
+    "flight_hours": 1.1622,
+    "landing": 1
+  }
+]
