@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "424773",
+    "callsign": "TBJ80",
+    "firstSeen": 1786954719,
+    "lastSeen": 1786990385,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 9.9072,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b238",
+    "callsign": "TWY401",
+    "firstSeen": 1786991882,
+    "lastSeen": 1786993120,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KCLL",
+    "flight_hours": 0.3439,
+    "landing": 1
+  },
+  {
+    "icao24": "a94ff9",
+    "callsign": "TFF900",
+    "firstSeen": 1786977408,
+    "lastSeen": 1786992279,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "3MT3",
+    "flight_hours": 4.1308,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3ff3",
+    "callsign": "HNW900",
+    "firstSeen": 1786983941,
+    "lastSeen": 1786993044,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5286,
+    "landing": 1
+  }
+]
