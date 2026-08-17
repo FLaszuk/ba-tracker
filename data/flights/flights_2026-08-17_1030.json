@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1786952734,
+    "lastSeen": 1786962849,
+    "estDepartureAirport": "EHBK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8097,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1786957925,
+    "lastSeen": 1786962214,
+    "estDepartureAirport": "LDOS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1914,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3efd",
+    "callsign": "N8888",
+    "firstSeen": 1786960877,
+    "lastSeen": 1786964204,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.9242,
+    "landing": 1
+  }
+]
