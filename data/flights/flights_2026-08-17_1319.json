@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW459",
+    "firstSeen": 1786969025,
+    "lastSeen": 1786973613,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2744,
+    "landing": 1
+  },
+  {
+    "icao24": "3cf42d",
+    "callsign": "EUL3T",
+    "firstSeen": 1786967091,
+    "lastSeen": 1786975712,
+    "estDepartureAirport": "EDDS",
+    "estArrivalAirport": "LGAV",
+    "flight_hours": 2.3947,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU51JH",
+    "firstSeen": 1786968115,
+    "lastSeen": 1786972932,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3381,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2152",
+    "callsign": "FJO71P",
+    "firstSeen": 1786971799,
+    "lastSeen": 1786974694,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 0.8042,
+    "landing": 1
+  },
+  {
+    "icao24": "800b94",
+    "callsign": "VTOMM",
+    "firstSeen": 1786972299,
+    "lastSeen": 1786973322,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VIJP",
+    "flight_hours": 0.2842,
+    "landing": 1
+  },
+  {
+    "icao24": "a0669e",
+    "callsign": "N690TW",
+    "firstSeen": 1786973531,
+    "lastSeen": 1786974244,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.1981,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bfa2",
+    "callsign": "N405EK",
+    "firstSeen": 1786971066,
+    "lastSeen": 1786974318,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.9033,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1786967631,
+    "lastSeen": 1786972976,
+    "estDepartureAirport": "KJYO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4847,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1786977606,
+    "lastSeen": 1786978366,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2111,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1786968712,
+    "lastSeen": 1786974204,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.5256,
+    "landing": 1
+  }
+]
