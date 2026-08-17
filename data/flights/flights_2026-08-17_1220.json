@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1786966523,
+    "lastSeen": 1786969744,
+    "estDepartureAirport": "EDVK",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "800b94",
+    "callsign": "VTOMM",
+    "firstSeen": 1786972299,
+    "lastSeen": 1786973322,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VIJP",
+    "flight_hours": 0.2842,
+    "landing": 1
+  }
+]
