@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a16aad",
+    "callsign": "GLH1",
+    "firstSeen": 1786899873,
+    "lastSeen": 1786922758,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 6.3569,
+    "landing": 1
+  },
+  {
+    "icao24": "a361e5",
+    "callsign": "N317M",
+    "firstSeen": 1786915924,
+    "lastSeen": 1786922546,
+    "estDepartureAirport": "KSTC",
+    "estArrivalAirport": "KCRT",
+    "flight_hours": 1.8394,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1786919869,
+    "lastSeen": 1786921703,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5094,
+    "landing": 1
+  }
+]
