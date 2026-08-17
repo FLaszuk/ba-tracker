@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4402c4",
+    "callsign": "BRJ502",
+    "firstSeen": 1786936073,
+    "lastSeen": 1786938938,
+    "estDepartureAirport": "LGKO",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 0.7958,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1786924040,
+    "lastSeen": 1786939095,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.1819,
+    "landing": 1
+  }
+]
