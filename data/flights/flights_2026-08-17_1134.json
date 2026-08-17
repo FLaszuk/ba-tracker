@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49d387",
+    "callsign": "AAN131",
+    "firstSeen": 1786958196,
+    "lastSeen": 1786967736,
+    "estDepartureAirport": "EGPF",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 2.65,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI785",
+    "firstSeen": 1786966523,
+    "lastSeen": 1786969744,
+    "estDepartureAirport": "EDVK",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 0.8947,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d8",
+    "callsign": "VJT836",
+    "firstSeen": 1786962943,
+    "lastSeen": 1786966744,
+    "estDepartureAirport": "LEMH",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.0558,
+    "landing": 1
+  }
+]
