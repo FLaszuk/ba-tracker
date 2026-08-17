@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "493284",
+    "callsign": "NJE559E",
+    "firstSeen": 1786968894,
+    "lastSeen": 1786979048,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.8206,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1786973142,
+    "lastSeen": 1786975805,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 0.7397,
+    "landing": 1
+  },
+  {
+    "icao24": "a19734",
+    "callsign": "N201RC",
+    "firstSeen": 1786968822,
+    "lastSeen": 1786977666,
+    "estDepartureAirport": "KTME",
+    "estArrivalAirport": "K24N",
+    "flight_hours": 2.4567,
+    "landing": 1
+  },
+  {
+    "icao24": "ac346d",
+    "callsign": "N886DC",
+    "firstSeen": 1786977606,
+    "lastSeen": 1786978366,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2111,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1786975684,
+    "lastSeen": 1786978981,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "98OK",
+    "flight_hours": 0.9158,
+    "landing": 1
+  },
+  {
+    "icao24": "acb17a",
+    "callsign": "N917JF",
+    "firstSeen": 1786973703,
+    "lastSeen": 1786979058,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.4875,
+    "landing": 1
+  },
+  {
+    "icao24": "adf0a3",
+    "callsign": "KOW998",
+    "firstSeen": 1786974288,
+    "lastSeen": 1786978439,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.1531,
+    "landing": 1
+  }
+]
