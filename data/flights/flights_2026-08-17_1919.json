@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d099c",
+    "callsign": "ACW1531",
+    "firstSeen": 1786993158,
+    "lastSeen": 1786994271,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3092,
+    "landing": 1
+  },
+  {
+    "icao24": "a2aa87",
+    "callsign": "TWY271",
+    "firstSeen": 1786995158,
+    "lastSeen": 1786998359,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 0.8892,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1786996064,
+    "lastSeen": 1786996767,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.1953,
+    "landing": 1
+  }
+]
