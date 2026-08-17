@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c4e0f",
+    "callsign": "PPD",
+    "firstSeen": 1786925630,
+    "lastSeen": 1786929285,
+    "estDepartureAirport": "YBCG",
+    "estArrivalAirport": "YSTW",
+    "flight_hours": 1.0153,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1786927100,
+    "lastSeen": 1786930078,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.8272,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1786921766,
+    "lastSeen": 1786927286,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "0CO6",
+    "flight_hours": 1.5333,
+    "landing": 1
+  }
+]
