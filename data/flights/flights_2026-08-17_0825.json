@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3181",
+    "firstSeen": 1786952911,
+    "lastSeen": 1786954777,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIBV",
+    "flight_hours": 0.5183,
+    "landing": 1
+  },
+  {
+    "icao24": "4ac90a",
+    "callsign": "JIV9",
+    "firstSeen": 1786952306,
+    "lastSeen": 1786956392,
+    "estDepartureAirport": "ESOE",
+    "estArrivalAirport": "ESNJ",
+    "flight_hours": 1.135,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI005",
+    "firstSeen": 1786953199,
+    "lastSeen": 1786954841,
+    "estDepartureAirport": "LSZA",
+    "estArrivalAirport": "LSZB",
+    "flight_hours": 0.4561,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214f",
+    "callsign": "AJD214K",
+    "firstSeen": 1786954594,
+    "lastSeen": 1786956940,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFRZ",
+    "flight_hours": 0.6517,
+    "landing": 1
+  }
+]
