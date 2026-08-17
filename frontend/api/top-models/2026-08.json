@@ -38,15 +38,15 @@
       "total_landings": 54
     },
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 45.3,
+      "total_landings": 42
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 79.3,
-      "total_landings": 41
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 43.1,
       "total_landings": 41
     },
     {
@@ -58,8 +58,8 @@
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 39.1,
-      "total_landings": 34
+      "total_hours": 39.3,
+      "total_landings": 35
     }
   ]
 }

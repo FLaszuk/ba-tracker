@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "406560",
+    "callsign": "GSVNX",
+    "firstSeen": 1786976893,
+    "lastSeen": 1786984620,
+    "estDepartureAirport": "EGVO",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1464,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS176",
+    "firstSeen": 1786979296,
+    "lastSeen": 1786987295,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.2219,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1786988628,
+    "lastSeen": 1786989436,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.2244,
+    "landing": 1
+  },
+  {
+    "icao24": "a57395",
+    "callsign": "N450RB",
+    "firstSeen": 1786983686,
+    "lastSeen": 1786987847,
+    "estDepartureAirport": "ID82",
+    "estArrivalAirport": "KTOR",
+    "flight_hours": 1.1558,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1786986071,
+    "lastSeen": 1786986723,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SDCU",
+    "flight_hours": 0.1811,
+    "landing": 1
+  },
+  {
+    "icao24": "e49174",
+    "callsign": "GEIV01",
+    "firstSeen": 1786981651,
+    "lastSeen": 1786986165,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SJXM",
+    "flight_hours": 1.2539,
+    "landing": 1
+  }
+]
