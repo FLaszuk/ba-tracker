@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "AIZ411",
+    "firstSeen": 1787080794,
+    "lastSeen": 1787088430,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "LWOH",
+    "flight_hours": 2.1211,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c113",
+    "callsign": "N277G",
+    "firstSeen": 1787086926,
+    "lastSeen": 1787092175,
+    "estDepartureAirport": "OI34",
+    "estArrivalAirport": "KCDW",
+    "flight_hours": 1.4581,
+    "landing": 1
+  },
+  {
+    "icao24": "a37215",
+    "callsign": "N321AP",
+    "firstSeen": 1787090988,
+    "lastSeen": 1787093217,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.6192,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1787078202,
+    "lastSeen": 1787088160,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 2.7661,
+    "landing": 1
+  }
+]
