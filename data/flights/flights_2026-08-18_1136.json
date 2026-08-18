@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cd2d3",
+    "callsign": "SCR744",
+    "firstSeen": 1787053888,
+    "lastSeen": 1787056408,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7,
+    "landing": 1
+  },
+  {
+    "icao24": "c00810",
+    "callsign": "CFDBJ",
+    "firstSeen": 1787053607,
+    "lastSeen": 1787059370,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "KTOL",
+    "flight_hours": 1.6008,
+    "landing": 1
+  }
+]
