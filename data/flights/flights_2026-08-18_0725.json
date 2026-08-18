@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "33ffc0",
+    "callsign": "IAM3182",
+    "firstSeen": 1787036702,
+    "lastSeen": 1787038451,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIBV",
+    "flight_hours": 0.4858,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc569",
+    "callsign": "DCCBH",
+    "firstSeen": 1787036368,
+    "lastSeen": 1787039720,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9311,
+    "landing": 1
+  },
+  {
+    "icao24": "49d10f",
+    "callsign": "OKFTR",
+    "firstSeen": 1787037693,
+    "lastSeen": 1787041374,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": "LOWW",
+    "flight_hours": 1.0225,
+    "landing": 1
+  }
+]
