@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0036e",
+    "callsign": "N10M",
+    "firstSeen": 1787071398,
+    "lastSeen": 1787074557,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 0.8775,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1787070319,
+    "lastSeen": 1787074519,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "TX20",
+    "flight_hours": 1.1667,
+    "landing": 1
+  },
+  {
+    "icao24": "e03545",
+    "callsign": "LVCUE",
+    "firstSeen": 1787068482,
+    "lastSeen": 1787073339,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SGPI",
+    "flight_hours": 1.3492,
+    "landing": 1
+  }
+]
