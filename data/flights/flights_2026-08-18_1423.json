@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494105",
+    "callsign": "NJE864H",
+    "firstSeen": 1787062907,
+    "lastSeen": 1787066808,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "LELN",
+    "flight_hours": 1.0836,
+    "landing": 1
+  },
+  {
+    "icao24": "a316ef",
+    "callsign": "N299AF",
+    "firstSeen": 1787064181,
+    "lastSeen": 1787065312,
+    "estDepartureAirport": "82FL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3142,
+    "landing": 1
+  },
+  {
+    "icao24": "a5c969",
+    "callsign": "N472K",
+    "firstSeen": 1787063204,
+    "lastSeen": 1787064353,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "WV62",
+    "flight_hours": 0.3192,
+    "landing": 1
+  }
+]
