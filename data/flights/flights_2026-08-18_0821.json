@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "49d10f",
+    "callsign": "OKFTR",
+    "firstSeen": 1787037693,
+    "lastSeen": 1787041374,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": "LOWW",
+    "flight_hours": 1.0225,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d5",
+    "callsign": "VJT813",
+    "firstSeen": 1787036507,
+    "lastSeen": 1787042813,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 1.7517,
+    "landing": 1
+  }
+]
