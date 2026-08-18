@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4e0f",
+    "callsign": "VHPPD",
+    "firstSeen": 1787015577,
+    "lastSeen": 1787025213,
+    "estDepartureAirport": "YSSY",
+    "estArrivalAirport": "NZQN",
+    "flight_hours": 2.6767,
+    "landing": 1
+  },
+  {
+    "icao24": "a210cf",
+    "callsign": "KAI92",
+    "firstSeen": 1787023280,
+    "lastSeen": 1787024302,
+    "estDepartureAirport": "NTAA",
+    "estArrivalAirport": "NTTH",
+    "flight_hours": 0.2839,
+    "landing": 1
+  }
+]
