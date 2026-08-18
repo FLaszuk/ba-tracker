@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a11d5e",
+    "callsign": "N171EX",
+    "firstSeen": 1787077205,
+    "lastSeen": 1787079188,
+    "estDepartureAirport": "KFLG",
+    "estArrivalAirport": "KCDC",
+    "flight_hours": 0.5508,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1787074861,
+    "lastSeen": 1787078138,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.9103,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1787079807,
+    "lastSeen": 1787081171,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K60F",
+    "flight_hours": 0.3789,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1439",
+    "callsign": "N749CP",
+    "firstSeen": 1787075562,
+    "lastSeen": 1787080229,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "3MT3",
+    "flight_hours": 1.2964,
+    "landing": 1
+  },
+  {
+    "icao24": "ac81d8",
+    "callsign": "N905B",
+    "firstSeen": 1787077855,
+    "lastSeen": 1787078527,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "12OR",
+    "flight_hours": 0.1867,
+    "landing": 1
+  }
+]
