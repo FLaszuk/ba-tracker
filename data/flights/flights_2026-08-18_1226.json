@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cd2d3",
+    "callsign": "SCR744",
+    "firstSeen": 1787053888,
+    "lastSeen": 1787056408,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b42f",
+    "callsign": "LXJ467",
+    "firstSeen": 1787054323,
+    "lastSeen": 1787057344,
+    "estDepartureAirport": "KCGF",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.8392,
+    "landing": 1
+  },
+  {
+    "icao24": "c00810",
+    "callsign": "CFDBJ",
+    "firstSeen": 1787053607,
+    "lastSeen": 1787059370,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "KTOL",
+    "flight_hours": 1.6008,
+    "landing": 1
+  },
+  {
+    "icao24": "e48714",
+    "callsign": "PPJMJ",
+    "firstSeen": 1787059674,
+    "lastSeen": 1787061564,
+    "estDepartureAirport": "SDWL",
+    "estArrivalAirport": "SNAX",
+    "flight_hours": 0.525,
+    "landing": 1
+  }
+]
