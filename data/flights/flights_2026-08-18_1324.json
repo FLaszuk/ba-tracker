@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "c00810",
+    "callsign": "CFDBJ",
+    "firstSeen": 1787053607,
+    "lastSeen": 1787059370,
+    "estDepartureAirport": "CYUL",
+    "estArrivalAirport": "KTOL",
+    "flight_hours": 1.6008,
+    "landing": 1
+  },
+  {
+    "icao24": "e48714",
+    "callsign": "PPJMJ",
+    "firstSeen": 1787059674,
+    "lastSeen": 1787061564,
+    "estDepartureAirport": "SDWL",
+    "estArrivalAirport": "SNAX",
+    "flight_hours": 0.525,
+    "landing": 1
+  },
+  {
+    "icao24": "e48add",
+    "callsign": "PRMFX",
+    "firstSeen": 1787061008,
+    "lastSeen": 1787061674,
+    "estDepartureAirport": "SSBL",
+    "estArrivalAirport": "SSRN",
+    "flight_hours": 0.185,
+    "landing": 1
+  }
+]
