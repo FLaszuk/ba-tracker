@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU908",
+    "firstSeen": 1787079085,
+    "lastSeen": 1787084523,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5106,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a7d6",
+    "callsign": "N141QS",
+    "firstSeen": 1787068949,
+    "lastSeen": 1787084439,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KJFK",
+    "flight_hours": 4.3028,
+    "landing": 1
+  },
+  {
+    "icao24": "ad853f",
+    "callsign": "N817RA",
+    "firstSeen": 1787079944,
+    "lastSeen": 1787084988,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4011,
+    "landing": 1
+  }
+]
