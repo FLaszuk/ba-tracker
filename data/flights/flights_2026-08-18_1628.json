@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU4949",
+    "firstSeen": 1787064764,
+    "lastSeen": 1787070325,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.5447,
+    "landing": 1
+  },
+  {
+    "icao24": "a35409",
+    "callsign": "N313XF",
+    "firstSeen": 1787070114,
+    "lastSeen": 1787071578,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.4067,
+    "landing": 1
+  },
+  {
+    "icao24": "e03545",
+    "callsign": "LVCUE",
+    "firstSeen": 1787068482,
+    "lastSeen": 1787073339,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SGPI",
+    "flight_hours": 1.3492,
+    "landing": 1
+  }
+]
