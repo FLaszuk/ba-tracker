@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0be20",
+    "callsign": "N147QS",
+    "firstSeen": 1787005902,
+    "lastSeen": 1787007536,
+    "estDepartureAirport": "KAPF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4539,
+    "landing": 1
+  },
+  {
+    "icao24": "a10967",
+    "callsign": "N166QS",
+    "firstSeen": 1786987591,
+    "lastSeen": 1787008520,
+    "estDepartureAirport": "EGPH",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.8136,
+    "landing": 1
+  },
+  {
+    "icao24": "a58cb0",
+    "callsign": "LXJ457",
+    "firstSeen": 1787002485,
+    "lastSeen": 1787007000,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "ID72",
+    "flight_hours": 1.2542,
+    "landing": 1
+  }
+]
