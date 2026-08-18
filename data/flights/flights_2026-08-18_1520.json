@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "494105",
+    "callsign": "NJE864H",
+    "firstSeen": 1787062907,
+    "lastSeen": 1787066808,
+    "estDepartureAirport": "LPFR",
+    "estArrivalAirport": "LELN",
+    "flight_hours": 1.0836,
+    "landing": 1
+  },
+  {
+    "icao24": "a1baf1",
+    "callsign": "N210QS",
+    "firstSeen": 1787066901,
+    "lastSeen": 1787068050,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3192,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1787064958,
+    "lastSeen": 1787066572,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "K7V7",
+    "flight_hours": 0.4483,
+    "landing": 1
+  }
+]
