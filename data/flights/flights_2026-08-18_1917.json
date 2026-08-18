@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0b5a8",
+    "callsign": "N145EA",
+    "firstSeen": 1787075700,
+    "lastSeen": 1787082501,
+    "estDepartureAirport": "KHHR",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.8892,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1787079807,
+    "lastSeen": 1787081171,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K60F",
+    "flight_hours": 0.3789,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1439",
+    "callsign": "N749CP",
+    "firstSeen": 1787075562,
+    "lastSeen": 1787080229,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "3MT3",
+    "flight_hours": 1.2964,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9dac",
+    "callsign": "SJE97",
+    "firstSeen": 1787069333,
+    "lastSeen": 1787081002,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 3.2414,
+    "landing": 1
+  }
+]
