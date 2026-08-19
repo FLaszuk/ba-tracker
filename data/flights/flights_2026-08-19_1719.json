@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "43e7e4",
+    "callsign": "MSVGN",
+    "firstSeen": 1787160080,
+    "lastSeen": 1787160836,
+    "estDepartureAirport": "MTPP",
+    "estArrivalAirport": "MDCZ",
+    "flight_hours": 0.21,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU4949",
+    "firstSeen": 1787154364,
+    "lastSeen": 1787160607,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 1.7342,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1787164370,
+    "lastSeen": 1787165542,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "0IL9",
+    "flight_hours": 0.3256,
+    "landing": 1
+  },
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1787156237,
+    "lastSeen": 1787161606,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "VA07",
+    "flight_hours": 1.4914,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1787155235,
+    "lastSeen": 1787162876,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KAJZ",
+    "flight_hours": 2.1225,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787163048,
+    "lastSeen": 1787163713,
+    "estDepartureAirport": "KN87",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 0.1847,
+    "landing": 1
+  },
+  {
+    "icao24": "ab374c",
+    "callsign": "N82123",
+    "firstSeen": 1787158729,
+    "lastSeen": 1787160544,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.5042,
+    "landing": 1
+  },
+  {
+    "icao24": "ad3629",
+    "callsign": "N950RL",
+    "firstSeen": 1787161823,
+    "lastSeen": 1787164188,
+    "estDepartureAirport": "17FL",
+    "estArrivalAirport": "KFMY",
+    "flight_hours": 0.6569,
+    "landing": 1
+  }
+]
