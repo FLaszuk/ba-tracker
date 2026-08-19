@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787088618,
+    "lastSeen": 1787097063,
+    "estDepartureAirport": "KBIF",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 2.3458,
+    "landing": 1
+  },
+  {
+    "icao24": "a242af",
+    "callsign": "N245BD",
+    "firstSeen": 1787079256,
+    "lastSeen": 1787096700,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": null,
+    "flight_hours": 4.8456,
+    "landing": 1
+  },
+  {
+    "icao24": "a2aa87",
+    "callsign": "TWY271",
+    "firstSeen": 1787090214,
+    "lastSeen": 1787094696,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 1.245,
+    "landing": 1
+  },
+  {
+    "icao24": "a37215",
+    "callsign": "N321AP",
+    "firstSeen": 1787090988,
+    "lastSeen": 1787093217,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.6192,
+    "landing": 1
+  },
+  {
+    "icao24": "a981c0",
+    "callsign": "N711WH",
+    "firstSeen": 1787086897,
+    "lastSeen": 1787097995,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "63TE",
+    "flight_hours": 3.0828,
+    "landing": 1
+  },
+  {
+    "icao24": "aca5a4",
+    "callsign": "N914BD",
+    "firstSeen": 1787091197,
+    "lastSeen": 1787095011,
+    "estDepartureAirport": "0TE5",
+    "estArrivalAirport": "K5M8",
+    "flight_hours": 1.0594,
+    "landing": 1
+  },
+  {
+    "icao24": "ad83fc",
+    "callsign": "SVL49",
+    "firstSeen": 1787090918,
+    "lastSeen": 1787095221,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "KMMU",
+    "flight_hours": 1.1953,
+    "landing": 1
+  }
+]
