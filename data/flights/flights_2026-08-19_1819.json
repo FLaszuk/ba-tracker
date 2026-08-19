@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1787164370,
+    "lastSeen": 1787165542,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "0IL9",
+    "flight_hours": 0.3256,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787163048,
+    "lastSeen": 1787163713,
+    "estDepartureAirport": "KN87",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 0.1847,
+    "landing": 1
+  },
+  {
+    "icao24": "ad3629",
+    "callsign": "N950RL",
+    "firstSeen": 1787161823,
+    "lastSeen": 1787164188,
+    "estDepartureAirport": "17FL",
+    "estArrivalAirport": "KFMY",
+    "flight_hours": 0.6569,
+    "landing": 1
+  }
+]
