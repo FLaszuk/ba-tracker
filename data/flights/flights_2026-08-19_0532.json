@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "748053",
+    "callsign": "CDX550",
+    "firstSeen": 1787115091,
+    "lastSeen": 1787119105,
+    "estDepartureAirport": "OLBA",
+    "estArrivalAirport": "LGRP",
+    "flight_hours": 1.115,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1787116876,
+    "lastSeen": 1787119920,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8456,
+    "landing": 1
+  }
+]

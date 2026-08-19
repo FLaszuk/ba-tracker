@@ -9,8 +9,8 @@
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "total_hours": 364.8,
-      "total_landings": 222,
+      "total_hours": 365.6,
+      "total_landings": 223,
       "market_share_pct": 26.5
     },
     {
@@ -27,9 +27,9 @@
     },
     {
       "aircraft_manufacturer": "Embraer",
-      "total_hours": 87.8,
-      "total_landings": 75,
-      "market_share_pct": 6.4
+      "total_hours": 88.9,
+      "total_landings": 76,
+      "market_share_pct": 6.5
     },
     {
       "aircraft_manufacturer": "Pilatus",
@@ -41,7 +41,7 @@
       "aircraft_manufacturer": "Eclipse Aerospace",
       "total_hours": 26.8,
       "total_landings": 22,
-      "market_share_pct": 2.0
+      "market_share_pct": 1.9
     }
   ]
 }
