@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440590",
+    "callsign": "GAC898N",
+    "firstSeen": 1787141169,
+    "lastSeen": 1787145264,
+    "estDepartureAirport": "EGPK",
+    "estArrivalAirport": "EGBE",
+    "flight_hours": 1.1375,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT9ZH",
+    "firstSeen": 1787145195,
+    "lastSeen": 1787147764,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.7136,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "N126AF",
+    "firstSeen": 1787141836,
+    "lastSeen": 1787145256,
+    "estDepartureAirport": "KLCI",
+    "estArrivalAirport": "CDL8",
+    "flight_hours": 0.95,
+    "landing": 1
+  },
+  {
+    "icao24": "e4937f",
+    "callsign": "PRJRY",
+    "firstSeen": 1787147216,
+    "lastSeen": 1787148571,
+    "estDepartureAirport": "SDCO",
+    "estArrivalAirport": "SDNH",
+    "flight_hours": 0.3764,
+    "landing": 1
+  }
+]
