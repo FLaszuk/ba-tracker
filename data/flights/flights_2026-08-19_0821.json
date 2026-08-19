@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "AIZ055",
+    "firstSeen": 1787120557,
+    "lastSeen": 1787127410,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 1.9036,
+    "landing": 1
+  },
+  {
+    "icao24": "899126",
+    "callsign": "SJX801",
+    "firstSeen": 1787117458,
+    "lastSeen": 1787127372,
+    "estDepartureAirport": "RJAA",
+    "estArrivalAirport": "RCDI",
+    "flight_hours": 2.7539,
+    "landing": 1
+  }
+]
