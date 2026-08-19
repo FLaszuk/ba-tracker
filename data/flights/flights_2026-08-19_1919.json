@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0fa8b",
+    "callsign": "EJA162",
+    "firstSeen": 1787165932,
+    "lastSeen": 1787169125,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.8869,
+    "landing": 1
+  },
+  {
+    "icao24": "a266e0",
+    "callsign": "N254FJ",
+    "firstSeen": 1787167323,
+    "lastSeen": 1787170794,
+    "estDepartureAirport": "2TA3",
+    "estArrivalAirport": "KEDC",
+    "flight_hours": 0.9642,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1787161416,
+    "lastSeen": 1787166773,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.4881,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b125",
+    "callsign": "VJA401",
+    "firstSeen": 1787153816,
+    "lastSeen": 1787166707,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MYX5",
+    "flight_hours": 3.5808,
+    "landing": 1
+  },
+  {
+    "icao24": "acc5f0",
+    "callsign": "N922DN",
+    "firstSeen": 1787163441,
+    "lastSeen": 1787169695,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.7372,
+    "landing": 1
+  }
+]
