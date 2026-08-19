@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "490d05",
+    "callsign": "NJE153T",
+    "firstSeen": 1787133218,
+    "lastSeen": 1787139998,
+    "estDepartureAirport": "EPSY",
+    "estArrivalAirport": "LSMP",
+    "flight_hours": 1.8833,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA44W",
+    "firstSeen": 1787132388,
+    "lastSeen": 1787141341,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4869,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d2e",
+    "callsign": "JAS185",
+    "firstSeen": 1787142925,
+    "lastSeen": 1787145029,
+    "estDepartureAirport": "KPOU",
+    "estArrivalAirport": "PA68",
+    "flight_hours": 0.5844,
+    "landing": 1
+  },
+  {
+    "icao24": "e47eb4",
+    "callsign": "PRJAQ",
+    "firstSeen": 1787141176,
+    "lastSeen": 1787143121,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SIFU",
+    "flight_hours": 0.5403,
+    "landing": 1
+  }
+]
