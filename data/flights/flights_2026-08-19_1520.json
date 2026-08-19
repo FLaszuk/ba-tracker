@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1787150487,
+    "lastSeen": 1787155315,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LOIR",
+    "flight_hours": 1.3411,
+    "landing": 1
+  },
+  {
+    "icao24": "a06072",
+    "callsign": "N123SL",
+    "firstSeen": 1787151588,
+    "lastSeen": 1787157393,
+    "estDepartureAirport": "KSSI",
+    "estArrivalAirport": "2WV5",
+    "flight_hours": 1.6125,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS55",
+    "firstSeen": 1787144777,
+    "lastSeen": 1787156942,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 3.3792,
+    "landing": 1
+  },
+  {
+    "icao24": "a34ed6",
+    "callsign": "N312GA",
+    "firstSeen": 1787151896,
+    "lastSeen": 1787156959,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "07TN",
+    "flight_hours": 1.4064,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1787151800,
+    "lastSeen": 1787152697,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K8S0",
+    "flight_hours": 0.2492,
+    "landing": 1
+  }
+]
