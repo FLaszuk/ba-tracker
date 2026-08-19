@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1787140516,
+    "lastSeen": 1787145026,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.2528,
+    "landing": 1
+  },
+  {
+    "icao24": "491221",
+    "callsign": "NJE651V",
+    "firstSeen": 1787142542,
+    "lastSeen": 1787144928,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "EHTE",
+    "flight_hours": 0.6628,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "N126AF",
+    "firstSeen": 1787141836,
+    "lastSeen": 1787145256,
+    "estDepartureAirport": "KLCI",
+    "estArrivalAirport": "CDL8",
+    "flight_hours": 0.95,
+    "landing": 1
+  },
+  {
+    "icao24": "a5818b",
+    "callsign": "LXJ454",
+    "firstSeen": 1787141948,
+    "lastSeen": 1787144880,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "MD03",
+    "flight_hours": 0.8144,
+    "landing": 1
+  },
+  {
+    "icao24": "a77398",
+    "callsign": "RJC188",
+    "firstSeen": 1787143262,
+    "lastSeen": 1787144894,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4533,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d2e",
+    "callsign": "JAS185",
+    "firstSeen": 1787142925,
+    "lastSeen": 1787145029,
+    "estDepartureAirport": "KPOU",
+    "estArrivalAirport": "PA68",
+    "flight_hours": 0.5844,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1787139144,
+    "lastSeen": 1787143920,
+    "estDepartureAirport": "VG10",
+    "estArrivalAirport": "NK17",
+    "flight_hours": 1.3267,
+    "landing": 1
+  },
+  {
+    "icao24": "e47eb4",
+    "callsign": "PRJAQ",
+    "firstSeen": 1787141176,
+    "lastSeen": 1787143121,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SIFU",
+    "flight_hours": 0.5403,
+    "landing": 1
+  }
+]
