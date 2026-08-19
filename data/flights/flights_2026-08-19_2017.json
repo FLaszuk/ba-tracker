@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a266e0",
+    "callsign": "N254FJ",
+    "firstSeen": 1787167323,
+    "lastSeen": 1787170794,
+    "estDepartureAirport": "2TA3",
+    "estArrivalAirport": "KEDC",
+    "flight_hours": 0.9642,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1787171106,
+    "lastSeen": 1787174217,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "3TN0",
+    "flight_hours": 0.8642,
+    "landing": 1
+  },
+  {
+    "icao24": "ad57a2",
+    "callsign": "N959RW",
+    "firstSeen": 1787171622,
+    "lastSeen": 1787174454,
+    "estDepartureAirport": "90NY",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.7867,
+    "landing": 1
+  }
+]
