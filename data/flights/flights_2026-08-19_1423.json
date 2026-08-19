@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU95RP",
+    "firstSeen": 1787131662,
+    "lastSeen": 1787149141,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "GCXO",
+    "flight_hours": 4.8553,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT3BP",
+    "firstSeen": 1787148008,
+    "lastSeen": 1787150042,
+    "estDepartureAirport": "LIRF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.565,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1787143901,
+    "lastSeen": 1787148821,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.3667,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1787151800,
+    "lastSeen": 1787152697,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K8S0",
+    "flight_hours": 0.2492,
+    "landing": 1
+  }
+]
