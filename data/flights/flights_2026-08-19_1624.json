@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "a06072",
+    "callsign": "N123SL",
+    "firstSeen": 1787151588,
+    "lastSeen": 1787157393,
+    "estDepartureAirport": "KSSI",
+    "estArrivalAirport": "2WV5",
+    "flight_hours": 1.6125,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1787156140,
+    "lastSeen": 1787157211,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2975,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS55",
+    "firstSeen": 1787144777,
+    "lastSeen": 1787156942,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 3.3792,
+    "landing": 1
+  },
+  {
+    "icao24": "a34ed6",
+    "callsign": "N312GA",
+    "firstSeen": 1787151896,
+    "lastSeen": 1787156959,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "07TN",
+    "flight_hours": 1.4064,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1787156605,
+    "lastSeen": 1787159122,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 0.6992,
+    "landing": 1
+  },
+  {
+    "icao24": "aa88af",
+    "callsign": "N778VW",
+    "firstSeen": 1787156062,
+    "lastSeen": 1787158414,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "LA68",
+    "flight_hours": 0.6533,
+    "landing": 1
+  },
+  {
+    "icao24": "ab374c",
+    "callsign": "N82123",
+    "firstSeen": 1787158729,
+    "lastSeen": 1787160544,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.5042,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "",
+    "firstSeen": 1787155389,
+    "lastSeen": 1787156526,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3158,
+    "landing": 1
+  }
+]
