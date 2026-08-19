@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1ca0d",
+    "callsign": "N214TF",
+    "firstSeen": 1787167115,
+    "lastSeen": 1787176289,
+    "estDepartureAirport": "KBDL",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.5483,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1787171106,
+    "lastSeen": 1787174217,
+    "estDepartureAirport": "KYIP",
+    "estArrivalAirport": "3TN0",
+    "flight_hours": 0.8642,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787166995,
+    "lastSeen": 1787173900,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 1.9181,
+    "landing": 1
+  },
+  {
+    "icao24": "ad57a2",
+    "callsign": "N959RW",
+    "firstSeen": 1787171622,
+    "lastSeen": 1787174454,
+    "estDepartureAirport": "90NY",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 0.7867,
+    "landing": 1
+  }
+]
