@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1787098576,
+    "lastSeen": 1787100324,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4856,
+    "landing": 1
+  },
+  {
+    "icao24": "a981c0",
+    "callsign": "N711WH",
+    "firstSeen": 1787086897,
+    "lastSeen": 1787097995,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "63TE",
+    "flight_hours": 3.0828,
+    "landing": 1
+  }
+]
