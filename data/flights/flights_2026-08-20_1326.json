@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2ae6a",
+    "callsign": "N272FC",
+    "firstSeen": 1787227845,
+    "lastSeen": 1787235049,
+    "estDepartureAirport": "KGVL",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 2.0011,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ef7",
+    "callsign": "N316VA",
+    "firstSeen": 1787230844,
+    "lastSeen": 1787232012,
+    "estDepartureAirport": "KGRR",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.3244,
+    "landing": 1
+  }
+]
