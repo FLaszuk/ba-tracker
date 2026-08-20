@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1787211620,
+    "lastSeen": 1787213677,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5714,
+    "landing": 1
+  },
+  {
+    "icao24": "39a04c",
+    "callsign": "OYO10",
+    "firstSeen": 1787215958,
+    "lastSeen": 1787217966,
+    "estDepartureAirport": "LFOP",
+    "estArrivalAirport": "LFRK",
+    "flight_hours": 0.5578,
+    "landing": 1
+  },
+  {
+    "icao24": "440546",
+    "callsign": "OEELA",
+    "firstSeen": 1787217205,
+    "lastSeen": 1787219384,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LOAV",
+    "flight_hours": 0.6053,
+    "landing": 1
+  }
+]
