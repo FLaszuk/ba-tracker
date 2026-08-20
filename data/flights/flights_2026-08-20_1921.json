@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c5c46",
+    "callsign": "BTX6F",
+    "firstSeen": 1787216077,
+    "lastSeen": 1787253735,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 10.4606,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR877F",
+    "firstSeen": 1787250669,
+    "lastSeen": 1787254372,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0286,
+    "landing": 1
+  }
+]
