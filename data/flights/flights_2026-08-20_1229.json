@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH365",
+    "firstSeen": 1787225336,
+    "lastSeen": 1787229262,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0906,
+    "landing": 1
+  },
+  {
+    "icao24": "490d07",
+    "callsign": "NJE309N",
+    "firstSeen": 1787226436,
+    "lastSeen": 1787229867,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9531,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0297",
+    "callsign": "LXA32B",
+    "firstSeen": 1787225636,
+    "lastSeen": 1787228983,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": "LAKU",
+    "flight_hours": 0.9297,
+    "landing": 1
+  },
+  {
+    "icao24": "a54f31",
+    "callsign": "EJM441",
+    "firstSeen": 1787223544,
+    "lastSeen": 1787229528,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 1.6622,
+    "landing": 1
+  }
+]
