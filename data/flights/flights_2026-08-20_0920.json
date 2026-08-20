@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "39a04c",
+    "callsign": "OYO10",
+    "firstSeen": 1787215958,
+    "lastSeen": 1787217966,
+    "estDepartureAirport": "LFOP",
+    "estArrivalAirport": "LFRK",
+    "flight_hours": 0.5578,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU93DL",
+    "firstSeen": 1787202289,
+    "lastSeen": 1787219285,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "LPMA",
+    "flight_hours": 4.7211,
+    "landing": 1
+  },
+  {
+    "icao24": "440546",
+    "callsign": "OEELA",
+    "firstSeen": 1787217205,
+    "lastSeen": 1787219384,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LOAV",
+    "flight_hours": 0.6053,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029e",
+    "callsign": "JFA24E",
+    "firstSeen": 1787218056,
+    "lastSeen": 1787219075,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 0.2831,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ffc6",
+    "callsign": "N550DR",
+    "firstSeen": 1787215925,
+    "lastSeen": 1787218980,
+    "estDepartureAirport": "LOWW",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8486,
+    "landing": 1
+  }
+]
