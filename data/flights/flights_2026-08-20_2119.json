@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH95A",
+    "firstSeen": 1787262391,
+    "lastSeen": 1787264072,
+    "estDepartureAirport": "EDDV",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.4669,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c163",
+    "callsign": "N277KE",
+    "firstSeen": 1787261621,
+    "lastSeen": 1787262439,
+    "estDepartureAirport": "KAAO",
+    "estArrivalAirport": "SN04",
+    "flight_hours": 0.2272,
+    "landing": 1
+  },
+  {
+    "icao24": "a308aa",
+    "callsign": "TWY295",
+    "firstSeen": 1787256153,
+    "lastSeen": 1787262541,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "1ID7",
+    "flight_hours": 1.7744,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ae9a",
+    "callsign": "N53FJ",
+    "firstSeen": 1787263139,
+    "lastSeen": 1787264894,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.4875,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa31d",
+    "callsign": "N785AD",
+    "firstSeen": 1787253683,
+    "lastSeen": 1787264112,
+    "estDepartureAirport": "KACT",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 2.8969,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2170",
+    "callsign": "SJJ945",
+    "firstSeen": 1787257062,
+    "lastSeen": 1787260404,
+    "estDepartureAirport": "KSTL",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.9283,
+    "landing": 1
+  }
+]
