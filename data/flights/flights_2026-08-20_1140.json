@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "469469",
+    "callsign": "FLTCHK1",
+    "firstSeen": 1787224420,
+    "lastSeen": 1787225886,
+    "estDepartureAirport": "LGIO",
+    "estArrivalAirport": "LGPZ",
+    "flight_hours": 0.4072,
+    "landing": 1
+  },
+  {
+    "icao24": "a54f31",
+    "callsign": "EJM441",
+    "firstSeen": 1787223544,
+    "lastSeen": 1787229528,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 1.6622,
+    "landing": 1
+  }
+]
