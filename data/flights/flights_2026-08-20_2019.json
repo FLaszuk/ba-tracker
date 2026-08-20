@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU912",
+    "firstSeen": 1787251249,
+    "lastSeen": 1787256729,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5222,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2170",
+    "callsign": "SJJ945",
+    "firstSeen": 1787257062,
+    "lastSeen": 1787260404,
+    "estDepartureAirport": "KSTL",
+    "estArrivalAirport": "K4Y4",
+    "flight_hours": 0.9283,
+    "landing": 1
+  }
+]
