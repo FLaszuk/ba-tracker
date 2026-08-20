@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1787186159,
+    "lastSeen": 1787187612,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": "YKYB",
+    "flight_hours": 0.4036,
+    "landing": 1
+  },
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1787180087,
+    "lastSeen": 1787185871,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6067,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ff2b",
+    "callsign": "N1630",
+    "firstSeen": 1787186911,
+    "lastSeen": 1787189085,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787178677,
+    "lastSeen": 1787184450,
+    "estDepartureAirport": "KROW",
+    "estArrivalAirport": "WY60",
+    "flight_hours": 1.6036,
+    "landing": 1
+  },
+  {
+    "icao24": "a63ac1",
+    "callsign": "N100UH",
+    "firstSeen": 1787182476,
+    "lastSeen": 1787188034,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "CD32",
+    "flight_hours": 1.5439,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1787178508,
+    "lastSeen": 1787186714,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2794,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1787186062,
+    "lastSeen": 1787187217,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.3208,
+    "landing": 1
+  }
+]
