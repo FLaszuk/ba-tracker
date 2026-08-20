@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW1510",
+    "firstSeen": 1787238688,
+    "lastSeen": 1787239597,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM35",
+    "flight_hours": 0.2525,
+    "landing": 1
+  },
+  {
+    "icao24": "4403ec",
+    "callsign": "OEGRB",
+    "firstSeen": 1787241953,
+    "lastSeen": 1787244643,
+    "estDepartureAirport": "EDDP",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.7472,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e956",
+    "callsign": "EJA158",
+    "firstSeen": 1787225636,
+    "lastSeen": 1787239276,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "3MT3",
+    "flight_hours": 3.7889,
+    "landing": 1
+  },
+  {
+    "icao24": "a55e9f",
+    "callsign": "EJM445",
+    "firstSeen": 1787240125,
+    "lastSeen": 1787240864,
+    "estDepartureAirport": "KABE",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.2053,
+    "landing": 1
+  },
+  {
+    "icao24": "a57316",
+    "callsign": "N450L",
+    "firstSeen": 1787240062,
+    "lastSeen": 1787244330,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "CKM2",
+    "flight_hours": 1.1856,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1787238282,
+    "lastSeen": 1787239620,
+    "estDepartureAirport": "KPVU",
+    "estArrivalAirport": "UT42",
+    "flight_hours": 0.3717,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787237216,
+    "lastSeen": 1787240577,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 0.9336,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7160",
+    "callsign": "N900YP",
+    "firstSeen": 1787231251,
+    "lastSeen": 1787238804,
+    "estDepartureAirport": "FL99",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.0981,
+    "landing": 1
+  }
+]
