@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1787218376,
+    "lastSeen": 1787223004,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": "HE42",
+    "flight_hours": 1.2856,
+    "landing": 1
+  },
+  {
+    "icao24": "a89621",
+    "callsign": "N652WE",
+    "firstSeen": 1787218174,
+    "lastSeen": 1787224598,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LQVI",
+    "flight_hours": 1.7844,
+    "landing": 1
+  },
+  {
+    "icao24": "a9817c",
+    "callsign": "N711TQ",
+    "firstSeen": 1787220918,
+    "lastSeen": 1787223470,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KROC",
+    "flight_hours": 0.7089,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f71",
+    "callsign": "PRNOC",
+    "firstSeen": 1787213601,
+    "lastSeen": 1787222717,
+    "estDepartureAirport": "SDIU",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5322,
+    "landing": 1
+  }
+]
