@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787178677,
+    "lastSeen": 1787184450,
+    "estDepartureAirport": "KROW",
+    "estArrivalAirport": "WY60",
+    "flight_hours": 1.6036,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1787175676,
+    "lastSeen": 1787181351,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "CO86",
+    "flight_hours": 1.5764,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1787177662,
+    "lastSeen": 1787180401,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "MT88",
+    "flight_hours": 0.7608,
+    "landing": 1
+  }
+]
