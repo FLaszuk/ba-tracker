@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "009ee0",
+    "callsign": "ZSLRJ",
+    "firstSeen": 1787206385,
+    "lastSeen": 1787208339,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "FADB",
+    "flight_hours": 0.5428,
+    "landing": 1
+  },
+  {
+    "icao24": "3f7b3c",
+    "callsign": "GAF649",
+    "firstSeen": 1787202337,
+    "lastSeen": 1787205897,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "LLYO",
+    "flight_hours": 0.9889,
+    "landing": 1
+  }
+]
