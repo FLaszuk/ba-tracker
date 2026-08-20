@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d08d9",
+    "callsign": "XASKA",
+    "firstSeen": 1787152823,
+    "lastSeen": 1787193864,
+    "estDepartureAirport": "SJGW",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 11.4003,
+    "landing": 1
+  },
+  {
+    "icao24": "758253",
+    "callsign": "RPC718",
+    "firstSeen": 1787188044,
+    "lastSeen": 1787189586,
+    "estDepartureAirport": "RPLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4283,
+    "landing": 1
+  },
+  {
+    "icao24": "ace463",
+    "callsign": "N93M",
+    "firstSeen": 1787187119,
+    "lastSeen": 1787191687,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "UT42",
+    "flight_hours": 1.2689,
+    "landing": 1
+  },
+  {
+    "icao24": "adf1a2",
+    "callsign": "N998PB",
+    "firstSeen": 1787187705,
+    "lastSeen": 1787189489,
+    "estDepartureAirport": "NTAA",
+    "estArrivalAirport": "NTKN",
+    "flight_hours": 0.4956,
+    "landing": 1
+  }
+]
