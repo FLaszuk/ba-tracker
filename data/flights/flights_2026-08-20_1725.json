@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS27",
+    "firstSeen": 1787239972,
+    "lastSeen": 1787246570,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KPDK",
+    "flight_hours": 1.8328,
+    "landing": 1
+  },
+  {
+    "icao24": "aae233",
+    "callsign": "EJM800",
+    "firstSeen": 1787247203,
+    "lastSeen": 1787249012,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.5025,
+    "landing": 1
+  }
+]
