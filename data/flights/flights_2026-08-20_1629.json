@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4403ec",
+    "callsign": "OEGRB",
+    "firstSeen": 1787241953,
+    "lastSeen": 1787244643,
+    "estDepartureAirport": "EDDP",
+    "estArrivalAirport": "EDDK",
+    "flight_hours": 0.7472,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS27",
+    "firstSeen": 1787239972,
+    "lastSeen": 1787246570,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KPDK",
+    "flight_hours": 1.8328,
+    "landing": 1
+  },
+  {
+    "icao24": "a29223",
+    "callsign": "LXJ265",
+    "firstSeen": 1787243901,
+    "lastSeen": 1787245093,
+    "estDepartureAirport": "K36U",
+    "estArrivalAirport": "KAFO",
+    "flight_hours": 0.3311,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS55",
+    "firstSeen": 1787242025,
+    "lastSeen": 1787245881,
+    "estDepartureAirport": "7TX7",
+    "estArrivalAirport": "7TX9",
+    "flight_hours": 1.0711,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bde1",
+    "callsign": "LXJ340",
+    "firstSeen": 1787237231,
+    "lastSeen": 1787244069,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8994,
+    "landing": 1
+  },
+  {
+    "icao24": "a57316",
+    "callsign": "N450L",
+    "firstSeen": 1787240062,
+    "lastSeen": 1787244330,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "CKM2",
+    "flight_hours": 1.1856,
+    "landing": 1
+  },
+  {
+    "icao24": "aae233",
+    "callsign": "EJM800",
+    "firstSeen": 1787247203,
+    "lastSeen": 1787249012,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.5025,
+    "landing": 1
+  },
+  {
+    "icao24": "adce1b",
+    "callsign": "SVL11",
+    "firstSeen": 1787236040,
+    "lastSeen": 1787244052,
+    "estDepartureAirport": "KSDF",
+    "estArrivalAirport": "KT45",
+    "flight_hours": 2.2256,
+    "landing": 1
+  }
+]
