@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a74d03",
+    "callsign": "N57KT",
+    "firstSeen": 1787276323,
+    "lastSeen": 1787276973,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": "KGRB",
+    "flight_hours": 0.1806,
+    "landing": 1
+  },
+  {
+    "icao24": "a74d03",
+    "callsign": "N57KT",
+    "firstSeen": 1787281306,
+    "lastSeen": 1787282707,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 0.3892,
+    "landing": 1
+  },
+  {
+    "icao24": "a7bd16",
+    "callsign": "N598WC",
+    "firstSeen": 1787260092,
+    "lastSeen": 1787277871,
+    "estDepartureAirport": "KMHR",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 4.9386,
+    "landing": 1
+  }
+]
