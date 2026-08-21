@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA211",
+    "firstSeen": 1787302790,
+    "lastSeen": 1787304192,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.3894,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1787294533,
+    "lastSeen": 1787303747,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LGMK",
+    "flight_hours": 2.5594,
+    "landing": 1
+  }
+]
