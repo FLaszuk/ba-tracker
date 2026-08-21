@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "300635",
+    "callsign": "SIO501",
+    "firstSeen": 1787327755,
+    "lastSeen": 1787330629,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 0.7983,
+    "landing": 1
+  },
+  {
+    "icao24": "401057",
+    "callsign": "GTAYC",
+    "firstSeen": 1787318507,
+    "lastSeen": 1787329678,
+    "estDepartureAirport": "EGHH",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1031,
+    "landing": 1
+  },
+  {
+    "icao24": "a19734",
+    "callsign": "N201RC",
+    "firstSeen": 1787321235,
+    "lastSeen": 1787329059,
+    "estDepartureAirport": "KTME",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1733,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS9",
+    "firstSeen": 1787326101,
+    "lastSeen": 1787331861,
+    "estDepartureAirport": "KSMO",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.6,
+    "landing": 1
+  },
+  {
+    "icao24": "a674f4",
+    "callsign": "N515KS",
+    "firstSeen": 1787329848,
+    "lastSeen": 1787331354,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "MO23",
+    "flight_hours": 0.4183,
+    "landing": 1
+  },
+  {
+    "icao24": "acaaf5",
+    "callsign": "N915TP",
+    "firstSeen": 1787323868,
+    "lastSeen": 1787333270,
+    "estDepartureAirport": "KIXD",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 2.6117,
+    "landing": 1
+  },
+  {
+    "icao24": "ad853f",
+    "callsign": "N817RA",
+    "firstSeen": 1787324128,
+    "lastSeen": 1787329328,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.4444,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC373",
+    "firstSeen": 1787330293,
+    "lastSeen": 1787331251,
+    "estDepartureAirport": "CYVB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2661,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1787328667,
+    "lastSeen": 1787330901,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.6206,
+    "landing": 1
+  }
+]
