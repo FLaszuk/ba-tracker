@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3191",
+    "firstSeen": 1787334842,
+    "lastSeen": 1787336131,
+    "estDepartureAirport": "LICA",
+    "estArrivalAirport": "LIRI",
+    "flight_hours": 0.3581,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS55",
+    "firstSeen": 1787326990,
+    "lastSeen": 1787334592,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "MS34",
+    "flight_hours": 2.1117,
+    "landing": 1
+  },
+  {
+    "icao24": "a724ce",
+    "callsign": "N56CL",
+    "firstSeen": 1787330581,
+    "lastSeen": 1787336325,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "0CO6",
+    "flight_hours": 1.5956,
+    "landing": 1
+  },
+  {
+    "icao24": "acaaf5",
+    "callsign": "N915TP",
+    "firstSeen": 1787323868,
+    "lastSeen": 1787333270,
+    "estDepartureAirport": "KIXD",
+    "estArrivalAirport": "KU70",
+    "flight_hours": 2.6117,
+    "landing": 1
+  },
+  {
+    "icao24": "ad853f",
+    "callsign": "N817RA",
+    "firstSeen": 1787334324,
+    "lastSeen": 1787334938,
+    "estDepartureAirport": "0CO2",
+    "estArrivalAirport": "KMVI",
+    "flight_hours": 0.1706,
+    "landing": 1
+  }
+]
