@@ -40,20 +40,20 @@
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 63.8,
-      "total_landings": 58
+      "total_hours": 64.5,
+      "total_landings": 59
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 48.6,
+      "total_landings": 52
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 103.7,
       "total_landings": 52
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 48.1,
-      "total_landings": 51
     },
     {
       "aircraft_manufacturer": "Embraer",

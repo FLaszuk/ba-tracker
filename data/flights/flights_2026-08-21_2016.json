@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1787341483,
+    "lastSeen": 1787343981,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6939,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1787346496,
+    "lastSeen": 1787348155,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4608,
+    "landing": 1
+  }
+]
