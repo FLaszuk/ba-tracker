@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "490d07",
+    "callsign": "NJE038U",
+    "firstSeen": 1787306109,
+    "lastSeen": 1787309536,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.9519,
+    "landing": 1
+  },
+  {
+    "icao24": "5000ee",
+    "callsign": "T7IHC",
+    "firstSeen": 1787307050,
+    "lastSeen": 1787311333,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 1.1897,
+    "landing": 1
+  },
+  {
+    "icao24": "505dac",
+    "callsign": "ELJ403",
+    "firstSeen": 1787307046,
+    "lastSeen": 1787309444,
+    "estDepartureAirport": "LZIB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6661,
+    "landing": 1
+  },
+  {
+    "icao24": "748053",
+    "callsign": "CDX550",
+    "firstSeen": 1787306068,
+    "lastSeen": 1787309621,
+    "estDepartureAirport": "OLBA",
+    "estArrivalAirport": "HEEM",
+    "flight_hours": 0.9869,
+    "landing": 1
+  }
+]
