@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4bad30",
+    "callsign": "TCKIP",
+    "firstSeen": 1787284987,
+    "lastSeen": 1787286742,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": "LGMK",
+    "flight_hours": 0.4875,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE994",
+    "firstSeen": 1787287275,
+    "lastSeen": 1787288015,
+    "estDepartureAirport": "YMOR",
+    "estArrivalAirport": "YIVL",
+    "flight_hours": 0.2056,
+    "landing": 1
+  }
+]
