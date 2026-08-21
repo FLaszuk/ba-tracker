@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a5b42f",
+    "callsign": "LXJ467",
+    "firstSeen": 1787334886,
+    "lastSeen": 1787340469,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KU12",
+    "flight_hours": 1.5508,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787334140,
+    "lastSeen": 1787339367,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KTTN",
+    "flight_hours": 1.4519,
+    "landing": 1
+  },
+  {
+    "icao24": "e070cb",
+    "callsign": "LVGCK",
+    "firstSeen": 1787339503,
+    "lastSeen": 1787341050,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.4297,
+    "landing": 1
+  }
+]
