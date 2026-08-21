@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU910",
+    "firstSeen": 1787343040,
+    "lastSeen": 1787348604,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5456,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR23YV",
+    "firstSeen": 1787344827,
+    "lastSeen": 1787346879,
+    "estDepartureAirport": "LICJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.57,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e03",
+    "callsign": "STT68",
+    "firstSeen": 1787341712,
+    "lastSeen": 1787347496,
+    "estDepartureAirport": "KDVO",
+    "estArrivalAirport": "0MT6",
+    "flight_hours": 1.6067,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1787346496,
+    "lastSeen": 1787348155,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4608,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1787346654,
+    "lastSeen": 1787348851,
+    "estDepartureAirport": "KBRD",
+    "estArrivalAirport": "KFSD",
+    "flight_hours": 0.6103,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a81",
+    "callsign": "PRNJR",
+    "firstSeen": 1787345008,
+    "lastSeen": 1787347767,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDMH",
+    "flight_hours": 0.7664,
+    "landing": 1
+  }
+]
