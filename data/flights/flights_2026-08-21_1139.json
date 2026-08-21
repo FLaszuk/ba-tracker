@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3191",
+    "firstSeen": 1787312456,
+    "lastSeen": 1787314474,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5606,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH32H",
+    "firstSeen": 1787314185,
+    "lastSeen": 1787316631,
+    "estDepartureAirport": "EDDP",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1787312173,
+    "lastSeen": 1787312786,
+    "estDepartureAirport": "SBST",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.1703,
+    "landing": 1
+  }
+]
