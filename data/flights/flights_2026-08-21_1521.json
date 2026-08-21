@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3004c7",
+    "callsign": "SIO512",
+    "firstSeen": 1787323165,
+    "lastSeen": 1787325467,
+    "estDepartureAirport": "LIPY",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6394,
+    "landing": 1
+  },
+  {
+    "icao24": "4a512b",
+    "callsign": "TIH002A",
+    "firstSeen": 1787308264,
+    "lastSeen": 1787326591,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": null,
+    "flight_hours": 5.0908,
+    "landing": 1
+  },
+  {
+    "icao24": "a17855",
+    "callsign": "N194PJ",
+    "firstSeen": 1787326226,
+    "lastSeen": 1787328852,
+    "estDepartureAirport": "KLFT",
+    "estArrivalAirport": "KGNF",
+    "flight_hours": 0.7294,
+    "landing": 1
+  },
+  {
+    "icao24": "a19734",
+    "callsign": "N201RC",
+    "firstSeen": 1787321235,
+    "lastSeen": 1787329059,
+    "estDepartureAirport": "KTME",
+    "estArrivalAirport": null,
+    "flight_hours": 2.1733,
+    "landing": 1
+  },
+  {
+    "icao24": "a72c3b",
+    "callsign": "EJM561",
+    "firstSeen": 1787324639,
+    "lastSeen": 1787326342,
+    "estDepartureAirport": "KOGD",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4731,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b914",
+    "callsign": "N661MS",
+    "firstSeen": 1787322191,
+    "lastSeen": 1787327369,
+    "estDepartureAirport": "KBMQ",
+    "estArrivalAirport": "CO11",
+    "flight_hours": 1.4383,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6923",
+    "callsign": "N770BC",
+    "firstSeen": 1787319580,
+    "lastSeen": 1787325790,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "K7S0",
+    "flight_hours": 1.725,
+    "landing": 1
+  }
+]
