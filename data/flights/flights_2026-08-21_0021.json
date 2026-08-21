@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a3d722",
+    "callsign": "CLY681",
+    "firstSeen": 1787270039,
+    "lastSeen": 1787273681,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 1.0117,
+    "landing": 1
+  },
+  {
+    "icao24": "a74d03",
+    "callsign": "N57KT",
+    "firstSeen": 1787276323,
+    "lastSeen": 1787276973,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": "KGRB",
+    "flight_hours": 0.1806,
+    "landing": 1
+  },
+  {
+    "icao24": "abcd31",
+    "callsign": "N86HD",
+    "firstSeen": 1787261781,
+    "lastSeen": 1787273423,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 3.2339,
+    "landing": 1
+  }
+]
