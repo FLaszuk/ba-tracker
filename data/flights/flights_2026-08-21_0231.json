@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH95C",
+    "firstSeen": 1787280605,
+    "lastSeen": 1787282907,
+    "estDepartureAirport": "EDDL",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.6394,
+    "landing": 1
+  },
+  {
+    "icao24": "a74d03",
+    "callsign": "N57KT",
+    "firstSeen": 1787281306,
+    "lastSeen": 1787282707,
+    "estDepartureAirport": "KMSN",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 0.3892,
+    "landing": 1
+  }
+]
