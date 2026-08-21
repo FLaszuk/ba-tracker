@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c665a",
+    "callsign": "VJH721",
+    "firstSeen": 1787313060,
+    "lastSeen": 1787318470,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "OOBR",
+    "flight_hours": 1.5028,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH32H",
+    "firstSeen": 1787314185,
+    "lastSeen": 1787316631,
+    "estDepartureAirport": "EDDP",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.6794,
+    "landing": 1
+  },
+  {
+    "icao24": "5000ee",
+    "callsign": "T7IHC",
+    "firstSeen": 1787315478,
+    "lastSeen": 1787316943,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4069,
+    "landing": 1
+  },
+  {
+    "icao24": "a6e706",
+    "callsign": "N544CM",
+    "firstSeen": 1787317244,
+    "lastSeen": 1787318070,
+    "estDepartureAirport": "16CO",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 0.2294,
+    "landing": 1
+  }
+]
