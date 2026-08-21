@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4bad07",
+    "callsign": "TCKHG",
+    "firstSeen": 1787314880,
+    "lastSeen": 1787324323,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6231,
+    "landing": 1
+  },
+  {
+    "icao24": "aa3591",
+    "callsign": "LXJ757",
+    "firstSeen": 1787320735,
+    "lastSeen": 1787323384,
+    "estDepartureAirport": "KJWN",
+    "estArrivalAirport": "WV77",
+    "flight_hours": 0.7358,
+    "landing": 1
+  },
+  {
+    "icao24": "e48add",
+    "callsign": "PRMFX",
+    "firstSeen": 1787321651,
+    "lastSeen": 1787322409,
+    "estDepartureAirport": "SSBL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2106,
+    "landing": 1
+  }
+]
