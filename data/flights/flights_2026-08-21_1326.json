@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c665a",
+    "callsign": "VJH721",
+    "firstSeen": 1787313060,
+    "lastSeen": 1787318470,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "OOBR",
+    "flight_hours": 1.5028,
+    "landing": 1
+  },
+  {
+    "icao24": "494105",
+    "callsign": "NJE588Y",
+    "firstSeen": 1787313428,
+    "lastSeen": 1787318382,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3761,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1787315524,
+    "lastSeen": 1787319851,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "KAFO",
+    "flight_hours": 1.2019,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1787317461,
+    "lastSeen": 1787319634,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6036,
+    "landing": 1
+  }
+]
