@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a4ab44",
+    "callsign": "N40LB",
+    "firstSeen": 1787262975,
+    "lastSeen": 1787267453,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.2439,
+    "landing": 1
+  },
+  {
+    "icao24": "a9bedb",
+    "callsign": "N727PJ",
+    "firstSeen": 1787268287,
+    "lastSeen": 1787269887,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KBYI",
+    "flight_hours": 0.4444,
+    "landing": 1
+  }
+]
