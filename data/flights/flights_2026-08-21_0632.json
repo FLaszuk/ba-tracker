@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1787269103,
+    "lastSeen": 1787294023,
+    "estDepartureAirport": "CYQA",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 6.9222,
+    "landing": 1
+  },
+  {
+    "icao24": "4d211a",
+    "callsign": "VJT915",
+    "firstSeen": 1787292993,
+    "lastSeen": 1787294810,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.5047,
+    "landing": 1
+  }
+]
