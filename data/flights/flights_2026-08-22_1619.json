@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1787411576,
+    "lastSeen": 1787418236,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.85,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787413673,
+    "lastSeen": 1787417190,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "KMEJ",
+    "flight_hours": 0.9769,
+    "landing": 1
+  }
+]
