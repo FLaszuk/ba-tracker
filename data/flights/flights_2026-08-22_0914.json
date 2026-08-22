@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3003f5",
+    "callsign": "SIO615",
+    "firstSeen": 1787387473,
+    "lastSeen": 1787390342,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LFKT",
+    "flight_hours": 0.7969,
+    "landing": 1
+  },
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619",
+    "firstSeen": 1787387723,
+    "lastSeen": 1787390254,
+    "estDepartureAirport": "LIPR",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7031,
+    "landing": 1
+  },
+  {
+    "icao24": "45ceef",
+    "callsign": "BBB65",
+    "firstSeen": 1787375128,
+    "lastSeen": 1787390780,
+    "estDepartureAirport": "EDDH",
+    "estArrivalAirport": null,
+    "flight_hours": 4.3478,
+    "landing": 1
+  }
+]
