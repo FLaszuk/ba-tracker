@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3ce3b3",
+    "callsign": "SCR239",
+    "firstSeen": 1787386349,
+    "lastSeen": 1787396560,
+    "estDepartureAirport": "EGPF",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 2.8364,
+    "landing": 1
+  },
+  {
+    "icao24": "440546",
+    "callsign": "OEELA",
+    "firstSeen": 1787390394,
+    "lastSeen": 1787394341,
+    "estDepartureAirport": "LOAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0964,
+    "landing": 1
+  },
+  {
+    "icao24": "a8db67",
+    "callsign": "TWY26",
+    "firstSeen": 1787393294,
+    "lastSeen": 1787394741,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4019,
+    "landing": 1
+  }
+]
