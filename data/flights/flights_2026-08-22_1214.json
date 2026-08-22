@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA23B",
+    "firstSeen": 1787389630,
+    "lastSeen": 1787401215,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 3.2181,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1787403988,
+    "lastSeen": 1787405219,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "SC94",
+    "flight_hours": 0.3419,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4797",
+    "callsign": "EPI394",
+    "firstSeen": 1787405635,
+    "lastSeen": 1787405825,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "TE68",
+    "flight_hours": 0.0528,
+    "landing": 1
+  }
+]
