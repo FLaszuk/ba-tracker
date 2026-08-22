@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619",
+    "firstSeen": 1787387723,
+    "lastSeen": 1787390254,
+    "estDepartureAirport": "LIPR",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7031,
+    "landing": 1
+  },
+  {
+    "icao24": "4c066d",
+    "callsign": "FUU543N",
+    "firstSeen": 1787386047,
+    "lastSeen": 1787387306,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGIO",
+    "flight_hours": 0.3497,
+    "landing": 1
+  },
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1787384433,
+    "lastSeen": 1787385995,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 0.4339,
+    "landing": 1
+  },
+  {
+    "icao24": "51200f",
+    "callsign": "Z3MKD",
+    "firstSeen": 1787385870,
+    "lastSeen": 1787386819,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2636,
+    "landing": 1
+  }
+]
