@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC283",
+    "firstSeen": 1787403401,
+    "lastSeen": 1787406221,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGMK",
+    "flight_hours": 0.7833,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1787400820,
+    "lastSeen": 1787405950,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.425,
+    "landing": 1
+  },
+  {
+    "icao24": "a0996f",
+    "callsign": "N138FJ",
+    "firstSeen": 1787403988,
+    "lastSeen": 1787405219,
+    "estDepartureAirport": "KGSO",
+    "estArrivalAirport": "SC94",
+    "flight_hours": 0.3419,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4797",
+    "callsign": "EPI394",
+    "firstSeen": 1787405635,
+    "lastSeen": 1787405825,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "TE68",
+    "flight_hours": 0.0528,
+    "landing": 1
+  }
+]
