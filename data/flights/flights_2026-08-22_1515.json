@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "493289",
+    "callsign": "NJE6XK",
+    "firstSeen": 1787408060,
+    "lastSeen": 1787411155,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.8597,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1787410641,
+    "lastSeen": 1787413587,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8183,
+    "landing": 1
+  },
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1787408723,
+    "lastSeen": 1787413465,
+    "estDepartureAirport": "KLUL",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 1.3172,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787413673,
+    "lastSeen": 1787417190,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "KMEJ",
+    "flight_hours": 0.9769,
+    "landing": 1
+  },
+  {
+    "icao24": "a1db21",
+    "callsign": "N219BY",
+    "firstSeen": 1787405753,
+    "lastSeen": 1787411904,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7086,
+    "landing": 1
+  },
+  {
+    "icao24": "acaa3f",
+    "callsign": "N915LG",
+    "firstSeen": 1787397818,
+    "lastSeen": 1787412092,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.965,
+    "landing": 1
+  }
+]
