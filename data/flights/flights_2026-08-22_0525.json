@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU48JD",
+    "firstSeen": 1787372615,
+    "lastSeen": 1787378287,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIEE",
+    "flight_hours": 1.5756,
+    "landing": 1
+  },
+  {
+    "icao24": "493035",
+    "callsign": "NJE781Y",
+    "firstSeen": 1787373953,
+    "lastSeen": 1787377502,
+    "estDepartureAirport": "LDZA",
+    "estArrivalAirport": "LGKR",
+    "flight_hours": 0.9858,
+    "landing": 1
+  },
+  {
+    "icao24": "846165",
+    "callsign": "JA123F",
+    "firstSeen": 1787375254,
+    "lastSeen": 1787381606,
+    "estDepartureAirport": "RJNG",
+    "estArrivalAirport": "RJCO",
+    "flight_hours": 1.7644,
+    "landing": 1
+  }
+]
