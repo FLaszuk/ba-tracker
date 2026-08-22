@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "490d04",
+    "callsign": "NJE625B",
+    "firstSeen": 1787404164,
+    "lastSeen": 1787408057,
+    "estDepartureAirport": "EPKT",
+    "estArrivalAirport": "LDZD",
+    "flight_hours": 1.0814,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1787403613,
+    "lastSeen": 1787408448,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.3431,
+    "landing": 1
+  },
+  {
+    "icao24": "ac456f",
+    "callsign": "DOW890",
+    "firstSeen": 1787403091,
+    "lastSeen": 1787409012,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.6447,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC381",
+    "firstSeen": 1787402590,
+    "lastSeen": 1787408582,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6644,
+    "landing": 1
+  }
+]
