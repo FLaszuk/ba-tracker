@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1500",
+    "firstSeen": 1787420921,
+    "lastSeen": 1787422027,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3072,
+    "landing": 1
+  },
+  {
+    "icao24": "3c5192",
+    "callsign": "DADLR",
+    "firstSeen": 1787423274,
+    "lastSeen": 1787423967,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SJHM",
+    "flight_hours": 0.1925,
+    "landing": 1
+  },
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1787420489,
+    "lastSeen": 1787423785,
+    "estDepartureAirport": "EIDW",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 0.9156,
+    "landing": 1
+  },
+  {
+    "icao24": "a96920",
+    "callsign": "N705WL",
+    "firstSeen": 1787418250,
+    "lastSeen": 1787422084,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.065,
+    "landing": 1
+  },
+  {
+    "icao24": "e0659a",
+    "callsign": "LVFVZ",
+    "firstSeen": 1787422980,
+    "lastSeen": 1787424279,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3608,
+    "landing": 1
+  }
+]
