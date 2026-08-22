@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "440406",
+    "callsign": "TSW7M",
+    "firstSeen": 1787420489,
+    "lastSeen": 1787423785,
+    "estDepartureAirport": "EIDW",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 0.9156,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1787417527,
+    "lastSeen": 1787421818,
+    "estDepartureAirport": "KOMA",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 1.1919,
+    "landing": 1
+  },
+  {
+    "icao24": "a4103a",
+    "callsign": "N361CE",
+    "firstSeen": 1787411319,
+    "lastSeen": 1787421364,
+    "estDepartureAirport": "KBDN",
+    "estArrivalAirport": "SD37",
+    "flight_hours": 2.7903,
+    "landing": 1
+  }
+]
