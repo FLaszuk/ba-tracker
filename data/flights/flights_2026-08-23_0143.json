@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a16068",
+    "callsign": "N188WR",
+    "firstSeen": 1787447925,
+    "lastSeen": 1787450319,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.665,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f040",
+    "callsign": "N610RL",
+    "firstSeen": 1787447602,
+    "lastSeen": 1787450828,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8961,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1787449278,
+    "lastSeen": 1787452375,
+    "estDepartureAirport": "KMEV",
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 0.8603,
+    "landing": 1
+  },
+  {
+    "icao24": "c8224d",
+    "callsign": "SKL3",
+    "firstSeen": 1787445008,
+    "lastSeen": 1787450065,
+    "estDepartureAirport": "NZAP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4047,
+    "landing": 1
+  }
+]
