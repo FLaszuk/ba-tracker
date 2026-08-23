@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT503",
+    "firstSeen": 1787458669,
+    "lastSeen": 1787472957,
+    "estDepartureAirport": "OMAD",
+    "estArrivalAirport": "LTAY",
+    "flight_hours": 3.9689,
+    "landing": 1
+  },
+  {
+    "icao24": "abc1f0",
+    "callsign": "N857GA",
+    "firstSeen": 1787440015,
+    "lastSeen": 1787473256,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 9.2336,
+    "landing": 1
+  }
+]
