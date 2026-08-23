@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a6f149",
+    "callsign": "N5465M",
+    "firstSeen": 1787492046,
+    "lastSeen": 1787494204,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "KMMU",
+    "flight_hours": 0.5994,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c7a5",
+    "callsign": "N600EB",
+    "firstSeen": 1787493036,
+    "lastSeen": 1787494090,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2928,
+    "landing": 1
+  }
+]

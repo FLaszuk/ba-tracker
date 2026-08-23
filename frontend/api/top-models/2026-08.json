@@ -28,8 +28,8 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 144.8,
-      "total_landings": 76
+      "total_hours": 145.1,
+      "total_landings": 77
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -44,15 +44,15 @@
       "total_landings": 60
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 114.0,
+      "total_landings": 56
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 49.3,
-      "total_landings": 55
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 113.4,
       "total_landings": 55
     },
     {
