@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1787501437,
+    "lastSeen": 1787508375,
+    "estDepartureAirport": "MGGT",
+    "estArrivalAirport": null,
+    "flight_hours": 1.9272,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ba22",
+    "callsign": "N275M",
+    "firstSeen": 1787508879,
+    "lastSeen": 1787510032,
+    "estDepartureAirport": "TN62",
+    "estArrivalAirport": "WV77",
+    "flight_hours": 0.3203,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1787509829,
+    "lastSeen": 1787512545,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.7544,
+    "landing": 1
+  },
+  {
+    "icao24": "a80275",
+    "callsign": "",
+    "firstSeen": 1787503834,
+    "lastSeen": 1787508697,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3508,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1787503352,
+    "lastSeen": 1787509922,
+    "estDepartureAirport": "WN18",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.825,
+    "landing": 1
+  }
+]
