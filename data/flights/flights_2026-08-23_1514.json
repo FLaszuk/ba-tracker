@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "49d4cf",
+    "callsign": "QAV30E",
+    "firstSeen": 1787498180,
+    "lastSeen": 1787499445,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3514,
+    "landing": 1
+  },
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1787496478,
+    "lastSeen": 1787499529,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 0.8475,
+    "landing": 1
+  },
+  {
+    "icao24": "a56270",
+    "callsign": "N446RT",
+    "firstSeen": 1787501986,
+    "lastSeen": 1787502430,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "25XS",
+    "flight_hours": 0.1233,
+    "landing": 1
+  },
+  {
+    "icao24": "a57316",
+    "callsign": "N450L",
+    "firstSeen": 1787499066,
+    "lastSeen": 1787499668,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.1672,
+    "landing": 1
+  },
+  {
+    "icao24": "a674f4",
+    "callsign": "N515KS",
+    "firstSeen": 1787495626,
+    "lastSeen": 1787498204,
+    "estDepartureAirport": "KDSM",
+    "estArrivalAirport": "KHDE",
+    "flight_hours": 0.7161,
+    "landing": 1
+  },
+  {
+    "icao24": "a6960a",
+    "callsign": "N523WC",
+    "firstSeen": 1787497551,
+    "lastSeen": 1787501997,
+    "estDepartureAirport": "80OH",
+    "estArrivalAirport": "KDBQ",
+    "flight_hours": 1.235,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1787500759,
+    "lastSeen": 1787501741,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "OL04",
+    "flight_hours": 0.2728,
+    "landing": 1
+  }
+]
