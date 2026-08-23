@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT13EP",
+    "firstSeen": 1787457623,
+    "lastSeen": 1787464003,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LESO",
+    "flight_hours": 1.7722,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1787462027,
+    "lastSeen": 1787464299,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6311,
+    "landing": 1
+  }
+]
