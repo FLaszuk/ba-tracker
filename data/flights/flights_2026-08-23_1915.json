@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT8356",
+    "firstSeen": 1787501073,
+    "lastSeen": 1787511917,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LTCF",
+    "flight_hours": 3.0122,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS9",
+    "firstSeen": 1787510785,
+    "lastSeen": 1787514888,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "KU03",
+    "flight_hours": 1.1397,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1787510165,
+    "lastSeen": 1787511953,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KU12",
+    "flight_hours": 0.4967,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1787509829,
+    "lastSeen": 1787512545,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.7544,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787513021,
+    "lastSeen": 1787517057,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KN14",
+    "flight_hours": 1.1211,
+    "landing": 1
+  }
+]
