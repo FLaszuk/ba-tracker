@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "440135",
+    "callsign": "MOZ98",
+    "firstSeen": 1787464325,
+    "lastSeen": 1787467140,
+    "estDepartureAirport": "LOWG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7819,
+    "landing": 1
+  },
+  {
+    "icao24": "440866",
+    "callsign": "GAC284X",
+    "firstSeen": 1787465504,
+    "lastSeen": 1787466629,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.3125,
+    "landing": 1
+  },
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1787462814,
+    "lastSeen": 1787467984,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.4361,
+    "landing": 1
+  },
+  {
+    "icao24": "adc995",
+    "callsign": "N988HK",
+    "firstSeen": 1787457686,
+    "lastSeen": 1787466318,
+    "estDepartureAirport": "VHHH",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3978,
+    "landing": 1
+  }
+]
