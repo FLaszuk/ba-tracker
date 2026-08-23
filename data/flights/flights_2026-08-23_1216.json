@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d02a1",
+    "callsign": "JFA99X",
+    "firstSeen": 1787487574,
+    "lastSeen": 1787489044,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.4083,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1787481431,
+    "lastSeen": 1787487528,
+    "estDepartureAirport": "EDDF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6936,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e7",
+    "callsign": "VJT474",
+    "firstSeen": 1787479147,
+    "lastSeen": 1787486851,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 2.14,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1787484018,
+    "lastSeen": 1787489332,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "LDSH",
+    "flight_hours": 1.4761,
+    "landing": 1
+  },
+  {
+    "icao24": "4d210b",
+    "callsign": "VJT119",
+    "firstSeen": 1787453955,
+    "lastSeen": 1787487303,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "UGTB",
+    "flight_hours": 9.2633,
+    "landing": 1
+  }
+]
