@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20d3",
+    "callsign": "GSM17X",
+    "firstSeen": 1787489457,
+    "lastSeen": 1787491035,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LESO",
+    "flight_hours": 0.4383,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2156",
+    "callsign": "SCO767",
+    "firstSeen": 1787488044,
+    "lastSeen": 1787492819,
+    "estDepartureAirport": "ENVA",
+    "estArrivalAirport": "EGZJ",
+    "flight_hours": 1.3264,
+    "landing": 1
+  }
+]
