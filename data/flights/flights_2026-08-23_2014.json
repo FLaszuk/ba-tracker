@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0fa8b",
+    "callsign": "EJA162",
+    "firstSeen": 1787511757,
+    "lastSeen": 1787516246,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 1.2469,
+    "landing": 1
+  },
+  {
+    "icao24": "aa88af",
+    "callsign": "N778VW",
+    "firstSeen": 1787515692,
+    "lastSeen": 1787517219,
+    "estDepartureAirport": "KHDC",
+    "estArrivalAirport": "K3R2",
+    "flight_hours": 0.4242,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787513021,
+    "lastSeen": 1787517057,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KN14",
+    "flight_hours": 1.1211,
+    "landing": 1
+  }
+]
