@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "30049f",
+    "callsign": "SIO619",
+    "firstSeen": 1787484805,
+    "lastSeen": 1787486152,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.3742,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02e2",
+    "callsign": "JFA32R",
+    "firstSeen": 1787481658,
+    "lastSeen": 1787483941,
+    "estDepartureAirport": "LIRS",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 0.6342,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e7",
+    "callsign": "VJT474",
+    "firstSeen": 1787479147,
+    "lastSeen": 1787486851,
+    "estDepartureAirport": "LGMK",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 2.14,
+    "landing": 1
+  }
+]
