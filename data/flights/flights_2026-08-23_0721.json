@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "493283",
+    "callsign": "NJE076T",
+    "firstSeen": 1787464435,
+    "lastSeen": 1787469726,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4697,
+    "landing": 1
+  },
+  {
+    "icao24": "abc1f0",
+    "callsign": "N857GA",
+    "firstSeen": 1787440015,
+    "lastSeen": 1787473256,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": "ZBTJ",
+    "flight_hours": 9.2336,
+    "landing": 1
+  }
+]
