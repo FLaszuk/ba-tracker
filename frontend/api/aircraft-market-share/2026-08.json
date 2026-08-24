@@ -3,14 +3,14 @@
   "data": [
     {
       "aircraft_manufacturer": "Bombardier",
-      "total_hours": 512.5,
-      "total_landings": 295,
+      "total_hours": 512.7,
+      "total_landings": 296,
       "market_share_pct": 29.1
     },
     {
       "aircraft_manufacturer": "Dassault",
-      "total_hours": 451.8,
-      "total_landings": 280,
+      "total_hours": 453.1,
+      "total_landings": 281,
       "market_share_pct": 25.7
     },
     {
@@ -27,15 +27,15 @@
     },
     {
       "aircraft_manufacturer": "Embraer",
-      "total_hours": 109.7,
-      "total_landings": 93,
-      "market_share_pct": 6.2
+      "total_hours": 111.1,
+      "total_landings": 94,
+      "market_share_pct": 6.3
     },
     {
       "aircraft_manufacturer": "Pilatus",
-      "total_hours": 68.3,
-      "total_landings": 62,
-      "market_share_pct": 3.9
+      "total_hours": 69.9,
+      "total_landings": 63,
+      "market_share_pct": 4.0
     },
     {
       "aircraft_manufacturer": "Eclipse Aerospace",

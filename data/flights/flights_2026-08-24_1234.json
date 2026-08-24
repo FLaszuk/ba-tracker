@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "40720a",
+    "callsign": "JCO007",
+    "firstSeen": 1787571739,
+    "lastSeen": 1787576574,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.3431,
+    "landing": 1
+  },
+  {
+    "icao24": "494107",
+    "callsign": "NJE643E",
+    "firstSeen": 1787569989,
+    "lastSeen": 1787575062,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.4092,
+    "landing": 1
+  },
+  {
+    "icao24": "a0cf55",
+    "callsign": "EJA151",
+    "firstSeen": 1787574929,
+    "lastSeen": 1787575698,
+    "estDepartureAirport": "KBHM",
+    "estArrivalAirport": "K3A7",
+    "flight_hours": 0.2136,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS519",
+    "firstSeen": 1787570619,
+    "lastSeen": 1787576609,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KGOV",
+    "flight_hours": 1.6639,
+    "landing": 1
+  }
+]
