@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "009ee0",
+    "callsign": "ZSLRJ",
+    "firstSeen": 1787552948,
+    "lastSeen": 1787554984,
+    "estDepartureAirport": "FAKR",
+    "estArrivalAirport": "FAHR",
+    "flight_hours": 0.5656,
+    "landing": 1
+  },
+  {
+    "icao24": "3003f5",
+    "callsign": "SIO615",
+    "firstSeen": 1787551746,
+    "lastSeen": 1787554270,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.7011,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1787549552,
+    "lastSeen": 1787553955,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 1.2231,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e3",
+    "callsign": "VJT534",
+    "firstSeen": 1787554235,
+    "lastSeen": 1787555485,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LGIO",
+    "flight_hours": 0.3472,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE974",
+    "firstSeen": 1787554262,
+    "lastSeen": 1787555749,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YMDG",
+    "flight_hours": 0.4131,
+    "landing": 1
+  },
+  {
+    "icao24": "8a0191",
+    "callsign": "PKBKS",
+    "firstSeen": 1787550817,
+    "lastSeen": 1787553386,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7136,
+    "landing": 1
+  }
+]
