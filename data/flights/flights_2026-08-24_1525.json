@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA51J",
+    "firstSeen": 1787584368,
+    "lastSeen": 1787587916,
+    "estDepartureAirport": "LFKF",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.9856,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e4ba",
+    "callsign": "N414TW",
+    "firstSeen": 1787583055,
+    "lastSeen": 1787585127,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 0.5756,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f434",
+    "callsign": "N611TX",
+    "firstSeen": 1787584896,
+    "lastSeen": 1787587243,
+    "estDepartureAirport": "9NC6",
+    "estArrivalAirport": "WV00",
+    "flight_hours": 0.6519,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4c60",
+    "callsign": "EJA956",
+    "firstSeen": 1787583811,
+    "lastSeen": 1787587094,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9119,
+    "landing": 1
+  },
+  {
+    "icao24": "ad8907",
+    "callsign": "RLI971",
+    "firstSeen": 1787579939,
+    "lastSeen": 1787587066,
+    "estDepartureAirport": "KDXR",
+    "estArrivalAirport": "KGLR",
+    "flight_hours": 1.9797,
+    "landing": 1
+  }
+]
