@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a056c5",
+    "callsign": "N1205M",
+    "firstSeen": 1787587857,
+    "lastSeen": 1787594400,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "WY11",
+    "flight_hours": 1.8175,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bbe5",
+    "callsign": "AXEL21",
+    "firstSeen": 1787589392,
+    "lastSeen": 1787592492,
+    "estDepartureAirport": "KGRK",
+    "estArrivalAirport": "OK39",
+    "flight_hours": 0.8611,
+    "landing": 1
+  },
+  {
+    "icao24": "a98143",
+    "callsign": "TWY651",
+    "firstSeen": 1787588527,
+    "lastSeen": 1787592411,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "0ID2",
+    "flight_hours": 1.0789,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8a8e",
+    "callsign": "N779AZ",
+    "firstSeen": 1787583697,
+    "lastSeen": 1787591793,
+    "estDepartureAirport": "KMEM",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 2.2489,
+    "landing": 1
+  },
+  {
+    "icao24": "ac705a",
+    "callsign": "JAS99",
+    "firstSeen": 1787580798,
+    "lastSeen": 1787593128,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.425,
+    "landing": 1
+  }
+]
