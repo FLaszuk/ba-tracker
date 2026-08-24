@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW459",
+    "firstSeen": 1787574912,
+    "lastSeen": 1787578435,
+    "estDepartureAirport": "EDJA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9786,
+    "landing": 1
+  },
+  {
+    "icao24": "494102",
+    "callsign": "NJE9QL",
+    "firstSeen": 1787578992,
+    "lastSeen": 1787582372,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.9389,
+    "landing": 1
+  },
+  {
+    "icao24": "a25b3b",
+    "callsign": "CNS422",
+    "firstSeen": 1787577943,
+    "lastSeen": 1787579716,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4925,
+    "landing": 1
+  },
+  {
+    "icao24": "a500c5",
+    "callsign": "EJM21",
+    "firstSeen": 1787574216,
+    "lastSeen": 1787577903,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.0242,
+    "landing": 1
+  },
+  {
+    "icao24": "ad527f",
+    "callsign": "N958BG",
+    "firstSeen": 1787576915,
+    "lastSeen": 1787579995,
+    "estDepartureAirport": "KTLH",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.8556,
+    "landing": 1
+  }
+]
