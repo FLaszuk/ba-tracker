@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE974",
+    "firstSeen": 1787540533,
+    "lastSeen": 1787541644,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YPFT",
+    "flight_hours": 0.3086,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a343",
+    "callsign": "MNL5",
+    "firstSeen": 1787540005,
+    "lastSeen": 1787542617,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.7256,
+    "landing": 1
+  }
+]
