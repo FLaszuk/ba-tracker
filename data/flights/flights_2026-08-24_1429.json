@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "490d0a",
+    "callsign": "NJE700Y",
+    "firstSeen": 1787580250,
+    "lastSeen": 1787583213,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8231,
+    "landing": 1
+  },
+  {
+    "icao24": "494102",
+    "callsign": "NJE9QL",
+    "firstSeen": 1787578992,
+    "lastSeen": 1787582372,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.9389,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT9ZH",
+    "firstSeen": 1787581253,
+    "lastSeen": 1787583885,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.7311,
+    "landing": 1
+  },
+  {
+    "icao24": "a0be20",
+    "callsign": "EJA147",
+    "firstSeen": 1787580034,
+    "lastSeen": 1787582120,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5794,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS519",
+    "firstSeen": 1787580743,
+    "lastSeen": 1787583570,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "WI10",
+    "flight_hours": 0.7853,
+    "landing": 1
+  },
+  {
+    "icao24": "a5e790",
+    "callsign": "N48PL",
+    "firstSeen": 1787580191,
+    "lastSeen": 1787584115,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 1.09,
+    "landing": 1
+  }
+]
