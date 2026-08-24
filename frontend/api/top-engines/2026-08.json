@@ -50,16 +50,16 @@
       "total_landings": 39
     },
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 56.3,
+      "total_landings": 42
+    },
+    {
       "engine_manufacturer": "Pratt & Whitney Canada",
       "engine_model": "PW535",
       "total_hours": 53.5,
       "total_landings": 47
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "HTF7350",
-      "total_hours": 52.3,
-      "total_landings": 41
     }
   ]
 }

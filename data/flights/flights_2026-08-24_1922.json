@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2119",
+    "callsign": "VJT405",
+    "firstSeen": 1787585001,
+    "lastSeen": 1787599102,
+    "estDepartureAirport": "LBSF",
+    "estArrivalAirport": "GMFM",
+    "flight_hours": 3.9169,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1787590470,
+    "lastSeen": 1787600004,
+    "estDepartureAirport": "SC24",
+    "estArrivalAirport": "SD65",
+    "flight_hours": 2.6483,
+    "landing": 1
+  }
+]
