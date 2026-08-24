@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1787584985,
+    "lastSeen": 1787596722,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 3.2603,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1787590470,
+    "lastSeen": 1787600004,
+    "estDepartureAirport": "SC24",
+    "estArrivalAirport": "SD65",
+    "flight_hours": 2.6483,
+    "landing": 1
+  }
+]
