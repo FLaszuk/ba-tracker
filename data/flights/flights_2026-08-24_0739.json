@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300635",
+    "callsign": "SIO501",
+    "firstSeen": 1787552657,
+    "lastSeen": 1787558636,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": "LGTL",
+    "flight_hours": 1.6608,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU31CM",
+    "firstSeen": 1787552130,
+    "lastSeen": 1787558023,
+    "estDepartureAirport": "LFPO",
+    "estArrivalAirport": "LIAP",
+    "flight_hours": 1.6369,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0211",
+    "callsign": "SVW68JK",
+    "firstSeen": 1787555390,
+    "lastSeen": 1787557440,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.5694,
+    "landing": 1
+  }
+]
