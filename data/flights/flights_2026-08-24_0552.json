@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "00878f",
+    "callsign": "GCM143",
+    "firstSeen": 1787550236,
+    "lastSeen": 1787551404,
+    "estDepartureAirport": "FAOR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3244,
+    "landing": 1
+  },
+  {
+    "icao24": "009ee0",
+    "callsign": "ZSLRJ",
+    "firstSeen": 1787550418,
+    "lastSeen": 1787551194,
+    "estDepartureAirport": "FALA",
+    "estArrivalAirport": "FADB",
+    "flight_hours": 0.2156,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ1D",
+    "firstSeen": 1787548123,
+    "lastSeen": 1787552922,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3331,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT13EP",
+    "firstSeen": 1787544796,
+    "lastSeen": 1787551550,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 1.8761,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT2HX",
+    "firstSeen": 1787540525,
+    "lastSeen": 1787550554,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "8a0191",
+    "callsign": "PKBKS",
+    "firstSeen": 1787550817,
+    "lastSeen": 1787553386,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7136,
+    "landing": 1
+  }
+]
