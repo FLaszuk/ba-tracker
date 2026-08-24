@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1787602120,
+    "lastSeen": 1787603201,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KFBR",
+    "flight_hours": 0.3003,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1787604349,
+    "lastSeen": 1787605353,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "OL04",
+    "flight_hours": 0.2789,
+    "landing": 1
+  }
+]
