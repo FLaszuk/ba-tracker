@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3442c9",
+    "callsign": "GES091F",
+    "firstSeen": 1787655586,
+    "lastSeen": 1787656731,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LEVD",
+    "flight_hours": 0.3181,
+    "landing": 1
+  },
+  {
+    "icao24": "3cd2d3",
+    "callsign": "SCR744",
+    "firstSeen": 1787648080,
+    "lastSeen": 1787655461,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0503,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1787651991,
+    "lastSeen": 1787654970,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8275,
+    "landing": 1
+  },
+  {
+    "icao24": "a4acbd",
+    "callsign": "N400BC",
+    "firstSeen": 1787651646,
+    "lastSeen": 1787654938,
+    "estDepartureAirport": "LFAC",
+    "estArrivalAirport": "LFLL",
+    "flight_hours": 0.9144,
+    "landing": 1
+  }
+]
