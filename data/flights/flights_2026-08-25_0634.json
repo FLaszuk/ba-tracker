@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC282",
+    "firstSeen": 1787638023,
+    "lastSeen": 1787644822,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.8886,
+    "landing": 1
+  },
+  {
+    "icao24": "4d02c2",
+    "callsign": "JFA69U",
+    "firstSeen": 1787639894,
+    "lastSeen": 1787641114,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 0.3389,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1787629967,
+    "lastSeen": 1787641159,
+    "estDepartureAirport": "UGTB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1089,
+    "landing": 1
+  },
+  {
+    "icao24": "896c6b",
+    "callsign": "YASAT50",
+    "firstSeen": 1787641640,
+    "lastSeen": 1787642895,
+    "estDepartureAirport": "OMAA",
+    "estArrivalAirport": "OMDM",
+    "flight_hours": 0.3486,
+    "landing": 1
+  }
+]
