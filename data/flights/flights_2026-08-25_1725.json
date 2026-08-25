@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a375df",
+    "callsign": "N322BH",
+    "firstSeen": 1787669585,
+    "lastSeen": 1787680639,
+    "estDepartureAirport": "WI95",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.0706,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1787677212,
+    "lastSeen": 1787682572,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.4889,
+    "landing": 1
+  }
+]
