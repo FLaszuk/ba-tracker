@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d086d",
+    "callsign": "XAPAZ",
+    "firstSeen": 1787687901,
+    "lastSeen": 1787696639,
+    "estDepartureAirport": "KCHS",
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 2.4272,
+    "landing": 1
+  },
+  {
+    "icao24": "a0ab8d",
+    "callsign": "EJA142",
+    "firstSeen": 1787689565,
+    "lastSeen": 1787693388,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.0619,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7fb7",
+    "callsign": "N904TF",
+    "firstSeen": 1787690389,
+    "lastSeen": 1787693639,
+    "estDepartureAirport": "K7K8",
+    "estArrivalAirport": "KE42",
+    "flight_hours": 0.9028,
+    "landing": 1
+  }
+]
