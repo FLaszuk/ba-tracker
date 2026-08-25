@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1787663995,
+    "lastSeen": 1787677427,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 3.7311,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ba22",
+    "callsign": "N275M",
+    "firstSeen": 1787674592,
+    "lastSeen": 1787675791,
+    "estDepartureAirport": "65TN",
+    "estArrivalAirport": "WV77",
+    "flight_hours": 0.3331,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ab89",
+    "callsign": "N40NW",
+    "firstSeen": 1787656689,
+    "lastSeen": 1787677284,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "EGNT",
+    "flight_hours": 5.7208,
+    "landing": 1
+  },
+  {
+    "icao24": "c069a9",
+    "callsign": "CGOAI",
+    "firstSeen": 1787673909,
+    "lastSeen": 1787674975,
+    "estDepartureAirport": "CYFJ",
+    "estArrivalAirport": "CYUL",
+    "flight_hours": 0.2961,
+    "landing": 1
+  }
+]
