@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW1510",
+    "firstSeen": 1787676328,
+    "lastSeen": 1787681622,
+    "estDepartureAirport": "MMHO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4706,
+    "landing": 1
+  },
+  {
+    "icao24": "a13e8c",
+    "callsign": "N18CG",
+    "firstSeen": 1787679599,
+    "lastSeen": 1787681601,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "PA33",
+    "flight_hours": 0.5561,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1787680807,
+    "lastSeen": 1787684530,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "4PA6",
+    "flight_hours": 1.0342,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787685073,
+    "lastSeen": 1787687787,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KN40",
+    "flight_hours": 0.7539,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1787677212,
+    "lastSeen": 1787682572,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.4889,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1787682670,
+    "lastSeen": 1787683214,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSTB",
+    "flight_hours": 0.1511,
+    "landing": 1
+  }
+]
