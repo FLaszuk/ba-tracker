@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a54beb",
+    "callsign": "PJC40",
+    "firstSeen": 1787662741,
+    "lastSeen": 1787666788,
+    "estDepartureAirport": "KAVL",
+    "estArrivalAirport": "KBTP",
+    "flight_hours": 1.1242,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a87",
+    "callsign": "GLF68",
+    "firstSeen": 1787665772,
+    "lastSeen": 1787669138,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.935,
+    "landing": 1
+  }
+]
