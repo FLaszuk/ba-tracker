@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4844ab",
+    "callsign": "ARU908",
+    "firstSeen": 1787684497,
+    "lastSeen": 1787690008,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5308,
+    "landing": 1
+  },
+  {
+    "icao24": "ab256a",
+    "callsign": "N817X",
+    "firstSeen": 1787687435,
+    "lastSeen": 1787691205,
+    "estDepartureAirport": "KPNS",
+    "estArrivalAirport": "II49",
+    "flight_hours": 1.0472,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1787689557,
+    "lastSeen": 1787689991,
+    "estDepartureAirport": "CGN3",
+    "estArrivalAirport": "CEF3",
+    "flight_hours": 0.1206,
+    "landing": 1
+  }
+]
