@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440591",
+    "callsign": "GAC236H",
+    "firstSeen": 1787659067,
+    "lastSeen": 1787661753,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7461,
+    "landing": 1
+  },
+  {
+    "icao24": "a54beb",
+    "callsign": "PJC40",
+    "firstSeen": 1787662741,
+    "lastSeen": 1787666788,
+    "estDepartureAirport": "KAVL",
+    "estArrivalAirport": "KBTP",
+    "flight_hours": 1.1242,
+    "landing": 1
+  }
+]
