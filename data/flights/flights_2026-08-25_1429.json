@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1787668204,
+    "lastSeen": 1787670537,
+    "estDepartureAirport": "LIPE",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.6481,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc319",
+    "callsign": "DCBEN",
+    "firstSeen": 1787666221,
+    "lastSeen": 1787671862,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LGTS",
+    "flight_hours": 1.5669,
+    "landing": 1
+  },
+  {
+    "icao24": "484f50",
+    "callsign": "FYG62V",
+    "firstSeen": 1787661037,
+    "lastSeen": 1787668872,
+    "estDepartureAirport": "EGWU",
+    "estArrivalAirport": "LIRI",
+    "flight_hours": 2.1764,
+    "landing": 1
+  },
+  {
+    "icao24": "4850bd",
+    "callsign": "P4AAG",
+    "firstSeen": 1787665109,
+    "lastSeen": 1787668542,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "LGTL",
+    "flight_hours": 0.9536,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1787664370,
+    "lastSeen": 1787669052,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3006,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a87",
+    "callsign": "GLF68",
+    "firstSeen": 1787665772,
+    "lastSeen": 1787669138,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.935,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1787666024,
+    "lastSeen": 1787668009,
+    "estDepartureAirport": "KBTN",
+    "estArrivalAirport": "KHZE",
+    "flight_hours": 0.5514,
+    "landing": 1
+  }
+]
