@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR5BQ",
+    "firstSeen": 1787632298,
+    "lastSeen": 1787637237,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.3719,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE980",
+    "firstSeen": 1787635611,
+    "lastSeen": 1787638462,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YFDN",
+    "flight_hours": 0.7919,
+    "landing": 1
+  }
+]
