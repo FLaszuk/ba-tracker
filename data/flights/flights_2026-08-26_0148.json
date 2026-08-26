@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a368dd",
+    "callsign": "N319GG",
+    "firstSeen": 1787708839,
+    "lastSeen": 1787710615,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.4933,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1787707298,
+    "lastSeen": 1787711080,
+    "estDepartureAirport": "KTYQ",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.0506,
+    "landing": 1
+  }
+]
