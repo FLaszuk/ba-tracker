@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3003f5",
+    "callsign": "SIO615",
+    "firstSeen": 1787731358,
+    "lastSeen": 1787734027,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.7414,
+    "landing": 1
+  },
+  {
+    "icao24": "3cce03",
+    "callsign": "DWW306",
+    "firstSeen": 1787731951,
+    "lastSeen": 1787736273,
+    "estDepartureAirport": "LFPM",
+    "estArrivalAirport": "EDSA",
+    "flight_hours": 1.2006,
+    "landing": 1
+  },
+  {
+    "icao24": "4689d2",
+    "callsign": "AEW1075",
+    "firstSeen": 1787734544,
+    "lastSeen": 1787736458,
+    "estDepartureAirport": "LGAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5317,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1787728934,
+    "lastSeen": 1787738004,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 2.5194,
+    "landing": 1
+  },
+  {
+    "icao24": "e030cf",
+    "callsign": "LVCCO",
+    "firstSeen": 1787734302,
+    "lastSeen": 1787735547,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SUMU",
+    "flight_hours": 0.3458,
+    "landing": 1
+  }
+]

@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 231.2,
-      "total_landings": 151
+      "total_hours": 232.0,
+      "total_landings": 152
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -38,16 +38,16 @@
       "total_landings": 72
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 60.4,
+      "total_landings": 69
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 74.3,
       "total_landings": 69
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 57.0,
-      "total_landings": 66
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -58,8 +58,8 @@
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 56.0,
-      "total_landings": 50
+      "total_hours": 57.2,
+      "total_landings": 51
     }
   ]
 }
