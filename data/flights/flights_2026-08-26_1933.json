@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a57412",
+    "callsign": "N450WB",
+    "firstSeen": 1787770625,
+    "lastSeen": 1787773397,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "MT53",
+    "flight_hours": 0.77,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1787770798,
+    "lastSeen": 1787774353,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9875,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1787770201,
+    "lastSeen": 1787774288,
+    "estDepartureAirport": "K1H2",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 1.1353,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1787772986,
+    "lastSeen": 1787776508,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KN87",
+    "flight_hours": 0.9783,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1787769977,
+    "lastSeen": 1787773554,
+    "estDepartureAirport": "SKBO",
+    "estArrivalAirport": "SKCG",
+    "flight_hours": 0.9936,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1787769039,
+    "lastSeen": 1787772264,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "K5S6",
+    "flight_hours": 0.8958,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1787774447,
+    "lastSeen": 1787777157,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SBAX",
+    "flight_hours": 0.7528,
+    "landing": 1
+  }
+]
