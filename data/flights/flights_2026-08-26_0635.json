@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "008831",
+    "callsign": "ZSDCA",
+    "firstSeen": 1787721803,
+    "lastSeen": 1787727418,
+    "estDepartureAirport": "FACT",
+    "estArrivalAirport": "FAMS",
+    "flight_hours": 1.5597,
+    "landing": 1
+  },
+  {
+    "icao24": "48d409",
+    "callsign": "JDI10A",
+    "firstSeen": 1787720658,
+    "lastSeen": 1787725605,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 1.3742,
+    "landing": 1
+  },
+  {
+    "icao24": "491306",
+    "callsign": "NJE865A",
+    "firstSeen": 1787721666,
+    "lastSeen": 1787728425,
+    "estDepartureAirport": "LIEE",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 1.8775,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT503",
+    "firstSeen": 1787716549,
+    "lastSeen": 1787726438,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7469,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2133",
+    "callsign": "VJT431",
+    "firstSeen": 1787722794,
+    "lastSeen": 1787726608,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LYNK",
+    "flight_hours": 1.0594,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1787724355,
+    "lastSeen": 1787725894,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4275,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1787724118,
+    "lastSeen": 1787728030,
+    "estDepartureAirport": "AZ00",
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 1.0867,
+    "landing": 1
+  }
+]
