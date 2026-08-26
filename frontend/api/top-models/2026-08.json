@@ -38,15 +38,15 @@
       "total_landings": 72
     },
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 74.9,
+      "total_landings": 70
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 60.4,
-      "total_landings": 69
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 74.3,
       "total_landings": 69
     },
     {
@@ -58,8 +58,8 @@
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 57.2,
-      "total_landings": 51
+      "total_hours": 57.4,
+      "total_landings": 52
     }
   ]
 }

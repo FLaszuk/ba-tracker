@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49d086",
+    "callsign": "AAO26",
+    "firstSeen": 1787747210,
+    "lastSeen": 1787749526,
+    "estDepartureAirport": "LHPR",
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 0.6433,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS524",
+    "firstSeen": 1787746957,
+    "lastSeen": 1787748989,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5644,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1787749753,
+    "lastSeen": 1787750471,
+    "estDepartureAirport": "SBRJ",
+    "estArrivalAirport": "SNAO",
+    "flight_hours": 0.1994,
+    "landing": 1
+  }
+]
