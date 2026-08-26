@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "42474f",
+    "callsign": "TBJ82",
+    "firstSeen": 1787746939,
+    "lastSeen": 1787755803,
+    "estDepartureAirport": "ZBTJ",
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 2.4622,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU95RP",
+    "firstSeen": 1787736544,
+    "lastSeen": 1787754807,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 5.0731,
+    "landing": 1
+  },
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1787751535,
+    "lastSeen": 1787753148,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LIPB",
+    "flight_hours": 0.4481,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c7f3",
+    "callsign": "LN279AH",
+    "firstSeen": 1787757120,
+    "lastSeen": 1787759126,
+    "estDepartureAirport": "KCRW",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.5572,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bd74",
+    "callsign": "N404WC",
+    "firstSeen": 1787748721,
+    "lastSeen": 1787754253,
+    "estDepartureAirport": "KBMQ",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.5367,
+    "landing": 1
+  },
+  {
+    "icao24": "a76901",
+    "callsign": "N577GA",
+    "firstSeen": 1787758611,
+    "lastSeen": 1787759886,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KSAV",
+    "flight_hours": 0.3542,
+    "landing": 1
+  }
+]
