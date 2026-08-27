@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "493033",
+    "callsign": "NJE372L",
+    "firstSeen": 1787827066,
+    "lastSeen": 1787830306,
+    "estDepartureAirport": "LCPH",
+    "estArrivalAirport": "LGIR",
+    "flight_hours": 0.9,
+    "landing": 1
+  },
+  {
+    "icao24": "a06a02",
+    "callsign": "CNS42",
+    "firstSeen": 1787826166,
+    "lastSeen": 1787835574,
+    "estDepartureAirport": "KMHT",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 2.6133,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7060",
+    "callsign": "N900NH",
+    "firstSeen": 1787829037,
+    "lastSeen": 1787830228,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.3308,
+    "landing": 1
+  }
+]
