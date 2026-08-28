@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d2065",
+    "callsign": "VJT719",
+    "firstSeen": 1787914260,
+    "lastSeen": 1787942526,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 7.8517,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2155",
+    "callsign": "VJT993",
+    "firstSeen": 1787941751,
+    "lastSeen": 1787941751,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 0.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1787944273,
+    "lastSeen": 1787947919,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 1.0128,
+    "landing": 1
+  }
+]
