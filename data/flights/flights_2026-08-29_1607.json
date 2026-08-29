@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a37644",
+    "callsign": "N322FJ",
+    "firstSeen": 1787992736,
+    "lastSeen": 1788023576,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 8.5667,
+    "landing": 1
+  },
+  {
+    "icao24": "a38961",
+    "callsign": "N327LX",
+    "firstSeen": 1788019420,
+    "lastSeen": 1788023009,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "KPHL",
+    "flight_hours": 0.9969,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1788009260,
+    "lastSeen": 1788020637,
+    "estDepartureAirport": "KSOP",
+    "estArrivalAirport": null,
+    "flight_hours": 3.1603,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8d19",
+    "callsign": "N908CC",
+    "firstSeen": 1788015142,
+    "lastSeen": 1788020081,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KAFO",
+    "flight_hours": 1.3719,
+    "landing": 1
+  }
+]
