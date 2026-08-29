@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "300371",
+    "callsign": "LSA202",
+    "firstSeen": 1788005097,
+    "lastSeen": 1788010323,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4517,
+    "landing": 1
+  },
+  {
+    "icao24": "3c5192",
+    "callsign": "DADLR",
+    "firstSeen": 1788002362,
+    "lastSeen": 1788009296,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SSBY",
+    "flight_hours": 1.9261,
+    "landing": 1
+  },
+  {
+    "icao24": "a7bd16",
+    "callsign": "N598WC",
+    "firstSeen": 1788006535,
+    "lastSeen": 1788009807,
+    "estDepartureAirport": "LATI",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 0.9089,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3bc6",
+    "callsign": "N8228N",
+    "firstSeen": 1788008625,
+    "lastSeen": 1788010331,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KDXR",
+    "flight_hours": 0.4739,
+    "landing": 1
+  },
+  {
+    "icao24": "e80907",
+    "callsign": "CCCPS",
+    "firstSeen": 1788006821,
+    "lastSeen": 1788007456,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "SCGM",
+    "flight_hours": 0.1764,
+    "landing": 1
+  }
+]
