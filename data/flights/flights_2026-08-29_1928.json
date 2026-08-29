@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT44NX",
+    "firstSeen": 1788029707,
+    "lastSeen": 1788032789,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.8561,
+    "landing": 1
+  },
+  {
+    "icao24": "a3230f",
+    "callsign": "N301AF",
+    "firstSeen": 1788018642,
+    "lastSeen": 1788033329,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 4.0797,
+    "landing": 1
+  }
+]
