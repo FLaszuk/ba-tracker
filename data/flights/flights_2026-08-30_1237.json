@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1788090682,
+    "lastSeen": 1788093079,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6658,
+    "landing": 1
+  },
+  {
+    "icao24": "49130d",
+    "callsign": "NJE647R",
+    "firstSeen": 1788084518,
+    "lastSeen": 1788094316,
+    "estDepartureAirport": "EGTE",
+    "estArrivalAirport": "LAVL",
+    "flight_hours": 2.7217,
+    "landing": 1
+  },
+  {
+    "icao24": "a023b9",
+    "callsign": "WDY108",
+    "firstSeen": 1788092864,
+    "lastSeen": 1788094782,
+    "estDepartureAirport": "KBKL",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 0.5328,
+    "landing": 1
+  }
+]
