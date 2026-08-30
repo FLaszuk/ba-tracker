@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0c1d7",
+    "callsign": "EJA148",
+    "firstSeen": 1788119116,
+    "lastSeen": 1788121485,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 0.6581,
+    "landing": 1
+  },
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1788112366,
+    "lastSeen": 1788119454,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 1.9689,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1788111889,
+    "lastSeen": 1788121673,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 2.7178,
+    "landing": 1
+  }
+]
