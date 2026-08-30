@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44052d",
+    "callsign": "GAC673B",
+    "firstSeen": 1788071778,
+    "lastSeen": 1788075642,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIRM",
+    "flight_hours": 1.0733,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1788070822,
+    "lastSeen": 1788075701,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.3553,
+    "landing": 1
+  }
+]
