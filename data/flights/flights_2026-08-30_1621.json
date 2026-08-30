@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "300473",
+    "callsign": "SIO624",
+    "firstSeen": 1788105581,
+    "lastSeen": 1788108612,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8419,
+    "landing": 1
+  },
+  {
+    "icao24": "3c7583",
+    "callsign": "BVR505",
+    "firstSeen": 1788053527,
+    "lastSeen": 1788107205,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "EDNY",
+    "flight_hours": 14.9106,
+    "landing": 1
+  },
+  {
+    "icao24": "4b90ee",
+    "callsign": "TCDGN",
+    "firstSeen": 1788105159,
+    "lastSeen": 1788106367,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LTBM",
+    "flight_hours": 0.3356,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ae0",
+    "callsign": "N315RE",
+    "firstSeen": 1788106683,
+    "lastSeen": 1788107670,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.2742,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "N978QS",
+    "firstSeen": 1788110407,
+    "lastSeen": 1788112012,
+    "estDepartureAirport": "SKBO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4458,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1788107633,
+    "lastSeen": 1788108482,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBME",
+    "flight_hours": 0.2358,
+    "landing": 1
+  }
+]
