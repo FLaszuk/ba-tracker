@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2d56f",
+    "callsign": "CNS328",
+    "firstSeen": 1788122430,
+    "lastSeen": 1788128262,
+    "estDepartureAirport": "KAEG",
+    "estArrivalAirport": "7XS3",
+    "flight_hours": 1.62,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1788124774,
+    "lastSeen": 1788127588,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "OG54",
+    "flight_hours": 0.7817,
+    "landing": 1
+  },
+  {
+    "icao24": "adc30c",
+    "callsign": "LJY840",
+    "firstSeen": 1788118580,
+    "lastSeen": 1788131025,
+    "estDepartureAirport": "KBTR",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 3.4569,
+    "landing": 1
+  },
+  {
+    "icao24": "e47def",
+    "callsign": "PTWYC",
+    "firstSeen": 1788126460,
+    "lastSeen": 1788130599,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 1.1497,
+    "landing": 1
+  }
+]
