@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "3938b7",
+    "callsign": "DSO31FX",
+    "firstSeen": 1788178336,
+    "lastSeen": 1788180541,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": "EPRP",
+    "flight_hours": 0.6125,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH73W",
+    "firstSeen": 1788177070,
+    "lastSeen": 1788180321,
+    "estDepartureAirport": "EDDM",
+    "estArrivalAirport": "LOWW",
+    "flight_hours": 0.9031,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ2DU",
+    "firstSeen": 1788170881,
+    "lastSeen": 1788180280,
+    "estDepartureAirport": "LMML",
+    "estArrivalAirport": "EPRP",
+    "flight_hours": 2.6108,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1788179025,
+    "lastSeen": 1788182422,
+    "estDepartureAirport": "LSGS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9436,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2127",
+    "callsign": "VJT418",
+    "firstSeen": 1788179858,
+    "lastSeen": 1788182585,
+    "estDepartureAirport": "LIAP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7575,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214f",
+    "callsign": "AJD214K",
+    "firstSeen": 1788179502,
+    "lastSeen": 1788184626,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "EGGW",
+    "flight_hours": 1.4233,
+    "landing": 1
+  },
+  {
+    "icao24": "506f24",
+    "callsign": "LSV101",
+    "firstSeen": 1788173064,
+    "lastSeen": 1788183952,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": "EIDW",
+    "flight_hours": 3.0244,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11be",
+    "callsign": "N748RE",
+    "firstSeen": 1788181100,
+    "lastSeen": 1788184777,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KRHI",
+    "flight_hours": 1.0214,
+    "landing": 1
+  }
+]
