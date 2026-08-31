@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "494103",
+    "callsign": "NJE887W",
+    "firstSeen": 1788193548,
+    "lastSeen": 1788202084,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "EGNM",
+    "flight_hours": 2.3711,
+    "landing": 1
+  },
+  {
+    "icao24": "a413cb",
+    "callsign": "XSR362",
+    "firstSeen": 1788200645,
+    "lastSeen": 1788202079,
+    "estDepartureAirport": "KAAO",
+    "estArrivalAirport": "KAAO",
+    "flight_hours": 0.3983,
+    "landing": 1
+  },
+  {
+    "icao24": "a413cb",
+    "callsign": "XSR362",
+    "firstSeen": 1788203759,
+    "lastSeen": 1788205894,
+    "estDepartureAirport": "KAAO",
+    "estArrivalAirport": "KAAO",
+    "flight_hours": 0.5931,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1788204434,
+    "lastSeen": 1788206235,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.5003,
+    "landing": 1
+  },
+  {
+    "icao24": "adf1a2",
+    "callsign": "N998PB",
+    "firstSeen": 1788197813,
+    "lastSeen": 1788200682,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "NV44",
+    "flight_hours": 0.7969,
+    "landing": 1
+  },
+  {
+    "icao24": "e48d22",
+    "callsign": "PRMJM",
+    "firstSeen": 1788201641,
+    "lastSeen": 1788203208,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.4353,
+    "landing": 1
+  }
+]
