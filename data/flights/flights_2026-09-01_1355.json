@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI573",
+    "firstSeen": 1788267847,
+    "lastSeen": 1788271688,
+    "estDepartureAirport": "LSZB",
+    "estArrivalAirport": "LQVI",
+    "flight_hours": 1.0669,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1788270758,
+    "lastSeen": 1788271036,
+    "estDepartureAirport": "IS47",
+    "estArrivalAirport": "KDKB",
+    "flight_hours": 0.0772,
+    "landing": 1
+  },
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1788269996,
+    "lastSeen": 1788273371,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.9375,
+    "landing": 1
+  },
+  {
+    "icao24": "a6aaaa",
+    "callsign": "TWY529",
+    "firstSeen": 1788267392,
+    "lastSeen": 1788270884,
+    "estDepartureAirport": "KAXV",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 0.97,
+    "landing": 1
+  },
+  {
+    "icao24": "acad4a",
+    "callsign": "N916DK",
+    "firstSeen": 1788268857,
+    "lastSeen": 1788270944,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5797,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC381",
+    "firstSeen": 1788266629,
+    "lastSeen": 1788272878,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7358,
+    "landing": 1
+  },
+  {
+    "icao24": "e40130",
+    "callsign": "PPXVJ",
+    "firstSeen": 1788268203,
+    "lastSeen": 1788270768,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7125,
+    "landing": 1
+  }
+]

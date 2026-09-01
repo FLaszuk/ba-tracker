@@ -383,6 +383,10 @@
       "2026-08": {
         "hours": 515.7,
         "landings": 323
+      },
+      "2026-09": {
+        "hours": 1.1,
+        "landings": 1
       }
     },
     "Cessna (Textron)": {
@@ -555,8 +559,8 @@
         "landings": 227
       },
       "2026-09": {
-        "hours": 0.7,
-        "landings": 1
+        "hours": 1.3,
+        "landings": 3
       }
     },
     "Bombardier": {
@@ -729,8 +733,8 @@
         "landings": 342
       },
       "2026-09": {
-        "hours": 1.8,
-        "landings": 2
+        "hours": 4.5,
+        "landings": 4
       }
     },
     "Embraer": {
@@ -903,8 +907,8 @@
         "landings": 112
       },
       "2026-09": {
-        "hours": 3.3,
-        "landings": 3
+        "hours": 4.0,
+        "landings": 4
       }
     },
     "Pilatus": {
@@ -1075,6 +1079,10 @@
       "2026-08": {
         "hours": 81.7,
         "landings": 75
+      },
+      "2026-09": {
+        "hours": 0.9,
+        "landings": 1
       }
     },
     "Eclipse Aerospace": {
