@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE994",
+    "firstSeen": 1788237112,
+    "lastSeen": 1788239564,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6811,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8668",
+    "callsign": "N7777U",
+    "firstSeen": 1788233707,
+    "lastSeen": 1788236339,
+    "estDepartureAirport": "RKSS",
+    "estArrivalAirport": "RKPK",
+    "flight_hours": 0.7311,
+    "landing": 1
+  }
+]

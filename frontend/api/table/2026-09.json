@@ -1,0 +1,28 @@
+{
+  "month": "2026-09",
+  "total": 2,
+  "offset": 0,
+  "limit": 2,
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 0.7,
+      "total_landings": 1,
+      "aircraft_market_share": 51.77,
+      "engine_market_share": 51.77
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW615F",
+      "total_hours": 0.7,
+      "total_landings": 1,
+      "aircraft_market_share": 48.23,
+      "engine_market_share": 48.23
+    }
+  ]
+}
