@@ -2,34 +2,34 @@
   "month": "2026-09",
   "data": [
     {
+      "aircraft_manufacturer": "Bombardier",
+      "total_hours": 7.3,
+      "total_landings": 6,
+      "market_share_pct": 33.7
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "total_hours": 4.7,
       "total_landings": 5,
-      "market_share_pct": 30.9
+      "market_share_pct": 21.7
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "total_hours": 4.5,
-      "total_landings": 4,
-      "market_share_pct": 29.7
+      "aircraft_manufacturer": "Dassault",
+      "total_hours": 4.7,
+      "total_landings": 2,
+      "market_share_pct": 21.8
     },
     {
       "aircraft_manufacturer": "Embraer",
       "total_hours": 4.0,
       "total_landings": 4,
-      "market_share_pct": 26.2
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "total_hours": 1.1,
-      "total_landings": 1,
-      "market_share_pct": 7.0
+      "market_share_pct": 18.4
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "total_hours": 0.9,
       "total_landings": 1,
-      "market_share_pct": 6.2
+      "market_share_pct": 4.3
     }
   ]
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d08d9",
+    "callsign": "XASKA",
+    "firstSeen": 1788288050,
+    "lastSeen": 1788294064,
+    "estDepartureAirport": "SBGR",
+    "estArrivalAirport": "SWDQ",
+    "flight_hours": 1.6706,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a7d6",
+    "callsign": "EJA141",
+    "firstSeen": 1788291535,
+    "lastSeen": 1788295486,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 1.0975,
+    "landing": 1
+  },
+  {
+    "icao24": "aaf47b",
+    "callsign": "N805AL",
+    "firstSeen": 1788280554,
+    "lastSeen": 1788293753,
+    "estDepartureAirport": "KBLM",
+    "estArrivalAirport": null,
+    "flight_hours": 3.6664,
+    "landing": 1
+  }
+]
