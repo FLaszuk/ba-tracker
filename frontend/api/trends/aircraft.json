@@ -729,8 +729,8 @@
         "landings": 342
       },
       "2026-09": {
-        "hours": 0.7,
-        "landings": 1
+        "hours": 1.8,
+        "landings": 2
       }
     },
     "Embraer": {
@@ -901,6 +901,10 @@
       "2026-08": {
         "hours": 130.9,
         "landings": 112
+      },
+      "2026-09": {
+        "hours": 3.3,
+        "landings": 3
       }
     },
     "Pilatus": {

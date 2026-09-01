@@ -1,18 +1,28 @@
 {
   "month": "2026-09",
-  "total": 2,
+  "total": 5,
   "offset": 0,
-  "limit": 2,
+  "limit": 5,
   "data": [
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 100",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW617",
+      "total_hours": 2.3,
+      "total_landings": 1,
+      "aircraft_market_share": 40.38,
+      "engine_market_share": 62.22
+    },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR710",
-      "total_hours": 0.7,
-      "total_landings": 1,
-      "aircraft_market_share": 51.77,
-      "engine_market_share": 51.77
+      "total_hours": 1.8,
+      "total_landings": 2,
+      "aircraft_market_share": 31.54,
+      "engine_market_share": 37.78
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -21,8 +31,28 @@
       "engine_model": "PW615F",
       "total_hours": 0.7,
       "total_landings": 1,
-      "aircraft_market_share": 48.23,
-      "engine_market_share": 48.23
+      "aircraft_market_share": 11.79,
+      "engine_market_share": 62.22
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535",
+      "total_hours": 0.6,
+      "total_landings": 1,
+      "aircraft_market_share": 10.05,
+      "engine_market_share": 62.22
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 600",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 0.4,
+      "total_landings": 1,
+      "aircraft_market_share": 6.24,
+      "engine_market_share": 37.78
     }
   ]
 }

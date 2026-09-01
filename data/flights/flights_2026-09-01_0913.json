@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20f6",
+    "callsign": "VJT861",
+    "firstSeen": 1788253044,
+    "lastSeen": 1788256978,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.0928,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2322",
+    "firstSeen": 1788245747,
+    "lastSeen": 1788254138,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3308,
+    "landing": 1
+  },
+  {
+    "icao24": "8002cc",
+    "callsign": "VUAVT",
+    "firstSeen": 1788252968,
+    "lastSeen": 1788254279,
+    "estDepartureAirport": "VIDX",
+    "estArrivalAirport": "VISM",
+    "flight_hours": 0.3642,
+    "landing": 1
+  },
+  {
+    "icao24": "e4905c",
+    "callsign": "PPNBB",
+    "firstSeen": 1788255814,
+    "lastSeen": 1788257915,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SNPT",
+    "flight_hours": 0.5836,
+    "landing": 1
+  }
+]
