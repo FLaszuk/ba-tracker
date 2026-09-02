@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "300224",
+    "callsign": "VND006U",
+    "firstSeen": 1788385741,
+    "lastSeen": 1788388882,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8725,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1788388136,
+    "lastSeen": 1788390299,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.6008,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1788373783,
+    "lastSeen": 1788387574,
+    "estDepartureAirport": "KBWI",
+    "estArrivalAirport": null,
+    "flight_hours": 3.8308,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1788384124,
+    "lastSeen": 1788386128,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5567,
+    "landing": 1
+  },
+  {
+    "icao24": "ad81a1",
+    "callsign": "EJM200",
+    "firstSeen": 1788379291,
+    "lastSeen": 1788385227,
+    "estDepartureAirport": "0ID1",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 1.6489,
+    "landing": 1
+  }
+]
