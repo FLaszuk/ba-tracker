@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1788303161,
+    "lastSeen": 1788306105,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.8178,
+    "landing": 1
+  },
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1788295635,
+    "lastSeen": 1788304803,
+    "estDepartureAirport": "FA37",
+    "estArrivalAirport": "KBMI",
+    "flight_hours": 2.5467,
+    "landing": 1
+  }
+]
