@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49130f",
+    "callsign": "NJE773B",
+    "firstSeen": 1788331800,
+    "lastSeen": 1788340947,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LGSR",
+    "flight_hours": 2.5408,
+    "landing": 1
+  },
+  {
+    "icao24": "4badcb",
+    "callsign": "TCKNK",
+    "firstSeen": 1788337652,
+    "lastSeen": 1788340985,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9258,
+    "landing": 1
+  },
+  {
+    "icao24": "a10d1e",
+    "callsign": "N167QS",
+    "firstSeen": 1788306505,
+    "lastSeen": 1788338753,
+    "estDepartureAirport": "NTAA",
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 8.9578,
+    "landing": 1
+  }
+]
