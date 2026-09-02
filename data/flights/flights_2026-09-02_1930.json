@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1788377381,
+    "lastSeen": 1788381446,
+    "estDepartureAirport": "K1H2",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 1.1292,
+    "landing": 1
+  },
+  {
+    "icao24": "abf05b",
+    "callsign": "N869AW",
+    "firstSeen": 1788376300,
+    "lastSeen": 1788378835,
+    "estDepartureAirport": "CYLW",
+    "estArrivalAirport": "01MT",
+    "flight_hours": 0.7042,
+    "landing": 1
+  }
+]
