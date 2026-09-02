@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1788362276,
+    "lastSeen": 1788369572,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KHSG",
+    "flight_hours": 2.0267,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dff4",
+    "callsign": "SAME55",
+    "firstSeen": 1788358300,
+    "lastSeen": 1788365781,
+    "estDepartureAirport": "KGVT",
+    "estArrivalAirport": null,
+    "flight_hours": 2.0781,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2491",
+    "callsign": "N946MM",
+    "firstSeen": 1788367196,
+    "lastSeen": 1788369546,
+    "estDepartureAirport": "KOCF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6528,
+    "landing": 1
+  }
+]
