@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0a0081",
+    "callsign": "7TVNC",
+    "firstSeen": 1788353316,
+    "lastSeen": 1788354508,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3311,
+    "landing": 1
+  },
+  {
+    "icao24": "3004b8",
+    "callsign": "ITL801",
+    "firstSeen": 1788353519,
+    "lastSeen": 1788355523,
+    "estDepartureAirport": "LIPB",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5567,
+    "landing": 1
+  },
+  {
+    "icao24": "4850d0",
+    "callsign": "PHHWM",
+    "firstSeen": 1788351927,
+    "lastSeen": 1788355710,
+    "estDepartureAirport": "LOWI",
+    "estArrivalAirport": "EBMB",
+    "flight_hours": 1.0508,
+    "landing": 1
+  },
+  {
+    "icao24": "a19040",
+    "callsign": "N20G",
+    "firstSeen": 1788350717,
+    "lastSeen": 1788356527,
+    "estDepartureAirport": "KCAK",
+    "estArrivalAirport": "K5M8",
+    "flight_hours": 1.6139,
+    "landing": 1
+  },
+  {
+    "icao24": "ac783b",
+    "callsign": "N902SS",
+    "firstSeen": 1788351204,
+    "lastSeen": 1788354501,
+    "estDepartureAirport": "KMFR",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.9158,
+    "landing": 1
+  }
+]

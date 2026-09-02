@@ -213,6 +213,10 @@
       "2026-08": {
         "hours": 431.7,
         "landings": 256
+      },
+      "2026-09": {
+        "hours": 1.6,
+        "landings": 1
       }
     },
     "Dassault": {
@@ -559,8 +563,8 @@
         "landings": 227
       },
       "2026-09": {
-        "hours": 9.8,
-        "landings": 7
+        "hours": 10.7,
+        "landings": 9
       }
     },
     "Bombardier": {
@@ -733,8 +737,8 @@
         "landings": 342
       },
       "2026-09": {
-        "hours": 16.3,
-        "landings": 7
+        "hours": 17.3,
+        "landings": 8
       }
     },
     "Embraer": {
@@ -1081,8 +1085,8 @@
         "landings": 75
       },
       "2026-09": {
-        "hours": 1.8,
-        "landings": 2
+        "hours": 2.7,
+        "landings": 3
       }
     },
     "Eclipse Aerospace": {
