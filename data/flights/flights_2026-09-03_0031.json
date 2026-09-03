@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "aa9010",
+    "callsign": "N78VH",
+    "firstSeen": 1788389668,
+    "lastSeen": 1788395303,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.5653,
+    "landing": 1
+  },
+  {
+    "icao24": "ab2ef2",
+    "callsign": "N82EM",
+    "firstSeen": 1788398181,
+    "lastSeen": 1788399675,
+    "estDepartureAirport": "KMER",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.415,
+    "landing": 1
+  }
+]

@@ -4,19 +4,19 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 14.6,
-      "total_landings": 6
+      "total_hours": 15.0,
+      "total_landings": 7
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 4.8,
+      "total_landings": 5
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 4.7,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Pilatus",
-      "aircraft_model": "PC-24",
-      "total_hours": 3.2,
       "total_landings": 4
     },
     {
