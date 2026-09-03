@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44058f",
+    "callsign": "GAC660M",
+    "firstSeen": 1788429852,
+    "lastSeen": 1788431868,
+    "estDepartureAirport": "LOWG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.56,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0293",
+    "callsign": "LRQ395E",
+    "firstSeen": 1788427118,
+    "lastSeen": 1788432122,
+    "estDepartureAirport": "ELLX",
+    "estArrivalAirport": null,
+    "flight_hours": 1.39,
+    "landing": 1
+  },
+  {
+    "icao24": "a2089d",
+    "callsign": "LRT230",
+    "firstSeen": 1788430248,
+    "lastSeen": 1788431469,
+    "estDepartureAirport": "KISP",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 0.3392,
+    "landing": 1
+  }
+]
