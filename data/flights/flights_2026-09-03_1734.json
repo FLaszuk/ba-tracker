@@ -1,0 +1,102 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1788455948,
+    "lastSeen": 1788457770,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.5061,
+    "landing": 1
+  },
+  {
+    "icao24": "488895",
+    "callsign": "AMQ3Z",
+    "firstSeen": 1788454352,
+    "lastSeen": 1788458626,
+    "estDepartureAirport": "LBWV",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 1.1872,
+    "landing": 1
+  },
+  {
+    "icao24": "4d212d",
+    "callsign": "VJT938",
+    "firstSeen": 1788425397,
+    "lastSeen": 1788456667,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": null,
+    "flight_hours": 8.6861,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a7d6",
+    "callsign": "EJA141",
+    "firstSeen": 1788448266,
+    "lastSeen": 1788459386,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "7II7",
+    "flight_hours": 3.0889,
+    "landing": 1
+  },
+  {
+    "icao24": "a14f52",
+    "callsign": "RKK38",
+    "firstSeen": 1788431034,
+    "lastSeen": 1788456410,
+    "estDepartureAirport": "EGNM",
+    "estArrivalAirport": "KTWM",
+    "flight_hours": 7.0489,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a840",
+    "callsign": "N4DF",
+    "firstSeen": 1788446530,
+    "lastSeen": 1788457916,
+    "estDepartureAirport": "KLUK",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 3.1628,
+    "landing": 1
+  },
+  {
+    "icao24": "a63993",
+    "callsign": "N50WH",
+    "firstSeen": 1788455992,
+    "lastSeen": 1788458284,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "1XS8",
+    "flight_hours": 0.6367,
+    "landing": 1
+  },
+  {
+    "icao24": "a6617c",
+    "callsign": "TWY510",
+    "firstSeen": 1788447310,
+    "lastSeen": 1788456268,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 2.4883,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1788455084,
+    "lastSeen": 1788457665,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "8OR3",
+    "flight_hours": 0.7169,
+    "landing": 1
+  },
+  {
+    "icao24": "ad97a7",
+    "callsign": "EJA975",
+    "firstSeen": 1788455393,
+    "lastSeen": 1788458142,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.7636,
+    "landing": 1
+  }
+]
