@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2351",
+    "firstSeen": 1788401819,
+    "lastSeen": 1788413394,
+    "estDepartureAirport": "EYVI",
+    "estArrivalAirport": "LTAI",
+    "flight_hours": 3.2153,
+    "landing": 1
+  },
+  {
+    "icao24": "ac442a",
+    "callsign": "N89NC",
+    "firstSeen": 1788412472,
+    "lastSeen": 1788414437,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.5458,
+    "landing": 1
+  },
+  {
+    "icao24": "ac442a",
+    "callsign": "N89NC",
+    "firstSeen": 1788415043,
+    "lastSeen": 1788415361,
+    "estDepartureAirport": "KSBD",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.0883,
+    "landing": 1
+  }
+]
