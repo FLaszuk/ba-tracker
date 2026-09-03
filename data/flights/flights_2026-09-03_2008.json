@@ -1,0 +1,112 @@
+[
+  {
+    "icao24": "a0312f",
+    "callsign": "N111P",
+    "firstSeen": 1788462287,
+    "lastSeen": 1788466507,
+    "estDepartureAirport": "KSEE",
+    "estArrivalAirport": "CO43",
+    "flight_hours": 1.1722,
+    "landing": 1
+  },
+  {
+    "icao24": "a19313",
+    "callsign": "N200LX",
+    "firstSeen": 1788463769,
+    "lastSeen": 1788470858,
+    "estDepartureAirport": "KPIE",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.9692,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1788464888,
+    "lastSeen": 1788466858,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KH37",
+    "flight_hours": 0.5472,
+    "landing": 1
+  },
+  {
+    "icao24": "a396b3",
+    "callsign": "N330KC",
+    "firstSeen": 1788462305,
+    "lastSeen": 1788466323,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.1161,
+    "landing": 1
+  },
+  {
+    "icao24": "a55e9f",
+    "callsign": "EJM445",
+    "firstSeen": 1788456375,
+    "lastSeen": 1788468422,
+    "estDepartureAirport": "KLAL",
+    "estArrivalAirport": "CD97",
+    "flight_hours": 3.3464,
+    "landing": 1
+  },
+  {
+    "icao24": "a952bc",
+    "callsign": "N70FK",
+    "firstSeen": 1788451311,
+    "lastSeen": 1788467118,
+    "estDepartureAirport": "KMVY",
+    "estArrivalAirport": null,
+    "flight_hours": 4.3908,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d711",
+    "callsign": "N733K",
+    "firstSeen": 1788467689,
+    "lastSeen": 1788470481,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "WV52",
+    "flight_hours": 0.7756,
+    "landing": 1
+  },
+  {
+    "icao24": "abf09c",
+    "callsign": "N869DL",
+    "firstSeen": 1788463904,
+    "lastSeen": 1788466147,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "K25M",
+    "flight_hours": 0.6231,
+    "landing": 1
+  },
+  {
+    "icao24": "aca9c2",
+    "callsign": "N915FG",
+    "firstSeen": 1788461290,
+    "lastSeen": 1788469720,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": "KWRL",
+    "flight_hours": 2.3417,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1788455393,
+    "lastSeen": 1788467351,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "SKBO",
+    "flight_hours": 3.3217,
+    "landing": 1
+  },
+  {
+    "icao24": "e49196",
+    "callsign": "PPMQS",
+    "firstSeen": 1788464713,
+    "lastSeen": 1788469009,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 1.1933,
+    "landing": 1
+  }
+]
