@@ -14,21 +14,27 @@
       "total_landings": 5
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 4.1,
+      "total_landings": 4
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Mustang",
+      "total_hours": 4.7,
+      "total_landings": 4
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 4.7,
       "total_landings": 4
     },
     {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 3.9,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation Mustang",
-      "total_hours": 3.3,
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 1.9,
       "total_landings": 3
     },
     {
@@ -39,26 +45,20 @@
     },
     {
       "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Challenger 300",
+      "total_hours": 3.4,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 605",
       "total_hours": 1.6,
       "total_landings": 2
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 2.9,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation XLS",
-      "total_hours": 3.1,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 900",
-      "total_hours": 4.7,
+      "aircraft_model": "Citation CJ3",
+      "total_hours": 1.9,
       "total_landings": 2
     }
   ]

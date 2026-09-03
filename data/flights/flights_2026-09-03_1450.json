@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d0515",
+    "callsign": "XADLA",
+    "firstSeen": 1788440343,
+    "lastSeen": 1788446676,
+    "estDepartureAirport": "KLRD",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.7592,
+    "landing": 1
+  },
+  {
+    "icao24": "0d0654",
+    "callsign": "ACW1430",
+    "firstSeen": 1788447308,
+    "lastSeen": 1788447980,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 0.1867,
+    "landing": 1
+  },
+  {
+    "icao24": "4405a6",
+    "callsign": "GAC980B",
+    "firstSeen": 1788444886,
+    "lastSeen": 1788449885,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LIDT",
+    "flight_hours": 1.3886,
+    "landing": 1
+  },
+  {
+    "icao24": "a4f21b",
+    "callsign": "SVL4",
+    "firstSeen": 1788446842,
+    "lastSeen": 1788449164,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "K8A3",
+    "flight_hours": 0.645,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1788450330,
+    "lastSeen": 1788451223,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 0.2481,
+    "landing": 1
+  },
+  {
+    "icao24": "e40130",
+    "callsign": "PPXVJ",
+    "firstSeen": 1788445512,
+    "lastSeen": 1788447756,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6233,
+    "landing": 1
+  }
+]
