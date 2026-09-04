@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1788492898,
+    "lastSeen": 1788493865,
+    "estDepartureAirport": "YSCB",
+    "estArrivalAirport": "YTMU",
+    "flight_hours": 0.2686,
+    "landing": 1
+  },
+  {
+    "icao24": "a079fc",
+    "callsign": "N13MS",
+    "firstSeen": 1788490547,
+    "lastSeen": 1788492190,
+    "estDepartureAirport": "KGEG",
+    "estArrivalAirport": "KGEG",
+    "flight_hours": 0.4564,
+    "landing": 1
+  }
+]
