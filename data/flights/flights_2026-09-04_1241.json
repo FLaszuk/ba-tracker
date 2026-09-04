@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "39b014",
+    "callsign": "FHMAU",
+    "firstSeen": 1788521067,
+    "lastSeen": 1788527874,
+    "estDepartureAirport": "LFLU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8908,
+    "landing": 1
+  },
+  {
+    "icao24": "43eaae",
+    "callsign": "GKY506",
+    "firstSeen": 1788518959,
+    "lastSeen": 1788526603,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LGIK",
+    "flight_hours": 2.1233,
+    "landing": 1
+  },
+  {
+    "icao24": "440689",
+    "callsign": "OEGHB",
+    "firstSeen": 1788524920,
+    "lastSeen": 1788526570,
+    "estDepartureAirport": "LSZR",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4583,
+    "landing": 1
+  },
+  {
+    "icao24": "490d05",
+    "callsign": "NJE664W",
+    "firstSeen": 1788523745,
+    "lastSeen": 1788526523,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.7717,
+    "landing": 1
+  },
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1788507675,
+    "lastSeen": 1788527492,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 5.5047,
+    "landing": 1
+  },
+  {
+    "icao24": "e48896",
+    "callsign": "PRLPG",
+    "firstSeen": 1788524380,
+    "lastSeen": 1788525907,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SNPU",
+    "flight_hours": 0.4242,
+    "landing": 1
+  },
+  {
+    "icao24": "e49279",
+    "callsign": "PRHRO",
+    "firstSeen": 1788526769,
+    "lastSeen": 1788527999,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.3417,
+    "landing": 1
+  }
+]
