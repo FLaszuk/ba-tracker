@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a06072",
+    "callsign": "N123SL",
+    "firstSeen": 1788544652,
+    "lastSeen": 1788548600,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "MD99",
+    "flight_hours": 1.0967,
+    "landing": 1
+  },
+  {
+    "icao24": "a079fc",
+    "callsign": "N13MS",
+    "firstSeen": 1788546088,
+    "lastSeen": 1788547179,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": "K9S4",
+    "flight_hours": 0.3031,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a7d6",
+    "callsign": "EJA141",
+    "firstSeen": 1788537978,
+    "lastSeen": 1788548489,
+    "estDepartureAirport": "KLEB",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.9197,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f748",
+    "callsign": "N612MJ",
+    "firstSeen": 1788522360,
+    "lastSeen": 1788550164,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.7233,
+    "landing": 1
+  },
+  {
+    "icao24": "ab6449",
+    "callsign": "N833JB",
+    "firstSeen": 1788541580,
+    "lastSeen": 1788546966,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KU12",
+    "flight_hours": 1.4961,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1788548103,
+    "lastSeen": 1788548986,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "2MT0",
+    "flight_hours": 0.2453,
+    "landing": 1
+  }
+]
