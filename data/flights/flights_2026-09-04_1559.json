@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "4d02c7",
+    "callsign": "JFA04C",
+    "firstSeen": 1788534019,
+    "lastSeen": 1788537182,
+    "estDepartureAirport": "LIRP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8786,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT503",
+    "firstSeen": 1788526345,
+    "lastSeen": 1788537388,
+    "estDepartureAirport": "LRPV",
+    "estArrivalAirport": "EGWU",
+    "flight_hours": 3.0675,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f6",
+    "callsign": "VJT861",
+    "firstSeen": 1788522625,
+    "lastSeen": 1788537514,
+    "estDepartureAirport": "LCLK",
+    "estArrivalAirport": "OOBR",
+    "flight_hours": 4.1358,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d30c",
+    "callsign": "N152QS",
+    "firstSeen": 1788509784,
+    "lastSeen": 1788538973,
+    "estDepartureAirport": "RCSS",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 8.1081,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ff61",
+    "callsign": "N421AL",
+    "firstSeen": 1788527997,
+    "lastSeen": 1788537224,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 2.5631,
+    "landing": 1
+  },
+  {
+    "icao24": "a572ad",
+    "callsign": "N450FV7",
+    "firstSeen": 1788536117,
+    "lastSeen": 1788539521,
+    "estDepartureAirport": "CYPD",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.9456,
+    "landing": 1
+  },
+  {
+    "icao24": "a61b75",
+    "callsign": "WMN493",
+    "firstSeen": 1788527262,
+    "lastSeen": 1788540439,
+    "estDepartureAirport": "KMTN",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.6603,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11c5",
+    "callsign": "N748RM",
+    "firstSeen": 1788535152,
+    "lastSeen": 1788539606,
+    "estDepartureAirport": "KPWA",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.2372,
+    "landing": 1
+  }
+]
