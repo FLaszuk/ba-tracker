@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1788552791,
+    "lastSeen": 1788555737,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "13ID",
+    "flight_hours": 0.8183,
+    "landing": 1
+  },
+  {
+    "icao24": "a079fc",
+    "callsign": "N13MS",
+    "firstSeen": 1788557783,
+    "lastSeen": 1788558448,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": "MT88",
+    "flight_hours": 0.1847,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1788550991,
+    "lastSeen": 1788554452,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.9614,
+    "landing": 1
+  },
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1788548901,
+    "lastSeen": 1788555217,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "0MT6",
+    "flight_hours": 1.7544,
+    "landing": 1
+  },
+  {
+    "icao24": "a66219",
+    "callsign": "XEN10",
+    "firstSeen": 1788545236,
+    "lastSeen": 1788554241,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "KRAP",
+    "flight_hours": 2.5014,
+    "landing": 1
+  }
+]
