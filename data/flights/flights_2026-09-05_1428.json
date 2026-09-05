@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2b560",
+    "callsign": "LN274AH",
+    "firstSeen": 1788610439,
+    "lastSeen": 1788619538,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "K33K",
+    "flight_hours": 2.5275,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1788619538,
+    "lastSeen": 1788620462,
+    "estDepartureAirport": "KMIA",
+    "estArrivalAirport": "FL91",
+    "flight_hours": 0.2567,
+    "landing": 1
+  },
+  {
+    "icao24": "ac78ce",
+    "callsign": "N902YP",
+    "firstSeen": 1788609991,
+    "lastSeen": 1788619086,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": "28MI",
+    "flight_hours": 2.5264,
+    "landing": 1
+  },
+  {
+    "icao24": "c0460c",
+    "callsign": "PSC381",
+    "firstSeen": 1788612093,
+    "lastSeen": 1788618702,
+    "estDepartureAirport": "CYHU",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8358,
+    "landing": 1
+  }
+]
