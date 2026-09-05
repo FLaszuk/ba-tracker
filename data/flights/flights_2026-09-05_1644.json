@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT2322",
+    "firstSeen": 1788621372,
+    "lastSeen": 1788630267,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EPBK",
+    "flight_hours": 2.4708,
+    "landing": 1
+  },
+  {
+    "icao24": "a13f96",
+    "callsign": "N18NY",
+    "firstSeen": 1788624751,
+    "lastSeen": 1788628678,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.0908,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8a8e",
+    "callsign": "N779AZ",
+    "firstSeen": 1788621942,
+    "lastSeen": 1788628805,
+    "estDepartureAirport": "TN43",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.9064,
+    "landing": 1
+  },
+  {
+    "icao24": "e4835d",
+    "callsign": "PRSMK",
+    "firstSeen": 1788626346,
+    "lastSeen": 1788627070,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDUB",
+    "flight_hours": 0.2011,
+    "landing": 1
+  }
+]
