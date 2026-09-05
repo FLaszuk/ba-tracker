@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3004c7",
+    "callsign": "SIO512",
+    "firstSeen": 1788610141,
+    "lastSeen": 1788612165,
+    "estDepartureAirport": "LIPY",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.5622,
+    "landing": 1
+  },
+  {
+    "icao24": "491292",
+    "callsign": "LEA147R",
+    "firstSeen": 1788605194,
+    "lastSeen": 1788609013,
+    "estDepartureAirport": "LBSF",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0608,
+    "landing": 1
+  },
+  {
+    "icao24": "49d53f",
+    "callsign": "ECC282",
+    "firstSeen": 1788602897,
+    "lastSeen": 1788611990,
+    "estDepartureAirport": "LGSA",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 2.5258,
+    "landing": 1
+  },
+  {
+    "icao24": "4b186f",
+    "callsign": "PJZ238",
+    "firstSeen": 1788603817,
+    "lastSeen": 1788606147,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.6472,
+    "landing": 1
+  },
+  {
+    "icao24": "a079b1",
+    "callsign": "N13JS",
+    "firstSeen": 1788574524,
+    "lastSeen": 1788607499,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 9.1597,
+    "landing": 1
+  }
+]

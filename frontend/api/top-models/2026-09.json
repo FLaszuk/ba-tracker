@@ -4,20 +4,26 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 53.3,
-      "total_landings": 16
+      "total_hours": 54.0,
+      "total_landings": 17
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 17.2,
-      "total_landings": 11
+      "total_hours": 18.2,
+      "total_landings": 12
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 9.8,
       "total_landings": 11
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 15.3,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -33,8 +39,8 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 6.1,
+      "aircraft_model": "G550",
+      "total_hours": 14.5,
       "total_landings": 7
     },
     {
@@ -47,12 +53,6 @@
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
       "total_hours": 17.2,
-      "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 13.9,
       "total_landings": 6
     },
     {
