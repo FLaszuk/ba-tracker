@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 47.1,
-      "total_landings": 15
+      "total_hours": 53.3,
+      "total_landings": 16
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -18,6 +18,12 @@
       "aircraft_model": "PC-24",
       "total_hours": 9.8,
       "total_landings": 11
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 8.2,
+      "total_landings": 7
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -35,12 +41,6 @@
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation Mustang",
       "total_hours": 5.5,
-      "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 5.7,
       "total_landings": 6
     },
     {

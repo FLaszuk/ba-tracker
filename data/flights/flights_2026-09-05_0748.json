@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1788587119,
+    "lastSeen": 1788596099,
+    "estDepartureAirport": "HLLM",
+    "estArrivalAirport": "LTBZ",
+    "flight_hours": 2.4944,
+    "landing": 1
+  },
+  {
+    "icao24": "440033",
+    "callsign": "OEGTX",
+    "firstSeen": 1788592408,
+    "lastSeen": 1788594569,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": "LOWW",
+    "flight_hours": 0.6003,
+    "landing": 1
+  },
+  {
+    "icao24": "491d84",
+    "callsign": "NJE176C",
+    "firstSeen": 1788571787,
+    "lastSeen": 1788594276,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": null,
+    "flight_hours": 6.2469,
+    "landing": 1
+  }
+]
