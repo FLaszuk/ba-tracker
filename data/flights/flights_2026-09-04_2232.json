@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a29e03",
+    "callsign": "N268PJ",
+    "firstSeen": 1788556604,
+    "lastSeen": 1788561474,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "79WA",
+    "flight_hours": 1.3528,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b125",
+    "callsign": "VJA401",
+    "firstSeen": 1788547120,
+    "lastSeen": 1788564156,
+    "estDepartureAirport": "PHKO",
+    "estArrivalAirport": "KUDD",
+    "flight_hours": 4.7322,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1788558305,
+    "lastSeen": 1788562987,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KCXP",
+    "flight_hours": 1.3006,
+    "landing": 1
+  },
+  {
+    "icao24": "ad1d23",
+    "callsign": "TWY944",
+    "firstSeen": 1788556611,
+    "lastSeen": 1788561889,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.4661,
+    "landing": 1
+  }
+]
