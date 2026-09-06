@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3004b8",
+    "callsign": "ITL801",
+    "firstSeen": 1788695639,
+    "lastSeen": 1788697695,
+    "estDepartureAirport": "LHBP",
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 0.5711,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU839Z",
+    "firstSeen": 1788694376,
+    "lastSeen": 1788697541,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8792,
+    "landing": 1
+  }
+]
