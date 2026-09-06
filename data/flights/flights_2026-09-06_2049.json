@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0be20",
+    "callsign": "EJA147",
+    "firstSeen": 1788726369,
+    "lastSeen": 1788727785,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.3933,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1788725867,
+    "lastSeen": 1788727729,
+    "estDepartureAirport": "37CN",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.5172,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1788726475,
+    "lastSeen": 1788728339,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KH37",
+    "flight_hours": 0.5178,
+    "landing": 1
+  }
+]
