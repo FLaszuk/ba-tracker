@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1788710428,
+    "lastSeen": 1788712956,
+    "estDepartureAirport": "HLLM",
+    "estArrivalAirport": "DTNH",
+    "flight_hours": 0.7022,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d7",
+    "callsign": "VJT842",
+    "firstSeen": 1788690190,
+    "lastSeen": 1788716874,
+    "estDepartureAirport": "LFMV",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 7.4122,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "N130QS",
+    "firstSeen": 1788690387,
+    "lastSeen": 1788713290,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.3619,
+    "landing": 1
+  },
+  {
+    "icao24": "a24f4d",
+    "callsign": "N248SF",
+    "firstSeen": 1788713045,
+    "lastSeen": 1788714476,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "IS63",
+    "flight_hours": 0.3975,
+    "landing": 1
+  },
+  {
+    "icao24": "a7090b",
+    "callsign": "N552YM",
+    "firstSeen": 1788714593,
+    "lastSeen": 1788715751,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "2PA4",
+    "flight_hours": 0.3217,
+    "landing": 1
+  }
+]
