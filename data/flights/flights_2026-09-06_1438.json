@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1788708523,
+    "lastSeen": 1788711312,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 0.7747,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1788706211,
+    "lastSeen": 1788706797,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "CCS4",
+    "flight_hours": 0.1628,
+    "landing": 1
+  }
+]
