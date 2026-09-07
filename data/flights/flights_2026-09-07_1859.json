@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a0cb9e",
+    "callsign": "EJA150",
+    "firstSeen": 1788804613,
+    "lastSeen": 1788808988,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KCOE",
+    "flight_hours": 1.2153,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e03",
+    "callsign": "N268PJ",
+    "firstSeen": 1788805962,
+    "lastSeen": 1788808073,
+    "estDepartureAirport": "KMWH",
+    "estArrivalAirport": "99MT",
+    "flight_hours": 0.5864,
+    "landing": 1
+  }
+]
