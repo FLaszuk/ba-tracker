@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "44e193",
+    "callsign": "OOXLS",
+    "firstSeen": 1788812163,
+    "lastSeen": 1788817572,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.5025,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1788814911,
+    "lastSeen": 1788817492,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.7169,
+    "landing": 1
+  },
+  {
+    "icao24": "a18e6b",
+    "callsign": "DCM3160",
+    "firstSeen": 1788820013,
+    "lastSeen": 1788820013,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a7904c",
+    "callsign": "N587DZ",
+    "firstSeen": 1788807250,
+    "lastSeen": 1788818759,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 3.1969,
+    "landing": 1
+  },
+  {
+    "icao24": "a814f2",
+    "callsign": "N62LV",
+    "firstSeen": 1788814494,
+    "lastSeen": 1788820582,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.6911,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8e76",
+    "callsign": "HRC908",
+    "firstSeen": 1788815117,
+    "lastSeen": 1788817776,
+    "estDepartureAirport": "K3F6",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.7386,
+    "landing": 1
+  },
+  {
+    "icao24": "ad2f1a",
+    "callsign": "SIS49",
+    "firstSeen": 1788817857,
+    "lastSeen": 1788819983,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.5906,
+    "landing": 1
+  }
+]
