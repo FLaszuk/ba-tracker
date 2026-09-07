@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "3cc319",
+    "callsign": "DCBEN",
+    "firstSeen": 1788795672,
+    "lastSeen": 1788797856,
+    "estDepartureAirport": "EDTX",
+    "estArrivalAirport": "LOWL",
+    "flight_hours": 0.6067,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2096",
+    "callsign": "RYR20AM",
+    "firstSeen": 1788790797,
+    "lastSeen": 1788793895,
+    "estDepartureAirport": "LETP",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8606,
+    "landing": 1
+  },
+  {
+    "icao24": "a01c9c",
+    "callsign": "N106SP",
+    "firstSeen": 1788794793,
+    "lastSeen": 1788796720,
+    "estDepartureAirport": "KPSO",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.5353,
+    "landing": 1
+  },
+  {
+    "icao24": "aaa754",
+    "callsign": "N786FG",
+    "firstSeen": 1788793502,
+    "lastSeen": 1788797554,
+    "estDepartureAirport": "KPNE",
+    "estArrivalAirport": "KRDG",
+    "flight_hours": 1.1256,
+    "landing": 1
+  },
+  {
+    "icao24": "aad352",
+    "callsign": "N797PG",
+    "firstSeen": 1788795146,
+    "lastSeen": 1788797150,
+    "estDepartureAirport": "KERV",
+    "estArrivalAirport": "KT90",
+    "flight_hours": 0.5567,
+    "landing": 1
+  },
+  {
+    "icao24": "aae2ca",
+    "callsign": "N800KM",
+    "firstSeen": 1788786728,
+    "lastSeen": 1788796004,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.5767,
+    "landing": 1
+  },
+  {
+    "icao24": "e48be9",
+    "callsign": "PPIMP",
+    "firstSeen": 1788792842,
+    "lastSeen": 1788794592,
+    "estDepartureAirport": "SDYS",
+    "estArrivalAirport": "SSSQ",
+    "flight_hours": 0.4861,
+    "landing": 1
+  }
+]
