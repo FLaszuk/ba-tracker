@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a1b7f1",
+    "callsign": "N21J",
+    "firstSeen": 1788867938,
+    "lastSeen": 1788890099,
+    "estDepartureAirport": "EGPH",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.1558,
+    "landing": 1
+  },
+  {
+    "icao24": "a81525",
+    "callsign": "STV5",
+    "firstSeen": 1788879128,
+    "lastSeen": 1788889700,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9367,
+    "landing": 1
+  },
+  {
+    "icao24": "ad60ab",
+    "callsign": "NEW961",
+    "firstSeen": 1788882063,
+    "lastSeen": 1788890129,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSEM",
+    "flight_hours": 2.2406,
+    "landing": 1
+  }
+]
