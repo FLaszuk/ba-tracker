@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "494110",
+    "callsign": "NJE7KH",
+    "firstSeen": 1788876972,
+    "lastSeen": 1788880867,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 1.0819,
+    "landing": 1
+  },
+  {
+    "icao24": "a26f42",
+    "callsign": "N256RC",
+    "firstSeen": 1788879780,
+    "lastSeen": 1788882708,
+    "estDepartureAirport": "KJAX",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.8133,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1788879012,
+    "lastSeen": 1788879378,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.1017,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bde1",
+    "callsign": "LXJ340",
+    "firstSeen": 1788876084,
+    "lastSeen": 1788880308,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KCSB",
+    "flight_hours": 1.1733,
+    "landing": 1
+  },
+  {
+    "icao24": "a94fe3",
+    "callsign": "N7AG",
+    "firstSeen": 1788882897,
+    "lastSeen": 1788884138,
+    "estDepartureAirport": "IA59",
+    "estArrivalAirport": "KJEF",
+    "flight_hours": 0.3447,
+    "landing": 1
+  }
+]
