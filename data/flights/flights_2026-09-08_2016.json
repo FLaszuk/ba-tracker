@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1788897175,
+    "lastSeen": 1788900629,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.9594,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1788880365,
+    "lastSeen": 1788898111,
+    "estDepartureAirport": "KPHF",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 4.9294,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fdf",
+    "callsign": "N900HD",
+    "firstSeen": 1788900111,
+    "lastSeen": 1788901943,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KJAS",
+    "flight_hours": 0.5089,
+    "landing": 1
+  }
+]
