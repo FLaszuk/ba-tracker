@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a230d0",
+    "callsign": "N240JJ",
+    "firstSeen": 1788899146,
+    "lastSeen": 1788907776,
+    "estDepartureAirport": "K1H2",
+    "estArrivalAirport": "CD32",
+    "flight_hours": 2.3972,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1788905616,
+    "lastSeen": 1788907758,
+    "estDepartureAirport": "KOLM",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.595,
+    "landing": 1
+  }
+]
