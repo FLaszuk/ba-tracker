@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3004aa",
+    "callsign": "CPI091",
+    "firstSeen": 1788960757,
+    "lastSeen": 1788962931,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEA",
+    "flight_hours": 0.6039,
+    "landing": 1
+  },
+  {
+    "icao24": "33ffc0",
+    "callsign": "IAM3136",
+    "firstSeen": 1788959406,
+    "lastSeen": 1788961453,
+    "estDepartureAirport": "LICB",
+    "estArrivalAirport": "LIRN",
+    "flight_hours": 0.5686,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1788957149,
+    "lastSeen": 1788962468,
+    "estDepartureAirport": "KCGF",
+    "estArrivalAirport": "KNHZ",
+    "flight_hours": 1.4775,
+    "landing": 1
+  },
+  {
+    "icao24": "acd82c",
+    "callsign": "N927AA",
+    "firstSeen": 1788959209,
+    "lastSeen": 1788960600,
+    "estDepartureAirport": "KPWG",
+    "estArrivalAirport": "KT39",
+    "flight_hours": 0.3864,
+    "landing": 1
+  }
+]
