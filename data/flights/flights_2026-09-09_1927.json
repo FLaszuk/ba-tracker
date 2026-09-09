@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a14b9b",
+    "callsign": "RKK28",
+    "firstSeen": 1788976379,
+    "lastSeen": 1788981923,
+    "estDepartureAirport": "KRBM",
+    "estArrivalAirport": "KSUW",
+    "flight_hours": 1.54,
+    "landing": 1
+  },
+  {
+    "icao24": "a606e9",
+    "callsign": "N488GB",
+    "firstSeen": 1788975740,
+    "lastSeen": 1788987927,
+    "estDepartureAirport": "KGRB",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 3.3853,
+    "landing": 1
+  },
+  {
+    "icao24": "a916b1",
+    "callsign": "N685KF",
+    "firstSeen": 1788982769,
+    "lastSeen": 1788984634,
+    "estDepartureAirport": "SN59",
+    "estArrivalAirport": "KAAO",
+    "flight_hours": 0.5181,
+    "landing": 1
+  }
+]
