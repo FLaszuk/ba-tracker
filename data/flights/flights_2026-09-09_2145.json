@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a2564e",
+    "callsign": "DLX25",
+    "firstSeen": 1788989260,
+    "lastSeen": 1788994839,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.5497,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ba24",
+    "callsign": "N275MB",
+    "firstSeen": 1788989084,
+    "lastSeen": 1788993778,
+    "estDepartureAirport": "KBLI",
+    "estArrivalAirport": "CYPR",
+    "flight_hours": 1.3039,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1788988787,
+    "lastSeen": 1788990791,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SA05",
+    "flight_hours": 0.5567,
+    "landing": 1
+  }
+]
