@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d0515",
+    "callsign": "XADLA",
+    "firstSeen": 1789054935,
+    "lastSeen": 1789061528,
+    "estDepartureAirport": "KLRD",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.8314,
+    "landing": 1
+  },
+  {
+    "icao24": "3442c9",
+    "callsign": "GES091F",
+    "firstSeen": 1789060179,
+    "lastSeen": 1789065244,
+    "estDepartureAirport": "EBBR",
+    "estArrivalAirport": "LETC",
+    "flight_hours": 1.4069,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ac88",
+    "callsign": "TWY40",
+    "firstSeen": 1789048608,
+    "lastSeen": 1789063130,
+    "estDepartureAirport": "KPSM",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 4.0339,
+    "landing": 1
+  },
+  {
+    "icao24": "a68ce2",
+    "callsign": "N521CL",
+    "firstSeen": 1789059396,
+    "lastSeen": 1789062313,
+    "estDepartureAirport": "KLCQ",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 0.8103,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1789059079,
+    "lastSeen": 1789062933,
+    "estDepartureAirport": "K36U",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 1.0706,
+    "landing": 1
+  },
+  {
+    "icao24": "c0412b",
+    "callsign": "CFYRQ",
+    "firstSeen": 1789050604,
+    "lastSeen": 1789063937,
+    "estDepartureAirport": "CYSB",
+    "estArrivalAirport": null,
+    "flight_hours": 3.7036,
+    "landing": 1
+  }
+]
