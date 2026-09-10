@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a4ab44",
+    "callsign": "N40LB",
+    "firstSeen": 1789049470,
+    "lastSeen": 1789051834,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "SD98",
+    "flight_hours": 0.6567,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d06",
+    "callsign": "EJM657",
+    "firstSeen": 1789045147,
+    "lastSeen": 1789052401,
+    "estDepartureAirport": "KCLL",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 2.015,
+    "landing": 1
+  }
+]
