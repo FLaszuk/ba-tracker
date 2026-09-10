@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20b7",
+    "callsign": "FJO647",
+    "firstSeen": 1788971053,
+    "lastSeen": 1789002970,
+    "estDepartureAirport": "EGLF",
+    "estArrivalAirport": "VAJJ",
+    "flight_hours": 8.8658,
+    "landing": 1
+  },
+  {
+    "icao24": "758253",
+    "callsign": "RPC718",
+    "firstSeen": 1789001390,
+    "lastSeen": 1789002874,
+    "estDepartureAirport": "RPLL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4122,
+    "landing": 1
+  },
+  {
+    "icao24": "7c5d78",
+    "callsign": "AE930",
+    "firstSeen": 1788998811,
+    "lastSeen": 1789000064,
+    "estDepartureAirport": "YSWG",
+    "estArrivalAirport": "YCOM",
+    "flight_hours": 0.3481,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ae9a",
+    "callsign": "N53FJ",
+    "firstSeen": 1788998788,
+    "lastSeen": 1789001355,
+    "estDepartureAirport": "KMAF",
+    "estArrivalAirport": "KEDC",
+    "flight_hours": 0.7131,
+    "landing": 1
+  },
+  {
+    "icao24": "ab5901",
+    "callsign": "N830GS",
+    "firstSeen": 1788998268,
+    "lastSeen": 1789000714,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KCRQ",
+    "flight_hours": 0.6794,
+    "landing": 1
+  }
+]
