@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "484363",
+    "callsign": "P4JIMI2",
+    "firstSeen": 1789036961,
+    "lastSeen": 1789039849,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8022,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1789005206,
+    "lastSeen": 1789036370,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 8.6567,
+    "landing": 1
+  }
+]
