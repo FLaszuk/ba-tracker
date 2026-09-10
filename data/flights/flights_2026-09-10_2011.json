@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1789070096,
+    "lastSeen": 1789074748,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 1.2922,
+    "landing": 1
+  },
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1789059780,
+    "lastSeen": 1789073409,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "MT34",
+    "flight_hours": 3.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1789069384,
+    "lastSeen": 1789072437,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "7NC1",
+    "flight_hours": 0.8481,
+    "landing": 1
+  },
+  {
+    "icao24": "a38ce9",
+    "callsign": "EJM328",
+    "firstSeen": 1789071295,
+    "lastSeen": 1789073018,
+    "estDepartureAirport": "KDTW",
+    "estArrivalAirport": "K8M8",
+    "flight_hours": 0.4786,
+    "landing": 1
+  },
+  {
+    "icao24": "a811ad",
+    "callsign": "N619RJ",
+    "firstSeen": 1789063977,
+    "lastSeen": 1789072548,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "KU96",
+    "flight_hours": 2.3808,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1789062305,
+    "lastSeen": 1789074338,
+    "estDepartureAirport": "KBKL",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 3.3425,
+    "landing": 1
+  }
+]
