@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT956",
+    "firstSeen": 1789015152,
+    "lastSeen": 1789020527,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": "LIMF",
+    "flight_hours": 1.4931,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE980",
+    "firstSeen": 1789021974,
+    "lastSeen": 1789023333,
+    "estDepartureAirport": "YGIL",
+    "estArrivalAirport": "YWLG",
+    "flight_hours": 0.3775,
+    "landing": 1
+  }
+]
