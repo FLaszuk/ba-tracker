@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1789124700,
+    "lastSeen": 1789133089,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "EBMB",
+    "flight_hours": 2.3303,
+    "landing": 1
+  },
+  {
+    "icao24": "4c4aab",
+    "callsign": "PNC1VL",
+    "firstSeen": 1789129823,
+    "lastSeen": 1789134307,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2456,
+    "landing": 1
+  },
+  {
+    "icao24": "4d21f3",
+    "callsign": "FJO14",
+    "firstSeen": 1789123564,
+    "lastSeen": 1789130306,
+    "estDepartureAirport": "LFET",
+    "estArrivalAirport": "LIMC",
+    "flight_hours": 1.8728,
+    "landing": 1
+  },
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1789132657,
+    "lastSeen": 1789135139,
+    "estDepartureAirport": "KVDF",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 0.6894,
+    "landing": 1
+  },
+  {
+    "icao24": "e49279",
+    "callsign": "PRHRO",
+    "firstSeen": 1789128147,
+    "lastSeen": 1789133016,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 1.3525,
+    "landing": 1
+  }
+]
