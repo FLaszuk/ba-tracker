@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a63993",
+    "callsign": "N50WH",
+    "firstSeen": 1789147190,
+    "lastSeen": 1789155664,
+    "estDepartureAirport": "KSBN",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3539,
+    "landing": 1
+  },
+  {
+    "icao24": "e0744e",
+    "callsign": "LVGQN",
+    "firstSeen": 1789154991,
+    "lastSeen": 1789156853,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5172,
+    "landing": 1
+  }
+]
