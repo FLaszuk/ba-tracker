@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WMT1KW",
+    "firstSeen": 1789139732,
+    "lastSeen": 1789143331,
+    "estDepartureAirport": "LIME",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 0.9997,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2354",
+    "firstSeen": 1789142951,
+    "lastSeen": 1789144854,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "LTBY",
+    "flight_hours": 0.5286,
+    "landing": 1
+  },
+  {
+    "icao24": "800b7e",
+    "callsign": "VTAHI",
+    "firstSeen": 1789136475,
+    "lastSeen": 1789146181,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "VABB",
+    "flight_hours": 2.6961,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1789139372,
+    "lastSeen": 1789146106,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8706,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3007",
+    "callsign": "N82RP",
+    "firstSeen": 1789140004,
+    "lastSeen": 1789142181,
+    "estDepartureAirport": "KBUF",
+    "estArrivalAirport": "WV00",
+    "flight_hours": 0.6047,
+    "landing": 1
+  }
+]
