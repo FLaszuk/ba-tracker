@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1789077542,
+    "lastSeen": 1789080171,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KGNB",
+    "flight_hours": 0.7303,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "EJA978",
+    "firstSeen": 1789068055,
+    "lastSeen": 1789084738,
+    "estDepartureAirport": "KSBN",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 4.6342,
+    "landing": 1
+  }
+]
