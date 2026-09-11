@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cefbd",
+    "callsign": "SCR187",
+    "firstSeen": 1789115920,
+    "lastSeen": 1789116841,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LIAP",
+    "flight_hours": 0.2558,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2382",
+    "firstSeen": 1789108961,
+    "lastSeen": 1789117063,
+    "estDepartureAirport": "LTFE",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2506,
+    "landing": 1
+  }
+]
