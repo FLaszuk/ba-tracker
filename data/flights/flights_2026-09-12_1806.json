@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3c7583",
+    "callsign": "BVR505",
+    "firstSeen": 1789234246,
+    "lastSeen": 1789239642,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.4989,
+    "landing": 1
+  },
+  {
+    "icao24": "a4103a",
+    "callsign": "N361CE",
+    "firstSeen": 1789229816,
+    "lastSeen": 1789239636,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": "LA34",
+    "flight_hours": 2.7278,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b7e6",
+    "callsign": "LXJ468",
+    "firstSeen": 1789233333,
+    "lastSeen": 1789236741,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "NV44",
+    "flight_hours": 0.9467,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3f20",
+    "callsign": "N8889",
+    "firstSeen": 1789234850,
+    "lastSeen": 1789237925,
+    "estDepartureAirport": "EIKY",
+    "estArrivalAirport": "EGLF",
+    "flight_hours": 0.8542,
+    "landing": 1
+  }
+]
