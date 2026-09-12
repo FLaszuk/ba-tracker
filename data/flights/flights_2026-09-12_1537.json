@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU93DL",
+    "firstSeen": 1789211478,
+    "lastSeen": 1789228018,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "LPMA",
+    "flight_hours": 4.5944,
+    "landing": 1
+  },
+  {
+    "icao24": "a928e2",
+    "callsign": "N69FH",
+    "firstSeen": 1789226108,
+    "lastSeen": 1789229219,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KABY",
+    "flight_hours": 0.8642,
+    "landing": 1
+  },
+  {
+    "icao24": "e49196",
+    "callsign": "PPMQS",
+    "firstSeen": 1789208167,
+    "lastSeen": 1789226961,
+    "estDepartureAirport": "SBFZ",
+    "estArrivalAirport": null,
+    "flight_hours": 5.2206,
+    "landing": 1
+  }
+]
