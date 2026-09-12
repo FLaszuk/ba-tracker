@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d09b3",
+    "callsign": "ACW1522",
+    "firstSeen": 1789173780,
+    "lastSeen": 1789175328,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.43,
+    "landing": 1
+  },
+  {
+    "icao24": "424773",
+    "callsign": "TBJ80",
+    "firstSeen": 1789133240,
+    "lastSeen": 1789176215,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 11.9375,
+    "landing": 1
+  }
+]
