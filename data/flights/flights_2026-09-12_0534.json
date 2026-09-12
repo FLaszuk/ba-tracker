@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU18KE",
+    "firstSeen": 1789190169,
+    "lastSeen": 1789192782,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7258,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2355",
+    "firstSeen": 1789182692,
+    "lastSeen": 1789191825,
+    "estDepartureAirport": "EYRD",
+    "estArrivalAirport": "LTAI",
+    "flight_hours": 2.5369,
+    "landing": 1
+  },
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1789186406,
+    "lastSeen": 1789192327,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KASE",
+    "flight_hours": 1.6447,
+    "landing": 1
+  }
+]
