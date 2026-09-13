@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WZZ2QY",
+    "firstSeen": 1789322092,
+    "lastSeen": 1789324344,
+    "estDepartureAirport": "LJLJ",
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 0.6256,
+    "landing": 1
+  },
+  {
+    "icao24": "a0aadc",
+    "callsign": "RVJ142",
+    "firstSeen": 1789319751,
+    "lastSeen": 1789322927,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 0.8822,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1789315304,
+    "lastSeen": 1789325980,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "LA68",
+    "flight_hours": 2.9656,
+    "landing": 1
+  },
+  {
+    "icao24": "add3bc",
+    "callsign": "N990MF",
+    "firstSeen": 1789322847,
+    "lastSeen": 1789325962,
+    "estDepartureAirport": "KDLZ",
+    "estArrivalAirport": "KGLR",
+    "flight_hours": 0.8653,
+    "landing": 1
+  }
+]
