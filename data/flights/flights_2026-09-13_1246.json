@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "491d82",
+    "callsign": "NJE418H",
+    "firstSeen": 1789300388,
+    "lastSeen": 1789303261,
+    "estDepartureAirport": "ESSA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7981,
+    "landing": 1
+  },
+  {
+    "icao24": "a0669e",
+    "callsign": "N690TW",
+    "firstSeen": 1789307105,
+    "lastSeen": 1789307741,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.1767,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1789302189,
+    "lastSeen": 1789303277,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.3022,
+    "landing": 1
+  }
+]
