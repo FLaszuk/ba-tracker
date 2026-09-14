@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4d20f4",
+    "callsign": "WZZ9798",
+    "firstSeen": 1789395027,
+    "lastSeen": 1789399703,
+    "estDepartureAirport": "LKPR",
+    "estArrivalAirport": "LW75",
+    "flight_hours": 1.2989,
+    "landing": 1
+  },
+  {
+    "icao24": "8002ce",
+    "callsign": "VUAVV",
+    "firstSeen": 1789401903,
+    "lastSeen": 1789403277,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": "VIJP",
+    "flight_hours": 0.3817,
+    "landing": 1
+  },
+  {
+    "icao24": "a432a5",
+    "callsign": "N37NG",
+    "firstSeen": 1789395919,
+    "lastSeen": 1789400405,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2461,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1789394912,
+    "lastSeen": 1789401713,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8892,
+    "landing": 1
+  },
+  {
+    "icao24": "a70e99",
+    "callsign": "N554DG",
+    "firstSeen": 1789391941,
+    "lastSeen": 1789403156,
+    "estDepartureAirport": "KAUS",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 3.1153,
+    "landing": 1
+  },
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1789389500,
+    "lastSeen": 1789400666,
+    "estDepartureAirport": "EKBI",
+    "estArrivalAirport": "LESE",
+    "flight_hours": 3.1017,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1789397700,
+    "lastSeen": 1789401585,
+    "estDepartureAirport": "K1H2",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 1.0792,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "00000000",
+    "firstSeen": 1789398396,
+    "lastSeen": 1789403206,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3361,
+    "landing": 1
+  },
+  {
+    "icao24": "ad336a",
+    "callsign": "IJA95",
+    "firstSeen": 1789397909,
+    "lastSeen": 1789401119,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "NV17",
+    "flight_hours": 0.8917,
+    "landing": 1
+  }
+]
