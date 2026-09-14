@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0200ab",
+    "callsign": "MRS1427",
+    "firstSeen": 1789378633,
+    "lastSeen": 1789379391,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2106,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f4",
+    "callsign": "WZZ1031",
+    "firstSeen": 1789371022,
+    "lastSeen": 1789378155,
+    "estDepartureAirport": "EBCI",
+    "estArrivalAirport": "LW70",
+    "flight_hours": 1.9814,
+    "landing": 1
+  }
+]
