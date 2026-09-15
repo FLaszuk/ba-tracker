@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49d3ac",
+    "callsign": "BOH713",
+    "firstSeen": 1789478574,
+    "lastSeen": 1789480715,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LELO",
+    "flight_hours": 0.5947,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1789480742,
+    "lastSeen": 1789483321,
+    "estDepartureAirport": "KRDD",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.7164,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1789481527,
+    "lastSeen": 1789482652,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 0.3125,
+    "landing": 1
+  }
+]
