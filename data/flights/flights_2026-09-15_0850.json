@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "49130b",
+    "callsign": "NJE5NH",
+    "firstSeen": 1789460679,
+    "lastSeen": 1789463486,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.7797,
+    "landing": 1
+  },
+  {
+    "icao24": "49d3ac",
+    "callsign": "BOH711",
+    "firstSeen": 1789462110,
+    "lastSeen": 1789463317,
+    "estDepartureAirport": "EHBK",
+    "estArrivalAirport": "EBBR",
+    "flight_hours": 0.3353,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20cf",
+    "callsign": "VJT453",
+    "firstSeen": 1789458904,
+    "lastSeen": 1789464984,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6889,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT2322",
+    "firstSeen": 1789455207,
+    "lastSeen": 1789463627,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.3389,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE930",
+    "firstSeen": 1789461169,
+    "lastSeen": 1789463013,
+    "estDepartureAirport": "YWLM",
+    "estArrivalAirport": "YWVL",
+    "flight_hours": 0.5122,
+    "landing": 1
+  },
+  {
+    "icao24": "adc995",
+    "callsign": "N988HK",
+    "firstSeen": 1789465504,
+    "lastSeen": 1789466683,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 0.3275,
+    "landing": 1
+  }
+]
