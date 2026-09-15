@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1789420291,
+    "lastSeen": 1789426518,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KLAM",
+    "flight_hours": 1.7297,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a533",
+    "callsign": "XEN27",
+    "firstSeen": 1789422627,
+    "lastSeen": 1789425038,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.6697,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a98b",
+    "callsign": "N4SM",
+    "firstSeen": 1789416036,
+    "lastSeen": 1789426908,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 3.02,
+    "landing": 1
+  },
+  {
+    "icao24": "a95345",
+    "callsign": "N70LX",
+    "firstSeen": 1789421478,
+    "lastSeen": 1789427465,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6631,
+    "landing": 1
+  }
+]
