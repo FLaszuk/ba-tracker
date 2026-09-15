@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2fe57",
+    "callsign": "EJA292",
+    "firstSeen": 1789497050,
+    "lastSeen": 1789505245,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "NM76",
+    "flight_hours": 2.2764,
+    "landing": 1
+  },
+  {
+    "icao24": "a572af",
+    "callsign": "LXJ450",
+    "firstSeen": 1789493564,
+    "lastSeen": 1789504708,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "NM76",
+    "flight_hours": 3.0956,
+    "landing": 1
+  },
+  {
+    "icao24": "a9bedb",
+    "callsign": "N727PJ",
+    "firstSeen": 1789495189,
+    "lastSeen": 1789504341,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5422,
+    "landing": 1
+  },
+  {
+    "icao24": "ad9414",
+    "callsign": "DOW974",
+    "firstSeen": 1789503908,
+    "lastSeen": 1789508780,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "SD98",
+    "flight_hours": 1.3533,
+    "landing": 1
+  }
+]
