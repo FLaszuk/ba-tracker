@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d099c",
+    "callsign": "ACW1530",
+    "firstSeen": 1789565255,
+    "lastSeen": 1789566704,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM20",
+    "flight_hours": 0.4025,
+    "landing": 1
+  },
+  {
+    "icao24": "3c68b4",
+    "callsign": "VJH738",
+    "firstSeen": 1789550086,
+    "lastSeen": 1789564359,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 3.9647,
+    "landing": 1
+  },
+  {
+    "icao24": "3d04a7",
+    "callsign": "EFD5Z",
+    "firstSeen": 1789561829,
+    "lastSeen": 1789565828,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "LFEJ",
+    "flight_hours": 1.1108,
+    "landing": 1
+  },
+  {
+    "icao24": "406b7e",
+    "callsign": "EDC417X",
+    "firstSeen": 1789559082,
+    "lastSeen": 1789566845,
+    "estDepartureAirport": "EGBB",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 2.1564,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2391",
+    "firstSeen": 1789559708,
+    "lastSeen": 1789564000,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.1922,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ae0",
+    "callsign": "N315RE",
+    "firstSeen": 1789559408,
+    "lastSeen": 1789564209,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 1.3336,
+    "landing": 1
+  },
+  {
+    "icao24": "c0530f",
+    "callsign": "HRT155",
+    "firstSeen": 1789563999,
+    "lastSeen": 1789565737,
+    "estDepartureAirport": "CYYZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4828,
+    "landing": 1
+  }
+]
