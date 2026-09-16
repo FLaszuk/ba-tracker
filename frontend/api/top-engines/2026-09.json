@@ -21,6 +21,12 @@
     },
     {
       "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 40.5,
+      "total_landings": 20
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
       "engine_model": "AE 3007",
       "total_hours": 38.6,
       "total_landings": 29
@@ -30,12 +36,6 @@
       "engine_model": "Tay 611-8C",
       "total_hours": 32.9,
       "total_landings": 14
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR725",
-      "total_hours": 32.5,
-      "total_landings": 18
     },
     {
       "engine_manufacturer": "Williams International",

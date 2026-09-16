@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a000e8",
+    "callsign": "N1KE",
+    "firstSeen": 1789582056,
+    "lastSeen": 1789594283,
+    "estDepartureAirport": "KATW",
+    "estArrivalAirport": "KHIO",
+    "flight_hours": 3.3964,
+    "landing": 1
+  },
+  {
+    "icao24": "a89442",
+    "callsign": "EJM652",
+    "firstSeen": 1789574510,
+    "lastSeen": 1789591203,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 4.6369,
+    "landing": 1
+  }
+]
