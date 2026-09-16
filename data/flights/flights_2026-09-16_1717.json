@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "34208d",
+    "callsign": "SGP403",
+    "firstSeen": 1789576473,
+    "lastSeen": 1789579794,
+    "estDepartureAirport": "LELH",
+    "estArrivalAirport": "LELO",
+    "flight_hours": 0.9225,
+    "landing": 1
+  },
+  {
+    "icao24": "3cdd32",
+    "callsign": "LHB2",
+    "firstSeen": 1789574989,
+    "lastSeen": 1789579949,
+    "estDepartureAirport": "EDNY",
+    "estArrivalAirport": "LFBO",
+    "flight_hours": 1.3778,
+    "landing": 1
+  },
+  {
+    "icao24": "a15aae",
+    "callsign": "COL187",
+    "firstSeen": 1789575592,
+    "lastSeen": 1789580329,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3158,
+    "landing": 1
+  },
+  {
+    "icao24": "a184d2",
+    "callsign": "HOB3",
+    "firstSeen": 1789575247,
+    "lastSeen": 1789581583,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "45AR",
+    "flight_hours": 1.76,
+    "landing": 1
+  },
+  {
+    "icao24": "ad326b",
+    "callsign": "N95BD",
+    "firstSeen": 1789572632,
+    "lastSeen": 1789579618,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K1M2",
+    "flight_hours": 1.9406,
+    "landing": 1
+  },
+  {
+    "icao24": "e40130",
+    "callsign": "ENSA47",
+    "firstSeen": 1789583757,
+    "lastSeen": 1789584968,
+    "estDepartureAirport": "SDFF",
+    "estArrivalAirport": "SBSR",
+    "flight_hours": 0.3364,
+    "landing": 1
+  }
+]
