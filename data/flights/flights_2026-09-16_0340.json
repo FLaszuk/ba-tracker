@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d0293",
+    "callsign": "LRQ420K",
+    "firstSeen": 1789532611,
+    "lastSeen": 1789535009,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "LFBO",
+    "flight_hours": 0.6661,
+    "landing": 1
+  },
+  {
+    "icao24": "a6630f",
+    "callsign": "N510SR",
+    "firstSeen": 1789530985,
+    "lastSeen": 1789534115,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.8694,
+    "landing": 1
+  }
+]
