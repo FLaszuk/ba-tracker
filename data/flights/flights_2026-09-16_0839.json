@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI555",
+    "firstSeen": 1789542591,
+    "lastSeen": 1789547659,
+    "estDepartureAirport": "LSMD",
+    "estArrivalAirport": "BKPR",
+    "flight_hours": 1.4078,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST2356",
+    "firstSeen": 1789541297,
+    "lastSeen": 1789550410,
+    "estDepartureAirport": "LTAI",
+    "estArrivalAirport": "EPHN",
+    "flight_hours": 2.5314,
+    "landing": 1
+  }
+]
