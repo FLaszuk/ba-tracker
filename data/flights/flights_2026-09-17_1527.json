@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7a512",
+    "callsign": "N592CL",
+    "firstSeen": 1789653643,
+    "lastSeen": 1789661356,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "KEGE",
+    "flight_hours": 2.1425,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c6e7",
+    "callsign": "N729VS",
+    "firstSeen": 1789656979,
+    "lastSeen": 1789659307,
+    "estDepartureAirport": "KPIT",
+    "estArrivalAirport": "CYYZ",
+    "flight_hours": 0.6467,
+    "landing": 1
+  }
+]
