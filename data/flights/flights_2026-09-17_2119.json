@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1789679632,
+    "lastSeen": 1789681614,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.5506,
+    "landing": 1
+  },
+  {
+    "icao24": "a92123",
+    "callsign": "N688CB",
+    "firstSeen": 1789681065,
+    "lastSeen": 1789683283,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 0.6161,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1789675799,
+    "lastSeen": 1789680129,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KRDD",
+    "flight_hours": 1.2028,
+    "landing": 1
+  }
+]
