@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3cd32a",
+    "callsign": "DCHGS",
+    "firstSeen": 1789668815,
+    "lastSeen": 1789670946,
+    "estDepartureAirport": "EDDL",
+    "estArrivalAirport": "EDDS",
+    "flight_hours": 0.5919,
+    "landing": 1
+  },
+  {
+    "icao24": "a9525e",
+    "callsign": "N70BR",
+    "firstSeen": 1789663274,
+    "lastSeen": 1789670525,
+    "estDepartureAirport": "KDPA",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 2.0142,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "EJA946",
+    "firstSeen": 1789660711,
+    "lastSeen": 1789670675,
+    "estDepartureAirport": "KBTR",
+    "estArrivalAirport": null,
+    "flight_hours": 2.7678,
+    "landing": 1
+  }
+]
