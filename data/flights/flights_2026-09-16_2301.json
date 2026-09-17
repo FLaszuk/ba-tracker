@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a01500",
+    "callsign": "N104QT",
+    "firstSeen": 1789597634,
+    "lastSeen": 1789601966,
+    "estDepartureAirport": "KHWD",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.2033,
+    "landing": 1
+  },
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1789602576,
+    "lastSeen": 1789604011,
+    "estDepartureAirport": "KHIO",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.3986,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1789587139,
+    "lastSeen": 1789600840,
+    "estDepartureAirport": "KLEX",
+    "estArrivalAirport": "KDAG",
+    "flight_hours": 3.8058,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d4d",
+    "callsign": "LXJ650",
+    "firstSeen": 1789599392,
+    "lastSeen": 1789602975,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "UT26",
+    "flight_hours": 0.9953,
+    "landing": 1
+  }
+]
