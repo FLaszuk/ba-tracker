@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "49328b",
+    "callsign": "NJE315N",
+    "firstSeen": 1789618041,
+    "lastSeen": 1789621177,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8711,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ36HU",
+    "firstSeen": 1789617193,
+    "lastSeen": 1789622758,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5458,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2130",
+    "callsign": "VJT946",
+    "firstSeen": 1789614317,
+    "lastSeen": 1789620915,
+    "estDepartureAirport": "EGPK",
+    "estArrivalAirport": "LIMF",
+    "flight_hours": 1.8328,
+    "landing": 1
+  }
+]
