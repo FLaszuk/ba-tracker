@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4d2132",
+    "callsign": "VJT968",
+    "firstSeen": 1789748015,
+    "lastSeen": 1789753405,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.4972,
+    "landing": 1
+  },
+  {
+    "icao24": "a2cbf0",
+    "callsign": "N28DC",
+    "firstSeen": 1789748716,
+    "lastSeen": 1789753679,
+    "estDepartureAirport": "KERV",
+    "estArrivalAirport": "CO65",
+    "flight_hours": 1.3786,
+    "landing": 1
+  },
+  {
+    "icao24": "a37215",
+    "callsign": "N321AP",
+    "firstSeen": 1789736785,
+    "lastSeen": 1789751815,
+    "estDepartureAirport": "KPHL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 4.175,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1789752645,
+    "lastSeen": 1789755596,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.8197,
+    "landing": 1
+  },
+  {
+    "icao24": "a3b7d1",
+    "callsign": "LXJ339",
+    "firstSeen": 1789756295,
+    "lastSeen": 1789756295,
+    "estDepartureAirport": "KNUQ",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a5b42f",
+    "callsign": "LXJ467",
+    "firstSeen": 1789749999,
+    "lastSeen": 1789753901,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CD32",
+    "flight_hours": 1.0839,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2931",
+    "callsign": "N883CE",
+    "firstSeen": 1789752177,
+    "lastSeen": 1789754931,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.765,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7018",
+    "callsign": "N900KL",
+    "firstSeen": 1789749042,
+    "lastSeen": 1789751850,
+    "estDepartureAirport": "KFTW",
+    "estArrivalAirport": "7TX9",
+    "flight_hours": 0.78,
+    "landing": 1
+  },
+  {
+    "icao24": "ad33e7",
+    "callsign": "N95SJ",
+    "firstSeen": 1789750667,
+    "lastSeen": 1789751928,
+    "estDepartureAirport": "KLNK",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 0.3503,
+    "landing": 1
+  }
+]
