@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a05fc0",
+    "callsign": "JAS123",
+    "firstSeen": 1789758164,
+    "lastSeen": 1789761908,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": null,
+    "flight_hours": 1.04,
+    "landing": 1
+  },
+  {
+    "icao24": "a11d5e",
+    "callsign": "N171EX",
+    "firstSeen": 1789762868,
+    "lastSeen": 1789763603,
+    "estDepartureAirport": "PHNL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2042,
+    "landing": 1
+  },
+  {
+    "icao24": "a19e97",
+    "callsign": "EJA203",
+    "firstSeen": 1789761466,
+    "lastSeen": 1789764295,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "2ID7",
+    "flight_hours": 0.7858,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "EJA268",
+    "firstSeen": 1789763105,
+    "lastSeen": 1789763866,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 0.2114,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1789758792,
+    "lastSeen": 1789761678,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.8017,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e4ba",
+    "callsign": "N414TW",
+    "firstSeen": 1789762595,
+    "lastSeen": 1789763986,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 0.3864,
+    "landing": 1
+  }
+]
