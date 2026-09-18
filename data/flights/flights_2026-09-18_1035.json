@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3b77e5",
+    "callsign": "CTM1281",
+    "firstSeen": 1789722610,
+    "lastSeen": 1789727321,
+    "estDepartureAirport": "LFPV",
+    "estArrivalAirport": "LFKS",
+    "flight_hours": 1.3086,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc83d",
+    "callsign": "EFD5D",
+    "firstSeen": 1789722723,
+    "lastSeen": 1789727207,
+    "estDepartureAirport": "EDDS",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 1.2456,
+    "landing": 1
+  }
+]
