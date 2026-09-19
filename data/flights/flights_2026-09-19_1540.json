@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1789834216,
+    "lastSeen": 1789836745,
+    "estDepartureAirport": "KLZU",
+    "estArrivalAirport": "0MS7",
+    "flight_hours": 0.7025,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a86f",
+    "callsign": "N4FC",
+    "firstSeen": 1789833318,
+    "lastSeen": 1789834241,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "KU10",
+    "flight_hours": 0.2564,
+    "landing": 1
+  },
+  {
+    "icao24": "aa11be",
+    "callsign": "N748RE",
+    "firstSeen": 1789829092,
+    "lastSeen": 1789833012,
+    "estDepartureAirport": "KHYR",
+    "estArrivalAirport": "4NE1",
+    "flight_hours": 1.0889,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2cb5",
+    "callsign": "N884AD",
+    "firstSeen": 1789813082,
+    "lastSeen": 1789834856,
+    "estDepartureAirport": "ME91",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 6.0483,
+    "landing": 1
+  }
+]
