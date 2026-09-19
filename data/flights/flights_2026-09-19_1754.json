@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d099c",
+    "callsign": "ACW1531",
+    "firstSeen": 1789822982,
+    "lastSeen": 1789841113,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 5.0364,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e59f",
+    "callsign": "N157QS",
+    "firstSeen": 1789812148,
+    "lastSeen": 1789841562,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 8.1706,
+    "landing": 1
+  },
+  {
+    "icao24": "acce96",
+    "callsign": "N924S",
+    "firstSeen": 1789842825,
+    "lastSeen": 1789843908,
+    "estDepartureAirport": "LA76",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 0.3008,
+    "landing": 1
+  }
+]
