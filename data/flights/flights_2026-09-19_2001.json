@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT7RH",
+    "firstSeen": 1789846626,
+    "lastSeen": 1789848815,
+    "estDepartureAirport": "LICZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6081,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1789847008,
+    "lastSeen": 1789850291,
+    "estDepartureAirport": "KMFR",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.9119,
+    "landing": 1
+  },
+  {
+    "icao24": "e48a10",
+    "callsign": "PPSFY",
+    "firstSeen": 1789848548,
+    "lastSeen": 1789851509,
+    "estDepartureAirport": "SBNF",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.8225,
+    "landing": 1
+  }
+]
