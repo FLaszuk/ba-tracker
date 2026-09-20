@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3991a3",
+    "callsign": "IXR591",
+    "firstSeen": 1789914683,
+    "lastSeen": 1789919038,
+    "estDepartureAirport": "EGNM",
+    "estArrivalAirport": "EGEL",
+    "flight_hours": 1.2097,
+    "landing": 1
+  },
+  {
+    "icao24": "39a1e4",
+    "callsign": "PEA301",
+    "firstSeen": 1789920759,
+    "lastSeen": 1789922963,
+    "estDepartureAirport": "LFOZ",
+    "estArrivalAirport": "LSGS",
+    "flight_hours": 0.6122,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS242",
+    "firstSeen": 1789911327,
+    "lastSeen": 1789920211,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KM40",
+    "flight_hours": 2.4678,
+    "landing": 1
+  },
+  {
+    "icao24": "a96fb4",
+    "callsign": "TWY2057",
+    "firstSeen": 1789916174,
+    "lastSeen": 1789922144,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.6583,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "EJA978",
+    "firstSeen": 1789917948,
+    "lastSeen": 1789921364,
+    "estDepartureAirport": "MS14",
+    "estArrivalAirport": "IN33",
+    "flight_hours": 0.9489,
+    "landing": 1
+  },
+  {
+    "icao24": "adb401",
+    "callsign": "EJA982",
+    "firstSeen": 1789917023,
+    "lastSeen": 1789919104,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "9CO9",
+    "flight_hours": 0.5781,
+    "landing": 1
+  }
+]
