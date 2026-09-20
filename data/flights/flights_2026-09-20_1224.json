@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "48b70c",
+    "callsign": "AMQ1M",
+    "firstSeen": 1789903962,
+    "lastSeen": 1789907980,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.1161,
+    "landing": 1
+  },
+  {
+    "icao24": "4bad07",
+    "callsign": "TCKHG",
+    "firstSeen": 1789905829,
+    "lastSeen": 1789908386,
+    "estDepartureAirport": "LTBA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7103,
+    "landing": 1
+  },
+  {
+    "icao24": "4d0227",
+    "callsign": "SVW24JM",
+    "firstSeen": 1789901032,
+    "lastSeen": 1789908058,
+    "estDepartureAirport": "LGTS",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 1.9517,
+    "landing": 1
+  },
+  {
+    "icao24": "a5530b",
+    "callsign": "TWY442",
+    "firstSeen": 1789905830,
+    "lastSeen": 1789907780,
+    "estDepartureAirport": "LELA",
+    "estArrivalAirport": "LEVT",
+    "flight_hours": 0.5417,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1865",
+    "callsign": "N75HF",
+    "firstSeen": 1789908110,
+    "lastSeen": 1789911080,
+    "estDepartureAirport": "3IN7",
+    "estArrivalAirport": "KLNP",
+    "flight_hours": 0.825,
+    "landing": 1
+  }
+]
