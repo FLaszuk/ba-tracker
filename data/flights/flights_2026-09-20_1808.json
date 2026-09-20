@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1789923085,
+    "lastSeen": 1789927620,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "6CO2",
+    "flight_hours": 1.2597,
+    "landing": 1
+  },
+  {
+    "icao24": "a5738b",
+    "callsign": "EJM450",
+    "firstSeen": 1789917167,
+    "lastSeen": 1789931613,
+    "estDepartureAirport": "KJZI",
+    "estArrivalAirport": "UT43",
+    "flight_hours": 4.0128,
+    "landing": 1
+  },
+  {
+    "icao24": "a9b339",
+    "callsign": "N724JJ",
+    "firstSeen": 1789928957,
+    "lastSeen": 1789931661,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 0.7511,
+    "landing": 1
+  },
+  {
+    "icao24": "a9f24c",
+    "callsign": "N74XP",
+    "firstSeen": 1789924300,
+    "lastSeen": 1789930677,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 1.7714,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1789922815,
+    "lastSeen": 1789927760,
+    "estDepartureAirport": "KRIC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3736,
+    "landing": 1
+  },
+  {
+    "icao24": "e49279",
+    "callsign": "PRHRO",
+    "firstSeen": 1789922966,
+    "lastSeen": 1789927323,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 1.2103,
+    "landing": 1
+  },
+  {
+    "icao24": "e8095a",
+    "callsign": "CCAND",
+    "firstSeen": 1789927919,
+    "lastSeen": 1789929454,
+    "estDepartureAirport": "SCEL",
+    "estArrivalAirport": "SCFO",
+    "flight_hours": 0.4264,
+    "landing": 1
+  }
+]
