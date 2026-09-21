@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a5941e",
+    "callsign": "LXJ459",
+    "firstSeen": 1790013409,
+    "lastSeen": 1790018986,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KWRL",
+    "flight_hours": 1.5492,
+    "landing": 1
+  },
+  {
+    "icao24": "a9be40",
+    "callsign": "N727HD",
+    "firstSeen": 1790018316,
+    "lastSeen": 1790019052,
+    "estDepartureAirport": "KPSC",
+    "estArrivalAirport": "WA74",
+    "flight_hours": 0.2044,
+    "landing": 1
+  }
+]
