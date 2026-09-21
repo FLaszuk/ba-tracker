@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1789999316,
+    "lastSeen": 1790005730,
+    "estDepartureAirport": "KDEN",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 1.7817,
+    "landing": 1
+  },
+  {
+    "icao24": "a5941e",
+    "callsign": "LXJ459",
+    "firstSeen": 1790003865,
+    "lastSeen": 1790006233,
+    "estDepartureAirport": "KADS",
+    "estArrivalAirport": "0AR1",
+    "flight_hours": 0.6578,
+    "landing": 1
+  },
+  {
+    "icao24": "a657e8",
+    "callsign": "N508CP",
+    "firstSeen": 1790006741,
+    "lastSeen": 1790007435,
+    "estDepartureAirport": "KU77",
+    "estArrivalAirport": "KPUC",
+    "flight_hours": 0.1928,
+    "landing": 1
+  },
+  {
+    "icao24": "e06554",
+    "callsign": "LVFUT",
+    "firstSeen": 1790003575,
+    "lastSeen": 1790005257,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SULS",
+    "flight_hours": 0.4672,
+    "landing": 1
+  }
+]
