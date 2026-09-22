@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a172a0",
+    "callsign": "N1925",
+    "firstSeen": 1790105057,
+    "lastSeen": 1790109631,
+    "estDepartureAirport": "39AR",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 1.2706,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d074",
+    "callsign": "LXJ345",
+    "firstSeen": 1790108789,
+    "lastSeen": 1790110807,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KAAO",
+    "flight_hours": 0.5606,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1790101004,
+    "lastSeen": 1790109061,
+    "estDepartureAirport": "KRDU",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 2.2381,
+    "landing": 1
+  }
+]
