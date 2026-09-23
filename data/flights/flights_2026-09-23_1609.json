@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4405a6",
+    "callsign": "GAC589P",
+    "firstSeen": 1790176699,
+    "lastSeen": 1790180833,
+    "estDepartureAirport": "EDDK",
+    "estArrivalAirport": "EGKB",
+    "flight_hours": 1.1483,
+    "landing": 1
+  },
+  {
+    "icao24": "a2b560",
+    "callsign": "LN274AH",
+    "firstSeen": 1790172191,
+    "lastSeen": 1790180574,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": null,
+    "flight_hours": 2.3286,
+    "landing": 1
+  },
+  {
+    "icao24": "a9ca37",
+    "callsign": "N73RP",
+    "firstSeen": 1790172537,
+    "lastSeen": 1790180106,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 2.1025,
+    "landing": 1
+  }
+]
