@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "706203",
+    "callsign": "KUG067",
+    "firstSeen": 1790141544,
+    "lastSeen": 1790143957,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6703,
+    "landing": 1
+  },
+  {
+    "icao24": "a047e3",
+    "callsign": "N117TF",
+    "firstSeen": 1790135234,
+    "lastSeen": 1790142168,
+    "estDepartureAirport": "KMEM",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.9261,
+    "landing": 1
+  }
+]
