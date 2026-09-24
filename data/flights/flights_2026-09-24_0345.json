@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a8cf06",
+    "callsign": "N667JD",
+    "firstSeen": 1790216438,
+    "lastSeen": 1790221611,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KRIL",
+    "flight_hours": 1.4369,
+    "landing": 1
+  },
+  {
+    "icao24": "a91338",
+    "callsign": "N684MT",
+    "firstSeen": 1790219576,
+    "lastSeen": 1790224262,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.3017,
+    "landing": 1
+  }
+]
