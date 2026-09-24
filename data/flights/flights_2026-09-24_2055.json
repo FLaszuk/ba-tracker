@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a6d745",
+    "callsign": "N54TJ",
+    "firstSeen": 1790278172,
+    "lastSeen": 1790283375,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "9WI9",
+    "flight_hours": 1.4453,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a23a",
+    "callsign": "N72LN",
+    "firstSeen": 1790272815,
+    "lastSeen": 1790285202,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.4408,
+    "landing": 1
+  },
+  {
+    "icao24": "ad83fc",
+    "callsign": "SVL12",
+    "firstSeen": 1790276370,
+    "lastSeen": 1790284665,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "KTOR",
+    "flight_hours": 2.3042,
+    "landing": 1
+  }
+]
