@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0ac379",
+    "callsign": "HK5186",
+    "firstSeen": 1790200710,
+    "lastSeen": 1790201961,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3475,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c616",
+    "callsign": "EJA213",
+    "firstSeen": 1790193184,
+    "lastSeen": 1790202024,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 2.4556,
+    "landing": 1
+  },
+  {
+    "icao24": "a2fe57",
+    "callsign": "EJA292",
+    "firstSeen": 1790200430,
+    "lastSeen": 1790202719,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.6358,
+    "landing": 1
+  },
+  {
+    "icao24": "a63308",
+    "callsign": "N499RK",
+    "firstSeen": 1790200381,
+    "lastSeen": 1790206673,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "NM30",
+    "flight_hours": 1.7478,
+    "landing": 1
+  },
+  {
+    "icao24": "aa1884",
+    "callsign": "N75JM",
+    "firstSeen": 1790202403,
+    "lastSeen": 1790205344,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "MT32",
+    "flight_hours": 0.8169,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1790199873,
+    "lastSeen": 1790201378,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "37OR",
+    "flight_hours": 0.4181,
+    "landing": 1
+  }
+]
