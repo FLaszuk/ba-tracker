@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4405a6",
+    "callsign": "GAC225L",
+    "firstSeen": 1790237929,
+    "lastSeen": 1790240183,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.6261,
+    "landing": 1
+  },
+  {
+    "icao24": "493285",
+    "callsign": "NJE062P",
+    "firstSeen": 1790239541,
+    "lastSeen": 1790242689,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "EGLC",
+    "flight_hours": 0.8744,
+    "landing": 1
+  }
+]
