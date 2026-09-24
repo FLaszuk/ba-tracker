@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a597a6",
+    "callsign": "N46E",
+    "firstSeen": 1790265800,
+    "lastSeen": 1790271953,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.7092,
+    "landing": 1
+  },
+  {
+    "icao24": "a96483",
+    "callsign": "N704MF",
+    "firstSeen": 1790271146,
+    "lastSeen": 1790272455,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.3636,
+    "landing": 1
+  },
+  {
+    "icao24": "a9a8d8",
+    "callsign": "N721SE",
+    "firstSeen": 1790273231,
+    "lastSeen": 1790274916,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4681,
+    "landing": 1
+  }
+]
