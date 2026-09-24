@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1790256049,
+    "lastSeen": 1790260941,
+    "estDepartureAirport": "LEBL",
+    "estArrivalAirport": "LILO",
+    "flight_hours": 1.3589,
+    "landing": 1
+  },
+  {
+    "icao24": "490d01",
+    "callsign": "NJE109V",
+    "firstSeen": 1790253785,
+    "lastSeen": 1790257794,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 1.1136,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "N154AF",
+    "firstSeen": 1790254634,
+    "lastSeen": 1790259599,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": null,
+    "flight_hours": 1.3792,
+    "landing": 1
+  },
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1790256592,
+    "lastSeen": 1790259998,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.9461,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e24",
+    "callsign": "EJA268",
+    "firstSeen": 1790251343,
+    "lastSeen": 1790258685,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "3LA1",
+    "flight_hours": 2.0394,
+    "landing": 1
+  },
+  {
+    "icao24": "a99e92",
+    "callsign": "DCM4241",
+    "firstSeen": 1790248535,
+    "lastSeen": 1790260132,
+    "estDepartureAirport": "KD98",
+    "estArrivalAirport": "K8U2",
+    "flight_hours": 3.2214,
+    "landing": 1
+  }
+]
