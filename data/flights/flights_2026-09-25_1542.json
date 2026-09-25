@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0ac15e",
+    "callsign": "HK4891",
+    "firstSeen": 1790346031,
+    "lastSeen": 1790352572,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": "SKCL",
+    "flight_hours": 1.8169,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098f",
+    "callsign": "XARAN",
+    "firstSeen": 1790345610,
+    "lastSeen": 1790350759,
+    "estDepartureAirport": "KELP",
+    "estArrivalAirport": "KBPI",
+    "flight_hours": 1.4303,
+    "landing": 1
+  },
+  {
+    "icao24": "39a90b",
+    "callsign": "OYO9",
+    "firstSeen": 1790349799,
+    "lastSeen": 1790353223,
+    "estDepartureAirport": "LFOK",
+    "estArrivalAirport": "LFLY",
+    "flight_hours": 0.9511,
+    "landing": 1
+  },
+  {
+    "icao24": "49d013",
+    "callsign": "ABP814",
+    "firstSeen": 1790347752,
+    "lastSeen": 1790351531,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0497,
+    "landing": 1
+  },
+  {
+    "icao24": "a44432",
+    "callsign": "N374RV",
+    "firstSeen": 1790354049,
+    "lastSeen": 1790354330,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 0.0781,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1790339815,
+    "lastSeen": 1790351949,
+    "estDepartureAirport": "KTTA",
+    "estArrivalAirport": "KLRU",
+    "flight_hours": 3.3706,
+    "landing": 1
+  },
+  {
+    "icao24": "ada2cc",
+    "callsign": "EJA978",
+    "firstSeen": 1790347880,
+    "lastSeen": 1790351366,
+    "estDepartureAirport": "KOGD",
+    "estArrivalAirport": "NV17",
+    "flight_hours": 0.9683,
+    "landing": 1
+  }
+]
