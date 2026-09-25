@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3c942d",
+    "callsign": "DWW518",
+    "firstSeen": 1790330372,
+    "lastSeen": 1790332406,
+    "estDepartureAirport": "LIMJ",
+    "estArrivalAirport": "LSTA",
+    "flight_hours": 0.565,
+    "landing": 1
+  },
+  {
+    "icao24": "493033",
+    "callsign": "NJE007B",
+    "firstSeen": 1790329414,
+    "lastSeen": 1790332640,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ENTC",
+    "flight_hours": 0.8961,
+    "landing": 1
+  }
+]
