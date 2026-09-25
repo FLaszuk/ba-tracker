@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA213",
+    "firstSeen": 1790361353,
+    "lastSeen": 1790362682,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3692,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS13",
+    "firstSeen": 1790352219,
+    "lastSeen": 1790363956,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "K7V2",
+    "flight_hours": 3.2603,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d218",
+    "callsign": "TWY281",
+    "firstSeen": 1790360294,
+    "lastSeen": 1790362760,
+    "estDepartureAirport": "NV13",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.685,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c422",
+    "callsign": "N406NL",
+    "firstSeen": 1790358955,
+    "lastSeen": 1790364982,
+    "estDepartureAirport": "KSLE",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.6742,
+    "landing": 1
+  },
+  {
+    "icao24": "a77da1",
+    "callsign": "N582D",
+    "firstSeen": 1790356252,
+    "lastSeen": 1790366486,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KGNC",
+    "flight_hours": 2.8428,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5022",
+    "callsign": "N957RC",
+    "firstSeen": 1790361502,
+    "lastSeen": 1790363906,
+    "estDepartureAirport": "KBHM",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 0.6678,
+    "landing": 1
+  }
+]
