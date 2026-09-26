@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d08d4",
+    "callsign": "LET7150",
+    "firstSeen": 1790438878,
+    "lastSeen": 1790457291,
+    "estDepartureAirport": "KGWS",
+    "estArrivalAirport": "MMIO",
+    "flight_hours": 5.1147,
+    "landing": 1
+  },
+  {
+    "icao24": "440465",
+    "callsign": "GDK74A",
+    "firstSeen": 1790453547,
+    "lastSeen": 1790457149,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LYTV",
+    "flight_hours": 1.0006,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a343",
+    "callsign": "MNL5",
+    "firstSeen": 1790458122,
+    "lastSeen": 1790463018,
+    "estDepartureAirport": "KBNG",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 1.36,
+    "landing": 1
+  }
+]
