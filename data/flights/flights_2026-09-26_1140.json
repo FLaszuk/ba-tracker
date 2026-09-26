@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cd3b7",
+    "callsign": "ELG3D",
+    "firstSeen": 1790420840,
+    "lastSeen": 1790423398,
+    "estDepartureAirport": "LIPZ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7106,
+    "landing": 1
+  },
+  {
+    "icao24": "451c0d",
+    "callsign": "LZTRH",
+    "firstSeen": 1790414224,
+    "lastSeen": 1790423919,
+    "estDepartureAirport": "UGTB",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6931,
+    "landing": 1
+  }
+]
