@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20e6",
+    "callsign": "VJT467",
+    "firstSeen": 1790435300,
+    "lastSeen": 1790436963,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4619,
+    "landing": 1
+  },
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1790433979,
+    "lastSeen": 1790439316,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "NM76",
+    "flight_hours": 1.4825,
+    "landing": 1
+  }
+]
