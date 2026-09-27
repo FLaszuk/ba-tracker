@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a056c5",
+    "callsign": "N1205M",
+    "firstSeen": 1790520028,
+    "lastSeen": 1790528314,
+    "estDepartureAirport": "KSDF",
+    "estArrivalAirport": "WY11",
+    "flight_hours": 2.3017,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ab44",
+    "callsign": "N40LB",
+    "firstSeen": 1790526571,
+    "lastSeen": 1790528826,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "SD98",
+    "flight_hours": 0.6264,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bd74",
+    "callsign": "N404WC",
+    "firstSeen": 1790529345,
+    "lastSeen": 1790531797,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "5TE5",
+    "flight_hours": 0.6811,
+    "landing": 1
+  },
+  {
+    "icao24": "a575f4",
+    "callsign": "N451BH",
+    "firstSeen": 1790525141,
+    "lastSeen": 1790529823,
+    "estDepartureAirport": "KDYS",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 1.3006,
+    "landing": 1
+  },
+  {
+    "icao24": "a6d9e0",
+    "callsign": "N540W",
+    "firstSeen": 1790527911,
+    "lastSeen": 1790532204,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 1.1925,
+    "landing": 1
+  },
+  {
+    "icao24": "a70326",
+    "callsign": "N551AD",
+    "firstSeen": 1790511745,
+    "lastSeen": 1790532146,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.6669,
+    "landing": 1
+  }
+]
