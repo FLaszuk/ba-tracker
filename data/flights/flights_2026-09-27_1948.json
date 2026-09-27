@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "300635",
+    "callsign": "SIO501",
+    "firstSeen": 1790535546,
+    "lastSeen": 1790538219,
+    "estDepartureAirport": "LIPH",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 0.7425,
+    "landing": 1
+  },
+  {
+    "icao24": "a16068",
+    "callsign": "N188WR",
+    "firstSeen": 1790536316,
+    "lastSeen": 1790540875,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2664,
+    "landing": 1
+  },
+  {
+    "icao24": "a30663",
+    "callsign": "N294X",
+    "firstSeen": 1790525233,
+    "lastSeen": 1790537955,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": null,
+    "flight_hours": 3.5339,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1790534274,
+    "lastSeen": 1790542203,
+    "estDepartureAirport": "KCOE",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 2.2025,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1790528665,
+    "lastSeen": 1790538889,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 2.84,
+    "landing": 1
+  },
+  {
+    "icao24": "ac783b",
+    "callsign": "N902SS",
+    "firstSeen": 1790531935,
+    "lastSeen": 1790539411,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 2.0767,
+    "landing": 1
+  },
+  {
+    "icao24": "e4829c",
+    "callsign": "PRMLR",
+    "firstSeen": 1790531312,
+    "lastSeen": 1790538772,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 2.0722,
+    "landing": 1
+  }
+]
