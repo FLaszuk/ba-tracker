@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU756C",
+    "firstSeen": 1790543373,
+    "lastSeen": 1790546869,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LIED",
+    "flight_hours": 0.9711,
+    "landing": 1
+  },
+  {
+    "icao24": "a0d911",
+    "callsign": "CNS36",
+    "firstSeen": 1790534772,
+    "lastSeen": 1790547210,
+    "estDepartureAirport": "KCYS",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 3.455,
+    "landing": 1
+  },
+  {
+    "icao24": "a101f9",
+    "callsign": "N164QS",
+    "firstSeen": 1790520286,
+    "lastSeen": 1790549520,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "KBFW",
+    "flight_hours": 8.1206,
+    "landing": 1
+  },
+  {
+    "icao24": "a4a8a2",
+    "callsign": "N4HD",
+    "firstSeen": 1790542066,
+    "lastSeen": 1790549373,
+    "estDepartureAirport": "KHND",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.0297,
+    "landing": 1
+  },
+  {
+    "icao24": "ac710a",
+    "callsign": "N900VC",
+    "firstSeen": 1790531217,
+    "lastSeen": 1790547105,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 4.4133,
+    "landing": 1
+  }
+]
