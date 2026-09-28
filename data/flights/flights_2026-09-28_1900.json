@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a01b78",
+    "callsign": "N106EX",
+    "firstSeen": 1790600561,
+    "lastSeen": 1790621465,
+    "estDepartureAirport": "EINN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 5.8067,
+    "landing": 1
+  },
+  {
+    "icao24": "a0265d",
+    "callsign": "N109CH",
+    "firstSeen": 1790619369,
+    "lastSeen": 1790621743,
+    "estDepartureAirport": "KRDM",
+    "estArrivalAirport": "MT30",
+    "flight_hours": 0.6594,
+    "landing": 1
+  },
+  {
+    "icao24": "a29e03",
+    "callsign": "STT68",
+    "firstSeen": 1790620593,
+    "lastSeen": 1790622371,
+    "estDepartureAirport": "KBOI",
+    "estArrivalAirport": "05ID",
+    "flight_hours": 0.4939,
+    "landing": 1
+  },
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1790617459,
+    "lastSeen": 1790623223,
+    "estDepartureAirport": "KLBB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.6011,
+    "landing": 1
+  },
+  {
+    "icao24": "a5611c",
+    "callsign": "TWY007",
+    "firstSeen": 1790618859,
+    "lastSeen": 1790621772,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "KCNM",
+    "flight_hours": 0.8092,
+    "landing": 1
+  },
+  {
+    "icao24": "ad24e1",
+    "callsign": "EJA946",
+    "firstSeen": 1790622804,
+    "lastSeen": 1790625102,
+    "estDepartureAirport": "22IS",
+    "estArrivalAirport": "KEVV",
+    "flight_hours": 0.6383,
+    "landing": 1
+  },
+  {
+    "icao24": "c05c71",
+    "callsign": "CGJAE",
+    "firstSeen": 1790619558,
+    "lastSeen": 1790625078,
+    "estDepartureAirport": "CYVR",
+    "estArrivalAirport": "CYXE",
+    "flight_hours": 1.5333,
+    "landing": 1
+  }
+]
