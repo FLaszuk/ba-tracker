@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "a00d65",
+    "callsign": "N102NY",
+    "firstSeen": 1790686384,
+    "lastSeen": 1790700858,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KTEX",
+    "flight_hours": 4.0206,
+    "landing": 1
+  },
+  {
+    "icao24": "a0de31",
+    "callsign": "EJA155",
+    "firstSeen": 1790697565,
+    "lastSeen": 1790702954,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.4969,
+    "landing": 1
+  },
+  {
+    "icao24": "a17855",
+    "callsign": "N194PJ",
+    "firstSeen": 1790701219,
+    "lastSeen": 1790703428,
+    "estDepartureAirport": "22LS",
+    "estArrivalAirport": "KGWO",
+    "flight_hours": 0.6136,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1790699647,
+    "lastSeen": 1790700943,
+    "estDepartureAirport": "11TX",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.36,
+    "landing": 1
+  },
+  {
+    "icao24": "a606e9",
+    "callsign": "N488GB",
+    "firstSeen": 1790702448,
+    "lastSeen": 1790703628,
+    "estDepartureAirport": "2OL2",
+    "estArrivalAirport": "KRUE",
+    "flight_hours": 0.3278,
+    "landing": 1
+  },
+  {
+    "icao24": "a8eabb",
+    "callsign": "XEN74",
+    "firstSeen": 1790695951,
+    "lastSeen": 1790701101,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "K40U",
+    "flight_hours": 1.4306,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d20f",
+    "callsign": "N7317",
+    "firstSeen": 1790698542,
+    "lastSeen": 1790703188,
+    "estDepartureAirport": "CYXX",
+    "estArrivalAirport": "CYXJ",
+    "flight_hours": 1.2906,
+    "landing": 1
+  }
+]
