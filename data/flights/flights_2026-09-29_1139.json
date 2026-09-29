@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d07fc",
+    "callsign": "XAEMM",
+    "firstSeen": 1790682044,
+    "lastSeen": 1790683236,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3311,
+    "landing": 1
+  },
+  {
+    "icao24": "494110",
+    "callsign": "NJE166A",
+    "firstSeen": 1790679908,
+    "lastSeen": 1790682011,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.5842,
+    "landing": 1
+  },
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ6845",
+    "firstSeen": 1790677610,
+    "lastSeen": 1790682251,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": "LQMO",
+    "flight_hours": 1.2892,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20f8",
+    "callsign": "VJT895",
+    "firstSeen": 1790676777,
+    "lastSeen": 1790682223,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "ENGM",
+    "flight_hours": 1.5128,
+    "landing": 1
+  }
+]
