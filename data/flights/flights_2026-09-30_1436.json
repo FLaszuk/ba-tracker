@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "39c82b",
+    "callsign": "PEA501",
+    "firstSeen": 1790779268,
+    "lastSeen": 1790781739,
+    "estDepartureAirport": "LFLY",
+    "estArrivalAirport": "LFLU",
+    "flight_hours": 0.6864,
+    "landing": 1
+  },
+  {
+    "icao24": "491312",
+    "callsign": "NJE872C",
+    "firstSeen": 1790771301,
+    "lastSeen": 1790779736,
+    "estDepartureAirport": "LDZA",
+    "estArrivalAirport": "LEBG",
+    "flight_hours": 2.3431,
+    "landing": 1
+  },
+  {
+    "icao24": "a15e22",
+    "callsign": "TWY78",
+    "firstSeen": 1790769902,
+    "lastSeen": 1790783557,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KLXV",
+    "flight_hours": 3.7931,
+    "landing": 1
+  },
+  {
+    "icao24": "a57395",
+    "callsign": "N450RB",
+    "firstSeen": 1790773999,
+    "lastSeen": 1790778518,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KEAN",
+    "flight_hours": 1.2553,
+    "landing": 1
+  }
+]
