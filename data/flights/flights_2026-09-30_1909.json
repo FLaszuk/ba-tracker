@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d06d5",
+    "callsign": "XAARO",
+    "firstSeen": 1790790326,
+    "lastSeen": 1790798163,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 2.1769,
+    "landing": 1
+  },
+  {
+    "icao24": "a0cb9e",
+    "callsign": "EJA150",
+    "firstSeen": 1790788592,
+    "lastSeen": 1790794923,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "WY00",
+    "flight_hours": 1.7586,
+    "landing": 1
+  },
+  {
+    "icao24": "a3bde1",
+    "callsign": "LXJ340",
+    "firstSeen": 1790789433,
+    "lastSeen": 1790795058,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 1.5625,
+    "landing": 1
+  },
+  {
+    "icao24": "a4b4dc",
+    "callsign": "VJA402",
+    "firstSeen": 1790790900,
+    "lastSeen": 1790795777,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "WY64",
+    "flight_hours": 1.3547,
+    "landing": 1
+  },
+  {
+    "icao24": "ad57a2",
+    "callsign": "N959RW",
+    "firstSeen": 1790771042,
+    "lastSeen": 1790798641,
+    "estDepartureAirport": "KROC",
+    "estArrivalAirport": "LMML",
+    "flight_hours": 7.6664,
+    "landing": 1
+  }
+]
