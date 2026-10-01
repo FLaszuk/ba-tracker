@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3182",
+    "firstSeen": 1790856172,
+    "lastSeen": 1790859259,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIMF",
+    "flight_hours": 0.8575,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d5",
+    "callsign": "VJT813",
+    "firstSeen": 1790856018,
+    "lastSeen": 1790862745,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LEIB",
+    "flight_hours": 1.8686,
+    "landing": 1
+  },
+  {
+    "icao24": "a25bf4",
+    "callsign": "N251HR",
+    "firstSeen": 1790856473,
+    "lastSeen": 1790859733,
+    "estDepartureAirport": "KDPL",
+    "estArrivalAirport": "KFFC",
+    "flight_hours": 0.9056,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ad37",
+    "callsign": "GLF93",
+    "firstSeen": 1790860442,
+    "lastSeen": 1790861620,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3272,
+    "landing": 1
+  },
+  {
+    "icao24": "a8bc3a",
+    "callsign": "LXJ662",
+    "firstSeen": 1790857583,
+    "lastSeen": 1790859556,
+    "estDepartureAirport": "KISM",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.5481,
+    "landing": 1
+  },
+  {
+    "icao24": "acb9ab",
+    "callsign": "N919SA",
+    "firstSeen": 1790858385,
+    "lastSeen": 1790861079,
+    "estDepartureAirport": "LFTH",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.7483,
+    "landing": 1
+  }
+]

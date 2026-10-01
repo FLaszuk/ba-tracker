@@ -1,0 +1,48 @@
+{
+  "month": "2026-10",
+  "total": 4,
+  "offset": 0,
+  "limit": 4,
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 1.9,
+      "total_landings": 1,
+      "aircraft_market_share": 35.48,
+      "engine_market_share": 69.45
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 1.6,
+      "total_landings": 2,
+      "aircraft_market_share": 30.55,
+      "engine_market_share": 30.55
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 0.9,
+      "total_landings": 1,
+      "aircraft_market_share": 17.27,
+      "engine_market_share": 69.45
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 0.9,
+      "total_landings": 2,
+      "aircraft_market_share": 16.7,
+      "engine_market_share": 69.45
+    }
+  ]
+}

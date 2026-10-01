@@ -1,0 +1,29 @@
+{
+  "month": "2026-10",
+  "data": [
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 900",
+      "total_hours": 1.6,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 0.9,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 1.9,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 0.9,
+      "total_landings": 1
+    }
+  ]
+}
