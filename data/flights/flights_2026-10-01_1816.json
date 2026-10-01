@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1790876661,
+    "lastSeen": 1790878956,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6375,
+    "landing": 1
+  },
+  {
+    "icao24": "a55b7f",
+    "callsign": "N444WT",
+    "firstSeen": 1790871679,
+    "lastSeen": 1790878546,
+    "estDepartureAirport": "KPWT",
+    "estArrivalAirport": "KBUR",
+    "flight_hours": 1.9075,
+    "landing": 1
+  },
+  {
+    "icao24": "a724bd",
+    "callsign": "N56BU",
+    "firstSeen": 1790880214,
+    "lastSeen": 1790883090,
+    "estDepartureAirport": "KPIR",
+    "estArrivalAirport": "KFCM",
+    "flight_hours": 0.7989,
+    "landing": 1
+  },
+  {
+    "icao24": "aab109",
+    "callsign": "JCY900",
+    "firstSeen": 1790867486,
+    "lastSeen": 1790881499,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 3.8925,
+    "landing": 1
+  }
+]
