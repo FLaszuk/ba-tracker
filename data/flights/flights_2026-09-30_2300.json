@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a43815",
+    "callsign": "LXJ371",
+    "firstSeen": 1790806130,
+    "lastSeen": 1790809468,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.9272,
+    "landing": 1
+  },
+  {
+    "icao24": "adc30c",
+    "callsign": "N986SP",
+    "firstSeen": 1790808854,
+    "lastSeen": 1790809973,
+    "estDepartureAirport": "CYEG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3108,
+    "landing": 1
+  }
+]
