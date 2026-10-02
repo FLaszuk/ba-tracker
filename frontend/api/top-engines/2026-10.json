@@ -8,6 +8,12 @@
       "total_landings": 4
     },
     {
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR725",
+      "total_hours": 5.7,
+      "total_landings": 4
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "TFE731",
       "total_hours": 5.5,
@@ -24,12 +30,6 @@
       "engine_model": "HTF7350",
       "total_hours": 3.9,
       "total_landings": 1
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "BR725",
-      "total_hours": 3.9,
-      "total_landings": 3
     },
     {
       "engine_manufacturer": "Rolls-Royce",
