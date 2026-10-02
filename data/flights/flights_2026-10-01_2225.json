@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4d2155",
+    "callsign": "VJT993",
+    "firstSeen": 1790889028,
+    "lastSeen": 1790897437,
+    "estDepartureAirport": "YBCG",
+    "estArrivalAirport": "YMML",
+    "flight_hours": 2.3358,
+    "landing": 1
+  },
+  {
+    "icao24": "a04e6f",
+    "callsign": "VJA119",
+    "firstSeen": 1790888980,
+    "lastSeen": 1790894207,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "41CO",
+    "flight_hours": 1.4519,
+    "landing": 1
+  },
+  {
+    "icao24": "a056c5",
+    "callsign": "N1205M",
+    "firstSeen": 1790890066,
+    "lastSeen": 1790894677,
+    "estDepartureAirport": "KOKC",
+    "estArrivalAirport": "K20V",
+    "flight_hours": 1.2808,
+    "landing": 1
+  },
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1790885290,
+    "lastSeen": 1790899377,
+    "estDepartureAirport": "KTRI",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 3.9131,
+    "landing": 1
+  },
+  {
+    "icao24": "a491ac",
+    "callsign": "PJC94",
+    "firstSeen": 1790884106,
+    "lastSeen": 1790893022,
+    "estDepartureAirport": "KOCF",
+    "estArrivalAirport": "K3K8",
+    "flight_hours": 2.4767,
+    "landing": 1
+  },
+  {
+    "icao24": "a59a2e",
+    "callsign": "LXJ460",
+    "firstSeen": 1790888770,
+    "lastSeen": 1790893500,
+    "estDepartureAirport": "CYWG",
+    "estArrivalAirport": "CJH3",
+    "flight_hours": 1.3139,
+    "landing": 1
+  }
+]
