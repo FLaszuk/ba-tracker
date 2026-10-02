@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a30d33",
+    "callsign": "EJA296",
+    "firstSeen": 1790947066,
+    "lastSeen": 1790962891,
+    "estDepartureAirport": "KOWD",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 4.3958,
+    "landing": 1
+  },
+  {
+    "icao24": "a4bd74",
+    "callsign": "N404WC",
+    "firstSeen": 1790960593,
+    "lastSeen": 1790963179,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "5TE5",
+    "flight_hours": 0.7183,
+    "landing": 1
+  },
+  {
+    "icao24": "aadfa8",
+    "callsign": "N80BL",
+    "firstSeen": 1790940747,
+    "lastSeen": 1790965467,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.8667,
+    "landing": 1
+  },
+  {
+    "icao24": "ab772b",
+    "callsign": "N838MF",
+    "firstSeen": 1790950539,
+    "lastSeen": 1790961532,
+    "estDepartureAirport": "KORL",
+    "estArrivalAirport": "KAEJ",
+    "flight_hours": 3.0536,
+    "landing": 1
+  }
+]
