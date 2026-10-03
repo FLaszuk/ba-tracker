@@ -2,15 +2,15 @@
   "month": "2026-10",
   "data": [
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 6.8,
+      "total_landings": 6
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
       "total_hours": 8.5,
-      "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 5.7,
       "total_landings": 5
     },
     {
