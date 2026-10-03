@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "401057",
+    "callsign": "GTAYC",
+    "firstSeen": 1791025686,
+    "lastSeen": 1791027452,
+    "estDepartureAirport": "EGNX",
+    "estArrivalAirport": "EGHH",
+    "flight_hours": 0.4906,
+    "landing": 1
+  },
+  {
+    "icao24": "70c0b3",
+    "callsign": "ORF3",
+    "firstSeen": 1791024354,
+    "lastSeen": 1791025627,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3536,
+    "landing": 1
+  },
+  {
+    "icao24": "a1fec7",
+    "callsign": "N228AP",
+    "firstSeen": 1791021359,
+    "lastSeen": 1791027639,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LEGR",
+    "flight_hours": 1.7444,
+    "landing": 1
+  }
+]
