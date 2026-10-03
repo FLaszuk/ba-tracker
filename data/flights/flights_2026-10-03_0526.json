@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ36HU",
+    "firstSeen": 1791001734,
+    "lastSeen": 1791006871,
+    "estDepartureAirport": "EPWA",
+    "estArrivalAirport": null,
+    "flight_hours": 1.4269,
+    "landing": 1
+  },
+  {
+    "icao24": "a00037",
+    "callsign": "EJM19",
+    "firstSeen": 1790993028,
+    "lastSeen": 1791005610,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 3.495,
+    "landing": 1
+  },
+  {
+    "icao24": "a02bda",
+    "callsign": "N11WM",
+    "firstSeen": 1791001359,
+    "lastSeen": 1791007094,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.5931,
+    "landing": 1
+  }
+]
