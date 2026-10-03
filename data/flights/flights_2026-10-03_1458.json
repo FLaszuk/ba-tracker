@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "49d3ac",
+    "callsign": "BOH712",
+    "firstSeen": 1791028118,
+    "lastSeen": 1791038921,
+    "estDepartureAirport": "EHAM",
+    "estArrivalAirport": "LGKL",
+    "flight_hours": 3.0008,
+    "landing": 1
+  },
+  {
+    "icao24": "a17eaa",
+    "callsign": "N196CC",
+    "firstSeen": 1791034100,
+    "lastSeen": 1791039757,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KWYS",
+    "flight_hours": 1.5714,
+    "landing": 1
+  }
+]

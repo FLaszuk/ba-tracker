@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "total": 11,
+  "total": 12,
   "offset": 0,
-  "limit": 11,
+  "limit": 12,
   "data": [
     {
       "aircraft_manufacturer": "Dassault",
@@ -11,8 +11,8 @@
       "engine_model": "PW308C",
       "total_hours": 13.3,
       "total_landings": 4,
-      "aircraft_market_share": 24.36,
-      "engine_market_share": 32.11
+      "aircraft_market_share": 22.47,
+      "engine_market_share": 34.71
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -21,8 +21,18 @@
       "engine_model": "TFE731",
       "total_hours": 8.5,
       "total_landings": 5,
-      "aircraft_market_share": 15.65,
-      "engine_market_share": 22.83
+      "aircraft_market_share": 14.44,
+      "engine_market_share": 21.06
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "Tay 611-8C",
+      "total_hours": 5.7,
+      "total_landings": 5,
+      "aircraft_market_share": 9.71,
+      "engine_market_share": 40.99
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -31,8 +41,8 @@
       "engine_model": "BR725",
       "total_hours": 5.7,
       "total_landings": 4,
-      "aircraft_market_share": 10.38,
-      "engine_market_share": 41.55
+      "aircraft_market_share": 9.57,
+      "engine_market_share": 40.99
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -41,8 +51,8 @@
       "engine_model": "BR710",
       "total_hours": 4.7,
       "total_landings": 3,
-      "aircraft_market_share": 8.54,
-      "engine_market_share": 41.55
+      "aircraft_market_share": 7.88,
+      "engine_market_share": 40.99
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -51,18 +61,8 @@
       "engine_model": "BR710",
       "total_hours": 4.2,
       "total_landings": 2,
-      "aircraft_market_share": 7.71,
-      "engine_market_share": 41.55
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "Tay 611-8C",
-      "total_hours": 4.2,
-      "total_landings": 4,
-      "aircraft_market_share": 7.64,
-      "engine_market_share": 41.55
+      "aircraft_market_share": 7.12,
+      "engine_market_share": 40.99
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -71,8 +71,8 @@
       "engine_model": "AE 3007",
       "total_hours": 4.0,
       "total_landings": 2,
-      "aircraft_market_share": 7.27,
-      "engine_market_share": 41.55
+      "aircraft_market_share": 6.71,
+      "engine_market_share": 40.99
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -81,8 +81,18 @@
       "engine_model": "HTF7350",
       "total_hours": 3.9,
       "total_landings": 1,
-      "aircraft_market_share": 7.18,
-      "engine_market_share": 22.83
+      "aircraft_market_share": 6.63,
+      "engine_market_share": 21.06
+    },
+    {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation Excel",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW545",
+      "total_hours": 3.0,
+      "total_landings": 1,
+      "aircraft_market_share": 5.08,
+      "engine_market_share": 34.71
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
@@ -91,8 +101,8 @@
       "engine_model": "PW545",
       "total_hours": 2.5,
       "total_landings": 1,
-      "aircraft_market_share": 4.56,
-      "engine_market_share": 32.11
+      "aircraft_market_share": 4.2,
+      "engine_market_share": 34.71
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -101,8 +111,8 @@
       "engine_model": "Passport 20",
       "total_hours": 1.9,
       "total_landings": 1,
-      "aircraft_market_share": 3.51,
-      "engine_market_share": 3.51
+      "aircraft_market_share": 3.24,
+      "engine_market_share": 3.24
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -111,8 +121,8 @@
       "engine_model": "PW307A",
       "total_hours": 1.7,
       "total_landings": 1,
-      "aircraft_market_share": 3.2,
-      "engine_market_share": 32.11
+      "aircraft_market_share": 2.95,
+      "engine_market_share": 34.71
     }
   ]
 }
