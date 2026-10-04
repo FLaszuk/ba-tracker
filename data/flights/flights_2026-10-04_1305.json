@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1791084753,
+    "lastSeen": 1791121314,
+    "estDepartureAirport": "KEWR",
+    "estArrivalAirport": "PHKO",
+    "flight_hours": 10.1558,
+    "landing": 1
+  },
+  {
+    "icao24": "a24b0c",
+    "callsign": "N247LT",
+    "firstSeen": 1791117722,
+    "lastSeen": 1791121815,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KMSN",
+    "flight_hours": 1.1369,
+    "landing": 1
+  },
+  {
+    "icao24": "a686d5",
+    "callsign": "N52CP",
+    "firstSeen": 1791115904,
+    "lastSeen": 1791121170,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.4628,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1791122633,
+    "lastSeen": 1791122951,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SIFU",
+    "flight_hours": 0.0883,
+    "landing": 1
+  }
+]
