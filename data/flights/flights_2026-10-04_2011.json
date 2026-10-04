@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a55b7f",
+    "callsign": "N444WT",
+    "firstSeen": 1791140782,
+    "lastSeen": 1791148905,
+    "estDepartureAirport": "K7K8",
+    "estArrivalAirport": "KL64",
+    "flight_hours": 2.2564,
+    "landing": 1
+  },
+  {
+    "icao24": "a992f0",
+    "callsign": "N716GC",
+    "firstSeen": 1791145815,
+    "lastSeen": 1791148365,
+    "estDepartureAirport": "KCRQ",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7083,
+    "landing": 1
+  },
+  {
+    "icao24": "acaa3f",
+    "callsign": "N915LG",
+    "firstSeen": 1791141283,
+    "lastSeen": 1791147485,
+    "estDepartureAirport": "KRIL",
+    "estArrivalAirport": "KSIY",
+    "flight_hours": 1.7228,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1791145027,
+    "lastSeen": 1791148083,
+    "estDepartureAirport": "KSBA",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 0.8489,
+    "landing": 1
+  },
+  {
+    "icao24": "ad60ab",
+    "callsign": "NEW961",
+    "firstSeen": 1791129899,
+    "lastSeen": 1791146460,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 4.6003,
+    "landing": 1
+  }
+]
