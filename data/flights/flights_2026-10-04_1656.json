@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a10dd5",
+    "callsign": "TIV167",
+    "firstSeen": 1791131597,
+    "lastSeen": 1791132937,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.3722,
+    "landing": 1
+  },
+  {
+    "icao24": "a597f2",
+    "callsign": "N46HA",
+    "firstSeen": 1791130866,
+    "lastSeen": 1791135909,
+    "estDepartureAirport": "TN98",
+    "estArrivalAirport": "FL90",
+    "flight_hours": 1.4008,
+    "landing": 1
+  },
+  {
+    "icao24": "ad5b14",
+    "callsign": "N96PB",
+    "firstSeen": 1791131630,
+    "lastSeen": 1791135789,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "NC73",
+    "flight_hours": 1.1553,
+    "landing": 1
+  }
+]
