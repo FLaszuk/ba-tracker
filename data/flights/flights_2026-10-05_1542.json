@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "4d20ef",
+    "callsign": "ICL771",
+    "firstSeen": 1791214486,
+    "lastSeen": 1791215800,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 0.365,
+    "landing": 1
+  },
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1791213818,
+    "lastSeen": 1791219916,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.6939,
+    "landing": 1
+  },
+  {
+    "icao24": "a65f86",
+    "callsign": "N51EM",
+    "firstSeen": 1791211568,
+    "lastSeen": 1791215392,
+    "estDepartureAirport": "KSLI",
+    "estArrivalAirport": "KRNO",
+    "flight_hours": 1.0622,
+    "landing": 1
+  },
+  {
+    "icao24": "a76644",
+    "callsign": "FDY419",
+    "firstSeen": 1791211557,
+    "lastSeen": 1791214984,
+    "estDepartureAirport": "KDFW",
+    "estArrivalAirport": "KDEQ",
+    "flight_hours": 0.9519,
+    "landing": 1
+  },
+  {
+    "icao24": "aad246",
+    "callsign": "N797CP",
+    "firstSeen": 1791212895,
+    "lastSeen": 1791217486,
+    "estDepartureAirport": "KIAH",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2753,
+    "landing": 1
+  }
+]

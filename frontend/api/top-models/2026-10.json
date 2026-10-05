@@ -20,27 +20,27 @@
       "total_landings": 6
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 6.1,
+      "total_landings": 5
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 10.5,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
       "total_hours": 6.8,
       "total_landings": 5
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 9.3,
-      "total_landings": 4
-    },
-    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 14.4,
-      "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 4.8,
       "total_landings": 3
     },
     {
@@ -50,15 +50,15 @@
       "total_landings": 2
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation CJ3",
+      "total_hours": 2.2,
+      "total_landings": 2
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Challenger 350",
       "total_hours": 3.9,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation CJ3",
-      "total_hours": 1.2,
       "total_landings": 1
     }
   ]
