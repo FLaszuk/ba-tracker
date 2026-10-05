@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3d0ce",
+    "callsign": "N345KM",
+    "firstSeen": 1791155378,
+    "lastSeen": 1791157449,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "9CO9",
+    "flight_hours": 0.5753,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1791143839,
+    "lastSeen": 1791159624,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "3MT3",
+    "flight_hours": 4.3847,
+    "landing": 1
+  }
+]
