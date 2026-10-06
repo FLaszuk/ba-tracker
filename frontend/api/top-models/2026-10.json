@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 21.5,
-      "total_landings": 8
+      "total_hours": 23.5,
+      "total_landings": 9
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -44,6 +44,12 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2.5,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 7500",
       "total_hours": 4.2,
@@ -54,12 +60,6 @@
       "aircraft_model": "Citation CJ3",
       "total_hours": 2.2,
       "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 350",
-      "total_hours": 3.9,
-      "total_landings": 1
     }
   ]
 }

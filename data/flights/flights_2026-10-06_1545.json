@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7c35c6",
+    "callsign": "FD628J",
+    "firstSeen": 1791299324,
+    "lastSeen": 1791301227,
+    "estDepartureAirport": "YPJT",
+    "estArrivalAirport": "YDRA",
+    "flight_hours": 0.5286,
+    "landing": 1
+  },
+  {
+    "icao24": "8002ce",
+    "callsign": "VUAVV",
+    "firstSeen": 1791297556,
+    "lastSeen": 1791303982,
+    "estDepartureAirport": "VIDP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.785,
+    "landing": 1
+  },
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1791300779,
+    "lastSeen": 1791302714,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "KO89",
+    "flight_hours": 0.5375,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1791297307,
+    "lastSeen": 1791304443,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "ND98",
+    "flight_hours": 1.9822,
+    "landing": 1
+  }
+]
