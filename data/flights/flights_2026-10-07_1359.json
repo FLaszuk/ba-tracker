@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3003f5",
+    "callsign": "SIO615",
+    "firstSeen": 1791379211,
+    "lastSeen": 1791382404,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8869,
+    "landing": 1
+  },
+  {
+    "icao24": "4b7f4c",
+    "callsign": "SUI012",
+    "firstSeen": 1791384727,
+    "lastSeen": 1791385843,
+    "estDepartureAirport": "LDZA",
+    "estArrivalAirport": "LQVI",
+    "flight_hours": 0.31,
+    "landing": 1
+  },
+  {
+    "icao24": "a04123",
+    "callsign": "N1150E",
+    "firstSeen": 1791377173,
+    "lastSeen": 1791381010,
+    "estDepartureAirport": "MN11",
+    "estArrivalAirport": "KCNK",
+    "flight_hours": 1.0658,
+    "landing": 1
+  },
+  {
+    "icao24": "a7202a",
+    "callsign": "N5585",
+    "firstSeen": 1791378715,
+    "lastSeen": 1791383625,
+    "estDepartureAirport": "KTTA",
+    "estArrivalAirport": "K6D9",
+    "flight_hours": 1.3639,
+    "landing": 1
+  }
+]
