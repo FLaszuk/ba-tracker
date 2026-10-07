@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "43ea87",
+    "callsign": "MCNZI",
+    "firstSeen": 1791390938,
+    "lastSeen": 1791399851,
+    "estDepartureAirport": "LIRQ",
+    "estArrivalAirport": null,
+    "flight_hours": 2.4758,
+    "landing": 1
+  },
+  {
+    "icao24": "a35ae0",
+    "callsign": "N315RE",
+    "firstSeen": 1791398393,
+    "lastSeen": 1791402209,
+    "estDepartureAirport": "KUGN",
+    "estArrivalAirport": "KCQM",
+    "flight_hours": 1.06,
+    "landing": 1
+  },
+  {
+    "icao24": "a3739b",
+    "callsign": "N321SD",
+    "firstSeen": 1791398753,
+    "lastSeen": 1791399995,
+    "estDepartureAirport": "KMLB",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 0.345,
+    "landing": 1
+  },
+  {
+    "icao24": "a597bf",
+    "callsign": "N46F",
+    "firstSeen": 1791396973,
+    "lastSeen": 1791403296,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "K5H4",
+    "flight_hours": 1.7564,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1791392385,
+    "lastSeen": 1791403335,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 3.0417,
+    "landing": 1
+  },
+  {
+    "icao24": "a6780b",
+    "callsign": "N516DG",
+    "firstSeen": 1791385181,
+    "lastSeen": 1791399959,
+    "estDepartureAirport": "KOQU",
+    "estArrivalAirport": "KCOS",
+    "flight_hours": 4.105,
+    "landing": 1
+  },
+  {
+    "icao24": "a95633",
+    "callsign": "N700SW",
+    "firstSeen": 1791400220,
+    "lastSeen": 1791401344,
+    "estDepartureAirport": "KABQ",
+    "estArrivalAirport": "K24N",
+    "flight_hours": 0.3122,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2ccc",
+    "callsign": "DOW884",
+    "firstSeen": 1791400390,
+    "lastSeen": 1791401386,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "CJU5",
+    "flight_hours": 0.2767,
+    "landing": 1
+  },
+  {
+    "icao24": "adf0a3",
+    "callsign": "KOW998",
+    "firstSeen": 1791390494,
+    "lastSeen": 1791399983,
+    "estDepartureAirport": "KBKE",
+    "estArrivalAirport": "KAGO",
+    "flight_hours": 2.6358,
+    "landing": 1
+  }
+]
