@@ -1,0 +1,72 @@
+[
+  {
+    "icao24": "0d0838",
+    "callsign": "XAABD",
+    "firstSeen": 1791485921,
+    "lastSeen": 1791489066,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "MM17",
+    "flight_hours": 0.8736,
+    "landing": 1
+  },
+  {
+    "icao24": "a16692",
+    "callsign": "N19HS",
+    "firstSeen": 1791489099,
+    "lastSeen": 1791491478,
+    "estDepartureAirport": "KMSP",
+    "estArrivalAirport": "28MI",
+    "flight_hours": 0.6608,
+    "landing": 1
+  },
+  {
+    "icao24": "a21fbb",
+    "callsign": "KFB236",
+    "firstSeen": 1791489999,
+    "lastSeen": 1791493197,
+    "estDepartureAirport": "KMEM",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.8883,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1791487791,
+    "lastSeen": 1791490134,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBED",
+    "flight_hours": 0.6508,
+    "landing": 1
+  },
+  {
+    "icao24": "a5c289",
+    "callsign": "EJM470",
+    "firstSeen": 1791481322,
+    "lastSeen": 1791488069,
+    "estDepartureAirport": "KM33",
+    "estArrivalAirport": "K9D1",
+    "flight_hours": 1.8742,
+    "landing": 1
+  },
+  {
+    "icao24": "a81aa7",
+    "callsign": "N621HD",
+    "firstSeen": 1791482154,
+    "lastSeen": 1791491545,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KPIE",
+    "flight_hours": 2.6086,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1791483485,
+    "lastSeen": 1791488148,
+    "estDepartureAirport": "KTYR",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.2953,
+    "landing": 1
+  }
+]
