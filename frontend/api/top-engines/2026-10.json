@@ -20,16 +20,16 @@
       "total_landings": 9
     },
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "TFE731",
+      "total_hours": 10.6,
+      "total_landings": 11
+    },
+    {
       "engine_manufacturer": "Rolls-Royce",
       "engine_model": "BR725",
       "total_hours": 10.5,
       "total_landings": 7
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "TFE731",
-      "total_hours": 10.4,
-      "total_landings": 10
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
@@ -44,6 +44,12 @@
       "total_landings": 7
     },
     {
+      "engine_manufacturer": "Honeywell",
+      "engine_model": "HTF7350",
+      "total_hours": 6.6,
+      "total_landings": 2
+    },
+    {
       "engine_manufacturer": "Williams International",
       "engine_model": "FJ44",
       "total_hours": 4.8,
@@ -54,12 +60,6 @@
       "engine_model": "Passport 20",
       "total_hours": 4.2,
       "total_landings": 2
-    },
-    {
-      "engine_manufacturer": "Honeywell",
-      "engine_model": "HTF7350",
-      "total_hours": 3.9,
-      "total_landings": 1
     }
   ]
 }

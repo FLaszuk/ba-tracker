@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20cf",
+    "callsign": "VJT258",
+    "firstSeen": 1791459022,
+    "lastSeen": 1791468674,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 2.6811,
+    "landing": 1
+  },
+  {
+    "icao24": "a94ff9",
+    "callsign": "TFF900",
+    "firstSeen": 1791469053,
+    "lastSeen": 1791469913,
+    "estDepartureAirport": "KFTG",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 0.2389,
+    "landing": 1
+  }
+]
