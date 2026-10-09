@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ68YG",
+    "firstSeen": 1791561711,
+    "lastSeen": 1791571277,
+    "estDepartureAirport": "EPGD",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6572,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1791566063,
+    "lastSeen": 1791571331,
+    "estDepartureAirport": "9CL2",
+    "estArrivalAirport": "KRIL",
+    "flight_hours": 1.4633,
+    "landing": 1
+  },
+  {
+    "icao24": "a8bc3a",
+    "callsign": "LXJ662",
+    "firstSeen": 1791569435,
+    "lastSeen": 1791572762,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "UT02",
+    "flight_hours": 0.9242,
+    "landing": 1
+  },
+  {
+    "icao24": "ab63bc",
+    "callsign": "N833CL",
+    "firstSeen": 1791567624,
+    "lastSeen": 1791573066,
+    "estDepartureAirport": "KOFP",
+    "estArrivalAirport": null,
+    "flight_hours": 1.5117,
+    "landing": 1
+  },
+  {
+    "icao24": "ad04d0",
+    "callsign": "EJA938",
+    "firstSeen": 1791569720,
+    "lastSeen": 1791573076,
+    "estDepartureAirport": "KSGR",
+    "estArrivalAirport": "K5A6",
+    "flight_hours": 0.9322,
+    "landing": 1
+  },
+  {
+    "icao24": "e492d2",
+    "callsign": "PSRBR",
+    "firstSeen": 1791567849,
+    "lastSeen": 1791569977,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDVL",
+    "flight_hours": 0.5911,
+    "landing": 1
+  }
+]
