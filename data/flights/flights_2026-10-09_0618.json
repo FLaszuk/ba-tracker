@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU59RD",
+    "firstSeen": 1791520522,
+    "lastSeen": 1791527237,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 1.8653,
+    "landing": 1
+  },
+  {
+    "icao24": "44047d",
+    "callsign": "EJU69DQ",
+    "firstSeen": 1791522857,
+    "lastSeen": 1791527438,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": "LQLV",
+    "flight_hours": 1.2725,
+    "landing": 1
+  }
+]

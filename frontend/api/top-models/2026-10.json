@@ -44,6 +44,12 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Legacy 600",
+      "total_hours": 3.9,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 2.5,
@@ -51,14 +57,8 @@
     },
     {
       "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 350",
-      "total_hours": 6.6,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 7500",
-      "total_hours": 4.2,
+      "aircraft_model": "Challenger 300",
+      "total_hours": 3.6,
       "total_landings": 2
     }
   ]
