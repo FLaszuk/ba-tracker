@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a19d64",
+    "callsign": "N203CK",
+    "firstSeen": 1791552867,
+    "lastSeen": 1791555374,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KLAS",
+    "flight_hours": 0.6964,
+    "landing": 1
+  },
+  {
+    "icao24": "a1f39a",
+    "callsign": "CNS10",
+    "firstSeen": 1791553630,
+    "lastSeen": 1791555136,
+    "estDepartureAirport": "K32S",
+    "estArrivalAirport": "ID56",
+    "flight_hours": 0.4183,
+    "landing": 1
+  },
+  {
+    "icao24": "a95633",
+    "callsign": "N700SW",
+    "firstSeen": 1791554204,
+    "lastSeen": 1791554424,
+    "estDepartureAirport": "KDRO",
+    "estArrivalAirport": "CD32",
+    "flight_hours": 0.0611,
+    "landing": 1
+  },
+  {
+    "icao24": "ace9ae",
+    "callsign": "N931DC",
+    "firstSeen": 1791556593,
+    "lastSeen": 1791558833,
+    "estDepartureAirport": "KRAL",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.6222,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1791552589,
+    "lastSeen": 1791553796,
+    "estDepartureAirport": "SABE",
+    "estArrivalAirport": "SUGA",
+    "flight_hours": 0.3353,
+    "landing": 1
+  },
+  {
+    "icao24": "e48abe",
+    "callsign": "PRGML",
+    "firstSeen": 1791555022,
+    "lastSeen": 1791556299,
+    "estDepartureAirport": "SSDO",
+    "estArrivalAirport": "SSVV",
+    "flight_hours": 0.3547,
+    "landing": 1
+  }
+]
