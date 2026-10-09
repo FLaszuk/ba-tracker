@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a15aae",
+    "callsign": "COL187",
+    "firstSeen": 1791499970,
+    "lastSeen": 1791504595,
+    "estDepartureAirport": "2NK9",
+    "estArrivalAirport": "1MI8",
+    "flight_hours": 1.2847,
+    "landing": 1
+  },
+  {
+    "icao24": "a58cb0",
+    "callsign": "LXJ457",
+    "firstSeen": 1791502574,
+    "lastSeen": 1791504029,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.4042,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4b2a",
+    "callsign": "N827DC",
+    "firstSeen": 1791500887,
+    "lastSeen": 1791503068,
+    "estDepartureAirport": "KRAL",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.6058,
+    "landing": 1
+  }
+]
