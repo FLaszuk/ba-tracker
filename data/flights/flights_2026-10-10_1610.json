@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU83ZK",
+    "firstSeen": 1791639083,
+    "lastSeen": 1791648795,
+    "estDepartureAirport": "EDDB",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6978,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HOT3471",
+    "firstSeen": 1791637364,
+    "lastSeen": 1791649957,
+    "estDepartureAirport": "EETN",
+    "estArrivalAirport": null,
+    "flight_hours": 3.4981,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c02f",
+    "callsign": "N405LA",
+    "firstSeen": 1791648627,
+    "lastSeen": 1791649908,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3558,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1791645399,
+    "lastSeen": 1791648587,
+    "estDepartureAirport": "KSMO",
+    "estArrivalAirport": "KTRK",
+    "flight_hours": 0.8856,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7029",
+    "callsign": "N900LC",
+    "firstSeen": 1791641115,
+    "lastSeen": 1791650226,
+    "estDepartureAirport": "KPWK",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5308,
+    "landing": 1
+  }
+]
