@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d05c3",
+    "callsign": "XBCFX",
+    "firstSeen": 1791582824,
+    "lastSeen": 1791584199,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MM17",
+    "flight_hours": 0.3819,
+    "landing": 1
+  },
+  {
+    "icao24": "a929f8",
+    "callsign": "N69SL",
+    "firstSeen": 1791584184,
+    "lastSeen": 1791584679,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KS84",
+    "flight_hours": 0.1375,
+    "landing": 1
+  }
+]
