@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a24039",
+    "callsign": "CTF244",
+    "firstSeen": 1791610953,
+    "lastSeen": 1791612560,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KGEU",
+    "flight_hours": 0.4464,
+    "landing": 1
+  },
+  {
+    "icao24": "a603a2",
+    "callsign": "N487LP",
+    "firstSeen": 1791605849,
+    "lastSeen": 1791609232,
+    "estDepartureAirport": "KGEU",
+    "estArrivalAirport": "KP52",
+    "flight_hours": 0.9397,
+    "landing": 1
+  },
+  {
+    "icao24": "a7000f",
+    "callsign": "N550GP",
+    "firstSeen": 1791605966,
+    "lastSeen": 1791608460,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.6928,
+    "landing": 1
+  }
+]
