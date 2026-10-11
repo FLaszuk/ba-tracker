@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a3045c",
+    "callsign": "CNS27",
+    "firstSeen": 1791755208,
+    "lastSeen": 1791756430,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "6PS8",
+    "flight_hours": 0.3394,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1791750462,
+    "lastSeen": 1791753488,
+    "estDepartureAirport": "KTRK",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.8406,
+    "landing": 1
+  }
+]
