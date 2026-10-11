@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "4d20e9",
+    "callsign": "VJT480",
+    "firstSeen": 1791738438,
+    "lastSeen": 1791741433,
+    "estDepartureAirport": "LFMD",
+    "estArrivalAirport": "LIAU",
+    "flight_hours": 0.8319,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214b",
+    "callsign": "HST3416",
+    "firstSeen": 1791736297,
+    "lastSeen": 1791740873,
+    "estDepartureAirport": "LYNK",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2711,
+    "landing": 1
+  },
+  {
+    "icao24": "a16a85",
+    "callsign": "N1900B",
+    "firstSeen": 1791712768,
+    "lastSeen": 1791743681,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 8.5869,
+    "landing": 1
+  },
+  {
+    "icao24": "a1c616",
+    "callsign": "EJA213",
+    "firstSeen": 1791740096,
+    "lastSeen": 1791743210,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "VA96",
+    "flight_hours": 0.865,
+    "landing": 1
+  },
+  {
+    "icao24": "a1e88d",
+    "callsign": "N222BE",
+    "firstSeen": 1791742950,
+    "lastSeen": 1791743860,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2528,
+    "landing": 1
+  },
+  {
+    "icao24": "a41804",
+    "callsign": "LXJ363",
+    "firstSeen": 1791738782,
+    "lastSeen": 1791742548,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KMCC",
+    "flight_hours": 1.0461,
+    "landing": 1
+  },
+  {
+    "icao24": "a7f294",
+    "callsign": "N611BF",
+    "firstSeen": 1791737133,
+    "lastSeen": 1791743828,
+    "estDepartureAirport": "KFTY",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.8597,
+    "landing": 1
+  },
+  {
+    "icao24": "a9bedb",
+    "callsign": "N727PJ",
+    "firstSeen": 1791736589,
+    "lastSeen": 1791741592,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KU03",
+    "flight_hours": 1.3897,
+    "landing": 1
+  },
+  {
+    "icao24": "abd2c2",
+    "callsign": "CBC861",
+    "firstSeen": 1791731271,
+    "lastSeen": 1791742372,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K36U",
+    "flight_hours": 3.0836,
+    "landing": 1
+  }
+]
