@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2131",
+    "callsign": "VJT957",
+    "firstSeen": 1791793668,
+    "lastSeen": 1791800411,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "TXKF",
+    "flight_hours": 1.8731,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1791798100,
+    "lastSeen": 1791798728,
+    "estDepartureAirport": "YKII",
+    "estArrivalAirport": "YSMI",
+    "flight_hours": 0.1744,
+    "landing": 1
+  }
+]

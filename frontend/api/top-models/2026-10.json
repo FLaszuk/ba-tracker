@@ -40,8 +40,8 @@
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
-      "total_hours": 20.4,
-      "total_landings": 7
+      "total_hours": 22.3,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Pilatus",
@@ -50,15 +50,15 @@
       "total_landings": 7
     },
     {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 3.4,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 2.5,
-      "total_landings": 4
-    },
-    {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Legacy 600",
-      "total_hours": 6.6,
       "total_landings": 4
     }
   ]
