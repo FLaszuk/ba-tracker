@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "7c37c6",
+    "callsign": "LAW",
+    "firstSeen": 1791924795,
+    "lastSeen": 1791926103,
+    "estDepartureAirport": "YSSY",
+    "estArrivalAirport": "YORG",
+    "flight_hours": 0.3633,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1791922030,
+    "lastSeen": 1791925282,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.9033,
+    "landing": 1
+  },
+  {
+    "icao24": "acad4a",
+    "callsign": "N916DK",
+    "firstSeen": 1791912082,
+    "lastSeen": 1791922093,
+    "estDepartureAirport": "KICT",
+    "estArrivalAirport": "72CL",
+    "flight_hours": 2.7808,
+    "landing": 1
+  }
+]
