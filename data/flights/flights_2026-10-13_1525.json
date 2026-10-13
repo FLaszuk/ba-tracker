@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU91BT",
+    "firstSeen": 1791894134,
+    "lastSeen": 1791905668,
+    "estDepartureAirport": "LFRS",
+    "estArrivalAirport": null,
+    "flight_hours": 3.2039,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS42",
+    "firstSeen": 1791902634,
+    "lastSeen": 1791907531,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KAUO",
+    "flight_hours": 1.3603,
+    "landing": 1
+  },
+  {
+    "icao24": "a2ce95",
+    "callsign": "N280GD",
+    "firstSeen": 1791896393,
+    "lastSeen": 1791904772,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 2.3275,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1791903105,
+    "lastSeen": 1791906301,
+    "estDepartureAirport": "KSLC",
+    "estArrivalAirport": "NV17",
+    "flight_hours": 0.8878,
+    "landing": 1
+  },
+  {
+    "icao24": "a97316",
+    "callsign": "JENA708",
+    "firstSeen": 1791895874,
+    "lastSeen": 1791905325,
+    "estDepartureAirport": "KRIC",
+    "estArrivalAirport": "KT45",
+    "flight_hours": 2.6253,
+    "landing": 1
+  },
+  {
+    "icao24": "a9c1db",
+    "callsign": "N728GA",
+    "firstSeen": 1791897952,
+    "lastSeen": 1791907509,
+    "estDepartureAirport": "EGGW",
+    "estArrivalAirport": null,
+    "flight_hours": 2.6547,
+    "landing": 1
+  },
+  {
+    "icao24": "aad352",
+    "callsign": "N797PG",
+    "firstSeen": 1791903207,
+    "lastSeen": 1791909598,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "8TA8",
+    "flight_hours": 1.7753,
+    "landing": 1
+  },
+  {
+    "icao24": "ad4890",
+    "callsign": "N955PS",
+    "firstSeen": 1791902953,
+    "lastSeen": 1791906953,
+    "estDepartureAirport": "KVGT",
+    "estArrivalAirport": "WY60",
+    "flight_hours": 1.1111,
+    "landing": 1
+  }
+]
