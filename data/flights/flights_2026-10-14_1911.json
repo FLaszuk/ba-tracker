@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a2ec8b",
+    "callsign": "N288JR",
+    "firstSeen": 1792001227,
+    "lastSeen": 1792004655,
+    "estDepartureAirport": "KGVL",
+    "estArrivalAirport": "K60J",
+    "flight_hours": 0.9522,
+    "landing": 1
+  },
+  {
+    "icao24": "a33a6a",
+    "callsign": "JTL30",
+    "firstSeen": 1791997262,
+    "lastSeen": 1792006271,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.5025,
+    "landing": 1
+  },
+  {
+    "icao24": "a40de8",
+    "callsign": "N360SM",
+    "firstSeen": 1792004790,
+    "lastSeen": 1792007866,
+    "estDepartureAirport": "1OR0",
+    "estArrivalAirport": "ID88",
+    "flight_hours": 0.8544,
+    "landing": 1
+  },
+  {
+    "icao24": "a66217",
+    "callsign": "N510GT",
+    "firstSeen": 1792000423,
+    "lastSeen": 1792007209,
+    "estDepartureAirport": "KCXO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.885,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1792001444,
+    "lastSeen": 1792005942,
+    "estDepartureAirport": "KERV",
+    "estArrivalAirport": "KMSY",
+    "flight_hours": 1.2494,
+    "landing": 1
+  },
+  {
+    "icao24": "e4902e",
+    "callsign": "PREUF",
+    "firstSeen": 1791994435,
+    "lastSeen": 1792006322,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SBFZ",
+    "flight_hours": 3.3019,
+    "landing": 1
+  }
+]
