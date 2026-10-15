@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "899126",
+    "callsign": "SJX025",
+    "firstSeen": 1791962945,
+    "lastSeen": 1792015959,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "RCTP",
+    "flight_hours": 14.7261,
+    "landing": 1
+  },
+  {
+    "icao24": "a95c70",
+    "callsign": "N702ER",
+    "firstSeen": 1792015469,
+    "lastSeen": 1792016487,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.2828,
+    "landing": 1
+  },
+  {
+    "icao24": "ac380d",
+    "callsign": "N887CE",
+    "firstSeen": 1792017123,
+    "lastSeen": 1792018228,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "CN23",
+    "flight_hours": 0.3069,
+    "landing": 1
+  }
+]
