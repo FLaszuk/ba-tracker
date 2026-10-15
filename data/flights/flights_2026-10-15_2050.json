@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d2065",
+    "callsign": "VJT719",
+    "firstSeen": 1792093970,
+    "lastSeen": 1792096934,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 0.8233,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1792088588,
+    "lastSeen": 1792097241,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "KTMB",
+    "flight_hours": 2.4036,
+    "landing": 1
+  },
+  {
+    "icao24": "a5706f",
+    "callsign": "N45GX",
+    "firstSeen": 1792100106,
+    "lastSeen": 1792101023,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "K2IS",
+    "flight_hours": 0.2547,
+    "landing": 1
+  }
+]
