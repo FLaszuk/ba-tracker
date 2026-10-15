@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a95633",
+    "callsign": "N700SW",
+    "firstSeen": 1792088119,
+    "lastSeen": 1792088846,
+    "estDepartureAirport": "KTPA",
+    "estArrivalAirport": "FA54",
+    "flight_hours": 0.2019,
+    "landing": 1
+  },
+  {
+    "icao24": "a99414",
+    "callsign": "WBC1",
+    "firstSeen": 1792080879,
+    "lastSeen": 1792086529,
+    "estDepartureAirport": "KPAE",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.5694,
+    "landing": 1
+  }
+]
