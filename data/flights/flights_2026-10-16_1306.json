@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a9a426",
+    "callsign": "GLF83",
+    "firstSeen": 1792155574,
+    "lastSeen": 1792156406,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2311,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6de9",
+    "callsign": "N90MC",
+    "firstSeen": 1792155267,
+    "lastSeen": 1792156399,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 0.3144,
+    "landing": 1
+  }
+]
