@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a2564e",
+    "callsign": "DLX25",
+    "firstSeen": 1792121883,
+    "lastSeen": 1792126654,
+    "estDepartureAirport": "KJER",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 1.3253,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1792118617,
+    "lastSeen": 1792125233,
+    "estDepartureAirport": "KBUR",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.8378,
+    "landing": 1
+  }
+]
