@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20d7",
+    "callsign": "VJT842",
+    "firstSeen": 1792094268,
+    "lastSeen": 1792107407,
+    "estDepartureAirport": "EVRA",
+    "estArrivalAirport": "UGTB",
+    "flight_hours": 3.6497,
+    "landing": 1
+  },
+  {
+    "icao24": "a16068",
+    "callsign": "N188WR",
+    "firstSeen": 1792105398,
+    "lastSeen": 1792108941,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.9842,
+    "landing": 1
+  },
+  {
+    "icao24": "a31ae0",
+    "callsign": "XAA2718",
+    "firstSeen": 1792104372,
+    "lastSeen": 1792105366,
+    "estDepartureAirport": "KTTN",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.2761,
+    "landing": 1
+  }
+]
