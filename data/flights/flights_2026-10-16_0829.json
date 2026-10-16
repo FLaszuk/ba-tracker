@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3001ca",
+    "callsign": "LSA212",
+    "firstSeen": 1792142596,
+    "lastSeen": 1792143838,
+    "estDepartureAirport": "LICA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.345,
+    "landing": 1
+  },
+  {
+    "icao24": "3991a3",
+    "callsign": "IXR281",
+    "firstSeen": 1792138183,
+    "lastSeen": 1792140627,
+    "estDepartureAirport": "LFBO",
+    "estArrivalAirport": "LFEJ",
+    "flight_hours": 0.6789,
+    "landing": 1
+  },
+  {
+    "icao24": "494107",
+    "callsign": "NJE849A",
+    "firstSeen": 1792139843,
+    "lastSeen": 1792142705,
+    "estDepartureAirport": "LSGG",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.795,
+    "landing": 1
+  },
+  {
+    "icao24": "a36594",
+    "callsign": "TBJ90",
+    "firstSeen": 1792144055,
+    "lastSeen": 1792144905,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "ZGSD",
+    "flight_hours": 0.2361,
+    "landing": 1
+  }
+]
