@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0036e",
+    "callsign": "N10M",
+    "firstSeen": 1792159792,
+    "lastSeen": 1792174111,
+    "estDepartureAirport": "MYNN",
+    "estArrivalAirport": "KABQ",
+    "flight_hours": 3.9775,
+    "landing": 1
+  },
+  {
+    "icao24": "a2de46",
+    "callsign": "EJA284",
+    "firstSeen": 1792167076,
+    "lastSeen": 1792171051,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "ID88",
+    "flight_hours": 1.1042,
+    "landing": 1
+  },
+  {
+    "icao24": "a99414",
+    "callsign": "WBC1",
+    "firstSeen": 1792167997,
+    "lastSeen": 1792173195,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.4439,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8529",
+    "callsign": "N777XV",
+    "firstSeen": 1792170590,
+    "lastSeen": 1792172961,
+    "estDepartureAirport": "KAPC",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.6586,
+    "landing": 1
+  }
+]
