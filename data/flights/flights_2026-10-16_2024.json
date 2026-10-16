@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a262f5",
+    "callsign": "N253DG",
+    "firstSeen": 1792181713,
+    "lastSeen": 1792183245,
+    "estDepartureAirport": "KLVK",
+    "estArrivalAirport": "K4SD",
+    "flight_hours": 0.4256,
+    "landing": 1
+  },
+  {
+    "icao24": "a6dffe",
+    "callsign": "N542GP",
+    "firstSeen": 1792180170,
+    "lastSeen": 1792181670,
+    "estDepartureAirport": "KSRQ",
+    "estArrivalAirport": "MULB",
+    "flight_hours": 0.4167,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1792181125,
+    "lastSeen": 1792187344,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.7275,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1792183690,
+    "lastSeen": 1792184528,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2328,
+    "landing": 1
+  }
+]
