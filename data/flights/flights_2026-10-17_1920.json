@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a00062",
+    "callsign": "N1DW",
+    "firstSeen": 1792263617,
+    "lastSeen": 1792266277,
+    "estDepartureAirport": "KLGB",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.7389,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e7ed",
+    "callsign": "CNS888",
+    "firstSeen": 1792255562,
+    "lastSeen": 1792267190,
+    "estDepartureAirport": "KTKI",
+    "estArrivalAirport": "KCRQ",
+    "flight_hours": 3.23,
+    "landing": 1
+  }
+]
