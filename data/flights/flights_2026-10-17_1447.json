@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "44047d",
+    "callsign": "EJU91BT",
+    "firstSeen": 1792239626,
+    "lastSeen": 1792250305,
+    "estDepartureAirport": "LFRS",
+    "estArrivalAirport": null,
+    "flight_hours": 2.9664,
+    "landing": 1
+  },
+  {
+    "icao24": "ac2bbb",
+    "callsign": "N8833",
+    "firstSeen": 1792253043,
+    "lastSeen": 1792254219,
+    "estDepartureAirport": "PANC",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 0.3267,
+    "landing": 1
+  }
+]
