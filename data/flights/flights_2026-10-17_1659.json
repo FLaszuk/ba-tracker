@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a17a8c",
+    "callsign": "N1948W",
+    "firstSeen": 1792253712,
+    "lastSeen": 1792259331,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "XS94",
+    "flight_hours": 1.5608,
+    "landing": 1
+  },
+  {
+    "icao24": "ac803c",
+    "callsign": "N904YP",
+    "firstSeen": 1792253959,
+    "lastSeen": 1792256128,
+    "estDepartureAirport": "KLEE",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6025,
+    "landing": 1
+  }
+]
