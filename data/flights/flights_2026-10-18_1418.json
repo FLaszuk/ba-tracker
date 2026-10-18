@@ -1,0 +1,82 @@
+[
+  {
+    "icao24": "343183",
+    "callsign": "INI273H",
+    "firstSeen": 1792331495,
+    "lastSeen": 1792333278,
+    "estDepartureAirport": "LECO",
+    "estArrivalAirport": "LELN",
+    "flight_hours": 0.4953,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT449",
+    "firstSeen": 1792332817,
+    "lastSeen": 1792335552,
+    "estDepartureAirport": "LEIB",
+    "estArrivalAirport": "LEPP",
+    "flight_hours": 0.7597,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bad3",
+    "callsign": "N210PM",
+    "firstSeen": 1792334731,
+    "lastSeen": 1792337287,
+    "estDepartureAirport": "TN98",
+    "estArrivalAirport": "KEHR",
+    "flight_hours": 0.71,
+    "landing": 1
+  },
+  {
+    "icao24": "a1be80",
+    "callsign": "N211PB",
+    "firstSeen": 1792328585,
+    "lastSeen": 1792334870,
+    "estDepartureAirport": "KIND",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 1.7458,
+    "landing": 1
+  },
+  {
+    "icao24": "a1dfdd",
+    "callsign": "N22NJ",
+    "firstSeen": 1792327520,
+    "lastSeen": 1792332767,
+    "estDepartureAirport": "KVNC",
+    "estArrivalAirport": "3SC7",
+    "flight_hours": 1.4575,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1792333694,
+    "lastSeen": 1792335015,
+    "estDepartureAirport": "37CN",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.3669,
+    "landing": 1
+  },
+  {
+    "icao24": "a88de1",
+    "callsign": "N650MV",
+    "firstSeen": 1792330157,
+    "lastSeen": 1792333433,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SBCA",
+    "flight_hours": 0.91,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1792332816,
+    "lastSeen": 1792335747,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.8142,
+    "landing": 1
+  }
+]
