@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1792421212,
+    "lastSeen": 1792425747,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 1.2597,
+    "landing": 1
+  },
+  {
+    "icao24": "0d0e61",
+    "callsign": "XARZR",
+    "firstSeen": 1792426088,
+    "lastSeen": 1792428542,
+    "estDepartureAirport": "MMAN",
+    "estArrivalAirport": "MM44",
+    "flight_hours": 0.6817,
+    "landing": 1
+  },
+  {
+    "icao24": "a0c484",
+    "callsign": "N149EA",
+    "firstSeen": 1792426756,
+    "lastSeen": 1792429374,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.7272,
+    "landing": 1
+  }
+]
