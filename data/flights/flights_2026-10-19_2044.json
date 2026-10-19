@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET8641",
+    "firstSeen": 1792439766,
+    "lastSeen": 1792442429,
+    "estDepartureAirport": "KSAT",
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 0.7397,
+    "landing": 1
+  },
+  {
+    "icao24": "7c2f54",
+    "callsign": "JMU",
+    "firstSeen": 1792442209,
+    "lastSeen": 1792445027,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "YTEC",
+    "flight_hours": 0.7828,
+    "landing": 1
+  },
+  {
+    "icao24": "a24a8d",
+    "callsign": "TWY247",
+    "firstSeen": 1792433620,
+    "lastSeen": 1792442273,
+    "estDepartureAirport": "KJQF",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 2.4036,
+    "landing": 1
+  },
+  {
+    "icao24": "acb58a",
+    "callsign": "HTL156",
+    "firstSeen": 1792441120,
+    "lastSeen": 1792443334,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "KROC",
+    "flight_hours": 0.615,
+    "landing": 1
+  }
+]
