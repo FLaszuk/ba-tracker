@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20aa",
+    "callsign": "VJT775",
+    "firstSeen": 1792489942,
+    "lastSeen": 1792492669,
+    "estDepartureAirport": "OMAD",
+    "estArrivalAirport": "OEAA",
+    "flight_hours": 0.7575,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT59R",
+    "firstSeen": 1792490925,
+    "lastSeen": 1792496150,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LEBB",
+    "flight_hours": 1.4514,
+    "landing": 1
+  },
+  {
+    "icao24": "e48eb7",
+    "callsign": "PSGMJ",
+    "firstSeen": 1792491928,
+    "lastSeen": 1792494081,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SNPT",
+    "flight_hours": 0.5981,
+    "landing": 1
+  }
+]
