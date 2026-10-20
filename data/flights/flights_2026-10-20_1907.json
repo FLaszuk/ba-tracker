@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "44042f",
+    "callsign": "EJU743A",
+    "firstSeen": 1792521164,
+    "lastSeen": 1792524966,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.0561,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1792522274,
+    "lastSeen": 1792525784,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "K36U",
+    "flight_hours": 0.975,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9224",
+    "callsign": "N780SP",
+    "firstSeen": 1792521647,
+    "lastSeen": 1792526234,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "K46U",
+    "flight_hours": 1.2742,
+    "landing": 1
+  }
+]
