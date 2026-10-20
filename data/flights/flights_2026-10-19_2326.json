@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "300224",
+    "callsign": "VND006U",
+    "firstSeen": 1792449130,
+    "lastSeen": 1792452321,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": null,
+    "flight_hours": 0.8864,
+    "landing": 1
+  },
+  {
+    "icao24": "a1923d",
+    "callsign": "N200CH",
+    "firstSeen": 1792457383,
+    "lastSeen": 1792458881,
+    "estDepartureAirport": "KOSU",
+    "estArrivalAirport": "KOSU",
+    "flight_hours": 0.4161,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ef31",
+    "callsign": "TWY22",
+    "firstSeen": 1792436455,
+    "lastSeen": 1792453035,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 4.6056,
+    "landing": 1
+  }
+]
