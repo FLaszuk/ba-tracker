@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5102",
+    "firstSeen": 1792615143,
+    "lastSeen": 1792619236,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 1.1369,
+    "landing": 1
+  },
+  {
+    "icao24": "a1bad3",
+    "callsign": "N210PM",
+    "firstSeen": 1792619083,
+    "lastSeen": 1792621846,
+    "estDepartureAirport": "KTYS",
+    "estArrivalAirport": "KEHR",
+    "flight_hours": 0.7675,
+    "landing": 1
+  }
+]
