@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a3147a",
+    "callsign": "N298PC",
+    "firstSeen": 1792534170,
+    "lastSeen": 1792536573,
+    "estDepartureAirport": "KOLM",
+    "estArrivalAirport": "KEUG",
+    "flight_hours": 0.6675,
+    "landing": 1
+  },
+  {
+    "icao24": "aa9224",
+    "callsign": "N780SP",
+    "firstSeen": 1792529110,
+    "lastSeen": 1792535463,
+    "estDepartureAirport": "K46U",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.7647,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7018",
+    "callsign": "N900KL",
+    "firstSeen": 1792537683,
+    "lastSeen": 1792539385,
+    "estDepartureAirport": "MGGT",
+    "estArrivalAirport": "MHRU",
+    "flight_hours": 0.4728,
+    "landing": 1
+  }
+]
