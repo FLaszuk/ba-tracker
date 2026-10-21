@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1792588650,
+    "lastSeen": 1792591964,
+    "estDepartureAirport": "HL83",
+    "estArrivalAirport": "DTNH",
+    "flight_hours": 0.9206,
+    "landing": 1
+  },
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1792595222,
+    "lastSeen": 1792596024,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "KMHR",
+    "flight_hours": 0.2228,
+    "landing": 1
+  },
+  {
+    "icao24": "aa463e",
+    "callsign": "N761LE",
+    "firstSeen": 1792593935,
+    "lastSeen": 1792595024,
+    "estDepartureAirport": "KPNE",
+    "estArrivalAirport": "KABE",
+    "flight_hours": 0.3025,
+    "landing": 1
+  },
+  {
+    "icao24": "aa64f0",
+    "callsign": "N769WE",
+    "firstSeen": 1792587049,
+    "lastSeen": 1792590248,
+    "estDepartureAirport": "KHOU",
+    "estArrivalAirport": "6TX9",
+    "flight_hours": 0.8886,
+    "landing": 1
+  }
+]
