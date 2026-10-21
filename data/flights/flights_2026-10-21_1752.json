@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1792600742,
+    "lastSeen": 1792604717,
+    "estDepartureAirport": "KSUS",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.1042,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7018",
+    "callsign": "N900KL",
+    "firstSeen": 1792607942,
+    "lastSeen": 1792608813,
+    "estDepartureAirport": "MGGT",
+    "estArrivalAirport": "MGSJ",
+    "flight_hours": 0.2419,
+    "landing": 1
+  }
+]
