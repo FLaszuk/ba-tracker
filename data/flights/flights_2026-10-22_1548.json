@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d214f",
+    "callsign": "AJD214K",
+    "firstSeen": 1792681871,
+    "lastSeen": 1792686304,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMN",
+    "flight_hours": 1.2314,
+    "landing": 1
+  },
+  {
+    "icao24": "a4e4ba",
+    "callsign": "N414TW",
+    "firstSeen": 1792684445,
+    "lastSeen": 1792686372,
+    "estDepartureAirport": "KCOS",
+    "estArrivalAirport": "2CO2",
+    "flight_hours": 0.5353,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6a4f",
+    "callsign": "N770PC",
+    "firstSeen": 1792683586,
+    "lastSeen": 1792687666,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "KEKS",
+    "flight_hours": 1.1333,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1792684104,
+    "lastSeen": 1792686432,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "KDRO",
+    "flight_hours": 0.6467,
+    "landing": 1
+  }
+]
