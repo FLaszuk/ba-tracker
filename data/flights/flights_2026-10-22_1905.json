@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a41ef3",
+    "callsign": "N365AV",
+    "firstSeen": 1792693338,
+    "lastSeen": 1792698218,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "1MT0",
+    "flight_hours": 1.3556,
+    "landing": 1
+  },
+  {
+    "icao24": "a5a19c",
+    "callsign": "LXJ462",
+    "firstSeen": 1792694954,
+    "lastSeen": 1792698217,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "6CA5",
+    "flight_hours": 0.9064,
+    "landing": 1
+  },
+  {
+    "icao24": "a6626f",
+    "callsign": "N510LF",
+    "firstSeen": 1792697382,
+    "lastSeen": 1792698589,
+    "estDepartureAirport": "KACJ",
+    "estArrivalAirport": "K53A",
+    "flight_hours": 0.3353,
+    "landing": 1
+  }
+]
