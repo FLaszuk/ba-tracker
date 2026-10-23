@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c0a23",
+    "callsign": "CAD",
+    "firstSeen": 1792724958,
+    "lastSeen": 1792727939,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YTMU",
+    "flight_hours": 0.8281,
+    "landing": 1
+  },
+  {
+    "icao24": "abecaa",
+    "callsign": "N868BB",
+    "firstSeen": 1792724874,
+    "lastSeen": 1792726695,
+    "estDepartureAirport": "WMSA",
+    "estArrivalAirport": "WMKB",
+    "flight_hours": 0.5058,
+    "landing": 1
+  }
+]
