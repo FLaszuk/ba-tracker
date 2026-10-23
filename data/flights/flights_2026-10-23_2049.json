@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a10967",
+    "callsign": "EJA166",
+    "firstSeen": 1792782541,
+    "lastSeen": 1792789230,
+    "estDepartureAirport": "KBDN",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 1.8581,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1792784392,
+    "lastSeen": 1792789022,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 1.2861,
+    "landing": 1
+  },
+  {
+    "icao24": "aa7532",
+    "callsign": "N773LM",
+    "firstSeen": 1792790731,
+    "lastSeen": 1792791813,
+    "estDepartureAirport": "KGEG",
+    "estArrivalAirport": "MT88",
+    "flight_hours": 0.3006,
+    "landing": 1
+  }
+]
