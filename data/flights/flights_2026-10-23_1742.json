@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "0ac15e",
+    "callsign": "HK4891",
+    "firstSeen": 1792775402,
+    "lastSeen": 1792777247,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SKCL",
+    "flight_hours": 0.5125,
+    "landing": 1
+  },
+  {
+    "icao24": "4d2149",
+    "callsign": "VJT216",
+    "firstSeen": 1792771305,
+    "lastSeen": 1792780091,
+    "estDepartureAirport": "OMDB",
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 2.4406,
+    "landing": 1
+  },
+  {
+    "icao24": "4d214f",
+    "callsign": "AJD214K",
+    "firstSeen": 1792774471,
+    "lastSeen": 1792777761,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.9139,
+    "landing": 1
+  },
+  {
+    "icao24": "a248ce",
+    "callsign": "N2461K",
+    "firstSeen": 1792754793,
+    "lastSeen": 1792777824,
+    "estDepartureAirport": "EBMB",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.3975,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c84f",
+    "callsign": "N279E",
+    "firstSeen": 1792768959,
+    "lastSeen": 1792779116,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "KTOR",
+    "flight_hours": 2.8214,
+    "landing": 1
+  },
+  {
+    "icao24": "a41014",
+    "callsign": "XSR361",
+    "firstSeen": 1792770589,
+    "lastSeen": 1792779617,
+    "estDepartureAirport": "KCOT",
+    "estArrivalAirport": "KVGT",
+    "flight_hours": 2.5078,
+    "landing": 1
+  },
+  {
+    "icao24": "a6e111",
+    "callsign": "N542TP",
+    "firstSeen": 1792772406,
+    "lastSeen": 1792778383,
+    "estDepartureAirport": "KUAO",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.6603,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4d1b",
+    "callsign": "N827Z",
+    "firstSeen": 1792775967,
+    "lastSeen": 1792780978,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.3919,
+    "landing": 1
+  },
+  {
+    "icao24": "ace9ae",
+    "callsign": "N931DC",
+    "firstSeen": 1792775679,
+    "lastSeen": 1792779780,
+    "estDepartureAirport": "KRAL",
+    "estArrivalAirport": "1CO2",
+    "flight_hours": 1.1392,
+    "landing": 1
+  }
+]
