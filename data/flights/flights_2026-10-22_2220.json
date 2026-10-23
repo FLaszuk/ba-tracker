@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a569c4",
+    "callsign": "EJM448",
+    "firstSeen": 1792693881,
+    "lastSeen": 1792707891,
+    "estDepartureAirport": "KMDW",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 3.8917,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1792708754,
+    "lastSeen": 1792710387,
+    "estDepartureAirport": "KSTS",
+    "estArrivalAirport": "NV09",
+    "flight_hours": 0.4536,
+    "landing": 1
+  },
+  {
+    "icao24": "add412",
+    "callsign": "EJA990",
+    "firstSeen": 1792696623,
+    "lastSeen": 1792708913,
+    "estDepartureAirport": "KABQ",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 3.4139,
+    "landing": 1
+  }
+]
