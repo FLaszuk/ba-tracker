@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a049ef",
+    "callsign": "N118AD",
+    "firstSeen": 1792869832,
+    "lastSeen": 1792870842,
+    "estDepartureAirport": "KBFM",
+    "estArrivalAirport": "K70A",
+    "flight_hours": 0.2806,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1792862490,
+    "lastSeen": 1792874524,
+    "estDepartureAirport": "KCON",
+    "estArrivalAirport": "KSUA",
+    "flight_hours": 3.3428,
+    "landing": 1
+  },
+  {
+    "icao24": "a65c28",
+    "callsign": "N509JA",
+    "firstSeen": 1792874736,
+    "lastSeen": 1792875630,
+    "estDepartureAirport": "KCMA",
+    "estArrivalAirport": "KSBA",
+    "flight_hours": 0.2483,
+    "landing": 1
+  }
+]
