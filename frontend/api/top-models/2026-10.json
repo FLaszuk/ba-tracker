@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 52.5,
-      "total_landings": 38
+      "total_hours": 53.0,
+      "total_landings": 40
     },
     {
       "aircraft_manufacturer": "Dassault",
@@ -50,15 +50,15 @@
       "total_landings": 16
     },
     {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "Eclipse 500",
-      "total_hours": 10.8,
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Learjet",
+      "total_hours": 6.6,
       "total_landings": 10
     },
     {
-      "aircraft_manufacturer": "Embraer",
-      "aircraft_model": "Phenom 300",
-      "total_hours": 8.1,
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 10.8,
       "total_landings": 10
     }
   ]

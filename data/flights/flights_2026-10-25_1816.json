@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d07fc",
+    "callsign": "XAEMM",
+    "firstSeen": 1792953989,
+    "lastSeen": 1792955203,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": "MMCH",
+    "flight_hours": 0.3372,
+    "landing": 1
+  },
+  {
+    "icao24": "34208d",
+    "callsign": "SGP431",
+    "firstSeen": 1792951953,
+    "lastSeen": 1792953838,
+    "estDepartureAirport": "LEPP",
+    "estArrivalAirport": "LELN",
+    "flight_hours": 0.5236,
+    "landing": 1
+  },
+  {
+    "icao24": "a13854",
+    "callsign": "EJA178",
+    "firstSeen": 1792943271,
+    "lastSeen": 1792951850,
+    "estDepartureAirport": "KSTP",
+    "estArrivalAirport": "KSLC",
+    "flight_hours": 2.3831,
+    "landing": 1
+  },
+  {
+    "icao24": "a25db2",
+    "callsign": "N2511B",
+    "firstSeen": 1792952135,
+    "lastSeen": 1792952861,
+    "estDepartureAirport": "KTMB",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 0.2017,
+    "landing": 1
+  },
+  {
+    "icao24": "ac7018",
+    "callsign": "N900KL",
+    "firstSeen": 1792951467,
+    "lastSeen": 1792952649,
+    "estDepartureAirport": "MGGT",
+    "estArrivalAirport": "MSSA",
+    "flight_hours": 0.3283,
+    "landing": 1
+  }
+]
