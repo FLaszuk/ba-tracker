@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "341545",
+    "callsign": "GES481Y",
+    "firstSeen": 1792922542,
+    "lastSeen": 1792928162,
+    "estDepartureAirport": "LEMD",
+    "estArrivalAirport": "LIDP",
+    "flight_hours": 1.5611,
+    "landing": 1
+  },
+  {
+    "icao24": "c0549d",
+    "callsign": "NOJ88",
+    "firstSeen": 1792924830,
+    "lastSeen": 1792927253,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6731,
+    "landing": 1
+  }
+]
