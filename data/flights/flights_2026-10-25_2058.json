@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b18e7",
+    "callsign": "HBJLF",
+    "firstSeen": 1792960333,
+    "lastSeen": 1792961610,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBFZ",
+    "flight_hours": 0.3547,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e956",
+    "callsign": "EJA158",
+    "firstSeen": 1792956517,
+    "lastSeen": 1792962576,
+    "estDepartureAirport": "KSAN",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.6831,
+    "landing": 1
+  }
+]
