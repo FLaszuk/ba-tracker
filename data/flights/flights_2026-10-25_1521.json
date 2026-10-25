@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "440465",
+    "callsign": "GDK74A",
+    "firstSeen": 1792939993,
+    "lastSeen": 1792942414,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.6725,
+    "landing": 1
+  },
+  {
+    "icao24": "a2229c",
+    "callsign": "N237BB",
+    "firstSeen": 1792936728,
+    "lastSeen": 1792941134,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSKX",
+    "flight_hours": 1.2239,
+    "landing": 1
+  },
+  {
+    "icao24": "a6587e",
+    "callsign": "N508JP",
+    "firstSeen": 1792937740,
+    "lastSeen": 1792942043,
+    "estDepartureAirport": "K4J5",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1953,
+    "landing": 1
+  },
+  {
+    "icao24": "a89fe0",
+    "callsign": "LXJ655",
+    "firstSeen": 1792935255,
+    "lastSeen": 1792941217,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "2MT8",
+    "flight_hours": 1.6561,
+    "landing": 1
+  },
+  {
+    "icao24": "adce1b",
+    "callsign": "SVL13",
+    "firstSeen": 1792940432,
+    "lastSeen": 1792943142,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KE14",
+    "flight_hours": 0.7528,
+    "landing": 1
+  }
+]

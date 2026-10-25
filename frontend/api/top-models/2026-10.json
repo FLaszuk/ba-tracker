@@ -10,8 +10,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 54.0,
-      "total_landings": 33
+      "total_hours": 55.2,
+      "total_landings": 34
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -22,8 +22,8 @@
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 25.5,
-      "total_landings": 24
+      "total_hours": 27.2,
+      "total_landings": 25
     },
     {
       "aircraft_manufacturer": "Gulfstream",
@@ -50,16 +50,16 @@
       "total_landings": 16
     },
     {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 10.8,
+      "total_landings": 10
+    },
+    {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 8.1,
       "total_landings": 10
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Learjet",
-      "total_hours": 6.3,
-      "total_landings": 9
     }
   ]
 }
