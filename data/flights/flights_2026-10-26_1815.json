@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "c04747",
+    "callsign": "CGAZU",
+    "firstSeen": 1793030490,
+    "lastSeen": 1793041012,
+    "estDepartureAirport": "CYEG",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 2.9228,
+    "landing": 1
+  },
+  {
+    "icao24": "c059cb",
+    "callsign": "CGIAC",
+    "firstSeen": 1793037432,
+    "lastSeen": 1793040744,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CYQR",
+    "flight_hours": 0.92,
+    "landing": 1
+  }
+]
