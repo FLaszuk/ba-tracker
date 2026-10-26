@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a07ca0",
+    "callsign": "EJA130",
+    "firstSeen": 1793013694,
+    "lastSeen": 1793018900,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KFTY",
+    "flight_hours": 1.4461,
+    "landing": 1
+  },
+  {
+    "icao24": "c05d79",
+    "callsign": "CGJKI",
+    "firstSeen": 1793021342,
+    "lastSeen": 1793022437,
+    "estDepartureAirport": "CYSJ",
+    "estArrivalAirport": "CDA6",
+    "flight_hours": 0.3042,
+    "landing": 1
+  },
+  {
+    "icao24": "e06546",
+    "callsign": "LVFUF",
+    "firstSeen": 1793018102,
+    "lastSeen": 1793019555,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4036,
+    "landing": 1
+  }
+]
