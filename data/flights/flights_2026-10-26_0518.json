@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d2066",
+    "callsign": "VJT213",
+    "firstSeen": 1792954962,
+    "lastSeen": 1792992530,
+    "estDepartureAirport": "LTFM",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 10.4356,
+    "landing": 1
+  },
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE994",
+    "firstSeen": 1792991018,
+    "lastSeen": 1792992348,
+    "estDepartureAirport": "YSBK",
+    "estArrivalAirport": "YBTH",
+    "flight_hours": 0.3694,
+    "landing": 1
+  }
+]
