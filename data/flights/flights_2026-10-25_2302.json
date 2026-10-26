@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a3b492",
+    "callsign": "N338LS",
+    "firstSeen": 1792968273,
+    "lastSeen": 1792972189,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "KWHP",
+    "flight_hours": 1.0878,
+    "landing": 1
+  },
+  {
+    "icao24": "a5721e",
+    "callsign": "N450AB",
+    "firstSeen": 1792967514,
+    "lastSeen": 1792972934,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "16CO",
+    "flight_hours": 1.5056,
+    "landing": 1
+  },
+  {
+    "icao24": "ad8907",
+    "callsign": "RLI971",
+    "firstSeen": 1792969248,
+    "lastSeen": 1792971522,
+    "estDepartureAirport": "KFRG",
+    "estArrivalAirport": "MA97",
+    "flight_hours": 0.6317,
+    "landing": 1
+  }
+]
