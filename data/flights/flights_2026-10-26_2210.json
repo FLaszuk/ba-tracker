@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "3cc253",
+    "callsign": "AWH93B",
+    "firstSeen": 1793050337,
+    "lastSeen": 1793056904,
+    "estDepartureAirport": "LEPA",
+    "estArrivalAirport": "EDRY",
+    "flight_hours": 1.8242,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20ef",
+    "callsign": "ICL751",
+    "firstSeen": 1793023297,
+    "lastSeen": 1793058293,
+    "estDepartureAirport": "LLBG",
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 9.7211,
+    "landing": 1
+  },
+  {
+    "icao24": "a86920",
+    "callsign": "N641BW",
+    "firstSeen": 1793052770,
+    "lastSeen": 1793053971,
+    "estDepartureAirport": "KFOK",
+    "estArrivalAirport": "KLGA",
+    "flight_hours": 0.3336,
+    "landing": 1
+  },
+  {
+    "icao24": "ab4b2a",
+    "callsign": "N827DC",
+    "firstSeen": 1793051493,
+    "lastSeen": 1793054471,
+    "estDepartureAirport": "KRNO",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.8272,
+    "landing": 1
+  }
+]
