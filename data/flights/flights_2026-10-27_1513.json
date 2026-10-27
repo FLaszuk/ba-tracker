@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "440658",
+    "callsign": "MOZ10",
+    "firstSeen": 1793111415,
+    "lastSeen": 1793114988,
+    "estDepartureAirport": "LOWS",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9925,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1793110003,
+    "lastSeen": 1793113964,
+    "estDepartureAirport": "KBTR",
+    "estArrivalAirport": "KBNA",
+    "flight_hours": 1.1003,
+    "landing": 1
+  }
+]
