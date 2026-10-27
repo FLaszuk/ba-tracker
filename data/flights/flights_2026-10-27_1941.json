@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a000fd",
+    "callsign": "EJM76",
+    "firstSeen": 1793125196,
+    "lastSeen": 1793129860,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2956,
+    "landing": 1
+  },
+  {
+    "icao24": "a0a456",
+    "callsign": "N140SX",
+    "firstSeen": 1793130423,
+    "lastSeen": 1793130691,
+    "estDepartureAirport": "KCXP",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.0744,
+    "landing": 1
+  },
+  {
+    "icao24": "a3d722",
+    "callsign": "CLY681",
+    "firstSeen": 1793124404,
+    "lastSeen": 1793130440,
+    "estDepartureAirport": "KAGS",
+    "estArrivalAirport": "KBOS",
+    "flight_hours": 1.6767,
+    "landing": 1
+  }
+]
