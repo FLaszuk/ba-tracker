@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "04c05f",
+    "callsign": "PHN12",
+    "firstSeen": 1793188956,
+    "lastSeen": 1793189716,
+    "estDepartureAirport": "HKNW",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2111,
+    "landing": 1
+  },
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1793188670,
+    "lastSeen": 1793189940,
+    "estDepartureAirport": "KGYI",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 0.3528,
+    "landing": 1
+  }
+]
