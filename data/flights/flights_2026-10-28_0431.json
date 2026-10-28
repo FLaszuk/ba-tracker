@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3cf19d",
+    "callsign": "VJH306H",
+    "firstSeen": 1793161098,
+    "lastSeen": 1793165603,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2514,
+    "landing": 1
+  },
+  {
+    "icao24": "a87cc8",
+    "callsign": "N646NY",
+    "firstSeen": 1793163070,
+    "lastSeen": 1793164960,
+    "estDepartureAirport": "KBFL",
+    "estArrivalAirport": "KBFL",
+    "flight_hours": 0.525,
+    "landing": 1
+  }
+]
