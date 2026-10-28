@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a2d2f4",
+    "callsign": "N281NX",
+    "firstSeen": 1793222508,
+    "lastSeen": 1793229450,
+    "estDepartureAirport": "KIWA",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 1.9283,
+    "landing": 1
+  },
+  {
+    "icao24": "aa69ee",
+    "callsign": "N770KF",
+    "firstSeen": 1793221644,
+    "lastSeen": 1793227547,
+    "estDepartureAirport": "KVNY",
+    "estArrivalAirport": "KBJC",
+    "flight_hours": 1.6397,
+    "landing": 1
+  },
+  {
+    "icao24": "ac6fa3",
+    "callsign": "PRE90",
+    "firstSeen": 1793213992,
+    "lastSeen": 1793224751,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "CYYC",
+    "flight_hours": 2.9886,
+    "landing": 1
+  },
+  {
+    "icao24": "e491b2",
+    "callsign": "PRFRT",
+    "firstSeen": 1793221102,
+    "lastSeen": 1793223904,
+    "estDepartureAirport": "SBNF",
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.7783,
+    "landing": 1
+  }
+]
