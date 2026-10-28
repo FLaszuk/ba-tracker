@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "06a1c8",
+    "callsign": "QQE527",
+    "firstSeen": 1793204388,
+    "lastSeen": 1793212558,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VMMC",
+    "flight_hours": 2.2694,
+    "landing": 1
+  },
+  {
+    "icao24": "a17049",
+    "callsign": "N192HA",
+    "firstSeen": 1793207174,
+    "lastSeen": 1793210033,
+    "estDepartureAirport": "AR13",
+    "estArrivalAirport": "KLIT",
+    "flight_hours": 0.7942,
+    "landing": 1
+  },
+  {
+    "icao24": "a17049",
+    "callsign": "N192HA",
+    "firstSeen": 1793210774,
+    "lastSeen": 1793211481,
+    "estDepartureAirport": "KLIT",
+    "estArrivalAirport": "KLIT",
+    "flight_hours": 0.1964,
+    "landing": 1
+  },
+  {
+    "icao24": "a83bf1",
+    "callsign": "N63FS",
+    "firstSeen": 1793204795,
+    "lastSeen": 1793207676,
+    "estDepartureAirport": "KJVY",
+    "estArrivalAirport": "KMGW",
+    "flight_hours": 0.8003,
+    "landing": 1
+  },
+  {
+    "icao24": "e47def",
+    "callsign": "PTWYC",
+    "firstSeen": 1793208173,
+    "lastSeen": 1793211489,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.9211,
+    "landing": 1
+  }
+]
