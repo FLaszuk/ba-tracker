@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "018032",
+    "callsign": "5ADRK",
+    "firstSeen": 1793142037,
+    "lastSeen": 1793144509,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "DTNH",
+    "flight_hours": 0.6867,
+    "landing": 1
+  },
+  {
+    "icao24": "a1ca0d",
+    "callsign": "N214TF",
+    "firstSeen": 1793128809,
+    "lastSeen": 1793146198,
+    "estDepartureAirport": "KBDL",
+    "estArrivalAirport": "KSLC",
+    "flight_hours": 4.8303,
+    "landing": 1
+  },
+  {
+    "icao24": "a32478",
+    "callsign": "EJA301",
+    "firstSeen": 1793144744,
+    "lastSeen": 1793145612,
+    "estDepartureAirport": "KSNA",
+    "estArrivalAirport": "KPSP",
+    "flight_hours": 0.2411,
+    "landing": 1
+  },
+  {
+    "icao24": "a9d20f",
+    "callsign": "N7317",
+    "firstSeen": 1793139864,
+    "lastSeen": 1793141012,
+    "estDepartureAirport": "CYRT",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3189,
+    "landing": 1
+  }
+]
