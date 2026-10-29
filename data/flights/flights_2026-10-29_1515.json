@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3442c9",
+    "callsign": "GES091F",
+    "firstSeen": 1793284066,
+    "lastSeen": 1793289081,
+    "estDepartureAirport": "LSZH",
+    "estArrivalAirport": "LEVD",
+    "flight_hours": 1.3931,
+    "landing": 1
+  },
+  {
+    "icao24": "a63308",
+    "callsign": "N499RK",
+    "firstSeen": 1793285541,
+    "lastSeen": 1793286895,
+    "estDepartureAirport": "KPHX",
+    "estArrivalAirport": "KP33",
+    "flight_hours": 0.3761,
+    "landing": 1
+  }
+]
