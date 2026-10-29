@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "33ffad",
+    "callsign": "IAM3105",
+    "firstSeen": 1793266126,
+    "lastSeen": 1793267474,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": "LIEO",
+    "flight_hours": 0.3744,
+    "landing": 1
+  },
+  {
+    "icao24": "800b16",
+    "callsign": "VTARF",
+    "firstSeen": 1793249816,
+    "lastSeen": 1793262693,
+    "estDepartureAirport": "OMDW",
+    "estArrivalAirport": null,
+    "flight_hours": 3.5769,
+    "landing": 1
+  }
+]
