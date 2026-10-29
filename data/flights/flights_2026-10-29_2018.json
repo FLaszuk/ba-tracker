@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a101f9",
+    "callsign": "EJA164",
+    "firstSeen": 1793297335,
+    "lastSeen": 1793307053,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "1MI4",
+    "flight_hours": 2.6994,
+    "landing": 1
+  },
+  {
+    "icao24": "a1baf1",
+    "callsign": "EJA210",
+    "firstSeen": 1793298490,
+    "lastSeen": 1793305326,
+    "estDepartureAirport": "KDVT",
+    "estArrivalAirport": "OR42",
+    "flight_hours": 1.8989,
+    "landing": 1
+  },
+  {
+    "icao24": "a2a072",
+    "callsign": "CNS9",
+    "firstSeen": 1793295225,
+    "lastSeen": 1793305493,
+    "estDepartureAirport": "KBED",
+    "estArrivalAirport": "0MS0",
+    "flight_hours": 2.8522,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1793301589,
+    "lastSeen": 1793304532,
+    "estDepartureAirport": "KBFI",
+    "estArrivalAirport": "0ID0",
+    "flight_hours": 0.8175,
+    "landing": 1
+  },
+  {
+    "icao24": "e485c6",
+    "callsign": "PRWBW",
+    "firstSeen": 1793302972,
+    "lastSeen": 1793306111,
+    "estDepartureAirport": "SBGL",
+    "estArrivalAirport": "SJNQ",
+    "flight_hours": 0.8719,
+    "landing": 1
+  }
+]
