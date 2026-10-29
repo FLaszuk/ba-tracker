@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "0d0700",
+    "callsign": "ACW1502",
+    "firstSeen": 1793235017,
+    "lastSeen": 1793239289,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1867,
+    "landing": 1
+  },
+  {
+    "icao24": "a17e7d",
+    "callsign": "LN196AH",
+    "firstSeen": 1793240566,
+    "lastSeen": 1793242220,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KRDU",
+    "flight_hours": 0.4594,
+    "landing": 1
+  }
+]
