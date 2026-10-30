@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "33ffae",
+    "callsign": "IAM3165",
+    "firstSeen": 1793368663,
+    "lastSeen": 1793370341,
+    "estDepartureAirport": "LIRA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4661,
+    "landing": 1
+  },
+  {
+    "icao24": "39aded",
+    "callsign": "FHLPN",
+    "firstSeen": 1793364342,
+    "lastSeen": 1793371885,
+    "estDepartureAirport": "LFLC",
+    "estArrivalAirport": "LRSB",
+    "flight_hours": 2.0953,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1793370207,
+    "lastSeen": 1793371916,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.4747,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1793368223,
+    "lastSeen": 1793370114,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "K36U",
+    "flight_hours": 0.5253,
+    "landing": 1
+  },
+  {
+    "icao24": "ada8cf",
+    "callsign": "N98AD",
+    "firstSeen": 1793348731,
+    "lastSeen": 1793374525,
+    "estDepartureAirport": "LEMG",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 7.165,
+    "landing": 1
+  }
+]
