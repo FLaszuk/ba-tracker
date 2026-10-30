@@ -1,0 +1,112 @@
+[
+  {
+    "icao24": "0ac15e",
+    "callsign": "HK4891",
+    "firstSeen": 1793381858,
+    "lastSeen": 1793388396,
+    "estDepartureAirport": "TNCA",
+    "estArrivalAirport": "SKCL",
+    "flight_hours": 1.8161,
+    "landing": 1
+  },
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1793386944,
+    "lastSeen": 1793388184,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 0.3444,
+    "landing": 1
+  },
+  {
+    "icao24": "44042f",
+    "callsign": "EJU875B",
+    "firstSeen": 1793384105,
+    "lastSeen": 1793388115,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1139,
+    "landing": 1
+  },
+  {
+    "icao24": "a2c1ec",
+    "callsign": "EJA277",
+    "firstSeen": 1793383572,
+    "lastSeen": 1793388803,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "K6V0",
+    "flight_hours": 1.4531,
+    "landing": 1
+  },
+  {
+    "icao24": "a32478",
+    "callsign": "EJA301",
+    "firstSeen": 1793384616,
+    "lastSeen": 1793388287,
+    "estDepartureAirport": "KL22",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.0197,
+    "landing": 1
+  },
+  {
+    "icao24": "a77487",
+    "callsign": "N58KY",
+    "firstSeen": 1793383257,
+    "lastSeen": 1793388967,
+    "estDepartureAirport": "KFZG",
+    "estArrivalAirport": "KMTH",
+    "flight_hours": 1.5861,
+    "landing": 1
+  },
+  {
+    "icao24": "ac8e76",
+    "callsign": "HRC908",
+    "firstSeen": 1793387740,
+    "lastSeen": 1793389742,
+    "estDepartureAirport": "TE97",
+    "estArrivalAirport": "K3F6",
+    "flight_hours": 0.5561,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1793387442,
+    "lastSeen": 1793389162,
+    "estDepartureAirport": "KAPA",
+    "estArrivalAirport": "KLAR",
+    "flight_hours": 0.4778,
+    "landing": 1
+  },
+  {
+    "icao24": "adf542",
+    "callsign": "N999ND",
+    "firstSeen": 1793383583,
+    "lastSeen": 1793392554,
+    "estDepartureAirport": "KFLL",
+    "estArrivalAirport": "KJWY",
+    "flight_hours": 2.4919,
+    "landing": 1
+  },
+  {
+    "icao24": "e48eb7",
+    "callsign": "PSGMJ",
+    "firstSeen": 1793386086,
+    "lastSeen": 1793388371,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SNUH",
+    "flight_hours": 0.6347,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f72",
+    "callsign": "PRNGM",
+    "firstSeen": 1793390393,
+    "lastSeen": 1793391412,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.2831,
+    "landing": 1
+  }
+]
