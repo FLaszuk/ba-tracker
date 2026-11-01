@@ -1,0 +1,18 @@
+{
+  "month": "2026-11",
+  "total": 1,
+  "offset": 0,
+  "limit": 1,
+  "data": [
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 0.6,
+      "total_landings": 1,
+      "aircraft_market_share": 100.0,
+      "engine_market_share": 100.0
+    }
+  ]
+}
