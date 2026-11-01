@@ -6,6 +6,24 @@
       "aircraft_model": "Global 6000",
       "total_hours": 0.6,
       "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "total_hours": 1.2,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 2.3,
+      "total_landings": 1
+    },
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "total_hours": 2.5,
+      "total_landings": 1
     }
   ]
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a41804",
+    "callsign": "LXJ363",
+    "firstSeen": 1793552115,
+    "lastSeen": 1793556518,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 1.2231,
+    "landing": 1
+  },
+  {
+    "icao24": "a51738",
+    "callsign": "N427SH",
+    "firstSeen": 1793546856,
+    "lastSeen": 1793555859,
+    "estDepartureAirport": "KAVL",
+    "estArrivalAirport": null,
+    "flight_hours": 2.5008,
+    "landing": 1
+  },
+  {
+    "icao24": "a70801",
+    "callsign": "N552MW",
+    "firstSeen": 1793548823,
+    "lastSeen": 1793556944,
+    "estDepartureAirport": "KPUW",
+    "estArrivalAirport": null,
+    "flight_hours": 2.2558,
+    "landing": 1
+  }
+]

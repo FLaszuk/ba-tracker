@@ -1,9 +1,39 @@
 {
   "month": "2026-11",
-  "total": 1,
+  "total": 4,
   "offset": 0,
-  "limit": 1,
+  "limit": 4,
   "data": [
+    {
+      "aircraft_manufacturer": "Pilatus",
+      "aircraft_model": "PC-24",
+      "engine_manufacturer": "Williams International",
+      "engine_model": "FJ44",
+      "total_hours": 2.5,
+      "total_landings": 1,
+      "aircraft_market_share": 38.05,
+      "engine_market_share": 38.05
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "BR710",
+      "total_hours": 2.3,
+      "total_landings": 1,
+      "aircraft_market_share": 34.4,
+      "engine_market_share": 43.38
+    },
+    {
+      "aircraft_manufacturer": "Embraer",
+      "aircraft_model": "Phenom 300",
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535",
+      "total_hours": 1.2,
+      "total_landings": 1,
+      "aircraft_market_share": 18.57,
+      "engine_market_share": 18.57
+    },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
@@ -11,8 +41,8 @@
       "engine_model": "BR710",
       "total_hours": 0.6,
       "total_landings": 1,
-      "aircraft_market_share": 100.0,
-      "engine_market_share": 100.0
+      "aircraft_market_share": 8.98,
+      "engine_market_share": 43.38
     }
   ]
 }
