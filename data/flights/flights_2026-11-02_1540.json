@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "a0057c",
+    "callsign": "N100J",
+    "firstSeen": 1793633560,
+    "lastSeen": 1793637958,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CYVR",
+    "flight_hours": 1.2217,
+    "landing": 1
+  },
+  {
+    "icao24": "a447f6",
+    "callsign": "N375SH",
+    "firstSeen": 1793630758,
+    "lastSeen": 1793636354,
+    "estDepartureAirport": "TN72",
+    "estArrivalAirport": "3PA4",
+    "flight_hours": 1.5544,
+    "landing": 1
+  },
+  {
+    "icao24": "a5248d",
+    "callsign": "EJA430",
+    "firstSeen": 1793632029,
+    "lastSeen": 1793634814,
+    "estDepartureAirport": "KPRC",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 0.7736,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ff6c",
+    "callsign": "N550AA",
+    "firstSeen": 1793622885,
+    "lastSeen": 1793635375,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KBYG",
+    "flight_hours": 3.4694,
+    "landing": 1
+  },
+  {
+    "icao24": "ac3bd8",
+    "callsign": "N888D",
+    "firstSeen": 1793630816,
+    "lastSeen": 1793636640,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "97WA",
+    "flight_hours": 1.6178,
+    "landing": 1
+  },
+  {
+    "icao24": "e48eb7",
+    "callsign": "PSGMJ",
+    "firstSeen": 1793633499,
+    "lastSeen": 1793635607,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SNDU",
+    "flight_hours": 0.5856,
+    "landing": 1
+  }
+]
