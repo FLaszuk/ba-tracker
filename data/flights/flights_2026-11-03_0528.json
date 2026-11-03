@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "761047",
+    "callsign": "REX21",
+    "firstSeen": 1793682847,
+    "lastSeen": 1793686347,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "OP32",
+    "flight_hours": 0.9722,
+    "landing": 1
+  },
+  {
+    "icao24": "7c74cc",
+    "callsign": "XCU",
+    "firstSeen": 1793682790,
+    "lastSeen": 1793684370,
+    "estDepartureAirport": "YMEN",
+    "estArrivalAirport": null,
+    "flight_hours": 0.4389,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8668",
+    "callsign": "N7777U",
+    "firstSeen": 1793680115,
+    "lastSeen": 1793685197,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "RJTT",
+    "flight_hours": 1.4117,
+    "landing": 1
+  }
+]
