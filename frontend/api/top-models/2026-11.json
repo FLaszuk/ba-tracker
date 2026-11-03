@@ -9,6 +9,12 @@
     },
     {
       "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 1.8,
+      "total_landings": 2
+    },
+    {
+      "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 5.7,
       "total_landings": 2
@@ -32,6 +38,12 @@
       "total_landings": 1
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 3.5,
+      "total_landings": 1
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
       "total_hours": 1.6,
@@ -47,12 +59,6 @@
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "Eclipse 500",
       "total_hours": 1.6,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 0.8,
       "total_landings": 1
     }
   ]

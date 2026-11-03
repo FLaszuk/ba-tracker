@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1793657676,
+    "lastSeen": 1793658874,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3328,
+    "landing": 1
+  },
+  {
+    "icao24": "a21fbb",
+    "callsign": "N236KR",
+    "firstSeen": 1793656429,
+    "lastSeen": 1793660107,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KVNY",
+    "flight_hours": 1.0217,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0887",
+    "callsign": "EJA939",
+    "firstSeen": 1793647533,
+    "lastSeen": 1793660165,
+    "estDepartureAirport": "KMRY",
+    "estArrivalAirport": "LS18",
+    "flight_hours": 3.5089,
+    "landing": 1
+  }
+]
