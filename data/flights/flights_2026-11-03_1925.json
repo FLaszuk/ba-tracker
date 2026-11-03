@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a66977",
+    "callsign": "GLF35",
+    "firstSeen": 1793733856,
+    "lastSeen": 1793738422,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "aa852c",
+    "callsign": "N777XY",
+    "firstSeen": 1793716365,
+    "lastSeen": 1793734821,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 5.1267,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1793734849,
+    "lastSeen": 1793736242,
+    "estDepartureAirport": "SBMT",
+    "estArrivalAirport": "SDTK",
+    "flight_hours": 0.3869,
+    "landing": 1
+  }
+]
