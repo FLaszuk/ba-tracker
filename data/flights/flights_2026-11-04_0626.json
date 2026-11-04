@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "42418f",
+    "callsign": "VPCPT",
+    "firstSeen": 1793772868,
+    "lastSeen": 1793775125,
+    "estDepartureAirport": "WSSL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.6269,
+    "landing": 1
+  },
+  {
+    "icao24": "484363",
+    "callsign": "P4JIMI2",
+    "firstSeen": 1793772835,
+    "lastSeen": 1793774052,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.3381,
+    "landing": 1
+  },
+  {
+    "icao24": "ac710a",
+    "callsign": "N900VC",
+    "firstSeen": 1793767798,
+    "lastSeen": 1793773386,
+    "estDepartureAirport": "7OR3",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 1.5522,
+    "landing": 1
+  }
+]
