@@ -32,6 +32,12 @@
       "total_landings": 2
     },
     {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 2.3,
+      "total_landings": 2
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 5.7,
@@ -52,12 +58,6 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 7X",
-      "total_hours": 1.6,
-      "total_landings": 1
-    },
-    {
-      "aircraft_manufacturer": "Eclipse Aerospace",
-      "aircraft_model": "Eclipse 500",
       "total_hours": 1.6,
       "total_landings": 1
     }
