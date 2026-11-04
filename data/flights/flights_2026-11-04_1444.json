@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a34f0a",
+    "callsign": "N312JC",
+    "firstSeen": 1793802725,
+    "lastSeen": 1793804032,
+    "estDepartureAirport": "KSUA",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3631,
+    "landing": 1
+  },
+  {
+    "icao24": "a63c13",
+    "callsign": "N500XX",
+    "firstSeen": 1793801967,
+    "lastSeen": 1793804343,
+    "estDepartureAirport": "37CN",
+    "estArrivalAirport": "KHND",
+    "flight_hours": 0.66,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1793801171,
+    "lastSeen": 1793804408,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SBSP",
+    "flight_hours": 0.8992,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1793805779,
+    "lastSeen": 1793807131,
+    "estDepartureAirport": "SBSP",
+    "estArrivalAirport": "SILI",
+    "flight_hours": 0.3756,
+    "landing": 1
+  },
+  {
+    "icao24": "e48f8d",
+    "callsign": "PPJJA",
+    "firstSeen": 1793793411,
+    "lastSeen": 1793806761,
+    "estDepartureAirport": "SDNI",
+    "estArrivalAirport": "SCAN",
+    "flight_hours": 3.7083,
+    "landing": 1
+  }
+]
