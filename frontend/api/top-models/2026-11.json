@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 11.0,
-      "total_landings": 6
+      "total_hours": 13.3,
+      "total_landings": 7
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -26,15 +26,27 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 4.3,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 10.3,
       "total_landings": 3
     },
     {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 4.0,
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G650",
+      "total_hours": 3.2,
+      "total_landings": 3
+    },
+    {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 1.4,
       "total_landings": 2
     },
     {
@@ -44,22 +56,10 @@
       "total_landings": 2
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G650",
-      "total_hours": 1.9,
-      "total_landings": 2
-    },
-    {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
       "total_hours": 3.7,
       "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 605",
-      "total_hours": 0.2,
-      "total_landings": 1
     }
   ]
 }

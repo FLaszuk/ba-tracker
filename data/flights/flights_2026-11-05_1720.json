@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a287da",
+    "callsign": "EJA262",
+    "firstSeen": 1793896560,
+    "lastSeen": 1793898754,
+    "estDepartureAirport": "KBOS",
+    "estArrivalAirport": "5NY4",
+    "flight_hours": 0.6094,
+    "landing": 1
+  },
+  {
+    "icao24": "a638e4",
+    "callsign": "N50PH",
+    "firstSeen": 1793898929,
+    "lastSeen": 1793903604,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": "KK77",
+    "flight_hours": 1.2986,
+    "landing": 1
+  },
+  {
+    "icao24": "aab9ae",
+    "callsign": "JAS9",
+    "firstSeen": 1793894288,
+    "lastSeen": 1793902581,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KSDL",
+    "flight_hours": 2.3036,
+    "landing": 1
+  },
+  {
+    "icao24": "ad53ce",
+    "callsign": "EJA958",
+    "firstSeen": 1793900266,
+    "lastSeen": 1793901714,
+    "estDepartureAirport": "KCMH",
+    "estArrivalAirport": "KLUK",
+    "flight_hours": 0.4022,
+    "landing": 1
+  }
+]
