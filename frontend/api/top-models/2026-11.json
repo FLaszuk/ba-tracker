@@ -26,6 +26,12 @@
       "total_landings": 3
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G550",
+      "total_hours": 10.3,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
       "total_hours": 4.0,
@@ -35,12 +41,6 @@
       "aircraft_manufacturer": "Eclipse Aerospace",
       "aircraft_model": "Eclipse 500",
       "total_hours": 2.3,
-      "total_landings": 2
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 5.7,
       "total_landings": 2
     },
     {

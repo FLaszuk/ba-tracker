@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "7809cd",
+    "callsign": "B7765",
+    "firstSeen": 1793826992,
+    "lastSeen": 1793843720,
+    "estDepartureAirport": "KLAX",
+    "estArrivalAirport": "PANC",
+    "flight_hours": 4.6467,
+    "landing": 1
+  },
+  {
+    "icao24": "a03eca",
+    "callsign": "EJM115",
+    "firstSeen": 1793841615,
+    "lastSeen": 1793842420,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KSFO",
+    "flight_hours": 0.2236,
+    "landing": 1
+  },
+  {
+    "icao24": "a0998a",
+    "callsign": "N138GL",
+    "firstSeen": 1793825119,
+    "lastSeen": 1793841456,
+    "estDepartureAirport": "KIAD",
+    "estArrivalAirport": "KAPC",
+    "flight_hours": 4.5381,
+    "landing": 1
+  },
+  {
+    "icao24": "c050a1",
+    "callsign": "CGENW",
+    "firstSeen": 1793837395,
+    "lastSeen": 1793840339,
+    "estDepartureAirport": "KHPN",
+    "estArrivalAirport": "CYOW",
+    "flight_hours": 0.8178,
+    "landing": 1
+  }
+]
