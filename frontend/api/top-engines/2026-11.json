@@ -20,6 +20,12 @@
       "total_landings": 5
     },
     {
+      "engine_manufacturer": "Pratt & Whitney Canada",
+      "engine_model": "PW535",
+      "total_hours": 4.6,
+      "total_landings": 6
+    },
+    {
       "engine_manufacturer": "Honeywell",
       "engine_model": "HTF7500E",
       "total_hours": 3.7,
@@ -30,12 +36,6 @@
       "engine_model": "FJ44",
       "total_hours": 3.7,
       "total_landings": 2
-    },
-    {
-      "engine_manufacturer": "Pratt & Whitney Canada",
-      "engine_model": "PW535",
-      "total_hours": 3.5,
-      "total_landings": 5
     },
     {
       "engine_manufacturer": "Rolls-Royce",
