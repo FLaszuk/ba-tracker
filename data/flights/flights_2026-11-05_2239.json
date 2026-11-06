@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "0d098b",
+    "callsign": "XAZZZ",
+    "firstSeen": 1793914684,
+    "lastSeen": 1793918795,
+    "estDepartureAirport": "MMMA",
+    "estArrivalAirport": "MMTO",
+    "flight_hours": 1.1419,
+    "landing": 1
+  },
+  {
+    "icao24": "a5d1a2",
+    "callsign": "N474TC",
+    "firstSeen": 1793917319,
+    "lastSeen": 1793920658,
+    "estDepartureAirport": "K1A9",
+    "estArrivalAirport": "KLIT",
+    "flight_hours": 0.9275,
+    "landing": 1
+  },
+  {
+    "icao24": "ad39cd",
+    "callsign": "EJA951",
+    "firstSeen": 1793915442,
+    "lastSeen": 1793918495,
+    "estDepartureAirport": "KTME",
+    "estArrivalAirport": "KNEW",
+    "flight_hours": 0.8481,
+    "landing": 1
+  }
+]
