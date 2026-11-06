@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "4d20d8",
+    "callsign": "VJT836",
+    "firstSeen": 1793988072,
+    "lastSeen": 1793992638,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "EGNT",
+    "flight_hours": 1.2683,
+    "landing": 1
+  },
+  {
+    "icao24": "adaa50",
+    "callsign": "N98RP",
+    "firstSeen": 1793985142,
+    "lastSeen": 1793991962,
+    "estDepartureAirport": "KRBD",
+    "estArrivalAirport": "4AZ9",
+    "flight_hours": 1.8944,
+    "landing": 1
+  },
+  {
+    "icao24": "c04174",
+    "callsign": "CFYUL",
+    "firstSeen": 1793994973,
+    "lastSeen": 1793996080,
+    "estDepartureAirport": "CYYC",
+    "estArrivalAirport": "CEP4",
+    "flight_hours": 0.3075,
+    "landing": 1
+  }
+]
