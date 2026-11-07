@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "a7fe2d",
+    "callsign": "LXJ614",
+    "firstSeen": 1794068746,
+    "lastSeen": 1794073431,
+    "estDepartureAirport": "KSBN",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 1.3014,
+    "landing": 1
+  },
+  {
+    "icao24": "e03545",
+    "callsign": "LVCUE",
+    "firstSeen": 1794074306,
+    "lastSeen": 1794076069,
+    "estDepartureAirport": "SADF",
+    "estArrivalAirport": "SULS",
+    "flight_hours": 0.4897,
+    "landing": 1
+  }
+]
