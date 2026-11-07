@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac703b",
+    "callsign": "N900LW",
+    "firstSeen": 1794064781,
+    "lastSeen": 1794089520,
+    "estDepartureAirport": "EGSS",
+    "estArrivalAirport": "KBGR",
+    "flight_hours": 6.8719,
+    "landing": 1
+  },
+  {
+    "icao24": "e4914c",
+    "callsign": "00000000",
+    "firstSeen": 1794083642,
+    "lastSeen": 1794086108,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "SWQM",
+    "flight_hours": 0.685,
+    "landing": 1
+  }
+]

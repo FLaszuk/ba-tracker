@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 13.3,
-      "total_landings": 7
+      "total_hours": 20.2,
+      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Embraer",
@@ -26,16 +26,16 @@
       "total_landings": 5
     },
     {
+      "aircraft_manufacturer": "Cessna (Textron)",
+      "aircraft_model": "Citation X",
+      "total_hours": 5.9,
+      "total_landings": 5
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 5.2,
       "total_landings": 5
-    },
-    {
-      "aircraft_manufacturer": "Cessna (Textron)",
-      "aircraft_model": "Citation X",
-      "total_hours": 5.2,
-      "total_landings": 4
     },
     {
       "aircraft_manufacturer": "Gulfstream",
