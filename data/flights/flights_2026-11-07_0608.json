@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "04c176",
+    "callsign": "PHN22",
+    "firstSeen": 1794030833,
+    "lastSeen": 1794031607,
+    "estDepartureAirport": "HKJK",
+    "estArrivalAirport": null,
+    "flight_hours": 0.215,
+    "landing": 1
+  },
+  {
+    "icao24": "3e3463",
+    "callsign": "LHB4",
+    "firstSeen": 1794035115,
+    "lastSeen": 1794036097,
+    "estDepartureAirport": "EDNY",
+    "estArrivalAirport": "LSZH",
+    "flight_hours": 0.2728,
+    "landing": 1
+  }
+]
