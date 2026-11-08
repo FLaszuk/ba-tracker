@@ -44,6 +44,12 @@
       "total_landings": 4
     },
     {
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 3.7,
+      "total_landings": 3
+    },
+    {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
       "total_hours": 10.3,
@@ -54,12 +60,6 @@
       "aircraft_model": "G650",
       "total_hours": 3.2,
       "total_landings": 3
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Challenger 605",
-      "total_hours": 0.4,
-      "total_landings": 2
     }
   ]
 }
