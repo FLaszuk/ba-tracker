@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "a10d1e",
+    "callsign": "EJA167",
+    "firstSeen": 1794164586,
+    "lastSeen": 1794165854,
+    "estDepartureAirport": "KDEN",
+    "estArrivalAirport": "K8V1",
+    "flight_hours": 0.3522,
+    "landing": 1
+  },
+  {
+    "icao24": "a6ff6c",
+    "callsign": "N550AA",
+    "firstSeen": 1794151595,
+    "lastSeen": 1794163795,
+    "estDepartureAirport": "KPSF",
+    "estArrivalAirport": "KBYG",
+    "flight_hours": 3.3889,
+    "landing": 1
+  },
+  {
+    "icao24": "a816d0",
+    "callsign": "LXJ620",
+    "firstSeen": 1794155969,
+    "lastSeen": 1794164857,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KMSP",
+    "flight_hours": 2.4689,
+    "landing": 1
+  },
+  {
+    "icao24": "a8d9ce",
+    "callsign": "N67EL",
+    "firstSeen": 1794159762,
+    "lastSeen": 1794163975,
+    "estDepartureAirport": "KMKC",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.1703,
+    "landing": 1
+  },
+  {
+    "icao24": "e48e07",
+    "callsign": "PPMPB",
+    "firstSeen": 1794165019,
+    "lastSeen": 1794166457,
+    "estDepartureAirport": "SJTQ",
+    "estArrivalAirport": "SIBC",
+    "flight_hours": 0.3994,
+    "landing": 1
+  }
+]
