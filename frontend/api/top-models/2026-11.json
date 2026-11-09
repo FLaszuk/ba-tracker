@@ -8,6 +8,12 @@
       "total_landings": 11
     },
     {
+      "aircraft_manufacturer": "Dassault",
+      "aircraft_model": "Falcon 2000",
+      "total_hours": 7.6,
+      "total_landings": 8
+    },
+    {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 5.0,
@@ -29,12 +35,6 @@
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 6.5,
-      "total_landings": 6
-    },
-    {
-      "aircraft_manufacturer": "Dassault",
-      "aircraft_model": "Falcon 2000",
-      "total_hours": 6.3,
       "total_landings": 6
     },
     {

@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "ac380d",
+    "callsign": "N887CE",
+    "firstSeen": 1794236977,
+    "lastSeen": 1794239871,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTVL",
+    "flight_hours": 0.8039,
+    "landing": 1
+  },
+  {
+    "icao24": "ac380d",
+    "callsign": "N887CE",
+    "firstSeen": 1794243659,
+    "lastSeen": 1794245473,
+    "estDepartureAirport": "KTVL",
+    "estArrivalAirport": "KCCR",
+    "flight_hours": 0.5039,
+    "landing": 1
+  }
+]
