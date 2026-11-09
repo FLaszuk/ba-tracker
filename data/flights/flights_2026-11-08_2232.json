@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d0afe",
+    "callsign": "LET5741",
+    "firstSeen": 1794176663,
+    "lastSeen": 1794178382,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "MMAN",
+    "flight_hours": 0.4775,
+    "landing": 1
+  },
+  {
+    "icao24": "a2f6e9",
+    "callsign": "EJA290",
+    "firstSeen": 1794173637,
+    "lastSeen": 1794177743,
+    "estDepartureAirport": "KORD",
+    "estArrivalAirport": "2MS9",
+    "flight_hours": 1.1406,
+    "landing": 1
+  },
+  {
+    "icao24": "a4c0a3",
+    "callsign": "EJA405",
+    "firstSeen": 1794179373,
+    "lastSeen": 1794180530,
+    "estDepartureAirport": "KMOD",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.3214,
+    "landing": 1
+  },
+  {
+    "icao24": "a500c5",
+    "callsign": "EJM21",
+    "firstSeen": 1794165156,
+    "lastSeen": 1794177442,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 3.4128,
+    "landing": 1
+  },
+  {
+    "icao24": "a8b914",
+    "callsign": "N661MS",
+    "firstSeen": 1794174514,
+    "lastSeen": 1794177168,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLRD",
+    "flight_hours": 0.7372,
+    "landing": 1
+  },
+  {
+    "icao24": "ab07a3",
+    "callsign": "N81GK",
+    "firstSeen": 1794172857,
+    "lastSeen": 1794176584,
+    "estDepartureAirport": "KUDD",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 1.0353,
+    "landing": 1
+  }
+]
