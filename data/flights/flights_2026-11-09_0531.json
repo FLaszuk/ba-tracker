@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "7c4f1f",
+    "callsign": "AE926",
+    "firstSeen": 1794199602,
+    "lastSeen": 1794203771,
+    "estDepartureAirport": "YMAY",
+    "estArrivalAirport": null,
+    "flight_hours": 1.1581,
+    "landing": 1
+  },
+  {
+    "icao24": "a64a12",
+    "callsign": "N504PA",
+    "firstSeen": 1794199559,
+    "lastSeen": 1794205116,
+    "estDepartureAirport": "KSDM",
+    "estArrivalAirport": "KU06",
+    "flight_hours": 1.5436,
+    "landing": 1
+  }
+]
