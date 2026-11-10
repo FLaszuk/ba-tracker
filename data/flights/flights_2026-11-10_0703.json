@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4be50b",
+    "callsign": "TCYHK",
+    "firstSeen": 1794296731,
+    "lastSeen": 1794298776,
+    "estDepartureAirport": "LRTM",
+    "estArrivalAirport": "LBMA",
+    "flight_hours": 0.5681,
+    "landing": 1
+  },
+  {
+    "icao24": "4c0639",
+    "callsign": "YUBRZ",
+    "firstSeen": 1794298081,
+    "lastSeen": 1794298726,
+    "estDepartureAirport": "LYBE",
+    "estArrivalAirport": "LYBE",
+    "flight_hours": 0.1792,
+    "landing": 1
+  }
+]
