@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT3RG",
+    "firstSeen": 1794340425,
+    "lastSeen": 1794344021,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": "LDDU",
+    "flight_hours": 0.9989,
+    "landing": 1
+  },
+  {
+    "icao24": "a19e97",
+    "callsign": "EJA203",
+    "firstSeen": 1794341290,
+    "lastSeen": 1794344450,
+    "estDepartureAirport": "71TA",
+    "estArrivalAirport": "KE14",
+    "flight_hours": 0.8778,
+    "landing": 1
+  }
+]
