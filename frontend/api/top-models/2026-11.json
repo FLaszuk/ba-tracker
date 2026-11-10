@@ -15,6 +15,12 @@
     },
     {
       "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 14.8,
+      "total_landings": 7
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
       "total_hours": 6.7,
       "total_landings": 7
@@ -30,12 +36,6 @@
       "aircraft_model": "G450",
       "total_hours": 7.9,
       "total_landings": 7
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 11.3,
-      "total_landings": 6
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",

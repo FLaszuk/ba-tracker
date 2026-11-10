@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d20bd",
+    "callsign": "WMT7927",
+    "firstSeen": 1794320600,
+    "lastSeen": 1794325035,
+    "estDepartureAirport": "LIMC",
+    "estArrivalAirport": null,
+    "flight_hours": 1.2319,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d6",
+    "callsign": "VJT827",
+    "firstSeen": 1794315388,
+    "lastSeen": 1794327643,
+    "estDepartureAirport": "EGPE",
+    "estArrivalAirport": "LMML",
+    "flight_hours": 3.4042,
+    "landing": 1
+  }
+]
