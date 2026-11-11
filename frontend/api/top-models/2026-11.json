@@ -14,6 +14,12 @@
       "total_landings": 9
     },
     {
+      "aircraft_manufacturer": "Gulfstream",
+      "aircraft_model": "G450",
+      "total_hours": 11.3,
+      "total_landings": 8
+    },
+    {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Global 6000",
       "total_hours": 14.8,
@@ -29,12 +35,6 @@
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
       "total_hours": 5.0,
-      "total_landings": 7
-    },
-    {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G450",
-      "total_hours": 7.9,
       "total_landings": 7
     },
     {
