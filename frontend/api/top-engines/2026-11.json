@@ -15,6 +15,12 @@
     },
     {
       "engine_manufacturer": "Rolls-Royce",
+      "engine_model": "AE 3007",
+      "total_hours": 16.3,
+      "total_landings": 7
+    },
+    {
+      "engine_manufacturer": "Rolls-Royce",
       "engine_model": "Tay 611-8C",
       "total_hours": 11.3,
       "total_landings": 8
@@ -24,12 +30,6 @@
       "engine_model": "PW308C",
       "total_hours": 8.5,
       "total_landings": 9
-    },
-    {
-      "engine_manufacturer": "Rolls-Royce",
-      "engine_model": "AE 3007",
-      "total_hours": 6.2,
-      "total_landings": 6
     },
     {
       "engine_manufacturer": "Pratt & Whitney Canada",
