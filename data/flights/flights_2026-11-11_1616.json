@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "4d02c2",
+    "callsign": "JFA85J",
+    "firstSeen": 1794413522,
+    "lastSeen": 1794417830,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFMD",
+    "flight_hours": 1.1967,
+    "landing": 1
+  },
+  {
+    "icao24": "a4ab44",
+    "callsign": "N40LB",
+    "firstSeen": 1794411815,
+    "lastSeen": 1794414137,
+    "estDepartureAirport": "KFSD",
+    "estArrivalAirport": "SD98",
+    "flight_hours": 0.645,
+    "landing": 1
+  },
+  {
+    "icao24": "a81b0b",
+    "callsign": "N621MD",
+    "firstSeen": 1794411987,
+    "lastSeen": 1794416344,
+    "estDepartureAirport": "KPDK",
+    "estArrivalAirport": "MYAW",
+    "flight_hours": 1.2103,
+    "landing": 1
+  },
+  {
+    "icao24": "a8cf06",
+    "callsign": "N667JD",
+    "firstSeen": 1794408200,
+    "lastSeen": 1794416806,
+    "estDepartureAirport": "KOPF",
+    "estArrivalAirport": "KTEB",
+    "flight_hours": 2.3906,
+    "landing": 1
+  }
+]
