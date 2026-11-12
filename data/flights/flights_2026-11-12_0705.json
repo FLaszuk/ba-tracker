@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "3929cc",
+    "callsign": "FGKOM",
+    "firstSeen": 1794464045,
+    "lastSeen": 1794467563,
+    "estDepartureAirport": "LFPB",
+    "estArrivalAirport": "LFBD",
+    "flight_hours": 0.9772,
+    "landing": 1
+  },
+  {
+    "icao24": "7c68b7",
+    "callsign": "UYX",
+    "firstSeen": 1794465553,
+    "lastSeen": 1794468700,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.8742,
+    "landing": 1
+  }
+]
