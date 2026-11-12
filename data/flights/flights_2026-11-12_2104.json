@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "0d0a71",
+    "callsign": "ACW1510",
+    "firstSeen": 1794516648,
+    "lastSeen": 1794517957,
+    "estDepartureAirport": "MMTO",
+    "estArrivalAirport": null,
+    "flight_hours": 0.3636,
+    "landing": 1
+  },
+  {
+    "icao24": "a079b1",
+    "callsign": "N13JS",
+    "firstSeen": 1794517337,
+    "lastSeen": 1794521245,
+    "estDepartureAirport": "5TE1",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.0856,
+    "landing": 1
+  },
+  {
+    "icao24": "a0dca3",
+    "callsign": "N1549E",
+    "firstSeen": 1794500874,
+    "lastSeen": 1794518874,
+    "estDepartureAirport": "KCLT",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 5.0,
+    "landing": 1
+  },
+  {
+    "icao24": "a5611c",
+    "callsign": "TWY007",
+    "firstSeen": 1794515683,
+    "lastSeen": 1794520250,
+    "estDepartureAirport": "68NM",
+    "estArrivalAirport": "73CL",
+    "flight_hours": 1.2686,
+    "landing": 1
+  },
+  {
+    "icao24": "a94d16",
+    "callsign": "N699KR",
+    "firstSeen": 1794521062,
+    "lastSeen": 1794521322,
+    "estDepartureAirport": "KSBD",
+    "estArrivalAirport": "KSBD",
+    "flight_hours": 0.0722,
+    "landing": 1
+  }
+]
