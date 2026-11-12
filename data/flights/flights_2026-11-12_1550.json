@@ -1,0 +1,42 @@
+[
+  {
+    "icao24": "a0051c",
+    "callsign": "N100ED",
+    "firstSeen": 1794494519,
+    "lastSeen": 1794500524,
+    "estDepartureAirport": "KTUL",
+    "estArrivalAirport": "KLND",
+    "flight_hours": 1.6681,
+    "landing": 1
+  },
+  {
+    "icao24": "a105b0",
+    "callsign": "EJA165",
+    "firstSeen": 1794495374,
+    "lastSeen": 1794501809,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KNUQ",
+    "flight_hours": 1.7875,
+    "landing": 1
+  },
+  {
+    "icao24": "a57666",
+    "callsign": "LXJ451",
+    "firstSeen": 1794495908,
+    "lastSeen": 1794498578,
+    "estDepartureAirport": "KSFB",
+    "estArrivalAirport": "SC29",
+    "flight_hours": 0.7417,
+    "landing": 1
+  },
+  {
+    "icao24": "a7df36",
+    "callsign": "N606TD",
+    "firstSeen": 1794497058,
+    "lastSeen": 1794498764,
+    "estDepartureAirport": "KSBP",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 0.4739,
+    "landing": 1
+  }
+]
