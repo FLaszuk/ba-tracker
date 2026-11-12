@@ -8,16 +8,16 @@
       "total_landings": 13
     },
     {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 21.4,
+      "total_landings": 9
+    },
+    {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
       "total_hours": 8.5,
       "total_landings": 9
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 17.1,
-      "total_landings": 8
     },
     {
       "aircraft_manufacturer": "Gulfstream",
