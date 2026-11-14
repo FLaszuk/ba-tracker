@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a4acbd",
+    "callsign": "N400BC",
+    "firstSeen": 1794677445,
+    "lastSeen": 1794680552,
+    "estDepartureAirport": "KBJC",
+    "estArrivalAirport": "1MT2",
+    "flight_hours": 0.8631,
+    "landing": 1
+  },
+  {
+    "icao24": "a88cec",
+    "callsign": "JCY650",
+    "firstSeen": 1794680510,
+    "lastSeen": 1794684148,
+    "estDepartureAirport": "KSFO",
+    "estArrivalAirport": "KJER",
+    "flight_hours": 1.0106,
+    "landing": 1
+  },
+  {
+    "icao24": "aa6ceb",
+    "callsign": "N771BV",
+    "firstSeen": 1794674067,
+    "lastSeen": 1794680127,
+    "estDepartureAirport": "KPDX",
+    "estArrivalAirport": "KHII",
+    "flight_hours": 1.6833,
+    "landing": 1
+  }
+]
