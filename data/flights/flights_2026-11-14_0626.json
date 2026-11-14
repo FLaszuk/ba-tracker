@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4d204a",
+    "callsign": "WZZ922",
+    "firstSeen": 1794631146,
+    "lastSeen": 1794638228,
+    "estDepartureAirport": "EPKK",
+    "estArrivalAirport": "LFLL",
+    "flight_hours": 1.9672,
+    "landing": 1
+  },
+  {
+    "icao24": "800b79",
+    "callsign": "VTCLF",
+    "firstSeen": 1794637021,
+    "lastSeen": 1794638878,
+    "estDepartureAirport": "VIAG",
+    "estArrivalAirport": null,
+    "flight_hours": 0.5158,
+    "landing": 1
+  }
+]
