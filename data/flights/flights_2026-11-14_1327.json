@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "3c6254",
+    "callsign": "DAHRT",
+    "firstSeen": 1794665677,
+    "lastSeen": 1794667662,
+    "estDepartureAirport": "EDDH",
+    "estArrivalAirport": "EDDP",
+    "flight_hours": 0.5514,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20c7",
+    "callsign": "VJT135",
+    "firstSeen": 1794659638,
+    "lastSeen": 1794666304,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "VAPO",
+    "flight_hours": 1.8517,
+    "landing": 1
+  },
+  {
+    "icao24": "a500c5",
+    "callsign": "EJM21",
+    "firstSeen": 1794657463,
+    "lastSeen": 1794666368,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KMIA",
+    "flight_hours": 2.4736,
+    "landing": 1
+  },
+  {
+    "icao24": "ab3007",
+    "callsign": "N82RP",
+    "firstSeen": 1794664304,
+    "lastSeen": 1794666988,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "97VA",
+    "flight_hours": 0.7456,
+    "landing": 1
+  },
+  {
+    "icao24": "c0411d",
+    "callsign": "CNK1",
+    "firstSeen": 1794664991,
+    "lastSeen": 1794666350,
+    "estDepartureAirport": "LIML",
+    "estArrivalAirport": "LSZS",
+    "flight_hours": 0.3775,
+    "landing": 1
+  }
+]
