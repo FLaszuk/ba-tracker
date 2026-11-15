@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "a63689",
+    "callsign": "N5PF",
+    "firstSeen": 1794751304,
+    "lastSeen": 1794753476,
+    "estDepartureAirport": "KSAV",
+    "estArrivalAirport": "57NC",
+    "flight_hours": 0.6033,
+    "landing": 1
+  },
+  {
+    "icao24": "a76644",
+    "callsign": "FDY404",
+    "firstSeen": 1794744863,
+    "lastSeen": 1794751424,
+    "estDepartureAirport": "KHRO",
+    "estArrivalAirport": "KDFW",
+    "flight_hours": 1.8225,
+    "landing": 1
+  },
+  {
+    "icao24": "e48add",
+    "callsign": "PRMFX",
+    "firstSeen": 1794750055,
+    "lastSeen": 1794750632,
+    "estDepartureAirport": "SSBL",
+    "estArrivalAirport": "SSTJ",
+    "flight_hours": 0.1603,
+    "landing": 1
+  }
+]
