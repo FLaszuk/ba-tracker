@@ -1,0 +1,32 @@
+[
+  {
+    "icao24": "3c4ccc",
+    "callsign": "MMD6368",
+    "firstSeen": 1794692653,
+    "lastSeen": 1794695343,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KORF",
+    "flight_hours": 0.7472,
+    "landing": 1
+  },
+  {
+    "icao24": "a0fe42",
+    "callsign": "EJA163",
+    "firstSeen": 1794694623,
+    "lastSeen": 1794696166,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KTNP",
+    "flight_hours": 0.4286,
+    "landing": 1
+  },
+  {
+    "icao24": "a6a343",
+    "callsign": "MNL5",
+    "firstSeen": 1794694185,
+    "lastSeen": 1794696201,
+    "estDepartureAirport": "KOAK",
+    "estArrivalAirport": "NV13",
+    "flight_hours": 0.56,
+    "landing": 1
+  }
+]
