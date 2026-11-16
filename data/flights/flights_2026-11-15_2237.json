@@ -1,0 +1,92 @@
+[
+  {
+    "icao24": "a0c484",
+    "callsign": "N149EA",
+    "firstSeen": 1794783238,
+    "lastSeen": 1794784540,
+    "estDepartureAirport": null,
+    "estArrivalAirport": "KLAR",
+    "flight_hours": 0.3617,
+    "landing": 1
+  },
+  {
+    "icao24": "a0e1e8",
+    "callsign": "EJA156",
+    "firstSeen": 1794780240,
+    "lastSeen": 1794784373,
+    "estDepartureAirport": "KFLG",
+    "estArrivalAirport": "KAPA",
+    "flight_hours": 1.1481,
+    "landing": 1
+  },
+  {
+    "icao24": "a180d5",
+    "callsign": "N1960H",
+    "firstSeen": 1794779555,
+    "lastSeen": 1794783046,
+    "estDepartureAirport": "KSDL",
+    "estArrivalAirport": null,
+    "flight_hours": 0.9697,
+    "landing": 1
+  },
+  {
+    "icao24": "a63a43",
+    "callsign": "N500DH",
+    "firstSeen": 1794781893,
+    "lastSeen": 1794784104,
+    "estDepartureAirport": "KFXE",
+    "estArrivalAirport": "KMCO",
+    "flight_hours": 0.6142,
+    "landing": 1
+  },
+  {
+    "icao24": "a76644",
+    "callsign": "FDY408",
+    "firstSeen": 1794781424,
+    "lastSeen": 1794787377,
+    "estDepartureAirport": "KHRO",
+    "estArrivalAirport": "KDFW",
+    "flight_hours": 1.6536,
+    "landing": 1
+  },
+  {
+    "icao24": "a88d6c",
+    "callsign": "GHA97",
+    "firstSeen": 1794778216,
+    "lastSeen": 1794782204,
+    "estDepartureAirport": "KLAS",
+    "estArrivalAirport": "KSJC",
+    "flight_hours": 1.1078,
+    "landing": 1
+  },
+  {
+    "icao24": "aa8529",
+    "callsign": "N777XV",
+    "firstSeen": 1794779955,
+    "lastSeen": 1794785025,
+    "estDepartureAirport": "KBNA",
+    "estArrivalAirport": "KADS",
+    "flight_hours": 1.4083,
+    "landing": 1
+  },
+  {
+    "icao24": "ad0e97",
+    "callsign": "EJA940",
+    "firstSeen": 1794773960,
+    "lastSeen": 1794786208,
+    "estDepartureAirport": "KPBI",
+    "estArrivalAirport": "KLNK",
+    "flight_hours": 3.4022,
+    "landing": 1
+  },
+  {
+    "icao24": "ad73df",
+    "callsign": "EJA966",
+    "firstSeen": 1794784897,
+    "lastSeen": 1794786428,
+    "estDepartureAirport": "KSJC",
+    "estArrivalAirport": "KOAK",
+    "flight_hours": 0.4253,
+    "landing": 1
+  }
+]
