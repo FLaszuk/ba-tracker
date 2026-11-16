@@ -1,0 +1,62 @@
+[
+  {
+    "icao24": "0d098a",
+    "callsign": "XAKAD",
+    "firstSeen": 1794843646,
+    "lastSeen": 1794844620,
+    "estDepartureAirport": null,
+    "estArrivalAirport": null,
+    "flight_hours": 0.2706,
+    "landing": 1
+  },
+  {
+    "icao24": "3cc158",
+    "callsign": "VJH387",
+    "firstSeen": 1794841529,
+    "lastSeen": 1794848055,
+    "estDepartureAirport": "LFMN",
+    "estArrivalAirport": "EGKB",
+    "flight_hours": 1.8128,
+    "landing": 1
+  },
+  {
+    "icao24": "4d20d5",
+    "callsign": "VJT813",
+    "firstSeen": 1794842784,
+    "lastSeen": 1794843789,
+    "estDepartureAirport": "KTEB",
+    "estArrivalAirport": "KEWR",
+    "flight_hours": 0.2792,
+    "landing": 1
+  },
+  {
+    "icao24": "a403af",
+    "callsign": "N358MY",
+    "firstSeen": 1794838999,
+    "lastSeen": 1794844553,
+    "estDepartureAirport": "KBTR",
+    "estArrivalAirport": "KRDU",
+    "flight_hours": 1.5428,
+    "landing": 1
+  },
+  {
+    "icao24": "a7c74f",
+    "callsign": "N600AR",
+    "firstSeen": 1794840143,
+    "lastSeen": 1794844500,
+    "estDepartureAirport": "KEKM",
+    "estArrivalAirport": "KFLO",
+    "flight_hours": 1.2103,
+    "landing": 1
+  },
+  {
+    "icao24": "a816d0",
+    "callsign": "LXJ620",
+    "firstSeen": 1794841712,
+    "lastSeen": 1794844068,
+    "estDepartureAirport": "KDAL",
+    "estArrivalAirport": "KAUS",
+    "flight_hours": 0.6544,
+    "landing": 1
+  }
+]
