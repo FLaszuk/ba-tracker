@@ -1,0 +1,22 @@
+[
+  {
+    "icao24": "4b82c4",
+    "callsign": "EM805",
+    "firstSeen": 1794902197,
+    "lastSeen": 1794903110,
+    "estDepartureAirport": "LTAC",
+    "estArrivalAirport": null,
+    "flight_hours": 0.2536,
+    "landing": 1
+  },
+  {
+    "icao24": "4d029f",
+    "callsign": "JFA90T",
+    "firstSeen": 1794902152,
+    "lastSeen": 1794906708,
+    "estDepartureAirport": "LFHM",
+    "estArrivalAirport": "EBBR",
+    "flight_hours": 1.2656,
+    "landing": 1
+  }
+]
