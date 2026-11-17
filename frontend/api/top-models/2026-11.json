@@ -4,8 +4,8 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 35.0,
-      "total_landings": 18
+      "total_hours": 35.2,
+      "total_landings": 19
     },
     {
       "aircraft_manufacturer": "Bombardier",
@@ -56,9 +56,9 @@
       "total_landings": 6
     },
     {
-      "aircraft_manufacturer": "Gulfstream",
-      "aircraft_model": "G550",
-      "total_hours": 14.0,
+      "aircraft_manufacturer": "Eclipse Aerospace",
+      "aircraft_model": "Eclipse 500",
+      "total_hours": 5.1,
       "total_landings": 6
     }
   ]
