@@ -4,62 +4,62 @@
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 2000",
-      "total_hours": 257.4,
-      "total_landings": 193
+      "total_hours": 316.8,
+      "total_landings": 226
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G650",
-      "total_hours": 387.8,
-      "total_landings": 164
+      "total_hours": 446.7,
+      "total_landings": 189
     },
     {
       "aircraft_manufacturer": "Dassault",
       "aircraft_model": "Falcon 900",
-      "total_hours": 231.2,
-      "total_landings": 135
-    },
-    {
-      "aircraft_manufacturer": "Bombardier",
-      "aircraft_model": "Global 6000",
-      "total_hours": 349.5,
-      "total_landings": 132
+      "total_hours": 277.9,
+      "total_landings": 154
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G450",
-      "total_hours": 174.4,
-      "total_landings": 126
+      "total_hours": 225.6,
+      "total_landings": 148
+    },
+    {
+      "aircraft_manufacturer": "Bombardier",
+      "aircraft_model": "Global 6000",
+      "total_hours": 373.1,
+      "total_landings": 146
     },
     {
       "aircraft_manufacturer": "Gulfstream",
       "aircraft_model": "G550",
-      "total_hours": 200.0,
-      "total_landings": 112
+      "total_hours": 245.9,
+      "total_landings": 128
     },
     {
       "aircraft_manufacturer": "Cessna (Textron)",
       "aircraft_model": "Citation X",
-      "total_hours": 139.9,
-      "total_landings": 98
+      "total_hours": 156.9,
+      "total_landings": 110
     },
     {
       "aircraft_manufacturer": "Bombardier",
       "aircraft_model": "Learjet",
-      "total_hours": 91.4,
-      "total_landings": 70
+      "total_hours": 105.5,
+      "total_landings": 79
     },
     {
       "aircraft_manufacturer": "Embraer",
       "aircraft_model": "Phenom 300",
-      "total_hours": 82.3,
-      "total_landings": 70
+      "total_hours": 88.2,
+      "total_landings": 74
     },
     {
       "aircraft_manufacturer": "Pilatus",
       "aircraft_model": "PC-24",
-      "total_hours": 72.8,
-      "total_landings": 61
+      "total_hours": 82.0,
+      "total_landings": 68
     }
   ]
 }
